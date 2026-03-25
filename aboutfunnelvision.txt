@@ -1,0 +1,28 @@
+https://funnelvision.cloud
+
+We're building FunnelVision. It's a tool to help GTM teams keep Hubspot deal data hygiene clean. We've focused on enabling sales leaders to setup rules and identify missing or out of date data. These can automatically request updates as well as surfacing hygiene issues through our dashboard so leaders can request updates manually. These requests go to sales reps in Slack or Teams where they can fill in the blanks and answer them from there.
+
+Instead of focusing on automation, we're focusing on human behaviour. Feedback we've had indicates that sales reps aren't great at filling in the blanks in Hubspot, but they're constantly available in Teams or Slack whether on their laptops or on their phones. So we've made it easier for them to make those updates right there.
+
+
+We're targeting revops teams, starting with the UK, but we don't feel this is too specific to the region. Given everything is currently in English and we're based in Scotland we'll likely target Europe, Australia Canda and the US first.
+
+We're currently focused on building partnerships with Hubspot partners who work with teams that use it as their CRM, but we've also got some early adopter clients. The client list includes.
+
+https://climatex.com/
+https://www.colossyan.com/
+https://cinch.io/
+
+Partners who've signed with us include:
+
+https://www.prosperohub.com/ which also now includes https://siloy.com/
+https://revcloud.io/
+https://b10hub.com/
+https://www.revops-works.com/
+https://revops.rocks/
+https://flowbird.co.uk/
+
+
+Potential competitors
+
+https://www.supered.io/

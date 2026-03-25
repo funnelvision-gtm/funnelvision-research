@@ -273,6 +273,60 @@ Buyers frame the tool as headcount they don't have to hire:
 
 ---
 
+## Pricing Analysis
+
+### Competitor Pricing Breakdown
+
+| Tool | Model | Entry Price | Mid-Tier | Enterprise | Typical Annual Cost |
+|------|-------|-----------|----------|-----------|-------------------|
+| **Rattle** | Per user/mo | $19/user | $34/user | $49/user | ~$26K avg (reported) |
+| **Scratchpad** | Per user/mo | Free / $19/user | $49/user | Custom | $12K-30K for 20-50 reps |
+| **Momentum** | Per user/mo | $69/user | $99/user | Custom | $17K-24K for 20 reps |
+| **Supered** | Per user/mo | $12/user (annual) | $25/user | $40/user (+$2,500 implementation for 10+ Pro seats) | $3K-10K for 20 reps |
+| **Dear Lucy** | Per team/mo | $49/mo (1 user) | $199/mo (5 users) | $399/mo (15 users) | $2K-5K |
+| **Sweep** | Custom | Free tier | Custom | Custom | Unknown |
+| **FunnelVision** | **Flat annual** | **£5,000/yr** | - | - | **£5,000 (~$6,300)** |
+
+### Detailed Competitor Plans
+
+**Rattle:** Starter $19/user/mo, Pro $34/user/mo, Premium $49/user/mo
+
+**Scratchpad:** Free (3 views, 10hr recording), Solo $19/user/mo ($24 monthly), Team $49/user/mo ($62 monthly), Enterprise custom. AI credits scale per tier.
+
+**Momentum:** Business $69/user/mo, Transformation $99/user/mo, Enterprise custom. Note-taker add-on $30/user/mo. Volume discounts for 50+ users.
+
+**Supered:** Starter $15/user/mo ($12 annual), Scale $30/user/mo ($25 annual), Pro $45/user/mo ($40 annual). Free for first 5 users. $2,500 implementation fee for 10+ Pro seats.
+
+**Dear Lucy:** Insight $49/mo (1 user, 2 dashboards), Performance $199/mo (5 users), Intelligence $399/mo (15 users, AI features), Enterprise custom. 2 months free on annual billing.
+
+### FunnelVision's £5,000/yr Flat Fee vs Per-User Competitors
+
+| Team Size | Rattle (mid-tier) | Scratchpad (mid) | Momentum (entry) | FunnelVision |
+|-----------|------------------|-----------------|-------------------|-------------|
+| 5 reps | $2,040/yr | $2,940/yr | $4,140/yr | **£5,000 ($6,300)** |
+| 10 reps | $4,080/yr | $5,880/yr | $8,280/yr | **£5,000** |
+| 20 reps | $8,160/yr | $11,760/yr | $16,560/yr | **£5,000** |
+| 50 reps | $20,400/yr | $29,400/yr | $41,400/yr | **£5,000** |
+
+### Pricing Positioning
+
+**Strengths of flat £5,000/yr:**
+- At 10+ reps, FunnelVision becomes the clear value play. At 20+, it's dramatically cheaper than every per-user competitor.
+- Simpler to sell — no seat calculations, no procurement friction.
+- Aligns with ICP: funded companies scaling sales teams are exactly where per-user pricing starts to sting.
+- Predictable cost for the buyer — easy to budget.
+
+**Risks:**
+- Below 10 reps, FunnelVision looks expensive vs per-user entry tiers.
+- No free tier or low-cost entry point for smaller teams to trial.
+- Partner referral economics need consideration — at £5,000/yr, a 20% referral fee (£1,000) is meaningful for boutique partners but may not motivate larger partners like Siloy.
+
+**Potential evolution — tiered flat pricing:**
+- e.g. £3,000/yr (up to 10 users), £5,000/yr (up to 25), £8,000/yr (unlimited)
+- Captures smaller teams without underpricing for larger ones.
+
+---
+
 Sources:
 - [Rattle Series A](https://www.gorattle.com/blog/rattle-raises-26m-series-a-from-insight-gv)
 - [Momentum Seed Round](https://www.momentum.io/blog/momentum-raises-5m-to-bring-slack-deal-rooms-and-no-code-automation-to-sales)

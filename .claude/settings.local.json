@@ -4,7 +4,10 @@
       "WebSearch",
       "WebFetch(domain:www.g2.com)",
       "WebFetch(domain:ecosystem.hubspot.com)",
-      "WebFetch(domain:www.gorattle.com)"
+      "WebFetch(domain:www.gorattle.com)",
+      "WebFetch(domain:www.supered.io)",
+      "WebFetch(domain:www.dearlucy.co)",
+      "WebFetch(domain:www.scratchpad.com)"
     ]
   }
 }

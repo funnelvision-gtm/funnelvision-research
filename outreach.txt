@@ -1,5 +1,17 @@
 1. Who we're targetting, titles/etc.
+  - Targeting: HubSpot & Consultants, HubSpot & RevOps agencies. Partnership-led motion. 
 2. How we're reaching out to them.
+  - LinkedIn manual search and messaging, batch-messaging with standardised follow-ups.
 3. Current messaging.
+  - Message #1: Hi [INSERT NAME],
+                I'm building FunnelVision to remove admin associated with pipeline hygiene and provide forecast-grade data in real-time.
+                It surfaces any deal issue in HubSpot and lets teams fix them directly in Slack or Teams.
+                We're going all-in with partners and would love to give you a walkthrough and free onboarding if it could of interest to your clients?
+  - Message #2: Shall we schedule time for next week? I'd love to give you a walkthrough of FunnelVision and set you up with free partner access.
+                I can also share our website if you would like more information.
+  - Message #3: Hey checking in if you saw the above? Let me know if its not for you or if we can connect in the next couple weeks.
 4. Common responses.
+  - Positive: agree to a call
+  - mostly: "not interested", "not a priority", "no", "we do this already", "i've built this with Claude Code"
 5. Common challenges/objections.
+  - already doing this in HubSpot / not enough value (just slack actioning) / needs more functionality (cross-object, reporting, etc)

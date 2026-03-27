@@ -896,3 +896,315 @@ Each entry tracks:
 - **LinkedIn URL**: https://www.linkedin.com/in/austin-gaydos
 - **Notes**: MOVED from Productboard to Guidewheel. Promoted from AE to Strategic AE. Product management to manufacturing IoT.
 
+### 112. Vinnie Moore
+- **Source**: Scratchpad review #90
+- **Review title**: Regional Sales Manager | **Review company**: Splunk
+- **Current title**: Regional Sales Manager - Prime Accounts | **Current company**: Splunk
+- **Location**: McKinney, Texas, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/vinniemoore15
+- **Notes**: Still at Splunk. 1 year in current role. Previously Regional Sales Manager - Team Lead (2021). Sales athlete.
+
+### 113. Daniel Holly
+- **Source**: Scratchpad review #92
+- **Review title**: Growth AE | **Review company**: Sprout Social
+- **Current title**: BFSI Industry Lead | Large Enterprise | **Current company**: Sprinklr
+- **Location**: Singapore, Singapore
+- **LinkedIn URL**: https://www.linkedin.com/in/danholly3
+- **Notes**: MOVED from Sprout Social (Head of Asia, 2022-2025, 3 yrs 1 mo) to Sprinklr (5 mos). APAC-based. 1 recent post.
+
+### 114. Tanner Hale
+- **Source**: Scratchpad review #93
+- **Review title**: Sales Account Manager | **Review company**: Lucid
+- **Current title**: (between roles) | **Current company**: —
+- **Location**: Philadelphia, Pennsylvania, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/tanner-hale
+- **Notes**: LEFT Lucid (Senior AE | Corporate Expansion, 2022-2024, 2 yrs 3 mos). No current role listed.
+
+### 115. Josh Johnson
+- **Source**: Scratchpad review #94
+- **Review title**: AE Partnerships | **Review company**: Divvy
+- **Current title**: Owner | **Current company**: Forge Industrial
+- **Location**: Salt Lake City Metropolitan Area
+- **LinkedIn URL**: https://www.linkedin.com/in/joshfjohnson
+- **Notes**: MOVED from Divvy (AE - Partnerships, 2020-2022, 2 yrs 9 mos) to founding Forge Industrial (6 mos). Left tech sales for industrial business ownership.
+
+### 116. Aileen Cole
+- **Source**: Scratchpad review #95
+- **Review title**: Customer AE | **Review company**: Twilio
+- **Current title**: Enterprise Account Executive | **Current company**: Braze
+- **Location**: Atlanta, Georgia, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/aileencole
+- **Notes**: MOVED from Twilio (Strategic AE, 2019-2022, 3 yrs 1 mo) to Braze (3 yrs 11 mos). Now Aileen (Cole) Waugh. 1 recent post.
+
+### 117. Christian Barfuss
+- **Source**: Scratchpad review #96
+- **Review title**: Account Executive | **Review company**: Divvy
+- **Current title**: Account Executive | **Current company**: Coast
+- **Location**: Salt Lake City, Utah, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/christianbarfuss
+- **Notes**: MOVED from Divvy (AE | Mid-Market, 2019-2023, 4 yrs 2 mos) to Coast (1 yr 11 mos). Fintech AE, competitive drive.
+
+### 118. Alex Herrera
+- **Source**: Scratchpad review #98
+- **Review title**: Account Executive | **Review company**: Collibra
+- **Current title**: Account Executive, Enterprise | **Current company**: OneTrust
+- **Location**: Toronto, Ontario, Canada
+- **LinkedIn URL**: https://www.linkedin.com/in/alexherrera13
+- **Notes**: MOVED from Collibra (Regional Sales Manager, 2021-2022, 11 mos) to OneTrust (2 yrs 2 mos). 1 mutual connection. Data governance/privacy sales.
+
+### 119. Cortney Holmes
+- **Source**: Scratchpad review #99
+- **Review title**: Enterprise Sales Executive | **Review company**: inMotionNow
+- **Current title**: Senior Account Manager, Pod Leader | **Current company**: Acceleration Partners
+- **Location**: Nashville Metropolitan Area
+- **LinkedIn URL**: https://www.linkedin.com/in/cortney-richter-84159337
+- **Notes**: MOVED from inMotionNow (Enterprise Sales Executive, 2020, 8 mos) to Acceleration Partners (5 yrs). Now Cortney Richter. 12 years strategic growth/revenue experience.
+
+### 120. Ray Kim
+- **Source**: Scratchpad review #101
+- **Review title**: Sales Manager | **Review company**: Qualio
+- **Current title**: Sr. Enterprise Account Executive | **Current company**: Carta
+- **Location**: San Francisco Bay Area
+- **LinkedIn URL**: https://www.linkedin.com/in/raymondjkim
+- **Notes**: MOVED from Qualio (Sr. Sales Manager, 2020-2023, 2 yrs 4 mos) to Carta (2 yrs). **4 mutual connections**. Former founder. 2 recent posts. Active poster.
+
+### 121. Carly Thompson
+- **Source**: Scratchpad review #102
+- **Review title**: Account Development | **Review company**: Productboard
+- **Current title**: Account Executive | **Current company**: Wiz
+- **Location**: United States
+- **LinkedIn URL**: https://www.linkedin.com/in/carly-a-thompson
+- **Notes**: MOVED from Productboard (Senior AE, 2022-2024, 2 yrs 7 mos) to Wiz (7 mos). 1 mutual connection. Cloud security sales.
+
+### 122. Ben Bruce
+- **Source**: Scratchpad review #103
+- **Review title**: Enterprise Account Manager | **Review company**: PitchBook
+- **Current title**: Senior Director, Account Management, Enterprise | **Current company**: PitchBook
+- **Location**: United States
+- **LinkedIn URL**: https://www.linkedin.com/in/bbruce
+- **Notes**: Still at PitchBook. **12 years 3 months**. Promoted from Enterprise AM to Senior Director. 1 mutual connection. Extremely long tenure — deep institutional knowledge.
+
+### 123. Kane Lam
+- **Source**: Scratchpad review #104
+- **Review title**: Account Executive | **Review company**: Clio
+- **Current title**: (between roles) | **Current company**: —
+- **Location**: France
+- **LinkedIn URL**: https://www.linkedin.com/in/kanelam
+- **Notes**: LEFT Clio (AE, 2020-2022, 2 yrs 5 mos). EMEA-based (France). 2 mutual connections. SaaS/martech international sales.
+
+### 124. Bobby Le
+- **Source**: Scratchpad review #105
+- **Review title**: Account Executive | **Review company**: Clio
+- **Current title**: AE - Small & Mid-Market | **Current company**: Absorb Software
+- **Location**: Greater Toronto Area, Canada
+- **LinkedIn URL**: https://www.linkedin.com/in/bobby-le
+- **Notes**: MOVED from Clio (AE, 2022-2025, 3 yrs) to Absorb Software (1 yr 2 mos). Legal tech to LMS. Canada-based.
+
+### 125. Gareth Ritcey
+- **Source**: Scratchpad review #106
+- **Review title**: Account Executive | **Review company**: Clio
+- **Current title**: Sales Manager | **Current company**: Clio - Cloud-Based Legal Technology
+- **Location**: Toronto, Ontario, Canada
+- **LinkedIn URL**: https://www.linkedin.com/in/garethritcey
+- **Notes**: Still at Clio. **7 years 5 months**. Promoted from AE Team Lead to Sales Manager. Helps legal professionals reduce admin time.
+
+### 126. Clayton Bradshaw
+- **Source**: Scratchpad review #107
+- **Review title**: Commercial AE | **Review company**: Segment
+- **Current title**: Founding AE | **Current company**: Wispr Flow
+- **Location**: New York City Metropolitan Area
+- **LinkedIn URL**: https://www.linkedin.com/in/claytonbradshaw
+- **Notes**: MOVED from Segment (Enterprise AE, 2021-2022, 1 yr) to Wispr Flow (1 mo). Recently hired as Founding AE at early-stage startup. Interesting early-adopter profile.
+
+### 127. Adam Chamberlain
+- **Source**: Scratchpad review #108
+- **Review title**: Enterprise AE | **Review company**: Adobe
+- **Current title**: Enterprise Account Executive | **Current company**: Adobe
+- **Location**: Seattle, Washington, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/adamjchamberlain
+- **Notes**: Still at Adobe. **7 years 3 months**. 10+ years sales/marketing tech. Marketo certified. Very long tenure.
+
+### 128. Alan Carter
+- **Source**: Scratchpad review #111
+- **Review title**: Account Executive | **Review company**: Clio
+- **Current title**: Sales Manager - Strategic | **Current company**: Clio - Cloud-Based Legal Technology
+- **Location**: Greater Toronto Area, Canada
+- **LinkedIn URL**: https://www.linkedin.com/in/alancartertoronto
+- **Notes**: Still at Clio. **7 years**. Promoted from AE to Sales Manager - Strategic. Long tenure, relationship builder.
+
+### 129. Andrew Kenney
+- **Source**: Scratchpad review #133
+- **Review title**: Sales | **Review company**: Brex
+- **Current title**: Co-Founder | **Current company**: Particl
+- **Location**: South Jordan, Utah, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/andrew-kenney
+- **Notes**: MOVED from Brex (Sales, 2019-2020, 1 yr 3 mos) to founding Particl (5 yrs 10 mos). Real-time competitor sales & pricing data platform. FOUNDER — potential partner/early adopter persona.
+
+### 130. Pete Wilkinson
+- **Source**: Scratchpad review (unnumbered)
+- **Review title**: Senior AE | **Review company**: Lucid
+- **Current title**: Enterprise Account Executive | **Current company**: Lucid
+- **Location**: Salt Lake City Metropolitan Area
+- **LinkedIn URL**: https://www.linkedin.com/in/pete-wilkinson
+- **Notes**: Still at Lucid. **8 years 11 months**. 3 mutual connections. Top performer — 2017 Top ADR, 2018 Quota achiever, 2019 President's Club.
+
+### 131. Christian Elton
+- **Source**: Scratchpad review (unnumbered)
+- **Review title**: AE | **Review company**: Acquire
+- **Current title**: Director of Startups | Greenfield | **Current company**: Vercel
+- **Location**: St George, Utah, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/christian-elton-2017b2145
+- **Notes**: MOVED from Acquire (Enterprise AE, 2020-2022, 1 yr 8 mos) to Vercel (4 yrs 1 mo). Director-level now. Dev tools sales.
+
+### 132. Matt McSpiritt
+- **Source**: Scratchpad review (unnumbered)
+- **Review title**: AE | **Review company**: Segment
+- **Current title**: Founding Team | **Current company**: Ideogram
+- **Location**: California, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/mmcspiritt
+- **Notes**: MOVED from Segment to Ideogram (Founding Team, 9 mos). AI image generation startup. Early-stage founder/operator.
+
+### 133. Erik Long
+- **Source**: Scratchpad review (unnumbered)
+- **Review title**: AE | **Review company**: Front
+- **Current title**: Sales and GTM Lead | **Current company**: Navattic
+- **Location**: Tempe, Arizona, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/eriklong38
+- **Notes**: MOVED from Front (Mid Market AE, Team Lead, 2018-2021, 2 yrs 9 mos) to Navattic (4 yrs 5 mos). 1 mutual connection. Interactive demo platform — GTM/sales tech.
+
+### 134. KJ Singson
+- **Source**: Scratchpad review (unnumbered)
+- **Review title**: Director of Sales | **Review company**: Verb Inc.
+- **Current title**: VP of Sales | **Current company**: Hood & Associates, CPAs, PC
+- **Location**: Greater Seattle Area
+- **LinkedIn URL**: https://www.linkedin.com/in/kjsingson
+- **Notes**: MOVED from Verb Inc. (Director of Sales, 2020-2022, 2 yrs 3 mos) to Hood & Associates (2 yrs 6 mos, VP Sales). Full name Kjersti (KJ) Singson. 1 mutual connection.
+
+### 135. Jonathan Lucchesi
+- **Source**: Scratchpad review (unnumbered)
+- **Review title**: Growth AE | **Review company**: Twilio
+- **Current title**: Account Executive | **Current company**: Postman
+- **Location**: San Francisco Bay Area
+- **LinkedIn URL**: https://www.linkedin.com/in/jonlucchesi
+- **Notes**: MOVED from Twilio (AE, 2020-2021, 1 yr 3 mos) to Postman (2 yrs 3 mos). API/developer tools sales.
+
+### 136. Matt Lefrandt
+- **Source**: Scratchpad review (unnumbered)
+- **Review title**: New Business | **Review company**: Route
+- **Current title**: Group Chief Executive Officer | **Current company**: MÆSTRO.co
+- **Location**: Smithfield, Utah, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/offwhitemj
+- **Notes**: MOVED from Route (First GTM Leader, 2019-2020, 1 yr 4 mos) to founding MÆSTRO.co (3 mos). Co-founder OrderProtection.com. DTC-GTM agency owner. **9 MUTUAL CONNECTIONS**. 2 recent posts. FOUNDER — high-value contact.
+
+### 137. Ryan Sipes
+- **Source**: Scratchpad review (unnumbered)
+- **Review title**: AE | **Review company**: Udemy
+- **Current title**: Solo | **Current company**: Sipes & Mates Digital Systems
+- **Location**: Denver, Colorado, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/ryanrsipes
+- **Notes**: MOVED from Udemy (Mid-Market AE, 2020-2021, 1 yr 1 mo) to self-employed (1 yr 2 mos). Now running own digital systems business.
+
+### 138. Tyler Street
+- **Source**: Scratchpad review (unnumbered)
+- **Review title**: AE | **Review company**: SolutionReach
+- **Current title**: (between roles) | **Current company**: —
+- **Location**: Saratoga Springs, Utah, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/tstreet25
+- **Notes**: LEFT Solutionreach (Senior AE, 2022-2024, 1 yr 10 mos). No current role listed. Utah SaaS sales.
+
+### 139. Mitch Miller
+- **Source**: Scratchpad review (unnumbered)
+- **Review title**: AE | **Review company**: Talkdesk
+- **Current title**: Senior Enterprise Account Executive | **Current company**: ReflexAI
+- **Location**: Lehi, Utah, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/jmitchmiller
+- **Notes**: MOVED from Talkdesk (Commercial AE, 2019-2020, 1 yr 7 mos) to ReflexAI (1 yr). 14+ years sales experience. AI/contact center sales.
+
+### 140. Rashmi Mehan
+- **Source**: Scratchpad review (unnumbered)
+- **Review title**: AE | **Review company**: Lever
+- **Current title**: (between roles) | **Current company**: —
+- **Location**: Toronto, Ontario, Canada
+- **LinkedIn URL**: https://www.linkedin.com/in/rashmi-mehan
+- **Notes**: LEFT Lever (AE, Small Business, 2022-2023, 1 yr). Now Rashmi (Rush) M. Canada-based. Educator and lifelong learner.
+
+### 141. Yael Smolar
+- **Source**: Scratchpad review (unnumbered)
+- **Review title**: AE | **Review company**: Pypestream
+- **Current title**: Enterprise Account Director, LinkedIn Sales Solutions | **Current company**: LinkedIn
+- **Location**: New York, New York, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/yaelhoffman
+- **Notes**: MOVED from Pypestream (AE, 2023-2024, 1 yr 1 mo) to LinkedIn (2 yrs 2 mos). Now Yael Hoffman. Enterprise-level LinkedIn Sales Solutions seller — interesting meta-contact.
+
+### 142. Anand Venkatrao
+- **Source**: Scratchpad review (unnumbered)
+- **Review title**: Director BD | **Review company**: Venkel Ltd.
+- **Current title**: Director of Business Development | **Current company**: Venkel Ltd.
+- **Location**: Austin, Texas, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/anand-venkatrao-13042520
+- **Notes**: Still at Venkel Ltd. **15 years 7 months**. Electronics/components industry, not SaaS. Very long tenure.
+
+### 143. Gabi Sayah
+- **Source**: Momentum testimonial (unnumbered)
+- **Review title**: BDM | **Review company**: Deeto
+- **Current title**: Director of Business Development | **Current company**: Deeto
+- **Location**: New York, New York, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/gabisayah
+- **Notes**: Still at Deeto. 3 years 8 months. Also Head of Growth. **7 mutual connections**. Customer voice/feedback platform. 1 recent post.
+
+### 144. Akbar Khan
+- **Source**: Momentum testimonial (unnumbered)
+- **Review title**: Advisor | **Review company**: Harmonic
+- **Current title**: Advisor | **Current company**: Harmonic
+- **Location**: Los Angeles, California, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/akbar23
+- **Notes**: Still at Harmonic. 4 years 10 months (Advisor 1.5 yrs, previously GTM 3.5 yrs). Also advising various startups. 1 mutual connection.
+
+### 145. Michael Wilde
+- **Source**: Momentum testimonial (unnumbered)
+- **Review title**: AE | **Review company**: Honeycomb
+- **Current title**: Account Executive | **Current company**: Resolve AI
+- **Location**: South Lake Tahoe, California, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/michaelwilde
+- **Notes**: MOVED from Honeycomb.io (Strategic AE, 2019-2024, 5 yrs 5 mos) to Resolve AI (11 mos). 1 mutual connection. Observability/AI sales.
+
+### 146. Libby Gibson
+- **Source**: Momentum testimonial (unnumbered)
+- **Review title**: CSM | **Review company**: Twingate
+- **Current title**: Director of Account Management | **Current company**: Twingate
+- **Location**: New York, New York, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/libby-gibson-b67366117
+- **Notes**: Still at Twingate. **4 years 8 months**. Promoted from CSM → Manager CS → Director AM. Zero-trust security.
+
+### 147. Michelle Yoshinaka
+- **Source**: Momentum testimonial (unnumbered)
+- **Review title**: VP Marketing | **Review company**: Sound Agriculture
+- **Current title**: Principal | **Current company**: Verso Strategy
+- **Location**: San Francisco Bay Area
+- **LinkedIn URL**: https://www.linkedin.com/in/michelleyoshinaka
+- **Notes**: MOVED from Sound Agriculture (VP Marketing, 2023-2025, 2 yrs 7 mos) to founding Verso Strategy (9 mos). 15+ years strategic marketing. 1 mutual connection. PARTNER PERSONA potential — independent consultant.
+
+### 148. Aaron Dungca
+- **Source**: Momentum testimonial (unnumbered)
+- **Review title**: CS & Implementations Leader | **Review company**: Rebuy
+- **Current title**: Founder & Studio Operator | **Current company**: Slam Dunks Studios
+- **Location**: Waterloo, Ontario, Canada
+- **LinkedIn URL**: https://www.linkedin.com/in/aarondungca
+- **Notes**: MOVED from Rebuy Engine (VP Customer Success, 2024-2025, 1 yr 9 mos) to founding Slam Dunks Studios (2 mos). 10+ years ecommerce/Shopify ecosystem. 1 mutual connection. 2 recent posts.
+
+### 149. Kevin Heraly
+- **Source**: Rattle case study (unnumbered)
+- **Review title**: (unknown) | **Review company**: Terminus
+- **Current title**: VP, GTM Revenue Operations | **Current company**: DemandScience
+- **Location**: Indianapolis, Indiana, United States
+- **LinkedIn URL**: https://www.linkedin.com/in/kevinheraly
+- **Notes**: MOVED from Terminus (VP, GTM Revenue Operations, 2024-2025, 5 mos) to DemandScience (1 yr 3 mos). 2 mutual connections. RevOps leader — Marcus persona match.
+
+### 150. Anupreet Singh Lamba
+- **Source**: Rattle review (unnumbered)
+- **Review title**: Sales Director | **Review company**: Slintel
+- **Current title**: Chief Revenue Officer | **Current company**: Gan.ai
+- **Location**: Delhi, India
+- **LinkedIn URL**: https://www.linkedin.com/in/anupreetsingh
+- **Notes**: MOVED from Slintel (Director, Sales, 2019-2022, 2 yrs 7 mos) to Gan.ai (CRO, 3 yrs 5 mos). Also at SaaS Like That!. 3 mutual connections. Coder turned entrepreneur turned CRO. Ex-6sense/Mettl/CSC.
+

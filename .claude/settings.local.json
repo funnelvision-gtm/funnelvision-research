@@ -9,7 +9,8 @@
       "WebFetch(domain:www.dearlucy.co)",
       "WebFetch(domain:www.scratchpad.com)",
       "WebFetch(domain:www.momentum.io)",
-      "WebFetch(domain:www.google.com)"
+      "WebFetch(domain:www.google.com)",
+      "WebFetch(domain:trysidekick.com)"
     ]
   }
 }

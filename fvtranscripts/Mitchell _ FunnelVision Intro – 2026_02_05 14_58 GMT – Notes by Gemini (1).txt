@@ -1,0 +1,180 @@
+﻿Feb 5, 2026
+Mitchell / FunnelVision Intro - Transcript
+00:00:00
+ 
+Mitch Wolf: 90 days to around 60 and even then I still feel like deals are we forced our team to shorter their window because we kept losing deals and I saw a lot of earlier stage reachouts and demos completed and even quotes just sitting in the pipeline that didn't get moved for months and the biggest push back I get is I don't have time to update my deals. Can you do it for me? I don't have up. I don't have time. And I don't know how much of it is, as Greg mentioned earlier, the sales rep mentality of I don't care about anything else as long as I hit my quota and I get the clients versus an understanding of why this has kept on happening. And when I took over this in January, I went through the close dates that were passed from 2025
+William Ross: Yeah.
+Mitch Wolf: and it was a significant enough portion of our pipeline and then we had a rep with the bulk of it leave two weeks later. So, a lot of the issues that I'm seeing on our hygiene is because I'm the first person doing this full-time and get the chance to build on it.
+ 
+ 
+00:01:11
+ 
+William Ross: Mhm.
+Mitch Wolf: So from a RevOps perspective, it's for sure helpful for me to handle a lot of that pipeline automation to free up my time to work on overlying automation issues as well as other things with the pipeline that can allow us to streamline. Maybe I can get efficiency on close dates down from 60 days to 45 and get deals to start moving faster for at least certain reps in certain markets. or maybe there's a different approach to it that we need to think of altogether. From a rep perspective, I think having something automated would definitely work in their favor. And a lot of the time they're sitting in meetings from 8 a.m. to 6 p.m. back toback. And some of those are internal,
+William Ross: Yeah.
+Mitch Wolf: but most of those are discover or client calls one way or another. and they may not have the time in their day to necessarily go clear their pipeline and really take into account how do we measure the
+William Ross: Mhm.
+Mitch Wolf: activities and from my perspective and right the CEO in the management suite really only cares about the ARR movement the one and lost and what's coming in the head of
+ 
+ 
+00:02:27
+ 
+William Ross: Mhm.
+Mitch Wolf: sales cares about his quota and the sales people care about their individual quotas so is the only person really caring about the health of the pip line. How do I measure? How do I better detect lapses and problems within the pipeline pre-1 so that we can speed things up and better score our leads to understand where focuses need to be.
+William Ross: Yeah, that that absolutely resonates. And it's funny you actually mentioned it about, you know, the the reps, do they not have the time to do it?
+Greg Petherbridge: Oops.
+William Ross: I I I always like to run a little experiment in my head where I go, if if hygiene was tied to their quota, would they do it? 100%. 100 100%.
+Mitch Wolf: I think so.
+William Ross: So I So I think so the root the root cause isn't an inability. It's often um either incentive alignment or it's just tool fatigue,
+Mitch Wolf: Hey,
+William Ross: context shifting because even I've done it as outbound and it's when you're having to change between tools and interf it's it's it's sluggish.
+ 
+ 
+00:03:29
+ 
+William Ross: It is you don't want to break your workflow. If you're on Teams or you're on Slap and you don't want to leave, you don't want to This is where I message people.
+Mitch Wolf: Riot.
+William Ross: This is where if I have to then go into HubSpot every like 30 minutes to update a deal, that stuff just Yeah.
+Mitch Wolf: No, absolutely. And if they can spend an hour a week in HubSpot just updating things, it make my life so much easier. And I think a lot of the time they have their HubSpot screen open and they
+William Ross: Yeah.
+Mitch Wolf: have whether it's a Teams or a Slack or a WhatsApp or an Outlook inbox.
+William Ross: Mhm.
+Mitch Wolf: And we've done good on the SOPs to get people to start using all of the forms of communication from HubSpot. to allow that to happen. But even then,
+Greg Petherbridge: What the
+Mitch Wolf: if it's not ingrained, it's not that change isn't going to happen even if it's
+William Ross: Yeah.
+Greg Petherbridge: f***?
+William Ross: No,
+Mitch Wolf: there.
+ 
+ 
+00:04:18
+ 
+William Ross: absolutely. Absolutely. Well, I mean, to be honest, I would love to show you a quick walk through of Funnel Vision and see how get get your thoughts.
+Mitch Wolf: Oh, absolutely. I'd love to see
+William Ross: Let me let me share my screen because I think I think you might like it.
+Mitch Wolf: it.
+William Ross: Uh my my gut tells me. So, let me know if that pops up for yourself. Okay.
+Mitch Wolf: Yeah, I can see it. I see an orange W. Now I see it. Okay,
+William Ross: Awesome. Perfect. So,
+Mitch Wolf: perfect.
+William Ross: so before I start, I should say the the the basic premise of Funusion was built on three pillars. First is surface all of your hygiene issues in one place. Second is configure those issues so that you're tracking exactly what matters for your sales motion to determine whether it's healthy. And third is make the updates to those hygiene issues as frictionless and easy as possible for the deal owners to make.
+ 
+ 
+00:05:07
+ 
+William Ross: So get them to make those updates where they already work in Slack or Teams. So to get set up is stupidly simple. You just connect into your HubSpot environment and this takes like two to five minutes depending on how much data is in your system and you're immediately presented with a snapshot audit of your pipeline. So how many deals in your pipeline are passed or closed date or have a missing amount or how many deals are stale in your pipeline. And then at the bottom you have a hygiene leaderboard. So you can track which of your deal owners are more on top of their hygiene relative to others. And so this is obviously a really good way and clean way to see you know oh this guy this William me I'm obviously top of top of the leaderboard because I made the dummy data so I made sure I was the best. Um and you can see you know Greg with him at the bottom.
+Mitch Wolf: This
+William Ross: He's got some work to do.
+Mitch Wolf: is
+ 
+ 
+00:05:54
+ 
+Greg Petherbridge: Any
+William Ross: So Greg Greg needs to fix his hygiene issues. And you can see dummy there. So you can see how that how that would how that changes over time.
+Mitch Wolf: it.
+Greg Petherbridge: data?
+William Ross: Now these are just your pre-built hygiene issues that are really powerful and common across most sales motions but every every go to market um system will have their own specifications. So we have this rules page on the left hand side where you can build any rule to surface a hygiene issue that you care about. Um, the best way to describe this is the limit is your imagination. Because if we create a rule, you'll see we pull in every single HubSpot property that's in your system, whether it's a custom property, associated contact, or associated company. So, you can really spend as be as complex and powerful as you want so that you can create any hygiene issue that you care about. Um, so, you know, really stupid example of one I made. um I want to know if a deal has a big amount, it's in its late stage and there's no close date assigned to it.
+ 
+ 
+00:06:55
+ 
+William Ross: And you'll always get as you're building the rule, you'll get this little AI summary to explain to you in layman's terms what the rule actually does. But it's really simple. All you do is you go, right, I want to know if the amount is greater than 20,000 or you can put 10,000 or whatever is a big amount for you. Um, and the deal stage is equal to decision maker bought in contracts in. And we'll pull in all of your pipelines and all of your deal stages. So, whatever it is that you you use will appear here. And I want to know when the close date's empty as well. And there's two really powerful features to building your own rules. The first is this automatically request update. And when this is turned off, all it means is the rule gets surface as a hygiene issue when it's triggered and you just get manual control to request the update whenever you want. And if it's turned on, what it means is that whenever the condition of the rule is met, it will automatically send a notification to the dealer.
+ 
+ 
+00:07:50
+ 
+William Ross: Uh, and this so this will run in the background 24/7. But obviously what you don't want to happen is that whenever the whenever this condition of the rule is met that this deal owner gets spammed, you know, with like 50 plus Slack or Teams messages all throughout the day because they're just going to ignore that. It's not really going to be helpful for them to make any edits. So when it's turned on, rather than spamming them all day, they'll send one message at 9 approximately 9:00 a.m. that outlines all of the deals that have been triggered in the last 24 hours. So they get one single message with all of the deals they need to update and they can go through those deals one by one in their own time. So whenever it is that suits them and then and anything that's not been actioned will just get asked again the next day. But you'll always have manual control. So even if this is turned on, you'll still be able to manually escalate an issue if you really want something fixed pretty ASAP.
+ 
+ 
+00:08:41
+ 
+William Ross: And then the second really power powerful feature is to prescribe exactly what you want the deal owner to a to action when they receive the notification because what you don't want is to go, "Hey, here's a hygiene issue. Fix it. Do something about it." Um, you know, maybe you want them to update the the next step and you can put in as many properties as you want them to update here or maybe you just say, "I only want them to update the next step when this is filled out." So all you have to do is, you know, you just create this rule and that's it done. So once you've done that, once you've surfaced all the hygiene issues, you're configuring them all. The question is what do you do about it? How do you actually action it? So we have this fixed issues page on the left hand side. And this shows you every deal in your pipeline that has some type of hygiene issue. And you can filter this by the stages um any owners or any specific issue that you're looking for.
+ 
+ 
+00:09:32
+ 
+William Ross: Uh you can also look at your pending requests. So you can see which which deals have had have been asked for um updates in the past that haven't been actioned and you can see when they were asked for. So you can see these ones have been asked for, you know, almost 30 days ago. Um and you can also click on any deal for more information and context. So you can see exactly which hygiene issues they have um and any context on like days since the activity and the next step. Now obviously I won't keep you on this call till 9:00 a.m. tomorrow to show you the daily digest, but I will show you how it looks in practice. But just to give you uh an idea of how the flow would look, I'll do a manual request on one of my deals. So here are all of my deals that have hygiene issues. And let's say you want an update on deal 3A. And please apologies for the lack of creative names. I I had to create like 300 deals in a dummy data set and it was just horrific.
+ 
+ 
+00:10:18
+ 
+William Ross: Um so all you do is click request request update and then you'll see I instantly get a Slack notification. Now, from the perspective of the person receiving this notification, they don't need to know funnel vision exists. They don't need to know HubSpot exists. All they need to know is in Teams or sorry, in Slack, they've been asked for an update request. They just click deal 3A and they get asked they get filled into this really simple form. Now, we don't have any companies in our dummy data because we don't have any live companies. Um, so we can't fill in this, but we got there's no amount. So maybe it's, you know, 10,000 whatever the amount is sign should be assigned for the deal. And currently there's no next step. So maybe it's schedule meeting with CFO. Oops. And right now the close date. Why are they asking for the close date? Oh, because it's currently set for January 14th, which is in the past. We don't want any deals in the past.
+ 
+ 
+00:11:09
+ 
+William Ross: So maybe they need to push this out to April. And so that's the really clever thing with Funnel Vision is that whatever the current value is of the property is will also be outlined here. So if there was already a series of next steps, it would tell them what the next steps were in the past so that they can get that context. So you can imagine from their perspective, they could be at the airport, on the train, or on their phone or wherever it is that they're working. They just work from Slack and go, "Okay, I'm going to update this deal. Oops. Oh, sorry. I updated it twice." And that's it. The deal's been updated. It tells them what they've updated it with. And we can go and view this in HubSpot just so you get your own piece of mind that it's been actually done. So you see the amount is 10,000, the close date 30th of April in the top left. And if we see the next step schedule meeting with CFL, I updated it twice by accident.
+ 
+ 
+00:11:57
+ 
+William Ross: But um but you can see it also logs the date as well. So you can see exactly when there's a time log of when the next steps were filled in. And then what you see here is like part of that daily digest um kind of queuing system we've got. So here are all the other deals that I have that I need to action. So I could just go through these one by one and action them one at a time. And that's it. Basic premise vision. Surface them all, configure the hygiene issues.
+Mitch Wolf: Awesome.
+William Ross: Teams will fix reps will fix that in teams or or in Slack.
+Mitch Wolf: I think you gave a pretty good presentation and outlining the value cell of your product. And just two or three follow-up questions on it on my end. The first is I can just integrate you into HubSpot directly like I would anal or a phone or anything like that sort of deal.
+William Ross: Yeah. Yeah. Yeah.
+Mitch Wolf: Do you guys only work on Slack and Teams right now or do you work with other app like can I do this through WhatsApp?
+ 
+ 
+00:12:57
+ 
+Mitch Wolf: Can I do it through any other communication or currently it's only just slack and
+William Ross: Currently he's just locking
+Mitch Wolf: teams? Okay. And from what you showed me in the demo,
+William Ross: teams.
+Mitch Wolf: it's not that there's anything you guys are doing that I can't do natively in HubSpot or have my reps do natively in HubSpot, but it's more of a cell on streamline communication and time from my perspective, from what I got from the demo. Is there anything I'm missing with that assessment? Is there any other value ad other than that communication that you're bringing and the centrality of showing the issues and the simplicity of doing it in teams or
+William Ross: Yeah,
+Mitch Wolf: stock?
+William Ross: really good question. I guess that is probably a really summarized way of explaining our our value prop. We do have the hygiene leaderboard which is a bit of our USP. Um, and I should say where we're going with this is also the road map. So theoretically, yes, if you had a team that worked exclusively within HubSpot and then then yes, they they they could do this through that.
+ 
+ 
+00:14:07
+ 
+Mitch Wolf: And what's your focus on the future outlook for you guys? Are you planning what's the next step? Obviously I I saw on your website you have 13 more on that early adopter. So you're and evidently this is a very new company and I'm assuming that you guys were working on this at GG CG partners before you announced funnel vision fully in the beginning of the year. But what's the vision for you guys for the next couple steps after
+William Ross: Yeah,
+Mitch Wolf: that?
+William Ross: really good question. We we've got a couple things um in the in the road map. One is transcriptions. So, we also want to integrate into call transcriptions and meeting recorders so that we can do oneclick updates so we know when a call is going to be coming up. And then what we'll have is the AI overlaid with that that says to a rep, you know, in Slack or Teams, hey, here's what I think the next step is, but rather than autopop populating it, we always want to keep a human in the loop so that the person can just read it and go yes, no, or edit.
+ 
+ 
+00:15:00
+ 
+William Ross: And then they can just go through the kind of a oneclick update. And the other thing we want to look into is hygiene, analysis, and insights as well. So based on hygiene, we want to be able to, you know, track, you know, are even the top performing reps based on based on quota volumes, are they actually good quality quot volumes based on like the ICP that you're going for? So that you can check, you know, hygiene based on based on actual analysis and
+Mitch Wolf: Awesome.
+William Ross: insights.
+Mitch Wolf: And who would you say your ideal customer profile
+William Ross: Uh, varies. I mean, I think I think what we're looking for,
+Mitch Wolf: is?
+William Ross: obviously, if you're on HubSpot, Slack teams, that's probably a good start. Um, we're probably looking at those companies around two 200 size marks, uh, 50 to 200, and then if you've got at least maybe five reps plus, but I think the probably the biggest thing we're looking for is deal volume. If you if you've got reps that are assigned to to one deal, funnel is probably not for you because you've got quite a good close relationship with that deal.
+ 
+ 
+00:15:55
+ 
+William Ross: If they're assigned to 10, 15, 20 plus deals and it's hard to monitor that hygiene, that's probably where where we where we are a really good
+Mitch Wolf: Okay,
+William Ross: fit.
+Mitch Wolf: I think you've answered all of my questions that I had. Is there anything else that you need from me?
+Greg Petherbridge: Um, no. I I don't think we really need any anything else. I think you've given us really solid feedback as it is. So, thank you for that and thank you for giving us your time. I suppose the question on my side would be if if we were to give you this just for free to play around with. Do you think uh that the team would use it? Do you think it would add value to your life or do you think as you said, you know, do you believe you can kind of build this this thing yourself?
+Mitch Wolf: I think if I had two weeks to a month to play around with it, I could probably find some value. We're just not currently on Slack or Teams.
+ 
+ 
+00:16:49
+ 
+Mitch Wolf: So that we we do Teams,
+Greg Petherbridge: Yeah.
+Mitch Wolf: but we don't use We use Teams for calendar and video, not for communicating as much as we use WhatsApp. So that would that is really what my more pause is than anything
+Greg Petherbridge: Okay.
+Mitch Wolf: else.
+Greg Petherbridge: Yeah. No, sorry, I forgot you mentioned that. Um, no, that that's perfect. Um, and of course, I think we're we're collecting all of this feedback from RevOps folks like yourself and really, um, you know, taking that into account when when plotting what the road map looks like. So, um, yeah, we will definitely take everything you've said forward with us. So, so thank you so much for for this session because, uh, yeah, every single one like this is really useful for people who are just living this dayto-day. Cool.
+Mitch Wolf: Absolutely.
+Greg Petherbridge: Well, we we'll give you a bit of time back, I suppose, if if uh if you don't have any more questions for
+Mitch Wolf: Yeah. I will meet with my supervisors next week and I will give you guys
+Greg Petherbridge: us.
+Mitch Wolf: an answer back.
+ 
+ 
+Transcription ended after 00:18:11
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

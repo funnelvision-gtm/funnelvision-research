@@ -1,0 +1,376 @@
+﻿Jan 22, 2026
+Maram and FunnelVision - Transcript
+00:00:00
+ 
+Greg Petherbridge: our past roles.
+Maram Mukhtar: in our
+Greg Petherbridge: So, um, effectively what we saw in a lot of both both kind of bigger companies in our past
+Maram Mukhtar: post.
+Greg Petherbridge: and a lot of the teams we've worked with is this kind of lack of trust in in forecasting I suppose and lack of trust in in where the where the the revenue is predicted to be. Um, and ultimately everywhere we've been, it's the same thing that we've seen the behavior of reps from that side. And you know, I've been a salesperson myself, so I'm not not uh not afraid to say it. Sales people are quite selfish and kind of live in their own world. And uh yeah, so so we kind of see it as a behavioral problem as to why forecast from the top can't be trusted because there's kind of various intentions from the bottom up that are kind of hard to to cover the cracks over. I suppose it's it's a mix of, you know, sandbagging deals to get into the next quarter. It's a mix of, you know, oh god, I'm I'm really screwed this quarter.
+ 
+ 
+00:00:55
+ 
+Greg Petherbridge: Let's try dress it up to make it look a little bit better. Um, it's laziness. It's it's a lot of different reasons that effectively land forecasts in being such a mess.
+Maram Mukhtar: Yeah.
+Greg Petherbridge: And I think a lot of teams try to just whack a bit of AI on it these days and they're like, try read our transcripts and populate our our fields in all of our deals and see how it goes. But AI over s*** data is pointless. So um we kind of saw it as a bit more of a of a workflow problem and a bit more of a you know bit bit more intricate than just whacking AI on it. So what what what we're looking to do is help kind of three different stages. So from the top,
+Maram Mukhtar: Okay.
+Greg Petherbridge: give vis visibility to leadership on kind of the health of their pipeline and and what what's actually missing and who's who's not kind of keeping up to scratch in terms of pipeline hygiene. So a bird's eye view one.
+ 
+ 
+00:01:44
+ 
+Maram Mukhtar: Yeah.
+Greg Petherbridge: Secondly, whoever sits in the middle, whoever kind of chases and and uh is is trying to get these sales reps to behave like grown grown grown adults. Um, that's we've seen it be revops, we've seen it be sales managers that sit in between, but ultimately just whoever that is who's sitting in the middle of, you know, I need my deals populated to reps, can you please just fill out your deals? Um, we're looking to make it nice and easy to have one kind of centralized place where you can build your own custom rules about what you need to see in your pipeline and have that kind of directed to the reps, which is kind of the third piece of, you know, what's the easiest way for them to fix these deals and to to execute on it. And ultimately, it's where they sit every day. It's Slack or Teams. So, the first version of what we've built is a HubSpot specific um tool. you know, obviously there's other CRM on the pipeline, but we really really want to nail this this one first.
+ 
+ 
+00:02:35
+ 
+Maram Mukhtar: Yeah.
+Greg Petherbridge: Um, and the two messaging bots that that or the messaging systems that that we integrate with are Slack and Microsoft Teams. Um, so yeah, that that's kind of how we've gotten here. Um, and yeah, for you with with RevOps, what made you make the jump into uh into RevOps?
+Maram Mukhtar: Well, so in my prior job, I was working in sector agnostic private equity and most of my time was spent on a software company. So then like I transitioned into revops in a SAS company. So a lot of the work I did was actually fairly similar to be honest. like it's it's revops but it's not on the sales operations side like we have a
+Greg Petherbridge: Okay.
+Maram Mukhtar: team for that. to like the admin side of like fix this field in Salesforce and all that like that's not where like I work I work more in like rep scorecards like how do you optimize like systems for us like our text track and I think this might be useful for you to like just have more context as well like on how systems currently work like just for us our CRM is Salesforce like for a lot like a lot of other companies what we use to track activity is sales loft.
+ 
+ 
+00:03:47
+ 
+Maram Mukhtar: I don't know if you've come across sales loft much in your prior jobs.
+Greg Petherbridge: Yeah. Twice.
+Maram Mukhtar: Yeah. So then like that's where people are sales reps are tracking their cadences,
+Greg Petherbridge: Yeah.
+Maram Mukhtar: their activity. You can get decent visibility I'd say in pipeline on it, but it's like we're not currently using it for that. And like it's one of the projects I'm working on currently is helping like optimize our sales a lot. like it's an expensive product and you can actually get a good bit out of it then like besides
+Greg Petherbridge: What?
+Maram Mukhtar: that like I agree like data is like not good if it's like sits there with the AI tools um like a lot of the work that I do is actually just building out actual information like using that data like actual visibility like how do you like map sales reps against each other and things like that so like that's kind of like where I sit into it like really interesting ing work very varied. But like using analytical sales is a big part of my job like to help represent like
+ 
+ 
+00:04:50
+ 
+Greg Petherbridge: Okay, cool. Yeah. No, I think that that definitely helps kind of paint the picture.
+Maram Mukhtar: progress.
+Greg Petherbridge: I suppose yeah, maybe what what we do is is definitely kind of outside your wheelhouse, but um I mean, if I were here, William, you might as well It's like a five minute demo. Um I mean, if if you're ever kind of sit in those conversations with with cross functional teams or anyone uh who is is kind of, you know, racking their brain every day about how to how to make the rest behave. We are more so less so on like the kind of outbound stuff and and cadences and things like that about like how do you just get the CRM populated in general? Like I think we've been mistaken for a few different tools like super and and other things that are more like kind of dduping software and like oh is the information for our reps per account and per contact good where we're not really like that. We're purely focused on pipeline hygiene and kind of what the the the forecast is looking like.
+ 
+ 
+00:05:41
+ 
+Maram Mukhtar: Okay.
+Greg Petherbridge: So, kind of fixing that from the bottom up.
+Maram Mukhtar: Okay.
+Greg Petherbridge: Um, William, do you want to do a quick spin of
+Maram Mukhtar: Yeah.
+William Ross: Well, I was going to say I'm very I'm always happy to demo one of my my baby projects.
+Greg Petherbridge: it?
+William Ross: But I was going to ask if you're if you're because you're CRM Salesforce, right? In which case because because we really integrate with hubs but even even if it was within the remmit I mean we our
+Maram Mukhtar: Yeah.
+William Ross: integration to how Salesforce isn't going to be looking like end of this year at the
+Maram Mukhtar: Yeah.
+William Ross: earliest.
+Maram Mukhtar: For marketing they use HubSpot. So like for MQLs like for leads they use HubSpot and then that translates into Salesforce reports that links with sales a lot. Then like our we use quite a few to be honest.
+Greg Petherbridge: What?
+William Ross: Okay, fair. Okay, I'll give you a I'll give you a few minutes demo. Um, let me let me share my screen and pop it up.
+ 
+ 
+00:06:27
+ 
+Maram Mukhtar: Yeah.
+William Ross: All right. Well, let me know if that appears for you. Okay.
+Maram Mukhtar: Yeah.
+William Ross: So, yeah. So, really simply the way what Funnel Vision works,
+Maram Mukhtar: Perfect.
+William Ross: how it works is three simple premises. One is surface all of your pipeline hygiene issues in one place. Two is configure the hygiene issues that you're tracking what it is that matters to your sales and go to market motion. And the third is frictionless um update requests. So you want people to make the updates where they're already working. So that's namely Slack or or Teams just now. So what you're looking at now is the is the the the initial view of funnel vision. And the way it works is you will sync into your well currently your HubSpot environment. And this usually takes between two to five minutes depending on how much data is in the system. And then you're immediately presented with essentially a snapshot audit of your pipeline. So how many deals in your pipeline have stale activity or have a missing next step or their past or close date and some other really powerful pre-built hygiene issues.
+ 
+ 
+00:07:33
+ 
+William Ross: At the bottom is your hygiene leaderboard which tracks which of your reps are more on top of their hygiene relative to others. And so this is a really powerful feature because we know that sales people love uh competition. They love their leaderboard. So, it's a really good way for for revops and sales directors to see over time which of the which of the deal owners are maintaining their hygiene. And then you can obviously do some analytics on are the ones that are better at their hygiene, getting their deals through the pipeline faster than others. But obviously, these are just your your your pre-built hygiene issues and every sales go to market motion has their own specificities. So, we want you to be able to create your own rules, your own way to to to track whatever it is that you would care about in order to to to determine whether your pipeline's healthy. And so, the best way to describe this feature, this rules feature, is the limit is honestly just your imagination because we pull in every property within HubSpot and whether it's a custom property, associated contact or associated company, and you can build any rule that you care about.
+ 
+ 
+00:08:33
+ 
+William Ross: So, just to show you a quick one that I made, a really simple one. Basically, I wanted to know if a deal has a big amount. It's in its late stage and there's no close date. So, all you do is you go to your your your rule creation and you just search for the fields you want. So, I want the amount to be greater than 20,000 and the deal stage is equal to the late stages. So, maybe it's decision maker and contract sign. And we pull in all of your pipelines and all of your deal stages. So whichever ones that are um specific to you will appear here. And I want the close date to be empty. But you can imagine if you had your medic or your med pick or your anal whatever sales methodology you use, you can also track for that as well. So so that's your rule. Um and the two really powerful features of rule creation is this little button here which I love which is to automatically request updates from deal owners.
+ 
+ 
+00:09:26
+ 
+William Ross: And the reason that's really powerful is because what you don't want to happen is whenever a condition of a rule is
+Maram Mukhtar: That's
+William Ross: met that the deal owner gets spammed in Slack or Teams like with 50 plus notifications all throughout the day. It's they're they're going to get bombarded. They're going to get uh they're going to it's not going to drive adoption. They're just going to ignore it and it's not going to be good for anyone. So when this button is clicked, what it means is whenever the condition of the rule is met, it will send the update automatically in the background but in a daily digest format. So, every morning at 9:00 am, the deal owner will get one Slack or Teams message with all of the rules that have been triggered in the last 24
+Maram Mukhtar: I was
+William Ross: hours, and they can work through those um issues one by one in their own time,
+Maram Mukhtar: Okay.
+William Ross: and anything that's not been actioned will get asked the next day. So, you'll always have manual control in Funnel Vision.
+ 
+ 
+00:10:14
+ 
+William Ross: So, if you just turn this off for all of your rules, you can still always manually request an update. It's not going to just trigger automatically. But if you turn this on, you could really just set up Funnel Vision to run autonomously in the background 24/7 with very minimal touch points into actually using Funnel Vision.
+Maram Mukhtar: I'll
+William Ross: The idea of this product was basically it's not a tool that you need to adopt.
+Maram Mukhtar: check
+William Ross: It's not a tool you need to learn. It's really something that you can just really run in the background. And the second really powerful feature is to actually ask the deal owners what it is you want them to do. Because what again what you don't want is for them to say, "Hey, here's a hygiene issue." and then they have to figure out what it is they need to do with it. So with this feature you're whenever the conditional rule is met, it will come up with exactly the fields that they need to populate in order to action the hygiene issue.
+ 
+ 
+00:10:59
+ 
+William Ross: So here it's close date next step, but it could be amount, it could be maybe you want them to move the deal stage, it could be whatever it is.
+Maram Mukhtar: Absolutely.
+William Ross: And so that's that's rule creation. So then once you've surfaced all of your hygiene issues in one place and you've configured them and you're tracking everything within your pipeline that that matters to you, what do you do about it? How how do things actually get fixed? And so that's how we have this fix issues page. And this page shows you every deal in your pipeline that has some type of hygiene issue. And you can filter this by the owners, um the the deal stages, um any specific issue you're looking for. And you can also click on the deals to see more information, some more context on the deal. Um, you can see pending requests. So, this shows you any deals that have had um that have been triggered in the past that haven't been action. So, you could literally just log into Funnel Vision, click on your pending request, and go, "Oh, this one was asked for an update one day ago or three days ago, and it's still not been action. So,
+ 
+ 
+00:11:59
+ 
+William Ross: I'm going to chase Greg because he's been a lazy bugger and not doing anything." Uh, and don't worry, I will show you how this actually works in practice, but we will not wait till the 90
+Greg Petherbridge: This is all dummy data. I'm great with hygiene. I'm saying this is all dummy data.
+William Ross: Pardon?
+Greg Petherbridge: I'm usually great with
+William Ross: Oh, yeah. Yeah. Yeah.
+Maram Mukhtar: Yeah. No,
+William Ross: Yeah.
+Greg Petherbridge: hygiene.
+Maram Mukhtar: just quick question for you guys. Like where did you see the big gap in the market? Like as in I know you can like do compulsory fields like on whatever like CRM you have like if it's a HubSpot or a Salesforce. So like just make sure that reps do that and then get like reports like pull out reports as well if there's like been activity you know lagging like for certain days or if certain fields are missing or things like that. Do you think there's just no like integrated solution for it?
+ 
+ 
+00:12:46
+ 
+Greg Petherbridge: I I would say it's more so like the continuous closing of the loop. So like you can I think that was the feedback we got back initially was like yeah but I can pull a
+Maram Mukhtar: Okay.
+Greg Petherbridge: report and get visibility on this in like anytime I want like visibility if you look what we do is just kind
+Maram Mukhtar: Yeah.
+Greg Petherbridge: of the first piece. So, it's the consistency of how do we route that back to to the seller and how do we kind of do you ever have um any like Slack bots or or or Teams where like it's like security like Vanta had this where um oh complete your security tasks complete your sec your security tasks like I would never complete my security tasks unless I had an annoying little bot being like do it do it do it so um it's more so if you if it becomes like this spring clean type mindset where oh god I've got to go in and check how
+Maram Mukhtar: Okay.
+Greg Petherbridge: everyone's pipeline is you're like sales sales leaders kind of have so much on their plate that if that needs to be a consistent part of their of their day.
+ 
+ 
+00:13:40
+ 
+Greg Petherbridge: That's the problem we're trying to fix. So we don't want people to just manually pull everything,
+Maram Mukhtar: Okay.
+Greg Petherbridge: manually chase and and kind of have this constant back and forth over emails or Slack, whatever it is. It's try to, you know, set up what your rules are, set the standard. And this kind of works in the background where hopefully if if your sellers are disciplined, they will they will take care of it. But that's kind of the reason we looked at it is because sellers are kind of if they know it's in their deal and and they they know where it sits and no one's really pushing back on come on fill this out, fill this out,
+Maram Mukhtar: Sure.
+Greg Petherbridge: fill this out that if there's no incentive to do that or there's not eyes on it, they well from what we've seen people will be lazy with it and just kind of populate fields and not really, you know, put in NA or or TBC or um so they're the kind of rules that we're after is just kind of staying consistent.
+ 
+ 
+00:14:24
+ 
+Maram Mukhtar: Yeah. And then do you know what sort of size companies you're targeting? liquid segmentation.
+Greg Petherbridge: pretty pretty like definitely not enterprise at this stage. I think similar to the size of companies we've been working with as as a consultancy kind of where I think
+Maram Mukhtar: Yeah.
+Greg Petherbridge: we're we're probably our sweet spot probably is like VC backed companies where you know there's there's board pressure and and you know VCs just kind of having eyes on you know where we landing next quarter where we landing um so that kind any kind of high growth environment that had a lot of eyes on on on the quarterly revenue I think is is where we sit a lot of SAS a lot of um yeah in general that kind early stage, every everything's pressurized, everything's kind of money, money, money. Um, and yeah, we generally need a team of a decent size amount of sellers because other than that, the complexity is just not there. So, um, yeah, you know, some of them have RevOps teams,
+Maram Mukhtar: Yeah.
+ 
+ 
+00:15:21
+ 
+Greg Petherbridge: some of them don't. So, a lot of this in those smaller teams where DevOps hasn't really been built yet. It's on the sales managers to do all this stuff. So, that's another kind of ICP.
+Maram Mukhtar: Yeah, I I think that's probably like even a better segment to go after because I think like if you don't have that oversight and that function in the business, you're probably going to get more leverage if you can go to those companies or those teams which like they struggle with it. Like for someone who's like completely sales focused, like they probably aren't like focused on the details. Like I think you'll have like a like a good amount of companies that fall into that bracket.
+Greg Petherbridge: Yeah. No, definitely. Um, yeah, and we've been kind of chasing that as well, but I think our our message resonates more with a lot of Revop people who do this. Um but but yeah, I think we're trying to we're trying to pursue both angles at the moment. And yeah, we we had a few people on trial and testing it kind of from both situations.
+ 
+ 
+00:16:12
+ 
+Maram Mukhtar: Yeah.
+Greg Petherbridge: So um yeah, we'll keep the options open,
+Maram Mukhtar: Yeah. No, Zans go. Z's go.
+Greg Petherbridge: but yeah, I think you're you're about to stick the landing here, William.
+William Ross: No, no. Yeah. I was say I I say I won't wait for the daily digest.
+Greg Petherbridge: Apologies.
+William Ross: Let me just show you quickly how how it would look in in practice. So these are all my deals with with hygiene issues. Uh let's just pick one. It's got quite a few. So you can see there's this one's got a few issues. the person using a funnel vision if they wanted to have manual control just clicks request update and then I as the deal owner
+Maram Mukhtar: apparent.
+William Ross: instantly get a Slack notification here that goes hey Williams asked for an update on this deal. Now this is in perspective so you can imagine the person receiving this notification doesn't need to know funnel
+Maram Mukhtar: Awesome.
+William Ross: vision exists. They don't need to know HubSpot exists.
+ 
+ 
+00:17:01
+ 
+William Ross: They could just be um at the airport on the train wherever it is that they're working and it works really well on mobile. just go I need to update DK great okay well we don't have any companies in our dummy data
+Maram Mukhtar: Yes.
+William Ross: because it's very weak you can see right the close date's not been set so me to schedule a meeting with CFO um and the cool thing about this is would if there was a current value it would tell the person hey this is this was the previous value in the next step so there's a bit of context and then the close date is currently for October 31st and they need to go oh it's meant to be February they update the And that's it. They don't need to do anything else. They don't need to touch funnel vision. They don't need to touch HubSpot and the D's been updated. So,
+Maram Mukhtar: Okay.
+William Ross: so yeah, that's the basic premise of Funnel Vision. Surface all the hygiene issues. Configure them.
+ 
+ 
+00:17:48
+ 
+William Ross: Changes happen.
+Maram Mukhtar: Yeah. Now, the Slack interface is very nice.
+William Ross: Slacker.
+Maram Mukhtar: I have to say like that is like very seller friendly, I think. Like just the ease of having that like that's good.
+William Ross: Yeah. No, absolutely. I appreciate it. It's um Yeah, like I said, it's uh it's it's you can imagine because we're quite early. Our early users vary. We've got a few partnership agreements with like HubSpot partners, RevOps agencies. Um, a couple consultancies are really interested in this product. Uh, and we've got, as Greg said, some VC backed companies as well that are like that maybe two to 500 size range.
+Maram Mukhtar: Okay.
+William Ross: So, so yeah, but yeah, but that's that's it. Please rip into it as well if you have any genuine like thoughts on like this is rubbish, guys.
+Maram Mukhtar: No,
+William Ross: This is not
+Maram Mukhtar: not at all. No, I do think you're solving an actual like problem which is good. And like I like honestly I wouldn't know like what are the main like pipeline hygiene software solutions like out there but like it definitely is something that would be used.
+ 
+ 
+00:18:41
+ 
+Maram Mukhtar: I do think like if you integrate with Salesforce it would be much like like easier for me to be able to judge it cuz I've used Salesforce my whole life like as in HubSpot is like would be very new to me. So I'd be a good judge on that. But no like honestly like I think it's a decent solution that you are working towards like what's the goal for you like next steps like what are you trying to
+William Ross: Uh basically right now it's kind of twofold.
+Maram Mukhtar: do?
+William Ross: It's uh prove the value so get more users on it, convert them into paying customers and build the roadmap. So we've got a few ideas on where this could go whether it's um the analytic side, autopopulation side, cross object so we can pull in more more complex hygiene issues um um and also analytics on hygiene reporting as well. like being able to analyze, you know, um the overall health of pipelines.
+Maram Mukhtar: Yeah. For and is there any like automation built into it where it's like without setting rules
+ 
+ 
+00:19:31
+ 
+William Ross: So,
+Maram Mukhtar: is there any capability of it to like pick up on like oh these are stalling deals or these are like ones which haven't like had updates in it in a while or do you set rules for everything?
+William Ross: so we said rules, but there's pre-built rules. So, we have a pre-built rule for stale activity. So if a deal's not had any activity on it, that comes pre-built.
+Maram Mukhtar: Yeah.
+William Ross: So they don't need to do anything to configure.
+Maram Mukhtar: Okay. Okay. That's good to know.
+William Ross: No,
+Maram Mukhtar: Yeah. All of these things are like trying to like amalgamate into one.
+William Ross: absolutely.
+Maram Mukhtar: Like I know even like sales loft they acquired or they merged with Clary and now they're trying to become like this like AI pipeline vision like funnel view as well. Like I think I it's going to be a competitive space I think. So like it is going to be whoever just has the best product out there and easy to use. I do think the Slack interface is definitely definitely a good
+ 
+ 
+00:20:27
+ 
+William Ross: Yeah, we we we thought so, you know, we're very lazy by nature.
+Maram Mukhtar: call.
+William Ross: So, the big premise of Funnel Vision was very easy to use, adopt no learning curve, and make it nice and simple for the seller. So, I'm glad you you picked up on
+Maram Mukhtar: Yeah. Yeah. No, definitely.
+William Ross: that.
+Maram Mukhtar: Like I feel like for me it would be like whenever you guys get around to Salesforce like reach out then and I can have a look at it then cuz I just don't think we'd get any value from it being like on HubSpot like it's just not our main like CRM. Um, and then just happy like if you guys want honest feedback like throughout while you're working on it or if
+Greg Petherbridge: Yeah.
+Maram Mukhtar: you're looking to optimize the best for Salesforce like just happy to have a chat about that or even if it's you guys with just the direction of your business from my days in private equity if I have any nuggets there. Yeah. But no, feel free to leverage off.
+ 
+ 
+00:21:21
+ 
+Maram Mukhtar: Like it's always good to see early stage companies kind of
+Greg Petherbridge: Yeah.
+William Ross: No. Yeah, absolutely.
+Maram Mukhtar: grow.
+William Ross: And you're not say you're not the first one to ask for for a sales integration. So, we will uh it looks like it
+Greg Petherbridge: We have a long list of people who will be
+William Ross: might
+Maram Mukhtar: I know. I know. I feel like HubSpot probably I don't know if I'm wrong saying that,
+Greg Petherbridge: following.
+Maram Mukhtar: but like earlier stage companies I think like do start on HubSpot like a good bit and then I do think as they like grow out like Salesforce becomes like it's a big beast like for the company that I'm working in. It's a It's a big It's a 700 employee company and like they do like 300 million odd in a so like it's a beast that needs
+Greg Petherbridge: Yeah.
+Maram Mukhtar: peeling.
+William Ross: and then always just becomes the marketing one, right?
+Maram Mukhtar: Yeah.
+William Ross: It's just relegated to no but no really really appreciate the offer and absolutely if
+ 
+ 
+00:22:04
+ 
+Maram Mukhtar: Yeah.
+William Ross: we when we start to build out Salesforce or even just put the thinking behind it you might regret offering to to help us through this but we will absolutely taking
+Maram Mukhtar: No, not at all.
+Greg Petherbridge: Yeah. No,
+Maram Mukhtar: Not at all.
+Greg Petherbridge: I really appreciate it.
+Maram Mukhtar: No,
+Greg Petherbridge: And And where in Dublin are you based?
+William Ross: you
+Greg Petherbridge: Oh,
+Maram Mukhtar: Clansky if you
+Greg Petherbridge: my dad my dad. So, I'm originally from Ho,
+Maram Mukhtar: know.
+Greg Petherbridge: but my dad moved um out southside for the first time in in his 63 years last year. He's like uh Glenn Giri kind of area. So, I'm I'm discovering the Southside a lot more.
+Maram Mukhtar: Oh yeah, like close enough.
+Greg Petherbridge: Yeah. Um we've we've got two brothers.
+Maram Mukhtar: So are you all from different places? Is it like or
+Greg Petherbridge: William's one of the brothers. We've got two two guys up in Edinburgh and um sorry, and then another in Scotland. And then we've got uh myself and Alex,
+ 
+ 
+00:22:50
+ 
+Maram Mukhtar: Okay.
+Greg Petherbridge: another guy who were based in London.
+William Ross: Yeah.
+Greg Petherbridge: So it's it sounds like the start of a joke.
+Maram Mukhtar: And how did it come
+Greg Petherbridge: Um yeah, it sounds like a Patty Englishman and Irishman Scot Scottishman thing.
+Maram Mukhtar: together?
+Greg Petherbridge: We um myself, Alex and Stefan, well Alex and and and Stefan the one of the Edinburgh one of the uh London, they've been kind of on this like startup journey together for like 10 years I think where they kind of jump from company
+Maram Mukhtar: Yeah.
+Greg Petherbridge: to company together on a lot of partnerships work and things like that. Uh and then I my first job in London was a company called Pigment uh financial
+Maram Mukhtar: Okay.
+Greg Petherbridge: planning tool and I kind of met them there. Um we all got on really well. Alex and Stefan kind of built up this really great network of like VCs and kind of had this idea of where they were already giving away like advice through the VCs on on go to market for these these startups.
+ 
+ 
+00:23:40
+ 
+Maram Mukhtar: Yeah.
+Greg Petherbridge: So they just kind of will William almost just came in and said why don't you do this and uh so it was actually kind of William's brainchild to just uh get us all together and start doing uh this consultancy work and it's been great. Yeah, I've been exposed to really cool founders and really cool companies over the last kind of 18 months. So, um, yeah, and now we're just deciding to pivot a bit and take a problem we've seen
+Maram Mukhtar: Yeah.
+Greg Petherbridge: and try turn it into a
+Maram Mukhtar: Yeah.
+Greg Petherbridge: software.
+Maram Mukhtar: And are you funding it yourselves then or did you get a grant or
+Greg Petherbridge: Yeah,
+Maram Mukhtar: anything?
+Greg Petherbridge: bootstrapping the thing.
+William Ross: B for
+Greg Petherbridge: So, we're Yeah,
+Maram Mukhtar: Okay.
+William Ross: now.
+Maram Mukhtar: God 12 12 base drafting
+Greg Petherbridge: yeah, we're still doing we're still doing parts of the services stuff,
+William Ross: I mean if
+Maram Mukhtar: stereo.
+Greg Petherbridge: though. So, you know,
+William Ross: you're
+Greg Petherbridge: we're we're funding that with with kind of the revenue we're making on from the original business.
+ 
+ 
+00:24:28
+ 
+Greg Petherbridge: Um but obviously you know we'll see where things go and if uh you know we can prove a few things maybe
+Maram Mukhtar: Yeah.
+William Ross: Oh yeah.
+Greg Petherbridge: maybe we don't need to be
+William Ross: I mean, you're Dublin. If if the EU's got any grants kicking around,
+Greg Petherbridge: sure
+William Ross: Greg, that we're eligible
+Maram Mukhtar: I mean,
+William Ross: for
+Maram Mukhtar: Enterprise Ireland has a good few grams out there for startups.
+Greg Petherbridge: yeah let's register
+Maram Mukhtar: Greg, I feel like you should
+William Ross: all the Scottish grants,
+Maram Mukhtar: be
+Greg Petherbridge: in
+William Ross: they're all like I looked into London Scottish grants and literally you're only eligible if you're trying to save the world through through being eco-friendly. And I was like,
+Maram Mukhtar: really I think
+William Ross: well,
+Greg Petherbridge: we got some good benefits of down back to
+William Ross: what about
+Maram Mukhtar: Dublin has good benefit honestly. Like I like I'm not saying that like even as a joke.
+Greg Petherbridge: the
+Maram Mukhtar: I'm saying that like completely seriously like as a startup I think you you get good access.
+ 
+ 
+00:25:10
+ 
+Maram Mukhtar: Now, I don't know about the legal technicalities of registering as a Dublin HQ if these are all virtual.
+William Ross: I mean, come on. How many companies are doing
+Greg Petherbridge: I I'll go stay I think I I'm I'll have some kind of work around where I go stay in my mom's spare room a
+Maram Mukhtar: I'd say a good
+William Ross: it?
+Maram Mukhtar: fear.
+Greg Petherbridge: couple times a month or something and that'll probably you know Yeah.
+Maram Mukhtar: Yeah. Yeah. Yeah. Yeah. Travel days.
+Greg Petherbridge: Yeah.
+Maram Mukhtar: I think there's taxes on that as
+William Ross: Oh, I'll move for a grand.
+Maram Mukhtar: well.
+William Ross: Sure.
+Greg Petherbridge: All right. Well, Mar really appreciate this and even the feedback you gave was was really helpful.
+William Ross: All right.
+Greg Petherbridge: So, um yeah,
+William Ross: Yeah.
+Greg Petherbridge: I mean we'll we'll we'll keep hopefully we'll be launching pretty soon and you'll be able to keep your eyes on us. But, uh in the meantime, we'll uh we we'll we'll be working on that Salesforce stuff and hopefully reopen the conversation a bit later in the year.
+ 
+ 
+Transcription ended after 00:26:04
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

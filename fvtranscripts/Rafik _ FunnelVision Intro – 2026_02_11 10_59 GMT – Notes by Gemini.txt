@@ -1,0 +1,286 @@
+﻿Feb 11, 2026
+Rafik / FunnelVision Intro - Transcript
+00:00:00
+ 
+William Ross: Hi Rafi. Oh, I can't quite hear you unfortunately. Can you hear me? Okay. So, I I can't hear you, but you can hear me. No, so sorry.
+Rafik Kellou: So now,
+William Ross: So, oh, there we go.
+Rafik Kellou: yeah, sorry,
+William Ross: No, no,
+Rafik Kellou: my headset kind of like died.
+William Ross: of course.
+Rafik Kellou: I'm sorry.
+William Ross: No, no, no problem. How are you doing? How's
+Rafik Kellou: Good, good. Thanks. Thanks.
+William Ross: things?
+Rafik Kellou: Sorry, I was a bit late. I was in another call just after before
+William Ross: No, no, of course. No,
+Rafik Kellou: you.
+William Ross: no problem at all. How's Yeah. How How's things been? How's How's How's work?
+Rafik Kellou: Well, it's been it's been good. It's been good.
+William Ross: How's
+Rafik Kellou: Uh, I kind of like launched my my my business uh only a few months back, but I'm I'm already good, so I can't
+William Ross: Amazing.
+ 
+ 
+00:04:30
+ 
+Rafik Kellou: complain.
+William Ross: I mean it's uh what made you want to take like the the leap into the kind of the agency space? Was it just a bit of independence or were you
+Rafik Kellou: Well,
+William Ross: like
+Rafik Kellou: I I was with a job with the company like um for like three years and uh I think I kind of like uh came into a point where I didn't do anything more anything new. Uh and so I said okay why not and I think uh I had the chance to to learn a lot of different stuff and I said maybe I can try to be a freelance and uh maybe uh uh make a little bit more money. So, so it's kind of happening.
+William Ross: Yeah.
+Rafik Kellou: So, I'm I'm
+William Ross: Okay. I'm I'm so delighted.
+Rafik Kellou: happy.
+William Ross: And where where are your kind of client space? Like are you are you um Yeah.
+Rafik Kellou: I'm based in France, not too far from Paris. And all probably Yeah.
+William Ross: Amazing.
+Rafik Kellou: All my clients are based in Paris.
+ 
+ 
+00:05:25
+ 
+William Ross: Amazing. Yeah. So, so I imagine must be quite nice as well. You can like go and see them or you can like just stay remote.
+Rafik Kellou: Yes.
+William Ross: You're not you're not too tied to
+Rafik Kellou: Yeah. Yeah. I'm mostly remote,
+William Ross: anything.
+Rafik Kellou: but then time to time I go and see them live.
+William Ross: Ah, fantastic. And I have to ask, I don't know. I don't know if you watch rugby much or like the Six
+Rafik Kellou: Uh, no,
+William Ross: Nations.
+Rafik Kellou: not yet. When was it? Yesterday.
+William Ross: Yeah. Well,
+Rafik Kellou: No.
+William Ross: well, France played Ireland, I believe, on Thursday last week,
+Rafik Kellou: Ah.
+William Ross: and I have to ask you played so well,
+Rafik Kellou: Uh.
+William Ross: and I'm a big rugby fan, and I was like, "Oh, I'm from Scotland, so I'm really not looking forward to when each
+Rafik Kellou: Okay.
+William Ross: other."
+Rafik Kellou: Okay. Okay. Well, I'm not that much of a rugby fan, but uh I I guess I missed the game.
+ 
+ 
+00:06:09
+ 
+William Ross: Yeah, delighted. Well, I really appreciate taking the time to have a little chat with myself. I'm happy to give you some some background like why why I thought it might be interesting to have a conversation. I'd love to hear a bit about like your experiences as well. But um yeah, I just want to know if there's anything in particular that kind of made you want to have a chat with with myself or or
+Rafik Kellou: Yeah.
+William Ross: anything.
+Rafik Kellou: Well, I was I was I was curious. I was thinking, okay, well, what is this solution doing? Maybe I can help. I mean, maybe I can uh I don't know, ask my clients to look into it. And so, I said, okay, why not? Let's get let's give uh 10 15 let's get some some minutes to to this guy so he can explain to me what is what.
+William Ross: Perfect. Well, obviously I'd love to very happy to give you a demo, but just as a bit of like context, um, so what Funnel Vision does is we're we're in our early stage.
+ 
+ 
+00:06:56
+ 
+William Ross: We've got a few early users. A few partnership agreements have been sent out, but essentially the premise is um, we we started off as a consulting business working a lot in the go to market space for kind of the VC backed high growth B2B SAS companies. Um, and what we kind of found was kind of regardless of industry company size, there was a real problem when it came to forecasting where a lot of the pipeline review discussions ended up
+Rafik Kellou: Mhm.
+William Ross: being hygiene discussions. So, it was a lot of, you know, all the reps were the a were basically, you know, scrambling to fill out all their necessary fields and so they're not singled out. And on the call, it was like, okay, what's the next step on this deal? What's the next step on this deal? And and then often leaders were then left these conversations with kind of either either they were they were confident in their numbers which was often a bad thing because the numbers weren't weren't correct or they weren't confident in the numbers and so you're kind of left with what was the kind of the point there's a lot of manually chasing going on around that and I was thinking well there must be a better solution to this this rabbit wheel can't keep going on and on.
+ 
+ 
+00:07:57
+ 
+William Ross: Um so I spent a lot of time thinking you know like what's the kind of core problem behind this?
+Rafik Kellou: Okay.
+William Ross: what's the reason? Um, and eventually my my thesis was kind of it was kind of two-pronged. It was it's technology and it's behavior. Um, so on the behavioral side, it's reps don't really have an incentive to to to fill in their fields. You know, it's not part of their quota.
+Rafik Kellou: Yes,
+William Ross: They're they're they're the hard work hardest working lazy people you'll come across. Um, and if anything goes against their workflow or causes friction,
+Rafik Kellou: true.
+William Ross: it's just not going to it's not going to fly with them. And on the technology side as well, obviously you need the technology to drive the adoption to make it as easy and seamless as possible. So that's kind of where the idea of funnel vision was born of was can we make the hy the the pipeline hygiene for for deals super easy to to track and monitor and configure. So you're tracking what it is that matters most to your pipeline and make it really easy to surface.
+ 
+ 
+00:08:50
+ 
+William Ross: So there's no brittle workflows, there's no there's no maintenance of it. But then also at the same time for the people responsible for making those changes make it as frictionless as possible for them to update. So sending those requests directly into Slack or Teams so that the sales people without needing to break any workflow they can just make those edits where they are. Um and we've got and this is kind of like what I call the version version one of funnel vision we've got a nice road map and vision of where we want to take it which I can chat you through through the demo. Um but yeah but that's kind of the basic premise. Does that resonate at all the kind of basic
+Rafik Kellou: Yeah. Yeah. So, it's basically kind of like a a a small software that you plug into any CRM that help uh that help sales uh uh better take care of their uh their current opportunities
+William Ross: Yeah, exactly. So,
+Rafik Kellou: basically.
+William Ross: we we are HubSpot primarily first.
+ 
+ 
+00:09:41
+ 
+William Ross: So, that's the first way to attack. You're absolutely right. It's kind of built it's kind of built for sales leaders and revups but targeting the reps if that makes sense.
+Rafik Kellou: Okay.
+William Ross: So, it's kind of trying marry those two together. So,
+Rafik Kellou: Okay.
+William Ross: yeah. Yeah, you hit hit the nail on the head. Does that resonate with any of the pains you you've come across or any experiences you've
+Rafik Kellou: Well, let me think. uh in my previous my previous company it's kind of like
+William Ross: had?
+Rafik Kellou: a decent size uh SAS company in France operating in some some countries in Europe and I think in North America as well I'm not sure uh one of the headaches of the the commercial director was to uh ask the the the reps to um yeah to to to update their current opportunities. So basically they kind of like uh work so they had Salesforce they work
+William Ross: Mhm.
+Rafik Kellou: on their relationship with the with the prospects mostly out of Salesforce and they forget to move up the the opportunities that are in Salesforce.
+ 
+ 
+00:10:50
+ 
+Rafik Kellou: So that was the the the main problem for her and she was always asking them please uh you kind of almost close the deal but on stage force the deal is on stage one doesn't doesn't reflect the reality etc. So I'm not sure how this uh if it makes it easier for them to do so that would help. But uh the problem that I had in mind was purely human. I mean you cannot just they just need to to to to click on Salesforce and do the right thing at the right time and then they were just not doing it. Not always at least. Uh so yeah, I'm I'm curious to see how how this can help can make it easier uh for uh this type of um uh to make them less lazy at least to motivate them more to to to add more to be on the on the on the dayto-day. So at least their manager when it opens HubSpot Salesforce he has the real data in front of him which
+William Ross: No, absolutely. And that's the exact premise Final Vision is trying to solve.
+ 
+ 
+00:11:55
+ 
+Rafik Kellou: not
+William Ross: So, uh, let me give you a very very like it's like a three minute demo. It's a whole premise is meant to be super seamless, super easy and,
+Rafik Kellou: sure.
+William Ross: uh, yes, there's there's there's no upscaling required. Let me and I can once we've done that I can take you through a little bit of the um our vision for the future as well. So let me know if that pops up for your screen. Okay.
+Rafik Kellou: Yeah,
+William Ross: Awesome.
+Rafik Kellou: it's perfect.
+William Ross: So so before I start basically the funnel vision is built on kind of three core um premises really is surface all of your hygiene issues in one place really easily. configure those issues so you're tracking what matters most to your own goto market/s salesmotion and make those changes as easy and frictionless as possible to to edit. So the way it works is you you sync into your HubSpot environment and this literally takes like two to five minutes depending on how much data is in your in your system and you're immediately presented with like a snapshot audit of your pipeline.
+ 
+ 
+00:12:50
+ 
+William Ross: So, how many of your deals are past their close date or are stale or have missing next steps? And at the leaderboard at the bottom, you can see which of your deal owners are more on top of their hygiene relative to to others. So, it's a really good way to see, you know, which of your reps are really staying on top of their of their hygiene and making sure that none none of their deals are, you know, got got lots of got lots of issues. And so these are our pre-built ones that come out of the box with funnel vision. But obviously every sales and go to market motion have their own specificities. So we have this rules page on the lefth hand side. And in this rules page you can really create and configure any hygiene alert that you want to track across your pipeline. We pull in every single HubSpot property. Just to show you here whether it's a custom property um associated contact associated company. So the best way to describe this is really the limit is your imagination with how complex you want this the these rules to be and like how how creative you want.
+ 
+ 
+00:13:45
+ 
+Rafik Kellou: Okay.
+William Ross: So just to give you a quick example, let's say I wanted to know if my deal stage is in like lead and discovery and we pull in all of your pipelines and all of your deal stages. So whatever it is that's is reflected in your system will be here. And you want to know if like your lead source is empty or your next step hasn't been updated in 10 days. uh or if you you know if you use anom as your sales methodology or medpek or whatever it is you use and you want to know if that's empty, you can flag any of that as a hygiene issue. And there's two really powerful features to creating your own rules. Um the first is this automatically request updates from deal owners. So when this is turned off, what it means is this hygiene issue will be surfaced and you'll have manual control on when you want to request updates. But if it's turned on, which is what we'd highly recommend, um what it means is that whenever the condition of the rule is met, it will automatically send an update to the deal owner whenever whenever the condition of the rule's been met.
+ 
+ 
+00:14:41
+ 
+William Ross: So, but what you don't want to happen obviously is the person in Slack or Teams gets sent, you know, 50 plus notifications all during the day saying, "Hey, hygiene issue, hygiene issue, hygiene issue." Because that's not going to drive adoption. They're going to ignore all those messages. So, so her work around that is that when it's turned on, the the triggers will actually appear in a daily digest so that every day, every morning at like 9:00 a.m., they will get one me, one Slacker team's message that outlines all of the root deals that have been triggered in the last 24 hours. So, they can just see one message that they wake up to and go through those hygiene issues one by one at their own time and anything that's not been actioned will just get asked again the next day. And I can show you how that will look in the in the on the Slack side. And the second really powerful feature is to prescribe exactly what you want them to do with the hygiene alert because what you don't want to do is say to them, hey, here's a hygiene should go and fix it.
+ 
+ 
+00:15:33
+ 
+William Ross: So here you can type in whatever it is you want them to do.
+Rafik Kellou: Yes.
+William Ross: You can they'll they'll they'll have to be they'll fill out whatever it is that you prescribe. So so that's creating rules.
+Rafik Kellou: Okay.
+William Ross: Oops. Um and so once you've done that, once you're surfacing all your issues um and you've configured them, the question is you know what do you do about it? So, we have this fix issues page which shows you every deal in your pipeline that has some type of hygiene issue. And you can filter this by your owners, um your stages, any particular issue you're looking for. Um you can click on any deal for more information and get more context. Um and obviously I won't leave you until 9:00 a.m. tomorrow to show you how it will look. Um so just to show you um kind of how it would look manually. Um you can also see this pending requests. So you can see which which deals have had um had been have been requested in the past but haven't been action.
+ 
+ 
+00:16:23
+ 
+William Ross: So you can uh you can really configure funnel vision in a way so that it really just runs in the background um and you can just go in and log in and make sure the rules are running and that the pending requests are being actions. So but the premise here is funnel vision is a very low touch tool. It's really you set up within about half an hour and you can let this engine run in the background. Um, so just to show you all here are all of my deals that have hygiene issues and we can sort them by which one has the most. Uh, and so let's say you want to look at company 3A. All you'd have to do if you wanted to manually request it is click request update and then you would see I instantly get a Slack notification that says Williams asked for an update on deal 3A. So you can imagine from the perspective of the person receiving this notification,
+Rafik Kellou: Okay.
+William Ross: they don't need to know Funnel Vision exists. They don't need to know HubSpot exists.
+ 
+ 
+00:17:09
+ 
+William Ross: They could be on the train, at the airport, wherever it is that they're working. And this works really well on mobile as well. So, if they're on the go, that works perfectly if they just want to do it quickly, wherever it is that they're working without breaking their workflow. They just need to go, okay, what do I need to do on deal three? Okay, the amount's missing on this deal. All right. Uh, it's meant to be 10,000. And currently, there's no next step for this deal. Maybe it's schedule meeting with the CFO. And currently, the close date has been set for October 7th, which is obviously in the past. we don't want any deals in the past and maybe they forgot to push it out to to April 30th. And that's the really clever thing with Funnel Vision is that it will tell them what it what was previously in this property so that even if the next step's not been updated for like 10 days, it will come up with, hey, here was your previous next step.
+ 
+ 
+00:17:54
+ 
+William Ross: So they always have that context. So the person receiving this notification just clicks update deal and that's it. They've updated it. It tells them what they updated it with. We can view this now in HubSpot just to just to show it. And you'll see the deal amount has been 10,000, closed date 30th of April, and then the next date here, schedule meeting with the CFO. And it's got the it's got the time stamp on when it was last when the next step was logged as well. So, it's a good way to track your um how often they've been updated. And then what you're seeing here is part of that kind of daily digress queueing system that we've got. So then one by one, I can now go through and look at, okay, now I need to update these other deals or I can leave these and and sort them the next day. And and that's it. Premise of funnel vision, surface them all. uh whether it's we we we do integrate with teams as well.
+ 
+ 
+00:18:35
+ 
+Rafik Kellou: Okay.
+William Ross: So that works. So if you don't use Slack, use Teams. Uh and that's really version one. That's the the basic premise. What do you
+Rafik Kellou: Well, um um uh the fact that
+William Ross: think
+Rafik Kellou: it's simple is very nice. I like it. Obviously, you for now you're starting with HubSpot, which is I think a good bet. And you have both Teams and Slack, which is also a good bet, I think. Um, as I think about it, I'm trying to think of any clients that might that might need this this thing. I have a question. I mean, probably you you thought about it, but uh, you know, on HubSpot or any other CRM, you you're able to kind of uh oblige some some entry data at some point. So it's kind of like your your main uh your main competition I would say. Uh so can can you give me a few examples of rules that you cannot do with HubSpot?
+William Ross: Yeah.
+ 
+ 
+00:19:46
+ 
+William Ross: So, one one really clever rule that we have is um text contains because what we've often found with sales reps is when you ask them to update a next step, they might just put like TBD or TBC.
+Rafik Kellou: Ah,
+William Ross: Um, so we can create rules that go,
+Rafik Kellou: okay.
+William Ross: well, if this contains anything like TBD, TBC, flag that as a as a
+Rafik Kellou: Doesn't work. Okay. Okay. Um,
+William Ross: high
+Rafik Kellou: obviously, uh, anything related to dates, etc. Hopspot can do it. I mean, you actually can do it, I think, easier. That's a fact. I think uh a lot of my clients would love to put these rules together but they don't know how to do it on HubSpot.
+William Ross: Yeah.
+Rafik Kellou: So
+William Ross: So that's thing is Yeah.
+Rafik Kellou: probably
+William Ross: a lot of our target market is people that maybe have a limited revops or HubSpot experience as well because HubSpot is very brittle. It's very complicated and it's very high maintenance.
+Rafik Kellou: yeah it has some learning curve honestly um that's why I have a job actually so that's good for
+ 
+ 
+00:20:40
+ 
+William Ross: Yeah. Well, yeah, of course.
+Rafik Kellou: me but but I understand I understand yeah so
+William Ross: But it would make sense, right?
+Rafik Kellou: um yeah I I see some potential honestly. I mean I I I hope you have all the success in the world. Uh for now I I would think that I will keep that in mind and see if I have any clients. Most of my clients actually use HubSpot but not the CRM side, the marketing automation side and they have another CRM plugged in.
+William Ross: Yeah.
+Rafik Kellou: Um but uh if I if I come across and the only two
+William Ross: Yeah.
+Rafik Kellou: clients that I use in CRM, they are very small. They have a very small team of two three people. So I don't think this would would really uh make sense for them. Uh how about pricing etc. How how do you price this stuff?
+William Ross: Yeah. Absolutely. So, we've got we've got an early adopter pricing which is looking like 3,000 for a full year and that's
+ 
+ 
+00:21:43
+ 
+Rafik Kellou: Okay.
+William Ross: unlimited users and unlimited usage. So, there's no there's no cap there. Um looking to probably increase that to around 5,000 once we've rolled out some additional features.
+Rafik Kellou: Okay.
+William Ross: Um so, just to give you some context on the road map, what the next thing we're looking to build in is ingesting transcriptions as well. So then when a call takes place the funnel vision will basically prompt the e and rep to say hey based on the call here's what I think your close date and next step are and the person can either say yes or
+Rafik Kellou: Okay.
+William Ross: edit it because we always want to keep the human in the loop we don't want to have so it's more just saying so there's even less effort
+Rafik Kellou: Of course.
+William Ross: required for that side. So once we start rolling out that but but then anyone that's in the 300 will stay at 3,000 regardless of
+Rafik Kellou: Okay.
+William Ross: how the how the so it's not we're not gonna Yeah.
+Rafik Kellou: Yeah. The early adopter reward.
+ 
+ 
+00:22:28
+ 
+William Ross: Yeah. Yeah.
+Rafik Kellou: Okay.
+William Ross: Sorry. The last thing I say is one part reason I really wanted to chat to yourself is because we really because people like yourself know the problem statement for a lot of our client like potential prospects far better than we will. So couple of our co-founders they're they their their whole career was in partnership. So partnership is something where we're going to really lean heavily into. Um so we've got a few diamond HubSpot partners already signed up. Um so as part of our early early initial initiatives into partnerships, we've got some really nice competition plans for people like yourself as well. So we're looking at something like 50% kickback on the first engagement that you sign. Um and that will be kind of regardless of contract length and about 20% uh going going forward as well. So um if it is interesting for future clients, we can send you like a partner agreement if you want and we can kind of you know keep in contact in that side as
+ 
+ 
+00:23:15
+ 
+Rafik Kellou: Yeah,
+William Ross: well.
+Rafik Kellou: look, I I will uh if you can just send me the email or something like uh I don't know the website stuff so I can look into it later. I will think about it. Honestly, today as of today, I have uh something like I don't know maybe 10 clients, not more. Uh I hope that uh this time next year I will have more much more. Um, so I I I see the potential in this thing and uh I would I would be happily uh uh I would happy I would be happy to to share that uh with some clients and see if we can have a partnership. That that would be great. As of today, I think I would say if I have to choose, I would probably say no as of today. But I won't be I'm not close to to if I if I have a few clients. I'm starting with another client next month uh who has CRM sales part. So I will think about it and uh I'll keep that in mind maybe.
+ 
+ 
+00:24:19
+ 
+Rafik Kellou: Yeah, just uh leave a reminder uh in your in your in your pipeline to just uh drop me an email like in a month or two so we can we can I can get back to you. Um but yeah, if I if I think about it, I I will uh and your role in the company, you're like what the founder or something?
+William Ross: co-founder. Yeah. So, there's a there's basically there's like three three So,
+Rafik Kellou: Co-founder.
+William Ross: yeah, the way it's set up is basically there's there's three co-founders and we've got one well three co-founders, CTO and one one one other other member of the team. So, I work predominantly on funnel vision with our CTO and the two other co-founders they they run a services company. So we do a consulting work and that's basically we're bootstrapping funnel vision. So they're feeding the funds into funnel vision. So
+Rafik Kellou: Yeah, that's a because I have my my SAS idea as well on my side.
+William Ross: it's
+Rafik Kellou: So, it's kind of like you are me in two years maybe.
+ 
+ 
+00:25:14
+ 
+Rafik Kellou: I
+William Ross: yeah well just with with more with more people at arms because I I couldn't do what you did by myself.
+Rafik Kellou: hope
+William Ross: I need them to focus over there so I can do
+Rafik Kellou: Sure. Sure.
+William Ross: this.
+Rafik Kellou: Sure. Look, thank you very much. I I will keep that in mind. If you can just like keep keep in your mind like in a month or two, just send me a LinkedIn or an email. Uh that would be great. I will get back to you for sure.
+William Ross: Absolutely.
+Rafik Kellou: Uh I will also look at your you already have a website ready etc. Right.
+William Ross: Yes. Let me I'll just pop it in the chat quickly just see if you see
+Rafik Kellou: So that would be great.
+William Ross: it.
+Rafik Kellou: So I can also look into it and um yeah do they have some competition? No, not
+William Ross: This is a not really because a lot of people do prefunnel postfunnel like dduplication but
+Rafik Kellou: really.
+William Ross: um no one tackles pipeline hygiene and the the two diamond hubs partners we've spoken with who obviously know a lot in the app space they haven't really come across anything like it either
+Rafik Kellou: Mhm. Okay. Look,
+William Ross: so
+Rafik Kellou: I would definitely uh come back to you in a few weeks.
+William Ross: perfect really appreciate the time really appreciate the the feedback
+Rafik Kellou: Uh thank you. Thank you. Thank you very much. See you.
+ 
+ 
+Transcription ended after 00:26:43
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

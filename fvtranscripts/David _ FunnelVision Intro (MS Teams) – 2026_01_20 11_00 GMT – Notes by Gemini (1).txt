@@ -1,0 +1,316 @@
+﻿Jan 20, 2026
+David / FunnelVision Intro (MS Teams) - Transcript
+00:00:00
+ 
+David Gauld: I'm um uh discussing kind of FY27 for. Anyway, uh so I am well and thank you for bearing with me whilst we've been looking to get this conversation um had I've had a couple of things to have just been um time bound deadlines which have not been able to move kind of um submission dates and that sort of thing. So again,
+William Ross: No,
+David Gauld: thank you for for being
+William Ross: not not at all. Not at all. I mean, yeah, to totally understand it. I actually, it was really funny when I um I was doing a lot of like um outbound stuff before Christmas to the point where my first week in January was obscene. It was like 20 plus calls and I wonder if it was everyone was happy to say yes prior to the holidays and then a lot of it was a let's just say rescheduled once the first week comes back and everyone's oh criy that start to the new year was horrific
+David Gauld: Uh yeah. Yeah, I I definitely had the fullon start.
+ 
+ 
+00:00:49
+ 
+William Ross: for
+David Gauld: I mean, it was a full-on end. We've just had um we've just had one of if not the best year commercially for um uh landed deals in December in the company's history.
+William Ross: Wow.
+David Gauld: And it's it's it's because the frame's gone through a significant structural shift in the past 18 months. We've we've diversified away from um one or two specific verticals and have grown a growth team which is focused on um uh still three main um areas of of interest for us in terms of our pedigree and our history and our consultancy. But but um focusing out into different markets that allow us to not be so reliant upon one particular industry which might suffer a shock and then that hurts the company in terms of what because
+William Ross: Cool.
+David Gauld: consultancy is it's not body shopping obviously. Um but you are dependent upon people needing consultants if you're in a rinse and repeat environment rather than going out for new business. Um, so we've we've got uh an excellent growth engine which has really in again this past 18 months just kicked into gear.
+ 
+ 
+00:02:12
+ 
+David Gauld: But what it means is because we're a small company, there's a lot to do for a lot of people in a lot of different areas. Um, which is great. It's good. These are good problems to have. Um, but yeah, the end of the year and the return um of the new year have been frantic. um as as you say a lot of your customers are are no doubt feeling the same.
+William Ross: No.
+David Gauld: So definitely not a fob off because I know when we spoke it was um uh Slack was a main integration and Teams was something that was going to be of interest for you to look at.
+William Ross: Huh?
+David Gauld: Um I don't want to presuppose what you want to tell me obviously or indeed ask but um yeah it's uh I mean efficiency is kind of like my watch word and whatever I can do to make the team more of that is always to the
+William Ross: Yeah, I mean it sounds like especially with the what I've often found is when you have like rapidly growing companies, the first thing that people forget about is the growing successfully, right?
+ 
+ 
+00:03:08
+ 
+William Ross: Because everyone's everyone's excited, you know, the money's coming in, the the deals are flowing in, but the growing pains are the unsung villain sometimes that go that goes unbidden.
+David Gauld: Yeah.
+William Ross: So I imagine a lot of you rest on your shoulders to make sure that you know you know you're not just growing arms and legs everywhere, right? It's all about maintaining it and containing it a little bit and having it controlled and making sure that it's reasonably efficient
+David Gauld: Yeah.
+William Ross: growth.
+David Gauld: and and the the thing like being greed in the sum of our parts. You know, one of the things which is incredibly important is just to be kind. You know, there are a lot of um people doing a lot of things in the right areas in the right places and and um part of that ability to be kind to one another is to reduce friction. Um and a huge amount of that reduction of friction in um you know those kind of uh those insidious little time thieves where um something could be automated out the way if it's you know the the use of CRM CRM integration for you know mail clients or um forms or you know anything like uh WhatsApp into the C all those kind of things that mean conversations aren't repeated and um you know everyone has access to the right information at the right
+ 
+ 
+00:04:24
+ 
+David Gauld: time and you don't have the less human interaction there needs to be the better. I know that sounds awful. Um, but one of the best things I can do is is to stop people having to talk to me, you know, because it means that they can uh they can manage the deals faster with a very clear and transparent process that
+William Ross: Yeah.
+David Gauld: allows them to go from A to B um and all of the in between um obligations that they
+William Ross: Mhm.
+David Gauld: they have to to see to because it's not it's not a linear thing to close a deal in consultancy. I know with SAS where I've been previously, it's it's tins of beans and you're selling them. um you've obviously still got the negotiation,
+William Ross: Mhm.
+David Gauld: you've got the implementation and so on as well. And then you've got um your your customer success that goes off the back of that. So communications with your customer um hugely important throughout, but you are selling the same thing just numbers of it.
+ 
+ 
+00:05:12
+ 
+David Gauld: Um whereas with much more bespoke um contracting arrangements as as consultancy is there are a lot more people involved and it's about again streamlining the number of people who need to be involved at the right points at the right times so that you don't have um one meetings for the sake of meetings and two meetings which generate their own gravity as well. Um and that's true as well for um teams uh and channels within teams not having you know all of the white noise against um what's going on for a wider group of people. you know, we've got very defined um responsibilities commercially and technically as well. And it's about the matchmaking service of, you know, oh, we've got this opportunity come in. These are the right people that need to be activated based on the tagging of the opportunities and that's a constant process that's an involvement. So, um, you know, when the opportunities are created, making sure that the right notifications go to the right people and so on and so forth. So yeah, anything which um with teams being the tooling because it's Microsoft house internally um that is uh able to be mirrored in what you do with your integrations and tooling into Slack.
+ 
+ 
+00:06:25
+ 
+David Gauld: Um if it were to be a benefit here to us then you know maybe there is something that we'd be able to sort of kind of work
+William Ross: Sounds great. And do you use what's your do you use HubSpot?
+David Gauld: together.
+William Ross: Okay. Awesome. So, just just clarifying that and yeah,
+David Gauld: Yeah.
+William Ross: perfect. I'll get happy to give you a quick demo. I can give you some context of how we came about it or I'm happy just to dive straight into
+David Gauld: Do whatever's whatever's easiest.
+William Ross: what's in which
+David Gauld: I do have a hard stop at half past. Um, but do do whatever's
+William Ross: case let's dive straight into it and I can give you some some context as as we go.
+David Gauld: easiest.
+William Ross: So let me know if that pops up for yourself.
+David Gauld: Yeah, I can see my head.
+William Ross: Okay.
+David Gauld: Um, big as well as the screen. How do I minimize myself? Minimize. There we go.
+ 
+ 
+00:07:01
+ 
+David Gauld: Right. Cool.
+William Ross: Perfect. So so yeah.
+David Gauld: Yeah.
+William Ross: So um so funnel vision basically was born out the idea that um there's basically a big a big behavioral problem when it comes to to to to pipeline hygiene or or deals deals in your pipe because you a lot of times you don't want your sales reps or people deal owners more generally to be um constantly updating their their their CRM the context shifting and basically because the data is really is generally really bad because the data is not up to date leads to bad forecasting decisions people like yourself are you know getting a bit imagine pulling your hair out trying to get all the information down.
+David Gauld: Yeah.
+William Ross: So, so we tried to to to streamline this uh in a very very clean and efficient and most importantly intuitive way because we basically wanted Funnel Vision to be a tool that requires next to no upskilling or onboarding. It's meant to be a very seamless um integration. So, so the way it works really simply is you sync up Funnel Vision into your HubSpot environment and this usually takes between two to five minutes
+ 
+ 
+00:07:51
+ 
+David Gauld: Yeah.
+William Ross: depending on um how much data is in your system. And then once you've got that sync ready to go, you're immediately presented with with what I consider a really snapshot audit of your of your pipeline health. So how many deals in your pipeline are past or close date or don't have a next step assigned to it or are stale because they don't have any activity um engaged engaged on the deal. Nice snapshot audit.
+David Gauld: Yeah.
+William Ross: At the bottom you got your hygiene leaderboard. So which of your deal owners are more on top of their hygiene compared to others? uh and a couple of our co-founders, they are um real real sales people backgrounds and I was always questioning like why does it have to be a leaderboard and they were saying
+David Gauld: Sales people like a
+William Ross: because exactly to to a to a te they love a leaderboard so obviously I
+David Gauld: leaderboard.
+William Ross: had to artificially because I I wrote all the dummy data I put myself as number one because I you know because I can um so it's basically seeing and tracking you know across how many deals they own how many issues do they have and it's just a good way for them to see um and you can track this over time how how how they're coping with their with their hygiene and how is it evolving over time?
+ 
+ 
+00:09:01
+ 
+William Ross: Now,
+David Gauld: Yeah.
+William Ross: obviously, every go to market sales motion has their own specificities. Um, so we don't want to just let you only have these snapshot audit common hygiene um issues. So, we have a rules page and in this rules page you can we could because we pull in every HubSpot property whether it's custom property, um, associated contact, associated company, we pull in absolutely everything. So the best way to describe this page is the limit genuinely is your imagination. So you can create any in any rule to flag any hygiene issue that you care about in order to
+David Gauld: Mhm.
+William Ross: determine whether your pipeline's healthy. So um we can I'll make one from scratch just to just to show you. So all you have to do is name your rule. So let's say I wanted to know if a deal is in late stage um with no amount. I want to know if a deal is in its late stage in the pipe and there's no amount assigned to it. Really simply HubSpot property,
+ 
+ 
+00:09:55
+ 
+David Gauld: Yeah.
+William Ross: right? Deal stage and we'll be pulling multiple pipelines and all your deal stages. Um, so you can you can put it in if it's empty,
+David Gauld: Mhm.
+William Ross: if it's not empty. But let's say I want to know if it's in late stage. So if it's a negotiation solution confirmation and I want to know if the amount is empty, whatever. Um, and you could you can imagine you can get really creative.
+David Gauld: Yeah.
+William Ross: You can you whatever it is you want.
+David Gauld: Yeah. Yeah.
+William Ross: And then at the top,
+David Gauld: Yeah.
+William Ross: it's really cool. You get this little uh AI summary here to show you like what it is the deal what the what it is that the rule will do. So it says if deal stage is a negotiation or solution confirmation and the amount is empty,
+David Gauld: Mhm.
+William Ross: surface that as a as a hygiene issue. So there's two really really powerful features to to creating your own custom rules.
+ 
+ 
+00:10:46
+ 
+William Ross: The first is this automatically requests update. So what this does is when this is switched on um it will the well actually when when the rule when when it's switched off the rule will be flagged as a hygiene issue and then you'll have manual control to request the update whenever is you want. So you can you can go through funnel vision and say right these issues have been flagged I want to update them. you can request an update to the deal owner, but when it's turned on, it basically just runs in the background autonomously 24/7. So that whenever the condition of the rule is met, it will automatically send um an update to uh send a request update to the deal owner. But crucially, what you what I'm imagining right now is you don't want that person, the deal owner to be spammed, you know, 247 with 30 update requests throughout the day because that's going to absolutely bombard their their teams page. So, so we created a daily digest format. So, when it's turned on, they get the deal owner gets one message at 9:00 a.m.
+ 
+ 
+00:11:34
+ 
+David Gauld: Yep.
+William Ross: with every deal that's been triggered in the last 24 hours in a single message. And then they can go through those deals one by one in their own time. And if anything's not actioned, it will get asked again the next day. So, you could theoretically just create all the custom rules that you care about and have this run in the background 24/7 and just log into Funnel Vision every so often just to make sure that the rules are being executed okay and if there's anything you want to amend. So, so that's one really powerful feature.
+David Gauld: Yeah.
+William Ross: And the second one is this one, which is which fields should be listed when updates are requested for because what you also don't want to happen is you ask for an update, you know, on this rule that the mount's missing, and then the person has to figure out what it is you want them to do with this trigger. Whereas with this option, you're literally going to tell them, I want you to fill in the amount or I want you to fill in the the lead source or whatever it is you want them to do with the rule.
+ 
+ 
+00:12:33
+ 
+William Ross: That's what they'll do. So there's no thinking required on the person receiving this notification. It's very clear this is what I need you to do to fill in the information. And you just and then as additional information,
+David Gauld: Yep.
+William Ross: you can put in a reason for the request if you just want more context, but that's optional. And you just create the rule and that's it. So, I'll just turn that off just now just so it doesn't play around too much. So, once you've done that, once you've created all of the issues that you care about in order to determine whether your pipeline's healthy and you're surfacing all of those issues in one place, the question is what do you do about it? How do you how do you how do you fix this? How how do you actually solve anything? And so, that's why we have this fix issues page. And what you see here is every deal in your pipeline that has some type of hygiene issue. And you can click on any of them for more information.
+ 
+ 
+00:13:18
+ 
+William Ross: You can go straight to the HubSpot by clicking on the icon. It'll tell you which hygiene issues they have, and some more context about the deal. You can filter by deal owner, um the stage that it's in, um any specific issue you're looking for. You can also look for pending requests. So, these are requests that have been asked for updates in the past and haven't been action. So, you can literally log into Funnel Vision and go, I want to know these pending requests, click on it, and just see which ones have been um asked in the past and then haven't haven't been actioned. So, just to show you the kind of manual one.
+David Gauld: Yep.
+William Ross: So, I want to look at my deals with issues. What you're seeing here is all of my deals that have hygiene issues. And obviously, I don't want to wait. I'm not going to be on a call with you till 9:00 a.m. tomorrow. So, I won't wait for my daily digest. So, if you imagine whether or not you have the the daily digest running or not, you will always have manual control.
+ 
+ 
+00:14:07
+ 
+William Ross: So, you can see here I I requested an update today and I've not actioned it. And I requested an update six days ago. I've not actioned it. So, let's say I want to request an update on this deal. All I have to do is click request update for deal G. And if I go to my teams, you'll see here I get a notification instantly. So you can imagine this, the person receiving this could be on the train, at the airport, wherever it is that they're working. And it also works really good on mobile. So they could literally just be on the go and it gets, hey, you want an update on DG, but also there's other pending requests. So you've as you've just asked for an update on DG, but you can also view all of your pending deal request updates. So, we can just do DG here. And so, you'll see here some more information, what the company is, what stage it's in, the amount, why it's miss, what's missing. Okay, the amount it's missing.
+ 
+ 
+00:14:55
+ 
+William Ross: Oh, I need it's 10,000. The the next step is missing. And what's really cool about like things like the next step is if there's already a next step in here, it will tell them what the current value is. So, they'll always have that contextual information on a deal.
+David Gauld: Thanks.
+William Ross: They just go schedule meeting with the buyer and pass the close date. It's currently set for January the 5th or maybe it's meant to be in March 31st. The person receiving this just goes update deal. They don't need to know Funnel Vision exists. They don't log into HubSpot and that's it. And if they have the time, they can go and view their other pending requests and that's an action. You can view this in HubSpot. So just to show you here. So you see here the deal for G is set for 10,000 31st of March and then the next step even clocks the date at when the next step was assigned as well.
+David Gauld: Cool.
+William Ross: So you can also track when the updates were made there.
+ 
+ 
+00:15:45
+ 
+William Ross: So so that's really the basic premise of funnel vision. It is three things. surface all the hygiene issues in one place, configure them to what you care about in your pipeline, and then streamline the fixes so that it's all in one place and they can just do it through Teams.
+David Gauld: Okay, that's good. Um, are your teams integrations
+William Ross: Uh, mostly live.
+David Gauld: live?
+William Ross: Yeah. So, we've got a couple early design partners on the go just out there. You can imagine we're still quite early on it, so there's still a bit tweaking,
+David Gauld: Yeah.
+William Ross: but yeah, it's it's pretty much live now.
+David Gauld: Okay, cool. Um, and what does it
+William Ross: So, for our early adopter program,
+David Gauld: cost?
+William Ross: we're looking at about 3,000 for a year, and that's unlimited seats, unlimited usage. And that price will go up to about 5,000 once we've locked in a couple more um early early adopters.
+David Gauld: Okay. Okay. Um that is very interesting.
+ 
+ 
+00:16:44
+ 
+David Gauld: Um, what I would want to do is so I have a hygiene call with all of the reps every week. Um, and I have a hygiene dashboard which um,
+William Ross: Mhm.
+David Gauld: I have integrated into teams already. Uh, so I'm trying to think of where beyond sending the updates back to HubSpot via Teams, there isn't functionality that I can't build myself. I'm not I'm not saying that to to to do down what you've shown me because what you've just shown me is fantastic. Um, but I can also set up notifications back to people. But it is that two-way sync from Teams into HubSpot that I don't have. Don't know that I could manufacture that either. What I'm trying to do is justify the expense in my head.
+William Ross: Yeah, of
+David Gauld: Um the unlimited number of seats is obviously very good.
+William Ross: course.
+David Gauld: It's very interesting. Um £3,000 a year is um you know, in the grand scheme of things pennies. Um when I think about my tech stack, it's about whether or not I'm introducing another tool that I don't need to.
+ 
+ 
+00:18:02
+ 
+David Gauld: I like it. I I really do like it. Um, but what I'll do is Could you send me this recording? Would that be okay?
+William Ross: Yeah, of course. Absolutely.
+David Gauld: Awesome. What I'll do is I'll have a conversation with Dan,
+William Ross: Yeah.
+David Gauld: who's my immediate boss. He's the in any other company be the chief rev officer, right? Um, but he's the chief growth officer. That's that's I'm doing a disservice to his title, right? He's not he wouldn't be the chief rev officer. He is the chief growth officer and it spans a broader remitt. Um, but I guess sort of that's the kind of title that would make it life easier to to think of what he is there. Um, so I'll have a conversation with him. We'll review it together. Um, I like it. Anything which is going to I mean, so this is this is my and I know you might think, God, this isn't going to go anywhere.
+ 
+ 
+00:18:46
+ 
+David Gauld: Um, but this is my thing. Would one hygiene correction in the CRM fix and save a deal that was worth a million pounds? Right?
+William Ross: Yeah.
+David Gauld: That's that's how I think about this because what percentage of the cost is three grand to the
+William Ross: Yeah.
+David Gauld: saving of one deal, right? It's massive obviously and the cost becomes irrelevant. It's about the friction and it is about is this going to in the tech stack is this going to make life easier for us
+William Ross: Mhm.
+David Gauld: or is it going to be another thing to because again that rules management and building it am I going to be replicating because we use PowerBI for a lot of the like all of the stuff is um ingested into the data lakeink which then you know we've got uh various other tools um from HR through to resource management and stuff that are all filtered into that one place. Um so there may be considerations there to think about but because this is isolated to within the CRM doesn't kind of play with any of those other tools because it doesn't need to.
+ 
+ 
+00:19:42
+ 
+David Gauld: Um but there is a consideration about would further down the line um our finance team say well actually we can serve up these insights to people through the other tooling that we've got. So it might be that I have to have conversation there to to understand whether or not I'd be allowed this expenditure. Of course, we have a budget for the sales team and so if that were to be accepted within part of that budget package, then that's totally fine, right? Um and there's a degree of um autonomy obviously uh as to how we want to spend it. So my this is I'm I'm trying how do I pitch this, right? Because I I mean I couldn't just like put in a bit of tooling for three great 3K and people go, "Oh, that's fine." Um I would have to justify and the justification is are there any instances where we've had deals in which hygiene was the issue that caused it to be lost? If the answer is yes, then getting this bought into internally is very easy because as you say, the sellers would never really need to know this existed as a thing.
+ 
+ 
+00:20:35
+ 
+David Gauld: Um, which in of itself, you know, people like operations is working when you don't know it's
+William Ross: Yeah, exactly. It's the ironic thing. I say about data hygiene is it works when you don't know it's a problem.
+David Gauld: there.
+William Ross: When it's when it's not a problem, it's taken for granted. And only when it's a problem, people go, "We need to solve this. We need to fix this.
+David Gauld: Yeah, absolutely. So, I'm I'm I'm trying to be um I'm trying to go with radical cander here.
+William Ross: No,
+David Gauld: I'm trying to be as transparent as I can with uh with how I'm thinking about this.
+William Ross: I appreciate it. The other way, the other way,
+David Gauld: So
+William Ross: another element because a couple other other adopters what they found useful from it was was two things that may resonate with yourself or not was um one was the time saved by the reps or
+David Gauld: yeah,
+William Ross: the deal owners not having to log into the the CRM.
+David Gauld: yeah,
+William Ross: So that was that was one.
+ 
+ 
+00:21:17
+ 
+David Gauld: yeah. No, no, no. And that that's perfect. Again, it's it's that conversation about friction,
+William Ross: Yeah.
+David Gauld: and I'm using it as a as a sort of a watch word for all of these things. And it is about um you know time is more valuable than cash in many respects because one is more finite than the other. Right.
+William Ross: especially in the service businesses,
+David Gauld: Um yeah precisely.
+William Ross: right? Time is literally
+David Gauld: Precisely.
+William Ross: the
+David Gauld: So I like it. Um I can see where it would benefit. I'm just trying to I'm trying to justify it internally in my head. Um and if we were to
+William Ross: just again this may again resonate with you. Has there been a time where you've had a forecast call with like your C, chief commercial officer, CRO, whoever it is, based on based on data that's maybe out of date or is bad. So the
+David Gauld: Come on now.
+William Ross: reason
+David Gauld: That's a that's a very easy question for you to ask and know the answer.
+ 
+ 
+00:22:05
+ 
+David Gauld: Every company has, of course, they have um you know like the the the the whole idea of you know there are there are certain
+William Ross: Yeah.
+David Gauld: sellers throughout my um life doing this spanning the companies I've done it um where they say oh um Thursday is my CRM day and I just I feel myself withering inside right you
+William Ross: Yeah.
+David Gauld: know but you you get the same things from the same companies from the same departments time and time and time again and it is about um the ease of access and the speed with which they execute. Um, so of course that conversation has come up,
+William Ross: Mhm.
+David Gauld: you know, and of of course I've been in situations where people go, well, my version of this report says that and you go, "Oh no." Um, so things are decentralized and that causes an issue. Um, okay. But I think, right, so you know where my mind's at.
+William Ross: Yeah, of
+David Gauld: I need to go conversation internally. Um,
+William Ross: course.
+David Gauld: I need to I need to try and come up with some tangible instances of where this would have saved a deal.
+ 
+ 
+00:23:04
+ 
+William Ross: Mhm.
+David Gauld: Now that could be um conversation was missed between people internally and this would have resolved that. For example um you know the example of uh one person not recording something in the CRM meaning that three other people needed to have the same conversation you know and one person in the middle is getting
+William Ross: Yeah.
+David Gauld: increasingly exasperated and so um you know there are things missed. Uh I'm not saying that has happened. I'm saying I need to go and find areas of where that may have happened and and could we have um been made situations more amicable. Again, this whole idea of being kind. Um and that's as much with the automation of data. Um and the the dissemination of that insight that somebody has to the to the right teams at the right time. So yeah, let me go and figure those things out internally.
+William Ross: I
+David Gauld: Um I I've got some more deadlines, so I won't be able to have the conversations I want to this week because we've also just had the execs at a couple of off sites and so they've got a lot to digest.
+ 
+ 
+00:23:59
+ 
+David Gauld: Um this is so this is the week ending the 23rd. Um and then I've got some uh some submissions that need to be live by the 30th. I think um next week would be a good sort of touch base point.
+William Ross: Yeah.
+David Gauld: um like the same time next week,
+William Ross: Yeah.
+David Gauld: whether it's Tuesday or Tuesday,
+William Ross: I'll pop a place.
+David Gauld: Wednesday. Yeah.
+William Ross: I'll pop a place.
+David Gauld: I mean, it might it might just be to give me a bump,
+William Ross: Yeah. Yeah. No,
+David Gauld: right?
+William Ross: of course we can. Yeah.
+David Gauld: Cool.
+William Ross: Don't worry.
+David Gauld: Okay. But look, um thank you very much for your time, dude. I appreciate it. Tool's very cool.
+William Ross: No,
+David Gauld: Um how many customers do you have at the moment?
+William Ross: we have five five on the
+David Gauld: Five.
+William Ross: go.
+David Gauld: And what's the um what's the turnover size of those companies on average? Are you working with big
+William Ross: Mostly a couple I'd say our largest size is about 200
+David Gauld: or
+William Ross: people. Smallest we've got ones down to about 30 to 50 people.
+David Gauld: okay interesting? So, um probably looking somewhere between oh like 40 to 60 for the 200. Okay.
+William Ross: I also just I popped our website in the chat just because um if it's easier as well there's a there's a very like there's like a threem minute demo on on our
+David Gauld: Awesome.
+William Ross: website as well. So pop in the
+David Gauld: Nice one. I shall um I shall forward that on uh when I'm having these conversations with uh Dan is his
+William Ross: chat.
+David Gauld: name, my my um my boss. So um I mean he'll be interested in this, right? Anything which makes life easier is always of interest.
+William Ross: No. Yeah, absolutely. And if is there anything I can do to help me with on the business case?
+ 
+ 
+Transcription ended after 00:26:05
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

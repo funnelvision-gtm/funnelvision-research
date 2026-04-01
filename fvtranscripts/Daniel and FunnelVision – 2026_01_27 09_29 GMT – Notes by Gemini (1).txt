@@ -1,0 +1,262 @@
+﻿Jan 27, 2026
+Daniel and FunnelVision - Transcript
+00:00:00
+ 
+Greg Petherbridge: just to give you a bit of a look about at what we're building. Um, you know, get your feedback on it, maybe hear a little bit about your world and kind of how you might try solve this today. Um, and you know, if if you want to get access to it on on the trial version at the end and play around with it, happy to give it to you. But um no really we're just grateful for the feedback today and um yeah want wanted to hear a little bit more about your world world and uh build up more and more conversations with these RevOps people and working in different places just to to kind of get an idea of of where the road map needs to go and and um just make sure we're kind of heading in the right direction.
+Daniel Elebert: Yeah. No, absolutely. That's fine. Sounds
+Greg Petherbridge: Cool. Um but but yeah I might just just start by um giving a bit of an intro to us and and to kind
+Daniel Elebert: great.
+ 
+ 
+00:00:45
+ 
+Greg Petherbridge: of how we got here um with myself, William and and two others and then another one joined on the journey. So between four and five people we had a a go to market consultancy called CG Partners. So we all kind of came from various backgrounds um that we just joined joined along the way and in my last company and and William was was elsewhere but um we effectively helped founders uh in that kind of seed to to series B stage set up their go to market functions. So that would kind of be a pretty wide scope depending on the project, but it could be, you know, as as granular as like nothing there and setting their sales process from medic and CRM and kind of all those found all that foundational stuff. It would be kind of fractional AES and helping them sell the product themselves, run founderled sales, be setting up BDR functions, revops teams, things like that. And um ultimately kind of the the common thread we saw was that whether it is the the investors or um sales leaders looking for information on on their forecasts and and kind of accuracy of their pipeline.
+ 
+ 
+00:01:54
+ 
+Greg Petherbridge: Seeing it from the other side and knowing what sellers are like and being a seller myself, I kind of know how selfish and in your own world they can be. And um ultimately I've seen it from the other side where you're either sandbagging deals to get to the next quarter. You're either kind of fluffing things up because you're scared you're going to lose your job and you know you need to make your pipeline look look somewhat good. Um you're either just lazy and you don't fill in any details and you know when the knowledge sits with me I know it's in my deal I don't really need to put it in the CRM. um all those things we felt kind of contributed to a problem that wasn't really discussed or isn't really acknowledged which is like the actual health of of how you forecast your pipeline. Um so ultimately we we kind of looked at different ways of trying to tackle it and obviously AI is where everyone's jumping these days but one thing we found with a problem like this is if you just shove AI onto a problem where data is already bad it's just going to accentuate the problem.
+ 
+ 
+00:02:49
+ 
+Greg Petherbridge: So, um, we kind of went for more of a work workflow type solution and and tried to meet sellers where they're at, which is for us at the moment Slack or Microsoft Teams. Um, so we're really trying trying to solve three things. One, kind of the visibility for leadership, whether that's founders, CRO, sales managers um on on kind of what's what's in the pipeline, what's missing, and and kind of what reps need to be nudged to update. Uh secondly, whoever manages those nudges and whoever's chasing reps, whether that is a manager or a rev ops team, um we want to give them, you know, a place where they can set up automated rules, you know, create their own and um ultimately kind of have this ticking ticking system in the background that that kind of helps reps just keep this this whole thing thing healthy. And then finally, yeah, as I kind of said, is is letting reps be able to update the CRM straight from Slack or Hub or or Teams and based on these nudges, and they know there's there's a very specific thing to fix.
+ 
+ 
+00:03:45
+ 
+Greg Petherbridge: Um, so yeah, re really that's that's where we sit. Um, yeah, I'd love to hear a bit bit more about your role and kind of where your team's at at the moment and um, yeah, just kind of how you guys tackle tackle things like that.
+Daniel Elebert: Yeah. Yeah. I suppose I mean a rising out the last 18 months.
+Greg Petherbridge: Nice.
+Daniel Elebert: So was one of the first hires. So we had Kevin O'Neal who came in as our CRO. So we're private equity back company. So obviously has its own pressures. So really came into a company that's grown through organic and a lot of inorganic growth through acquisition. So you can only imagine how messy kind of the CRM was and they didn't have a rev offs function. So coming in on that I suppose the first six to 12 months was kind of steady in that. But then it's kind of to your point now especially from we're private equity backed everything's kind of data driven. H we're kind of unique that we're not a full SAS company.
+ 
+ 
+00:04:34
+ 
+Daniel Elebert: So we're kind of enterprise solution. So another thing that falls in our radar is is the forecast and kind of pipeline element. But also my day-to-day job is that revenue bridge between sales and actually when revenue hits the P&L comes into the business which is kind of I think from a private equity point of view is is a big thing. I I was previously in Twitter which was ad revenue. know SAS instantaneous. So you were reporting on what was people's pipeline as to what actually came in whereas here it's a bit tricky that we could have 9 to 12 months of a of a delta between a project kind of gets uplifted or gets going. So yeah to your point all those sort of kind of pain points again being in when I was in Twitter after it was acquired but seeing what the structures were in a good GTM organization too then it was on fire but it would have had the fundamentals of the systems and stuff in place and there was a lot of senior reps there to when I came here more so again through I say more so through acquisition kind of reps that are siloed and kind of get away with certain amount that we've been constantly looking at kind of ways to improve that.
+ 
+ 
+00:05:39
+ 
+Daniel Elebert: Um we were pushed towards a solution probably similar to yourselves in the same sphere called EPA. Um they're London bas software but that was that was recommendation from our private equity firm. I think one of the partners is I don't know you must be on retainer there or something but that sort of thing. So I think what we're looking at and I suppose from our point of view it's we've a team of 27 sellers. Um we still have kind of directors CRO all all carrying out sales again which which doesn't help with the data quality in the system. So one one person revops so that again has its own challenges with bandwidth and and being pulled in other places. So recent we've actually got someone in to help us with the sales process enablement side but again he has an extensive background. these 10 15 years in Salesforce but trying to get that okay worked in an 8,000 person organization and we have all these great ideas but when you're kind of resource strapped time strapped in this kind of private equity world and you're still kind of getting pushed to push out the same sort of forecasting accuracy around that it's it's been quite difficult um and as well something that would help me or help anyone I don't know if it's in your product or in your road map just around that acquisition piece is when we
+ 
+ 
+00:06:54
+ 
+Daniel Elebert: acquire a company is getting their information over and getting them up and running within our system as fast as possible and carrying over their historic. It's just a nightmare really. It's just it's just it's a ball. It's time consuming. So that's kind of the world we see in them. We're kind of getting better from that perspective. But so we're engaging with a Salesforce partner. So just to show what kind of space we're in, our Salesforce license, even though we're an Irish company, is contracted through a German entity because we acquired them and they had a bigger Salesforce system. We have four instances. It's just it's just messy. So, in terms of when we look to software like this, as to your to your point, we can't just throw AI on it when we know it's bad data, but it's kind of helping us fill in those gaps and then at the same time really making sellers lives easier. Um to your point, I seen it when I was in uh Twitter.
+ 
+ 
+00:07:44
+ 
+Daniel Elebert: The only thing that really c really mattered at the end of the day because I was on all those kind of kill kill sheets or who's getting fired this week. It was what what deals have you won and your client engagement. They were the only two metrics that really saved you from getting the sack. So, and it's trying to get that point across to sellers that yeah, there might be one and two sellers in every organization that don't have to have good CRM hygiene, but they're your top performers. They're bringing in a couple of million a year, but at the end of the day, this is the information that shows you're working and it kind of saves your job in that
+William Ross: Oh, you're on mute,
+Daniel Elebert: sense.
+William Ross: Greg. I'm the tech guy here.
+Greg Petherbridge: No.
+William Ross: That's what I'm here for.
+Greg Petherbridge: Yeah, he he keeps me on on the straight and narrow. Um, no, really insightful,
+William Ross: Daniel
+Greg Petherbridge: Daniel. Um, yeah, I think sorry, one thing I did fail to mention was a lot of our most all of our work really on the consultancy side was was with VC back companies.
+ 
+ 
+00:08:37
+ 
+Greg Petherbridge: So, it is kind of the genesis of the idea is that kind of top down pressure of of eyes on it. And it's just by the time you get to that very last seller, they're not thinking that what it really matters what they're entering into their deal. they kind of know themselves if they're going to close it or not or or kind of they know how to play the game a lot of them. Um so so when when it comes to like directors and and you mentioned kind of a few senior sellers are involved in selling when the the pipeline hygiene falls is that falling on you or is it kind of a collective effort for for them to just be nudged to do it or or how is that addressed?
+Daniel Elebert: It's so the way it works here is generally we'll have it to a certain stage it'll be floating around the same forecasted figure which is fine. Uh and then it's it's more so our CRO will come in and eyeball it and and from that you might have so we have three divisions bank lending uh collections recoveries and credit and debt.
+ 
+ 
+00:09:28
+ 
+Daniel Elebert: Again it would just be them eyeballing to say more so on the bigger deals. So we'd only have a handful of deals over a million or or we'd have you'd have enough about 150 deals over let's say 100k that you can really eyeball and see but the rest of it could just be fluff. So I even I ran an exercise I think yesterday. So I think we created 65 million worth of pipe last year in year but from that 12 close one 12 close loss. So there's 35 sitting there that if you really did a deep dive, what's going to happen with it? But again, it's just resource and time and stuff. And again, we're trying to get to that magic 3 4x of target sitting in our pipe. So again, it's nice to have a bit of fluff in there, but you you want to quantify it a bit more.
+Greg Petherbridge: Yeah, 100%. Um, and sorry, you mentioned you're on Salesforce at the moment.
+Daniel Elebert: Yeah. Salesforce. So I know and yeah, try.
+ 
+ 
+00:10:23
+ 
+Daniel Elebert: So that was the first thing.
+Greg Petherbridge: Okay.
+Daniel Elebert: Everything when I first came in was kind of on Excel shed spreadsheets and out of the system. So at least we built out dashboards, got reporting in the system. I know in Twitter they had a system called flight plan which again was looking at the revenue data and the CRM data and that was that was pretty s*** hot but again that was built when they were throwing cash at a lot of stuff and I we don't have those resources at the minute unfortunately but we do have a global head of data who joined us from Google. So we're kind of building that that stuff out in data lakes and stuff but we're miles away from it. But that would have been kind of what the optimum what I would have seen in there. But again, it was a a money wasn't an object kind of spend. But it was quite
+Greg Petherbridge: Yeah,
+Daniel Elebert: good.
+Greg Petherbridge: I mean usually uh what we see is that a lot of kind of early stage companies end up on HubSp or start on HubSpot and then kind of graduate to Salesforce.
+ 
+ 
+00:11:12
+ 
+Greg Petherbridge: So the the first version of the product for us has been focused on HubSpot, Slack and Microsoft Teams as as the messaging bots. So Salesforce is a bit of a heavier lift. So that's that's something on the road map. So unfortunately I don't think a trial for you would be much use. Um,
+William Ross: Unless you're willing to get some HubSpot
+Greg Petherbridge: unless you're
+Daniel Elebert: No, I'm I'm currently currently trying to get rid of the Zoho licenses.
+William Ross: licenses.
+Greg Petherbridge: what?
+Daniel Elebert: I've acquired them from an acquisition. So, that was actually looked like a pretty good system in fairness. Again, that's kind of the the smaller market. So, I hadn't come across before, but it was quite
+William Ross: Yeah, there's there's I didn't realize I mean when I was first entering the consum space is obviously Hubspot um HubSpot Salesforce is like what 95 plus percent there's so many big other players going in. There's like Zenesk, Zoho,
+Daniel Elebert: That's
+William Ross: Atio I mean Pipe Drive if you want like verticalize it a little bit.
+ 
+ 
+00:11:59
+ 
+Daniel Elebert: crazy.
+William Ross: I mean gee and then what often happens is people then just create niches where they'll go okay Salesforce is our main one but we'll use HubSpot for marketing and we'll use Pipe Drive for sales and Salesforce will just like oversee
+Daniel Elebert: Great. And and to your point, Salesforce is a ball and it's a it's a heavy lift and shift to get anything to play with it.
+William Ross: all
+Daniel Elebert: So I think that's why we this got ha the company I think they've been acquired by someone else but they specialized in forecasting sitting on top of Salesforce.
+William Ross: Yeah. So is is that how a lot of your um tech stack operates through acquisition? So whenever you're just buying in from another company, you just kind
+Daniel Elebert: Well no so so to the Zoho example I'm trying to migrate that into our sales force now.
+William Ross: of
+Daniel Elebert: So, but that so the original one was I think the guys in 2020 acquired a German company Kenda, but they were similar size themselves and I just think the price was better on the German contract.
+ 
+ 
+00:12:55
+ 
+Daniel Elebert: So, they just merged it into that
+William Ross: there. That makes sense. So, so yeah, but as as Greek said,
+Daniel Elebert: entity.
+William Ross: unfortunately, we don't have a Salesforce trial for you for you to use just now, but obviously we can keep in touch, but if it's okay, I would still love to like because obviously you're you're you're a living breathing RevOps genius uh to to our eyes. So, I'd love to know kind of the premise of pipeline hygiene and like deal hygiene and what's your take on that as like as a as a value proposition as as a as a as a solution to kind of solve it through a workflow rather than something like auto population or behavioral change
+Daniel Elebert: Yeah. Yeah. And the behavioral bit is tough because they're humans,
+William Ross: management.
+Daniel Elebert: right? So I think one is just trying to get the validation. So if if I'm in a meeting and I'm I'm going into a budget meeting now with finance and someone goes, "Right, what's this deal? Your biggest deal in your pipeline?" I go in and I can't even see an event or an email against it.
+ 
+ 
+00:13:46
+ 
+Daniel Elebert: I I just think sort of like small little subtle flags like that that will then kind of caveat the number when it comes up. So everyone likes to have a big pipeline number. If you're bull stars or caveats that's going to drive behavior. So similarly that if you have to be so for example like we new AI measures don't use AI tools that aren't approved. There's nothing to stop you doing it so you just do it. But if you get a flash and say do not put up company data in this that's when you're going to consciously say am I going to break the rules or not? So similarly for pipeline, I'd like that for guys to say, okay, consciously, am I putting in s*** in here because the system's telling me this looks like s***, which we don't have at the minute. And that would help because at the end of the day, it's I go into a meeting and I look at 300 deals and I have to take them on this merit for half the time and I don't care when they're in the early stage of pipe.
+ 
+ 
+00:14:32
+ 
+Daniel Elebert: But when it's going through the system and again the sellers know more information, they've met the guys, but if I can see the interactions there and kind of get that feeling from it, it does help a lot. And again, that's a small lift and shift.
+William Ross: Mhm.
+Daniel Elebert: And even to your point, if let's say no activity's happened on a on a opportunity for four or five days, if you just get prompted from a from a bot in teams to say, "Okay, what's the update on this team?" You might get asked on it this week in your weekly sales call. Like, what's what am I going to do to mitigate the risk from both sides?
+William Ross: and and from your p let's say we were let's say we were on Salesforce and we could do all that where would you sees the most value coming in from from your site is it like is it time saved is it forecast accuracy is it uh opportunity reviving opportunities that are like that seem dead but they're actually alive like what would be
+Daniel Elebert: Yeah, I'd say it's it's both things.
+ 
+ 
+00:15:20
+ 
+William Ross: Okay.
+Daniel Elebert: So I suppose from one like at the end of the day there's nothing that can when you bring in seuite or stuff that can save a deal. So kind of early indication on that. So someone who thinks something is good is is one thing and they're good is definitely not good. So trying to mitigate that and get the right people in at the right time. So kind of cues on that. So something hasn't moved here in a while or there's kind of you read something from an email or pull something from an event. These cancels two meetings they're not going to buy your software. So,
+William Ross: Mhm.
+Daniel Elebert: one thing I'd see a lot is I'd see an email thread on a big deal. Yeah, no, we're going to close it. We're at 60%. We're going to close it. And then suddenly an email drops in from the C or the the customer saying, "Oh, yeah, you're actually or there's three is three vendors in the list." You're like,
+ 
+ 
+00:16:03
+ 
+Daniel Elebert: "Okay, that was information we didn't know. We would we wouldn't have us at 60%." But obviously the seller must have known that or didn't pick up on it. So, that would probably be one. Uh, and then yeah, like we're at as at as anything we're time constrained. So getting people working at the right deals um and and prioritizing their time. So if someone's not going to sign to Q4, okay, let's meet them once a month maybe. But let's stop wasting time sitting in people's offices carrying out their support tickets just because it's your friend or stuff. And like it's easy to it's easy to see that like why why are you spending 80% of your events with one customer? They only make X revenue. like things like that.
+William Ross: Mhm. Yeah.
+Daniel Elebert: Yeah.
+William Ross: Know that that that is that is really really useful because one thing we were actually thinking of incorporating is like some something simple like a rag system so that when you are notified of a deal it tells you how important that is to be actioned as well.
+ 
+ 
+00:16:53
+ 
+William Ross: Also, if you know if you're a sales person, you see like a red flashing thing that goes, "All right, this this is really important. I need to I need to action this or if it's like, you know, green, then it's like, okay, it needs attention, but maybe not urgent." And then it's obvious.
+Daniel Elebert: or something or I was going to say or something that just prompts you. So after every couple of weeks like your standard so our big problem here is it's getting
+William Ross: So,
+Daniel Elebert: time with our CRO or CEO what what's the normal questions they would ask and it's normally the same questions on deals that sellers probably might get asked for a while. So CRO question who's it like apart from your med pick feels like those three or four key questions around right what's the latest what's the latest status just to keep it fresh in the seller's mind I think that just keeps them honest and then you kind of think you know what I don't want to stand over this number so I pull it back or I maybe I have
+ 
+ 
+00:17:31
+ 
+William Ross: Yeah.
+Daniel Elebert: to do something
+William Ross: And currently is that kind of your responsibility? So, are you like going through the deals and then seeing if anything's out of date or med picks been filled out and then you having to go and find the the deal owner and go, you know, kick him off the backside and go, "Hey guys, this deal needs to
+Daniel Elebert: I I have a call every week with our UK sales director and he'd have 12 directs and
+William Ross: be
+Daniel Elebert: it's literally just going through line by line, okay, what's closing, what's closing this quarter, what's what's our delta to target, what's our commit, what's our short list deals and just driving it from that way. It's it's time consuming was the only way it works at the
+William Ross: Well,
+Daniel Elebert: minute.
+William Ross: you're clearly doing a great job because actually when we were doing a lot of exploratory work for for this product, um I was speaking to a few companies actually across HubSpot agencies, Revox agencies and and and uh normal standard companies and I had about five data points of people saying they had sales directors get fired because they'd missed their forecast so often.
+ 
+ 
+00:18:31
+ 
+William Ross: Not because their decision, not because not because their forecast was wrong, because the data behind it was wrong. and it was so bad. And I found that a lot of people now are getting to the point where like there's just like a a general good enough.
+Daniel Elebert: Yeah.
+William Ross: You're just hoping the data is good enough and like acceptable to like make that decision and like understand like you know that classic, okay, we're going to forecast we've got this 2 million in pipeline hit by Q3, but if 80% of those are dead deals that haven't been touched in six months, like that it's it's just inflated numbers that don't really exist.
+Daniel Elebert: Yeah. Yeah. And Yeah. And it's just trying to get that balance. Like I have the we we have an SDR function now. They're reporting into me. It's trying to get that whole system. So before we didn't have that, so guys were getting MQLs that were were s***. It was Gmails. It was out Outlook.com and and stuff.
+ 
+ 
+00:19:18
+ 
+Daniel Elebert: And like that would have fell by the wayside, but now that we're proper getting proper SQL pipeline, it's helping with that. And I suppose again it makes my life harder. But the kind of that revenue uh finance piece so the sales to revenue bridge that kind of really focuses everyone to say okay so we have them that they're looking at not only when the deal is going to close but when's the cash going to land. So that kind of really focuses then if you can see that in a line and then you can see the stuff at early stage pipeline where they don't
+William Ross: Yeah.
+Daniel Elebert: have a clue we just kind of ignore that forecast at 10% and move
+William Ross: Yeah. Yeah. Absolutely.
+Daniel Elebert: Come.
+William Ross: And just a couple of questions actually have useful would be um how how is because obviously we don't use um we don't integrate with Salesforce and I have I've had actually limited exposure to Salesforce. I've not worked for large large companies like that. How is Salesforce um equipping you to handle this?
+ 
+ 
+00:20:06
+ 
+William Ross: Is it does is there any like inbuilt functionality to support this or is this pretty much you going I'm going to do this from my by myself my own process my own procedures and Salesforce is just a big data storage system that's
+Daniel Elebert: Yeah, it's it's a it's a it's a big beast.
+William Ross: just
+Daniel Elebert: Like you're paying 75 quid a month per license. Like it's it's a huge spend on the company and everyone's trying to lean on it. So you have to be somewhat intuitive with it. There's definitely parts that we're paying for that we're not using correctly. Um now we're engaging now with a Salesforce part with a Salesforce partner to help with that. So there is inbuilt tools but I say and again when I look at so here's your example. So we went in with our Salesforce partner and they said, "Right, you have all these licenses. You don't use this correct. You don't use this correct." Okay. Cuz Salesforce won't teach you. They just sell it. Off they go.
+ 
+ 
+00:20:51
+ 
+Daniel Elebert: And then they're like, I said, "We're going to get EPSA." And they say, "Well, you have tools that you pay for that EPSA does. Why won't you just do that?" And then from the other side, EP saying, "Well, Salesforce can't do this." So there is that kind of like sweet spot that it's obviously one, too big to fail. Two, no one really knows how to f****** use it properly. and three. There's so many other systems that are going to sit on top of it to fix
+William Ross: And of course there's that there's that again there's that problem of as you say they they they sell it they leave you to it and there's so
+Daniel Elebert: that.
+William Ross: much upskilling required that if you're trying to learn a new functionality within Salesforce it's like learning a whole new product and tool and you're like this is
+Daniel Elebert: Yeah.
+William Ross: just give you another example we had a client I don't know if you know much but if We've had um workings with HubSpot before, but they were on HubSpot and they spent just over 30,000 a year on HubSpot and they didn't realize they were only using it for the marketing module and everything else was inactive and they didn't even touch it.
+ 
+ 
+00:21:42
+ 
+William Ross: And obviously HubSpot aren't going to point tell them that they're not for so that lasted about four years they were spending over 100,000 on un like completely untouched services and modules and I was like and I when I heard that I was like oh my god this is give me half give me half and
+Daniel Elebert: It's It's crazy.
+William Ross: you'll be fine.
+Daniel Elebert: It's crazy. It's crazy.
+William Ross: And are you sorry last question is are you on teams or slack as your like systems?
+Daniel Elebert: Teams teams are Microsoft also.
+William Ross: Oh, well, at least we're at least we're halfway there with the integration
+Daniel Elebert: We're halfway there. Yeah, we Oh, we f******
+William Ross: speed.
+Daniel Elebert: everything. Same info LinkedIn navigator with all match.
+William Ross: Okay. I mean, I don't want to say much. I apologize. We can't we can't Salesforce, but does look like there's there's potentially some scope there once we've built out a Salesforce integration because it is on the road map for for later this year. We've had quite a few people we've spoken to that are that are on Salesforce.
+ 
+ 
+00:22:33
+ 
+William Ross: Um, so it is is something we're trying to figure out how we can do that. Ironically, in a way that is in in line with our thesis of being very clean and simple to use because that's the whole premise of funnel vision is meant to be very almost no upscale required or something you can run autonomously in the background and funnel vision does not Salesforce does not play with that very well. That's why you're
+Daniel Elebert: Yeah. No, no. And yeah, know it's pity at the minute,
+William Ross: conc
+Daniel Elebert: but again, if if you want to send on any materials, I can give you feedback or stuff. I have no issue with that. I I can bore you with all the rev off details you want.
+William Ross: have to share share the website. Um, but yeah, I would love honestly love some candid feedback as well on on anything and translating particularly like things like pepine data hygiene into value is always one of the barriers we're trying to overcome just now. It's one of those strange things I've often found is it's never a priority until it's like it's too far gone that it's a catastro catastrophic problem.
+ 
+ 
+00:23:26
+ 
+William Ross: So it's like trying to communicate that guys we need to fix this before it becomes a
+Daniel Elebert: And like it's like anything when I try and get budget or anything on this,
+William Ross: problem.
+Daniel Elebert: I kind of say, "Right, we let's say we do 20 million a year in sales and we don't have one person dedicated to mind that." Is that's like your easiest to try and get budget or or stuff for this?
+William Ross: I don't know. I was like I worked at government for a few years and it was that most inefficient thing of like you had to no one would everyone would be careful with their budget because they didn't want to go over and then like a couple months before the the budget renewed in April they would just spend on like random events and like parties because they're like if we don't spend it then we don't get it back and we need the
+Daniel Elebert: cuz it only lives in Mexico.
+William Ross: money.
+Daniel Elebert: It's
+William Ross: My god this is so stupid.
+Daniel Elebert: crazy.
+William Ross: You're getting penalized for being efficient and you're just like what?
+Daniel Elebert: That's crazy.
+William Ross: Um, but no, Greg, I don't know if you have any any other questions or or Daniel if you have any other questions for us or thoughts. But genuinely, this has been I'm very sorry we we couldn't put you on a trial, but really really useful for us.
+Daniel Elebert: Yeah,
+William Ross: Thank you so
+Daniel Elebert: no worries. No,
+William Ross: much.
+Daniel Elebert: appreciate it. Appreciate the
+Greg Petherbridge: Yeah,
+Daniel Elebert: call.
+Greg Petherbridge: appreciate it, Daniel. Um, you know, I I'll follow up and just send you our website and we've just launched our our LinkedIn page. So, yeah, maybe worth keeping an eye on us, but um you know, by the time we have a a Salesforce integration, we'll we'll definitely be reaching back out.
+ 
+ 
+Transcription ended after 00:24:58
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

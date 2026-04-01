@@ -1,0 +1,526 @@
+﻿Dec 5, 2025
+Waylon Howell and FunnelVision - Transcript
+00:00:00
+ 
+William Ross: Hi, I'm very good, thanks.
+Waylon Howell: Hello. How are you?
+William Ross: How are you doing?
+Waylon Howell: So good.
+William Ross: Sir. Yeah, I apolog just just just a flu.
+Waylon Howell: Oh, no.
+William Ross: Don't worry.
+Waylon Howell: Okay. Okay.
+William Ross: All good.
+Waylon Howell: Not and not a problem at all. Obviously, there's, you know, a the list of things that's more important than chatting with me is is long.
+William Ross: Well, do you know what?
+Waylon Howell: So good.
+William Ross: I I joined you in that club. How's how's your week been?
+Waylon Howell: I'm excited for it to be Friday.
+William Ross: Wait, what?
+Waylon Howell: Um, we're getting a little bit of snow here, which I'm not excited for, but you know, I'm not a huge fan of it.
+William Ross: You don't want this snow?
+Waylon Howell: I'm from uh an area of the country that's much warmer, and I miss the winters being a little more mild, honestly.
+William Ross: Well, I would I wouldn't recommend coming to Edinburgh and Scotland where I'm based just now.
+ 
+ 
+00:02:12
+ 
+Waylon Howell: But yeah.
+William Ross: It's Well, it's actually the worst that you don't you don't get the beautiful snow.
+Waylon Howell: Is it Is it uh a bit cold over there?
+William Ross: It's just permanently cold and windy. So, so, so, uh, there's like a saying which is like we we we we have like one season and it's like just autumn all the time.
+Waylon Howell: That's tough.
+William Ross: It's like it's never hot and the thing is we don't get extreme weather. It's never like too hot and it's never like you know Canadians like minus 40. It's just like permanently like four or five degrees like Celsius all the time.
+Waylon Howell: Wow.
+William Ross: But, uh, yeah, it's been a good week. I would love to get some snow for Christmas. I'm a big Christmas. I love Christmas. I have to say I love this time of year. I don't know why.
+Waylon Howell: Hey, it's it's a fun time of year despite the cold, you know.
+William Ross: I I think I have I mean tmi but I've done like way too many Hallmark Christmas movies already.
+ 
+ 
+00:03:03
+ 
+William Ross: Like it is outrageous how many I've seen at some point they're all the same.
+Waylon Howell: Well, there's there's probably many more to see.
+William Ross: You can watch it wasn't literally I mean the thing is right because there are some films where like you know the ending is going to be but what you're watching it for is like how it's going to get
+Waylon Howell: Mhm. Mhm. You can practically predict the next scene.
+William Ross: there in you know how it's going to get there as well.
+Waylon Howell: Yeah.
+William Ross: You know everything you know everything I love I love the background as well.
+Waylon Howell: Yeah.
+William Ross: You you sci-fi literally I watch I was gonna say I don't know if you saw on Netflix the cyberpunk show um
+Waylon Howell: Oh yeah, it's like the the cyberpunk kind of background. Yeah, I'm in a I'm in a really boring meeting room right now. So I, you know, gotta spice it up a little bit. Google can help me out. I haven't yet, but I really want to.
+ 
+ 
+00:03:50
+ 
+Waylon Howell: I I need to. It's on my list. I've just been like putting it off and putting it off like I Yeah, I I've heard that like Oh, you know, we're we're doing
+William Ross: it's a hard hitter. It was a like starts off great by the end of the episode I'm going oh my god. But yeah but yeah I apolog how how's work going along? What's what's like keeping you busy on on the work side?
+Waylon Howell: I'm working a lot right now on leads in HubSpot. Um, which has been an interesting one because we've we've been kind of trying to use them for a little less than a year. Um, leads meaning the leads object. Um, and they're okay. I have some I have some things I like about them. I have some things I don't like about them. But it's time to give the system a refresh and see if we can do it a little better ne next year, you know.
+William Ross: Yeah, I was going to because I I'm really curious to know your thoughts on the HubSpot objects because like I I've worked quite intimately with like deal contact company anything outside those three just don't seem that fleshed out
+ 
+ 
+00:04:45
+ 
+Waylon Howell: Yeah.
+William Ross: in comparison and even even even communicating the three between each other is quite difficult.
+Waylon Howell: Mhm. It's it's definitely and it depends a lot on like the context of the work, right? I would add tickets to that list of of objects. Pretty good.
+William Ross: Yeah.
+Waylon Howell: Um, it's funny now cuz like tickets I feel like were often the object that you misused if you needed to kind of contort an object to do something it wasn't meant to do. And now that there's projects and like custom objects are a little bit more um there's a little more heft to them. It's like shifted a little. But I don't disagree. The thing that really bothers me is that I don't even know if I would say it really bothers me like it's that big of an issue. Um, but it's like every there's so many almost objects that you can like almost do stuff with, but you can't quite get them like meetings for example. Like why can't I do um like why can't I associate a meeting to something in a workflow, you know?
+ 
+ 
+00:05:50
+ 
+William Ross: Yeah. Yeah.
+Waylon Howell: Like it's like it's like come on, man. Like I can trigger a workflow when meeting stuff happens, but like only kind of, right? Like it's like piggybacking on contact.
+William Ross: Yeah.
+Waylon Howell: So you're so right. There's like so many weirdnesses that come out of this data model HubSpot has gone with.
+William Ross: No, no, absolutely.
+Waylon Howell: Um well um you know honestly like I'm kind of in it for the love of the game.
+William Ross: And I was curious like what I mean I know Stephan was going to reach out to you, but like is there anything in the message like resonated or like what what made you think funnel vision could be to explore?
+Waylon Howell: I love learning what new stuff people are building willing to solve um interesting problems. Um, and you know, in uh the the initial message he sent me, he he specifically called out Slack, which we don't use. We use Teams, right? Which like I miss Slack every day. Um, which is cra crazy to say.
+ 
+ 
+00:06:38
+ 
+William Ross: I feel free.
+Waylon Howell: It's like I don't really, you know, like I love Slack that much. It's just I there's some things about it that I prefer over Teams. Um, and I was like, I don't know, but I still I still would love to know cuz like this is uh um the pitch being hygiene is easier is one that's been been made many times. U but it's a challenging one like and it's you kind of like hinted at it earlier when you mentioned this kind of objects situation like hygiene means something different in different HubSpot portals and in some portals contacts are
+William Ross: Yeah.
+Waylon Howell: going to be your big problem and some of them companies going to be a big problem. Um there's a lot of kind of situations you can be in where the sort of typical dduplication methods or the typical kind of cleaning methods are less effective or um just like not super compatible unless you have things structured in a very like predictable way, right?
+William Ross: Yeah. Yeah.
+Waylon Howell: U but I mean that's always been the case, right?
+ 
+ 
+00:07:38
+ 
+Waylon Howell: Like there's no magic wand um garbage in garbage out or whatever they say.
+William Ross: The classic the classic saying. Yeah. No, that's really useful context. I'll give you some background on what we're building and before I I'll obviously give you a little product walk through as well, but I'd love to get your two cents on the kind of I even just like the thesis on what we're building, why we're building it, and you know, please literally rip into it as much as you like. Like, you know, I can turn recording off if you want and you can just like absolutely slaughter it and then Yeah.
+Waylon Howell: Well, hopefully you won't be posting this just raw, you know, raw to LinkedIn like, look at Wayan's terrible takes. Um, but I'll I'll I'll see what I can do.
+William Ross: So absolutely. So so basically so basically where it came about was um we we we we ran a consulting we're still we're still running as like a subdivision of this for like the last year and a half and working basically to set up go to market functions across companies.
+ 
+ 
+00:08:30
+ 
+William Ross: So largely on like top of funnel partnerships u a bit of revops basically most things outside of marketing marketing is not really our our bread and butter.
+Waylon Howell: The marketing is the worst. Don't Don't tell my marketing leader I said that. I love working with with all the marketing people, but it's it's the my least favorite hub to work in. I'll put it that way.
+William Ross: Yeah, me me too. Um, but then what we found was like kind of regardless of company size, industry or anything, there was a real problem specifically with pipeline hygiene. So like infunnel infunnel deals like tracking do does do the deals have the information necessary to move through the process and also and is it up to date like and the kind of things we found were a problem
+Waylon Howell: Yeah.
+William Ross: were partly surfacing the issues. I know HubSpot has you can do some but it's it's you can't do everything but then also the friction of getting the sales people to make the changes they don't want to go most they don't want to go
+ 
+ 
+00:09:31
+ 
+Waylon Howell: Yeah.
+William Ross: into HubSpot or any CRM generally unless you got a
+Waylon Howell: Yep. Pretty much. It's It's funny like I I literally had a conversation with one of my sales reps the other day about this. Um, but all I wouldn't say the only because there's, you know, there's other ways to get, you know, users and reps to do stuff. But the only way you can get them to do the same thing every time is to require it, right? Like, you know, when you're moving your pipeline, if you're moving a deal from stage one to stage two or whatever it is, like that point in time is the time when you're saying like, okay, like you got to
+William Ross: Yeah.
+Waylon Howell: have this stuff.
+William Ross: Yeah. Yeah.
+Waylon Howell: Um, and you're totally right. like there's some stuff that I wish um HubSpot could do better and I think you have a lot of power to like encourage good behavior there with HubSpot's tooling, but you kind of got to you got to get a little creative depending on what you want.
+ 
+ 
+00:10:26
+ 
+Waylon Howell: Um
+William Ross: Absolutely. And a lot of these companies we worked with, they don't have they didn't have like, you know, six or seven revops people. didn't have like ma manpower behind all of this. And so what ended up finding was like a lot of these sales directors or leaders were making like forecasting or very critical important decisions on the back of bad data. They didn't know like the close dates of some of their deals. They didn't know if the amount was correct. They didn't know like oh if the next step field was updated in the last like week or whatever it was like they just they were making decision on the back of all this. And I was thinking right all right let's there must be a better solution. And then I found something odd which was the the birectionality between Slack and HubSpot just doesn't exist right now. So you can't go from Slack into HubSpot. And that was kind of what borne the idea of funnel vision which was can we get a place where we can surface all of the hygiene issues in your pipeline.
+ 
+ 
+00:11:15
+ 
+William Ross: Configure them a bit better than HubSpot so it's a bit cleaner but then make the reps do the fixes in Slack like where they where they already work. So they don't need to go into HubSpot. don't even need to go into funnel vision. They just get a notification in Slack that says here's exactly what you need to do in like a form based thing and they can fix it through there. And that's the general thesis of funnel.
+Waylon Howell: Okay.
+William Ross: Um yeah.
+Waylon Howell: So the the sort of um kind of the the pitch would be basically reps aren't going to go to HubSpot. So have HubSpot go to your reps, right? And the sort of mode of communication would be Slack or, you know, insert your favorite messaging thing here in the future, I guess.
+William Ross: Yeah.
+Waylon Howell: But um Okay. All right. I'm I'm listening. Um, I think, um, yeah, I'm really curious like the kinds of things you can do that you can't do in HubSpot, you know, like that would be my kind of like first thoughts.
+ 
+ 
+00:12:15
+ 
+Waylon Howell: Like, okay, like in my head, I'm knowing like I can make a workflow in HubSpot that says like when your close date passes, you know, here's a task or, you know, here's a ping in um, Teams or Slack and that can get you at least a link to the record.
+William Ross: Mhm.
+Waylon Howell: So you're, you know, you're still like a click and a click and then a typing away from getting the outcome you need in this kind of scenario I'm imagining in HubSpot. Um, but that's what you're up against, I guess, is kind of the, you know, Yep.
+William Ross: Yeah. No, you're absolutely right. So, let let me show you. Actually, this is kind of where I'd be curious for you to tell me exactly like even like what we what maybe you can't do in HubSpot. I've got a couple ideas. Um but let me know if that pops up on your screen. Okay. I'll try and whistle. I I'll go by this nice and fast. So way funnel vision works really easily is you just sync into your HubSpot environment and then you're instantly presented with like a a snapshot audit of your pipeline with some really common hygiene issues.
+ 
+ 
+00:13:10
+ 
+William Ross: Um so like whether how many how many deals are passed or closed day or have stale activity um or some like missing amount or these are just your these are just pre-built ones that we define. And then at the bottom you have your your hygiene leaderboards. So which of your reps are more on top of their hygiene than others?
+Waylon Howell: Oh, cool.
+William Ross: And it's ranked by like the number of issues they have across how many deals they they're the owner of.
+Waylon Howell: We know a sales leader loves a a leaderboard.
+William Ross: They do. They absolutely love ranking.
+Waylon Howell: It's so funny. It it feels like there probably isn't a salesfacing tool out there that doesn't have a leaderboard somewhere like No, no, no.
+William Ross: I I you know I had this debate. I was like we need to have in a different format all like because some of my co-founders are sales backgrounds and they're like no no it has to be a lead.
+Waylon Howell: Yeah, that tracks.
+William Ross: I was like, right. Um, but yeah, so one of one of the kind of initial value ad I thought of funnel vision was this idea that you can get a like within like three or four minutes a snapshot of your pipeline without needing to build anything.
+ 
+ 
+00:14:08
+ 
+William Ross: So if again if you didn't have a revops person and you wanted to know how's my pipeline doing, you could just set this up within a few minutes. But then obviously this is all just pre-built stuff. So nothing here is like quote unquote magical.
+Waylon Howell: Mhm.
+William Ross: And so that's why we built a rules function which is how I would imagine you'd think of like HubSpot HubSpot workflows.
+Waylon Howell: Yeah.
+William Ross: And so here what we pull in is we pull in every HubSpot field custom property um including associated contact and associated company. And you can imagine you'll know this you'll know this seconds how this works. You pick your HubSpot fields, pick your condition types depending on the property you have different condition types. You have your classic and or conditions.
+Waylon Howell: Mhm.
+William Ross: Then what you have is your automatic request updates. So what this means is um if this is turned on whenever the condition of the rule is triggered it will automatically send a slap notification to the deal owner to say hey this rule's been triggered you need to make an update but the way it works is rather than spamming the salesperson all day every day whenever there's like a notification because you can imagine if you had like six rules and they're quite common the saleserson could
+ 
+ 
+00:15:14
+ 
+Waylon Howell: Yeah.
+William Ross: get like dozens and dozens of Slack notifications which would be really annoying. What they get instead is a daily digest. So every day at like 9:00 am and the near future will allow you to configure whenever it sends out.
+Waylon Howell: Hm.
+William Ross: Whichever hygiene issues have been triggered in the last 24 hours will appear in one message in like a daily digest format. And they can just pick and choose the deals one by one and go through them at their own pace. And then the next Absolutely.
+Waylon Howell: Wow. That was literally something that came to mind because it's like, you know, I'm imagining if you were, you know, deploying something like this, the first kind of impulse of of uh tasks you'd be getting would be a lot. And then kind of what you described before, right? Cuz notification fatigue is like the the worst thing ever.
+William Ross: Yeah, 100%.
+Waylon Howell: Um it's it's it's the Yeah, it's really terrible and it is like a rust on like every process you have when you like get people who just like start ignoring notifications.
+ 
+ 
+00:16:08
+ 
+William Ross: Yeah.
+Waylon Howell: Um because it's like I don't know that it either means you're sending bad notifications or you have like a really hard problem ahead of you which is like trying to like work on human process which is way harder
+William Ross: Yeah, 100%.
+Waylon Howell: than building something in a system.
+William Ross: And that's kind of the big thing I've been trying to work out of funnel vision, which is the idea of hygiene. I I I don't believe is is like a tooling problem. It's a behavioral one. So, we're constantly trying to think of this from the perspective of what are the behaviors we're trying to encourage and sales people have the contextual information behind all their deals and they're very they're like the laziest hardworking people I've ever met where when things are easy for them or it's on or it's part of a quot you know all hours but if they have to go outside of their workflow that they're they're lazy buggers they just they're not going to do it. Um and so that's kind of how this works.
+ 
+ 
+00:16:59
+ 
+William Ross: And even if this is turned on though, you would still get some kind of manual control. So you could still manually request an update. You don't have to wait for the daily digress. It's just that's technically you could run all of the rules that you want and then let Funnel Vision run autonomously in the background 24/7. You don't technically need to touch it. Um and then obviously at the bottom you can choose like which property you want the the receiver of the notification to input. So it could be a next step, it could be you might say Yeah.
+Waylon Howell: Oh, cool. That's That's a good thing. I I That's super smart because sometimes I don't even know sometimes a lot of the time the trigger property is not the thing you need to update to clear whatever blocker Mhm.
+William Ross: And so so that's the that's a lot of testing I had in the background which is a lot of times when I was creating the rule I created a rule like if a deal had a missing amount but I was like what if I didn't want them to fill in a missing amount?
+ 
+ 
+00:17:46
+ 
+William Ross: What if I wanted to do something different? And so that's what we allow you to now just select anything you want them to do when they receive that rule they will they will be forced to fill. It could be the close date. It could be, you know, if you've got a I have like a lead source property. You could you could do multiple as well, of course. Um, but the one So, what I want to show you here is something I don't think you can do in HubSpot unless I don't have the right package to do it. But, um, so we let's say you have a next step property, right?
+Waylon Howell: Yep. I love Next step.
+William Ross: That's my right. What you can do in vision that I don't think you can do in Homespot is you can look at any like for most properties the days since that specific property was last updated.
+Waylon Howell: That's a good one.
+William Ross: So you can be like hey I want to know when the next step on this deal was last updated like oh not 100 maybe like greater than or equal than 10 days ago.
+ 
+ 
+00:18:38
+ 
+William Ross: And obviously you could do like if the deal stage is in like late stage. So you could put like for us like negotiation solution confirmation and then you could name the rule like uh next step not updated oops if I can spell in late stage and then you get a little like summary telling you like what happens in this rule in plain English. So, if the next step was updated like 10 or more days ago and the deal stage is equal to like either of these two, then what do you want them to do with it? Do you want them to update this?
+Waylon Howell: Yeah. What I So
+William Ross: Do you want them to maybe maybe it's the you want them to change the deal stage? You you could put anything you want. And then additionally, what you can do is um put in a reason for the request. This is optional, but basically what it means is it's like it's like more contextual information behind the the rule. Um, exactly.
+Waylon Howell: in and in and this reason would be included in the message, right?
+ 
+ 
+00:19:37
+ 
+Waylon Howell: So it' be like, hey, like you know, your deal is in this status and your ops guy is telling you why it's important that you update this property or whatever.
+William Ross: Yeah. Hey, this Yeah. Yeah. So, you could be like, "This deal hasn't had its next step updated more than 10 days ago. and
+Waylon Howell: Okay.
+William Ross: it's in and it's in late stage and then whenever they get that notification they will see that message and go okay that's why I'm getting this rule but obviously like that might be for complex rules for simple ones like missing amount or whatever you don't necessarily need that contextual information but that's why it's optional so so that's that rules page so then you can imagine right once you've made all these you configured your rules you you're
+Waylon Howell: Yeah.
+William Ross: you're surfacing every bit of hygiene that you could possibly care about in your in your pipeline to get a healthy pipeline. Um, what do you do about it? How do you how do you action it? You know, you're just you're just collecting all this cool data in the dashboard, seeing like which of your hygiene issues exist and who's on top of it.
+ 
+ 
+00:20:35
+ 
+William Ross: So, that's why we have a fix issues page on the left hand side. And what this page really shows is every deal in your pipeline that has some type of hygiene issue. And you can filter that by the specific stages, um, specific owners, any specific issues that you're interested in, and also by the close date. And so if you so remember how I said you have those like automatic ones that run in the background. So even when those are turned on, they will still appear here. Um so you could still manually request an update if you wanted it or you could just wait for the daily digress to appear. Uh and just to show you how the workflow would look in practice, um you can look at my ones here and oh I'm glad this popped up. So what you can see here is do you see this request update again?
+Waylon Howell: Oh, that's so smart. Yeah.
+William Ross: So here you could filter by pending update request to say hey this I asked for this update one day ago or it could be 10 days ago whenever it was last updated and then you'll say it's not been actioned yet and this will work also for the daily d.
+ 
+ 
+00:21:29
+ 
+Waylon Howell: So, if if I send an update to a rep through something like this and then they update HubSpot directly, unrelated, they're in HubSpot, they don't even see the Slack message or something, um, is Funnel Vision going to know
+William Ross: Yeah.
+Waylon Howell: that I've fixed that issue like and that I fixed that specific request or are those kind of like does that make sense?
+William Ross: yet it will so it will disappear from here because it'll say like oh it's already been fixed.
+Waylon Howell: Okay. Okay.
+William Ross: So it's so it it tracks everything that happens in HubSpot as well. Um so let's say uh you want to look at this deal which has a missing amount, missing close date, missing next step and it also shows you a bit more detail on the on the deal as well and you're like okay I'll request this update again because William's being being a lazy bugger. I as the deal owner instantly get a Slack notification. You can see here that says, "Hey, oh, there it is. Williams asked an update on deal E." And
+ 
+ 
+00:22:23
+ 
+William Ross: because you'll see in Funnel Vision, there was two requests that were pending. I can now see all my pending deals and go, "Okay, I can select deal O or deal E. I'll pick deal E." And then you can imagine the rep could be on their phone, on a train, airport, wherever it is they work, and they go, "Oh, Whan's asked for the amount on this deal. Why is it needed? It's got no amount specified and the current value has not been set. Okay, the amount was actually 10,000. Uh the close date, the deal has no close date. That's why it's needed. And oh, it's for January. And what's the next step? Again, there's currently no value in the next step field, but if there was a value in the next step field, it would say next step would be whatever. And you could just say meet the the buyer, whatever. They update the deal, and that's it. This gets reflected in HubSpot, gets reflected in funnel vision, and then if they wanted to do DO, they could just click D O and do it and do it for there again without needing to context or tool or tool switch.
+ 
+ 
+00:23:22
+ 
+William Ross: Um, and that's really that's really the basic premise of Funnel Vision.
+Waylon Howell: That's pretty clean.
+William Ross: Surface it, configure it, reps deal with it in Slack, and then you can obviously monitor Mhm.
+Waylon Howell: That's pretty clean. I have a question because this is one that HubSpot struggles with and that I I personally have hacked my way around. Um but it still causes like some friction in the pipeline that I don't love and that's um required associations.
+William Ross: Yeah.
+Waylon Howell: So, like something that's really common and mostly in our kind of sales pipeline context is I want my reps to have a contact associated to their deal and I want that contact to have a buying role like a specific buying role, right? Um decision maker, executive sponsor, um this kind of thing. And currently in HubSpot, there isn't a way for me to say as like a staging requirement when the deal moves into this stage, you have to have this kind of associated contact. Um, so the sort of workaround for this is you use like rollup properties that like count the number of associated contacts with that certain role or whatever.
+ 
+ 
+00:24:25
+ 
+Waylon Howell: Um, and then you make those uneditable and only set by a workflow. And then you have a workflow set it to yes or whatever when they associate that correct contact. And then that property being set to yes is what allows them to move the deal. Does that make sense?
+William Ross: Yeah.
+Waylon Howell: Um, so you're kind of it's kind of this daisy chain thing and it sucks for the reps because if they forget to do that first, if they forget to update their contact first and then they try to move the deal, they can't they have to like start over, you know, they have to fix the contact and then start over because it's not like that property can be edited from the sort of next stage if that makes
+William Ross: No. Yeah.
+Waylon Howell: sense.
+William Ross: And so does that property exist as the at the contact level like there's a contact level property that says yeah so right now we only pull in the number of associated contacts and for companies companies.
+Waylon Howell: Buying role. Yeah. Mhm.
+ 
+ 
+00:25:16
+ 
+William Ross: So there's two things that are P 0 priority on our roadmap. One is teams integration and the other is cross object um data bringing bringing in cross object
+Waylon Howell: Because the association piece I think would be like that's where the most I mean that's where the most difficult problems are which is why HubSpot hasn't solved them all. You know what I mean? Like if it was easy HubSpot could probably have figured it out by now. Um, but it's also where a lot of the like real value is. Um, if if you can kind of crack doing that in a way that's like easy, I think. Um, uh, this is kind of like getting into the sort of future state weeds, but um, I really like the the look and feel. I think the the Slack setup is smart. um particularly for those cases you mentioned where the rep may not be in front of their computer. Um because it's a struggle to you know get it all there.
+William Ross: Mhm.
+Waylon Howell: Um so yeah those are kind of my thoughts.
+ 
+ 
+00:26:22
+ 
+Waylon Howell: I think the because you can use custom properties, you can still use funnel vision to say you should have this associated thing, but you'd need to combine it with a rollup property, right?
+William Ross: Yeah. Yeah.
+Waylon Howell: Um, and yeah, and then um I thought I had another question. Oh, you said yeah. Yeah, the number of associated contacts companies. Okay, cool, cool, cool.
+William Ross: Yeah. And then they said, "Yeah, it's it's a validating point on on stuff we've heard."
+Waylon Howell: Yeah, those that's my thoughts.
+William Ross: And also it's that friction of like when you have product, you can't move fast enough. There's so much I want to do.
+Waylon Howell: Yeah, there's there's a ton to do and it's like um it's it's interesting.
+William Ross: I mean, yeah.
+Waylon Howell: I'm sure you know you know this better than me, but like um every portal is a little different. Um and so like building a tool that's like broadly appealing is really challenging. um just because there's so many different kind of configurations and um you're working with so many different skill levels and um
+ 
+ 
+00:27:17
+ 
+William Ross: Yeah, but but the the cross object in teams is the the biggest one like the most repeated ones that we've heard uh across my the conversations I've had and uh yeah so I think that those will be rolled out very very very soon and it's just a question of how do you work out the the cross object how do they interact
+Waylon Howell: yeah and this um the one that I think like kind of naively thinking would be most challenging would be what's the remedy for if there's a if there isn't an association that there should be you know um cuz that is a diff like it's from like a system standpoint that's like hard to see you know like it's not I don't know it's not something that HubSpot does very well by default which is like noticing that there isn't something associated if that makes sense like kind of like negative kind of criteria Um yeah or or like a specific kind of associated company, right?
+William Ross: You think of like if if a company's like if there's if there's like a deal without an associated company.
+ 
+ 
+00:28:17
+ 
+William Ross: Yeah.
+Waylon Howell: Cuz like um in our case, we it's not uncommon for there to be pretty complicated company structures, right?
+William Ross: Yeah.
+Waylon Howell: Where you've got parent and child companies and you've got, you know, like deals that are connected to child companies and parent companies, but they're different kinds of deals, right? Um, so you there's like a lot of spiderwebby kind of associations you can have. Um, and depending on like what kind of business you're in like this this picture looks very different. Um, but I'm just like that is a area of I don't know there's like a lot of complexity there which kind of leads to a lot of um either hacking your way around to get like consistent you know
+William Ross: Mhm.
+Waylon Howell: adherence to process. Um, and that's if you have someone on hand who wants to figure that out and do it.
+William Ross: Yeah.
+Waylon Howell: Um, uh, or you end up with a bit of a mess. Um, a lot of the time, right? Like you either have to get really lucky or or you end up with just kind of a Sure.
+ 
+ 
+00:29:21
+ 
+William Ross: No, no. Yeah, it makes all sense. And actually, I know I know we're about to run over, but I actually have a couple questions. I don't know if you've got a few minutes.
+Waylon Howell: Go ahead. I don't I don't have a hard stop, so if you want to talk for a few more minutes, I'm I'm super down.
+William Ross: That'd be that'd be very much appreciated. Which is I guess a couple transparent questions is based on what you've seen on Funnel Vision and what you think it could do is who do you think we should be targeting or selling to or and do you think there's enough value in it to be a commercial proposition for people?
+Waylon Howell: Good question. I think um obviously you have like uh your your TAM is kind of already limited into Slack users.
+William Ross: Yes.
+Waylon Howell: Um, but I think I would want to be showing this to sales leaders who don't have a lot of like operational bandwidth.
+William Ross: Mhm.
+Waylon Howell: Um, meaning like if they have someone like me on staff whose like job it is is to just stare at HubSpot for eight hours a day and build wacky workflows.
+ 
+ 
+00:30:16
+ 
+Waylon Howell: Um, you can do a version of this.
+William Ross: Yeah.
+Waylon Howell: Um, but it's not going to be as like easy to get it all in one place or as easy to kind of like manage to a very specific subset of rules. Um, I think this is particularly true for folks who are not super HubSpot natives. Um, but there's a absolute s*** ton of properties in HubSpot, right? Um, so like if you're not super intimately familiar with your portal, it can be a challenge to like know what's important.
+William Ross: Yeah. Yeah. I know.
+Waylon Howell: Um, so so yeah, I I don't know.
+William Ross: I've heard properties before. Yeah. It's Yeah.
+Waylon Howell: I think one of the most important steps of a tool like this would be kind of initial configuration.
+William Ross: Mhm.
+Waylon Howell: Um, meaning that like something that I thought about is we run four distinct deal pipelines that all have very different jobs. Two of them are net new sales. So, I guess those have very similar jobs, but the other two are just like completely different like you know, partnerships and reseller deals which just do not behave the same as our normal core sales team.
+ 
+ 
+00:31:23
+ 
+William Ross: Yeah.
+Waylon Howell: Um, so having the ability, that's like something I thought of is like I would want to know, I would want to make sure that there's a version of this that lets you on like a pipeline level have specific rules. Um, even you know, if users own deals like across pipelines, if that makes sense.
+William Ross: Yeah. Yeah, I guess.
+Waylon Howell: Um, because how at least for us, how deals move is more about the pipeline than anything else.
+William Ross: Mhm.
+Waylon Howell: Um, and like what stages they're in and like what kind of things make a deal healthy or not healthy might be a little different. pipeline to pipeline. Um, but yeah, I think I would want to talk to sales leaders, I think.
+William Ross: finish.
+Waylon Howell: Um, but that that's kind of predicated on the fact that you can that you can get them to a point where they can see value quick without them needing to like um I don't know spend a bunch of time building a bunch of custom rules. So, I guess there's kind of the the two things.
+ 
+ 
+00:32:20
+ 
+William Ross: Yeah.
+Waylon Howell: You either need someone who uh or you either need like to kind of like optimize for the sort of typical path I guess or like the the most common kind of sales leader just needs better visibility over a typical pipeline path. Um or you want um I think this would be good for anyone setting up a HubSpot account for someone else. Um, so maybe agencies or like you know because it's like I see this and I'm like oh this is great.
+William Ross: Yeah.
+Waylon Howell: This is like the more intuitive version of the sort of HubSpot stuff you could cook up to do this.
+William Ross: Yeah.
+Waylon Howell: Um only the deliverable to your again sales leader only coming from someone who's like you know kind of building this whole setup. Um it's like here's this really convenient dashboard. your reps are going to get a weekly or or whatever cadence um Slack message that's going to call out the deals they need to update. Um everybody wins, you know what I mean? Um where it's like someone is sort of prescribing a process, right?
+ 
+ 
+00:33:27
+ 
+Waylon Howell: Like they're like, "Here's the steel pipeline. Here's this awesome tool we're attached to it that will, you know, make sure that everything's super tidy." Um and you don't even need to have operations enterprise or whatever. Um or you know I'm not sure what the kind of requirement would be for this but um do you would you even need ops pro or could you just like yeah that's yeah so that is another thing that's
+William Ross: you. All you need is one person that has permissions to download that the admin permissions and even the reps.
+Waylon Howell: like really nice cuz to do a lot of the sort of I'll say complicated it's not that complicated but to do a lot of the like more advanced kind of like um automation related stuff like this um we have Ops Pro and we need it, right?
+William Ross: Yes.
+Waylon Howell: Like um but if your account doesn't have like 50 calculated or rollup properties in it like our does, it might even be more than that. And that's just the custom ones.
+ 
+ 
+00:34:20
+ 
+Waylon Howell: Um then you know this this is just better. I I would think it's it's going to take less time to stand up.
+William Ross: Yeah.
+Waylon Howell: Um so that's what I'm thinking about. Like if I if I was going to build a HubSpot account for someone, um I would want I would rather give them funnel vision than be like, "Okay, so here's this series of like 10 workflows that's going to watch these pipelines for you." Um
+William Ross: Mhm.
+Waylon Howell: because what we're doing now kind of like the the way that we kind of address this is with deal tags um and with um you know, Teams notifications that are just being sent through the typical workflow um stuff.
+William Ross: Yeah.
+Waylon Howell: And then kind of what I described earlier, a lot of really like crafty ways to get um deal staging to require everything we need.
+William Ross: Mhm.
+Waylon Howell: Um which you know, like I said, like I'm I'm spending a little bit of uh um leadership capital is what I like to refer to it to it as on like knowing that every now and then my reps get pissed off because they have to like go back and fix something that they couldn't ne it's difficult for them to tell um and fix in process, right?
+ 
+ 
+00:35:25
+ 
+William Ross: Yeah.
+Waylon Howell: So, it's like there's a little bit of like friction there that I we just have to eat. Um, but it would be nice to not have to. Um, yeah.
+William Ross: No, absolutely. So, you're thinking like, yeah, agencies that are obviously setting up probably HubSpot accounts everywhere and maybe implementation partners and then companies where they probably don't have the in-house extensive RevOps.
+Waylon Howell: Or they can't afford the, you know, the the spend, right?
+William Ross: Yeah.
+Waylon Howell: Um, or they don't want to spend the time to learn it because I mean it's I mean, you know HubSpot, right? It it gets bigger every day. It feels like
+William Ross: And so and so our last question I promise is like thinking longer term on the road map is obviously that that's who we could target. Now, let's say yourself was like, I want Funnel Vision in my company, but I need I need to do more in order to sell it to the rest of the people. What would you need it to do?
+ 
+ 
+00:36:13
+ 
+William Ross: If anything, like you might say, there's nothing Funnel Vision could do that would make me need to buy it because I'm doing literally everything.
+Waylon Howell: it needs really robust like associated object. um control like something I'm thinking of like we have a custom object in our portal for events where we're going to trade shows um and we kind of attribute uh deal value to those events by literally associating deals to those events um and it's you know it's okay like getting reps to make sure that their event deals are connected to the right event u but it could be better um and it's currently kind of a challenge
+William Ross: Mhm.
+Waylon Howell: to like conveniently notify them of, hey, this deal doesn't have an associated event and probably should. Um, and again, like in order to do this, you need like three different things for every one of these situations, which is a rollup property that's counting the particular kind of associated object, a workflow that's watching that property, and then that workflow to notify the rep.
+William Ross: Mhm.
+Waylon Howell: Um, and one of the big problems with doing this isn't that it's super difficult, it's that you don't it's like difficult to deliver that notification in a way that's like convenient for the rep.
+ 
+ 
+00:37:34
+ 
+Waylon Howell: So like this this thing where you guys are kind of aggregating all of these changes that need to be made and then setting them in a batch um is really valuable um at least in my eyes. Um because the alternative is you have to like either just send them as they come or like figure out a way to like schedule stuff and like I I don't know sending batch update requests is a bit of a pain in the ass.
+William Ross: No. And how do you sell hygiene as a to let's say we start speaking to sales directors because I've done it a couple times and one of the questions I get is like what's the value and I'm how
+Waylon Howell: Um, yeah.
+William Ross: do you quantify the value of tightness? It's really hard because it's it's it's easy to know what the problem of bad hygiene is, but how do you know the benefit of good hygiene?
+Waylon Howell: You're you're kind of in the you're kind of in the bodyguard paradox, right? Where it's like, how do you know if your bodyguard's doing a good job, right?
+ 
+ 
+00:38:28
+ 
+Waylon Howell: If if if nothing if nothing ever happens, you know, like there's going to be um and my sort of answer to that is every like everything every business outcome is downstream of process, right? Like um every report you look at, every decision you make based on those reports is downstream of human process like putting information into the system of record. Um, and if you like you can trust your system of record or you can guess. And so like the sort of cost of guessing will vary, you know.
+William Ross: Yeah.
+Waylon Howell: Um, but that's the trade-off they're making, right? Is it's like every data point that you don't have confidence in um is eroding at um the sort of trust value of the decisions you make based on those numbers.
+William Ross: Mhm.
+Waylon Howell: Um and hygiene is is like the sort of I mean that is where the trust comes from right it's like you know if my sales leader asks like how many deals uh went to Xstage or whatever this quarter I could tell them with 100% confidence you know what I mean like like I am certain that this is correct because of like all these like processes and systems we have in place.
+ 
+ 
+00:39:45
+ 
+William Ross: Mhm.
+Waylon Howell: Um, the value of being able to do that and sort of offload the worry of maybe they screwed something up and I haven't seen it yet. Um, is not one that you would necessarily think about every day unless it is bad.
+William Ross: Mhm. Unless it goes wrong, you think retrospectively, I wish I had
+Waylon Howell: Um, yeah. Yeah. But and that's and that's what I would probably push on. It's like how many times have sales leaders had to have really awkward conversations um either with their leaders or with their reps where they saw something that wasn't true, right? And they said something that was based on a bad assumption um or, you know, was outdated data. Like trust is super valuable and it kind of, you know, the the more your reps know that the work they're doing results in trustable, actionable data, the more your reps will like want to do that, if that makes sense, you know? Um, it's it's Yeah. So, because again, it all comes down to like to to trust.
+ 
+ 
+00:40:53
+ 
+Waylon Howell: Like if your reps trust that the process they're doing will result in outcomes that their leaders can trust, um then it means that you know they're not disincentivized to listen when you ask them to do something. You know, I think it's a good one.
+William Ross: No, absolutely. That makes a lot of sense. And do you do you think the Slack approach is the right one? Again, how getting and how to get reps to make the changes because I was going, how do your how do your reps do it themselves?
+Waylon Howell: So, I try to frontload as much of the stuff that needs to happen into the deal staging process as I can. Um, because it kind of goes back to this like thing of the right time, right place is important for notifications. Um, and HubSpot's automation is doesn't know, right? Like, you know, there's you you can't really build a system that's going to like know the exact right time a rep is going to be ready for a notification to update something. Um, and so you end up either with you get lucky and you have reps who read notifications every time and you have, you know, the right amount, which is hard, or you get stuff that gets ignored.
+ 
+ 
+00:42:01
+ 
+Waylon Howell: Um, and every time they ignore something and there isn't a like consequence, uh, you're like reinforcing that behavior, right?
+William Ross: Mhm.
+Waylon Howell: And you know, as we said before, um, behavior is so much harder to change than than like a system process.
+William Ross: Oh yeah. Yeah.
+Waylon Howell: Um, so I like Slack. I think is it the right kind of mode of communication is it may vary like I guess it depends a bit on on the business, but I know that for us Teams is like the central point, right?
+William Ross: Is that where the sales are all working?
+Waylon Howell: Um, you know, that's where sales that's where everyone is, right?
+William Ross: It's just on.
+Waylon Howell: The entire business like looks at Teams. Um, so there's advantages there. Um, uh, I don't know.
+William Ross: Why are you not on Dynamics then? Why are you on HubSpot?
+Waylon Howell: May maybe maybe one day. I think, uh, mainly because of the, um, like marketing suite if I had to guess. I don't know.
+ 
+ 
+00:42:54
+ 
+Waylon Howell: I wasn't here when they picked HubSpot, but that's a good question. I think Dynamics is just a less good fit for B2B SAS, too.
+William Ross: Yeah.
+Waylon Howell: But um yeah, but Teams is considerably cheaper, I think, per per unit person.
+William Ross: So is Teams over Slack Teams. Yeah. Slack really went up. Slack went classic VC back. It's like, let's get everyone in on the cheap price and then the the VCs will subsidize everything and then
+Waylon Howell: I know, right? Yeah. I mean, honestly, Slack is lucky that Teams has to be has to cost something. Like, I'm pretty sure the only reason Teams isn't free is because they got sued and almost had to like split Teams off. Um, yeah, there was like an an antitrust thing or something because Microsoft was doing the Microsoft thing where they were like, "Screw it. We'll just bundle Teams in with everything and it'll be free." And
+William Ross: buy everything. Anyway, I know I know we have gone way way over and I'm very sorry, but uh I know this is I know final version is not right fit for you.
+ 
+ 
+00:43:42
+ 
+Waylon Howell: you know, I mean, how do you compete with that, right? Like it's crazy when Microsoft can just loss lead an entire business worth of product, but it's like, you know, that's fine.
+William Ross: If it's okay, I would love to if we end up doing cross object in teams like maybe early next year, I would love to hit you up again and do also even if actually what would be really useful
+Waylon Howell: Yeah, hit me up.
+William Ross: if we start the process particularly on cross object to even get your input to be like what exactly would you need it to do to be valuable? You can shape what it what it does.
+Waylon Howell: Yeah, I think um particularly for that cross object stuff, the thing that I'm going to be looking for is just configuration because I think one thing that is It's so hard.
+William Ross: Yeah.
+Waylon Howell: Like I think about this a lot with AI products that are going into HubSpot is like every portal is so different. Um and you need someone who understands the insides of that portal to build a complicated system, you know.
+ 
+ 
+00:44:44
+ 
+William Ross: Mhm.
+Waylon Howell: Um, so for these kinds of like more advanced use cases where you're dealing with lots of cross object associations and and things like this, whatever that looks like needs to be something that could be configured like narrowly.
+William Ross: Mhm.
+Waylon Howell: Um because the the more flexibility is there, the more use cases you can you can fit to, which I know is that's like kind of a hard thing though. But um that's that's what I think about because it's like you're never going to see two portals that are exactly the same. And so any kind of rigidity that exists there um is like carving out pieces of of uh um users or potential prospects you can't get to. And it also makes it more difficult to know who will see good value, right?
+William Ross: Yeah, absolutely.
+Waylon Howell: Um I think there's probably a couple of really simple cases that can be like examples. Um but for the he heavy power user, I think configuration is key, especially because like custom objects, like who knows what they've got going on with the custom object like you know what I mean?
+ 
+ 
+00:45:50
+ 
+William Ross: Yeah, I mean if we could just do the contacts and companies, I'll be that'll be a nice little
+Waylon Howell: Like Yeah. Yeah. Um that alone would be rad. I think like basic uh stuff that would be super cool would be like, hey, you know, this contact came in and looks like it, you know, or like there's a a contact without an associated company that has certain characteristics and is owned by you. Um you know what I mean? like that kind of setup that is kind of step zero. And then the question would be like can you associate that to the right place from Slack? That'd be kind of interesting.
+William Ross: we so we can so we can so if a company if you so already we can do associated companies.
+Waylon Howell: I don't even know what that would look like.
+William Ross: So, if a deal doesn't have a company associated to it, you can we'll have a drop down of all the companies in your list and then you can just associate Slack um contacts.
+ 
+ 
+00:46:47
+ 
+Waylon Howell: Okay. So, you guys are are pinging the I wonder if that will and it's just like every company or contact or whatever and you can like pick it from the list.
+William Ross: Yeah. Yeah.
+Waylon Howell: Wow. That'll be interesting.
+William Ross: But again, that's what it's limited to. It's just really those if it's missing. And on the number of associated contacts, all we can really tell you is whether you have X number of contacts. So the idea being like generally for like like enterprise deals, you might want more contacts on the deal. So you can say, "Hey, this deal's got like 100,000 value, but there's like only one associated contact. What the heck's going on there?" But
+Waylon Howell: Yeah.
+William Ross: we can't tell you if it's like got the property off like a buyer or anything.
+Waylon Howell: Mhm. Um, yeah. I think something that comes to mind, I don't know this. I don't know. That would only work for hubs where you can use rollup properties.
+ 
+ 
+00:47:44
+ 
+Waylon Howell: Um, but rollup properties is also something I think that would be like an easy way to lever this for more advanced use cases. More advanced um I'll put that in quotes. Um, and it's like easy to set up. Like I think that the sort of like, you know, if you make these four custom objects or maybe, you know, you can configure it in such a way where it just like creates a handful of of rollup properties that are like generally useful. Um, or just recommend it as part of the sort of onboarding or selling process like you know what's important to have connected to your deals. Oh, a contact with XYZ label or whatever.
+William Ross: Yeah, that's what you can be part of the design process of if you're interested, if you want to and just just for the funsies of it, you know, shake.
+Waylon Howell: if you make this property and trigger this kind of rule, like that's, you know, maybe that's just a template. Um, but that's the sort of lowest hanging fruit there. It could be fun.
+ 
+ 
+00:48:42
+ 
+Waylon Howell: But yeah, I don't know. I think there's a lot of interesting stuff here.
+William Ross: No, I really appreciate that.
+Waylon Howell: Um, oh yeah, Hallmark movies and HubSout workflows.
+William Ross: Honestly, that means that means a lot. Um, and yeah, apolog. I've gone a little bit over. I will let you go. I know. I'll let you go back to all the Hallmark movies. I will go back to Hallmark movies. Hustle Workers and Cyber Punk. What What a week we've got ahead of ourselves.
+Waylon Howell: Yeah.
+William Ross: Wow. Oh, by the way, sorry, very tent. If you're into Cyber Punk, it's not Cyber Punk really. It's a show called Pantheon. If you've seen it or if you've not seen, uh, honestly, one of those shows I couldn't recommend it enough.
+Waylon Howell: Pantheon.
+William Ross: Um, if if you don't like it, I'll like that tells me a lot that I will judge you so hard.
+Waylon Howell: What's the um what's what's it on?
+William Ross: Uh, it was on Netflix when I watched it. Um, it was uh yeah, pretty pretty good show.
+Waylon Howell: Okay. I guess I'll have to check. Okay. Um, yeah, I'll look into it.
+William Ross: But yeah, anyway, genuinely best call I've had all week. Whan, thank you so much.
+Waylon Howell: Yeah.
+William Ross: Really, honestly, an absolute pleasure.
+Waylon Howell: Well, I'm glad the I'm glad I could hopefully offer something useful. I had a good time.
+William Ross: Yeah.
+Waylon Howell: Um, I appreciate you giving me a peek at what you guys are building over there. Uh, add me on LinkedIn. I'll give you my review of Pantheon when I get around to it. You know, look for that.
+ 
+ 
+Transcription ended after 00:50:19
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

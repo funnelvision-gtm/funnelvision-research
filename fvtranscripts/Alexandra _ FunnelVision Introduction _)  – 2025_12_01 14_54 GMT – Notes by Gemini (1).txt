@@ -1,0 +1,213 @@
+﻿Dec 1, 2025
+Alexandra / FunnelVision Introduction :)  - Transcript
+00:00:00
+ 
+William Ross: Hi, Alexandra. Oh, I can't hear you. Apologies. Oh, doesn't say you're on mute. Is this okay?
+Alexandra Ghita: I think it's from me. Can you hear me now?
+William Ross: Yeah, I can hear you. How are you doing, Alexandra?
+Alexandra Ghita: I'm great. Thank you. How about you?
+William Ross: Very good. Very good. I apologize. He had a a quick traveling conflict today. He's off off to London unexpectedly. So, uh you've got myself and Greg on the call.
+Alexandra Ghita: Okay. Hi.
+Greg Petherbridge: Hey, Alexandra.
+Alexandra Ghita: Nice to meet you.
+Greg Petherbridge: Yeah, you too. How are you doing?
+Alexandra Ghita: I'm good. Actually, I have a day off today. It's a holiday. Uh it's a national holiday. It's Yeah, no worries.
+Greg Petherbridge: Oh my god. Thank you for joining us. Sorry that you've taken time on your day off.
+Alexandra Ghita: I almost forgot about our goal. So yeah, how are you guys?
+ 
+ 
+00:01:50
+ 
+Greg Petherbridge: Well, it's massively commendable that you're here.
+Alexandra Ghita: What are we going to talk about today?
+William Ross: good. Yeah, feeling good. Oh, I was hoping well we can chat to you a little bit about funnel vision and what how we're disrupting the whole pipeline hygiene space and uh love to get your thoughts, comments, feedbacks and honestly you can give us as candid and honest as feedback as you as you like as well and we're here to um but obviously we'd love to know all a bit about your your background like is there anything particularly interested you like
+Alexandra Ghita: Okay.
+William Ross: why you wanted to chat about funnel vision um I'm not sure how much context Stephan probably gave you on on LinkedIn but is there anything that kind of piqu your interest.
+Alexandra Ghita: Um, I just super off topic. I wanted to ask where are you from?
+William Ross: So, I'm I'm based in Edinburgh in Scotland.
+Greg Petherbridge: Yeah, I'm based in London, but I I'm from Dublin, Ireland.
+Alexandra Ghita: Okay. And Greg
+William Ross: Uh, Greg
+ 
+ 
+00:02:48
+ 
+Greg Petherbridge: So, um yeah, may maybe William, I might just give her the backstory of how Funnel Vision became to be. Give a bit of an introduction to ourselves first before we get into everything.
+Alexandra Ghita: Yeah.
+Greg Petherbridge: Um yeah so Alexandra myself William Stefan who you spoke to and another colleague of ours Alex we've for just over the last year been working as a four in a go to market consultancy so all of our backgrounds come from kind of high growth B2B SAS um often from the GTM side whereas William's got a very diverse background and he's kind of our tech technical brains bringing all of this together. So really why the consultancy started was because um we were with a lot of companies from that kind of early journey of 0 to 10 million. Um ultimately saw a lot of similar growing pains and a lot of early stage GTM orgs. A lot of orgs that had a lot of demand from VC pressure or um really aggressive revenue targets. So effectively what we did was become these kind of uh sidebyside GTM advisers for the founders who were in that stage of having product having funding in that kind of mid midphase before having a sales team but starting to lay the foundations of of GTM.
+ 
+ 
+00:03:59
+ 
+Greg Petherbridge: So we were really just kind of their their fractional sales people. So setting up their outbound processes, setting up their CRM, running sales cycles alongside them and then effectively hiring the team and and kind of building the roots and then and then leaving. Usually about three four month engagements. Um but something we were pretty passionate about was finding something from a software perspective that we we that we saw day-to-day that we believed could be fixed. And for me, I think coming from being a rep and coming from working with these these sales teams, I think one of the biggest gaps in all of this these advanced, you know, where AI is going and and how sales tooling has become quite clouded is that the issue of forecasting and and sales pipeline and and revenue leaders having a clear vision on what's in their pipeline has become really messy and really hard to kind of trust the numbers, I suppose. And to us, I think it becomes down to a behavioral problem. Um, because I'm a salesperson myself.
+ 
+ 
+00:05:00
+ 
+Greg Petherbridge: I I have no shame in saying that sales people can be pretty selfish and in their own world. And if their knowledge of of their deal sits within their head, if there's no incentive to really be thorough with it and and be clear in your pipeline and and be clear in how you're you're putting all of this into the CRM, if they're not getting that kind of push back from the top down, I think it just becomes an accepted behavior to not necessarily be as clear as possible in your CRM. Update your your amounts, update your close date, keep your med pick up to date, that kind of thing. So we've created a framework that can both assess your pipeline health and then automatically route that. So not automatically but Steph William will go through it but the goal is to really close the behavioral gap to not have your sales team sitting in any tools but how can we first of all get visibility on what's unhealthy within the pipeline and how do we make that as easy as possible to fix.
+ 
+ 
+00:05:53
+ 
+Greg Petherbridge: So really the differentiator we feel we have is that we're starting with a HubSpot and Slack setup where you'll in funnel vision be able to see everything from the CRM in terms of your pipeline health but you'll be able to push those updates to the rep and they'll be able to update it straight from Slack. So we're really just trying to ensure more confidence in the forecast, less work for revops and an easy way for reps to update their deals.
+Alexandra Ghita: Okay. Um I am interested to see how it actually works because Yeah.
+Greg Petherbridge: Yeah, I mean, yeah, I mean, we can jump straight into it because I think um, you know, while we have your valuable time on on your day off, the the thing that's probably important to you is seeing it and the thing that's important to us is getting your feedback on it. So, um, yeah, William, if you want to jump in, maybe go ahead.
+Alexandra Ghita: Mhm.
+William Ross: Let's do let me know if this is popping up for you. Okay, awesome.
+ 
+ 
+00:06:50
+ 
+Alexandra Ghita: Yeah. All good.
+William Ross: So, so really simply funnel vision as Greg uh mentioned it syncs up with your HubSpot environment and then what you're immediately presented with is a is a snapshot view of some of the common hygiene issues that will exist across your your pipeline. And I like to think of this as like a really like within a five minute time frame you're going to get a very quick snapshot audit of of um of your pipeline. See you.
+Alexandra Ghita: Okay. So, sorry to interrupt, but I will have some questions along the way. So, how is this? So, basically, this works alongside HubSpot and Slack, correct? It transmits the data from HubSpot to here and from here to HubSpot. Is that right?
+William Ross: Yes.
+Alexandra Ghita: Okay. So, it's a by birectional uh associations between them. Okay. Um, my question is why would I use this and not HubSpot instead? Because HubSpot has reporting, dashboards, everything in one place
+William Ross: Yeah, good question.
+ 
+ 
+00:07:53
+ 
+William Ross: So, the two main reasons is um what you can do here is direct the changes that need to be made from here into Slack and get the reps to make changes in Slack themselves. So in HubSpot you one of the the behavioral challenges we're trying to get tackle is that the fact that sales people don't go into HubSpot to do anything. So HubSpot is very one-dimensional. It only shows you um the data but you can actually action the data from HubSpot. Um and then the second part is building those reports and some of the configurations that we'll show you in the in the rules button here on the left hand side is a lot more clunky in in HubSpot and not as clean as we can do it in final vision.
+Alexandra Ghita: Okay. But the fact that there the sales team doesn't use HubSpot is not necessarily an issue of the tool. It can be multiple uh problems that that is that are responsible for them not using the tool. So if you have a sales team and you have HubSpot and everything is set up correctly and you want them to use that tool, uh the issue may be on the management side.
+ 
+ 
+00:09:06
+ 
+Alexandra Ghita: They might not push using the tool correctly. uh or they have issues adopting it themselves. A second thing would be the training part. So I still am quite unclear on this.
+Greg Petherbridge: Yeah, I think you'll see as it goes on, Alexandra, what the full loop looks like. Um, because of course using HubSpot isn't a hard thing to do. like it's not it's not hard for a sales rep to get their head around putting in information into into a deal in HubSpot. The problem we're solving like yeah you're seeing a dashboard here and of course you can build a dashboard in HubSpot and you can get visibility but visibility to us is only the first step.
+Alexandra Ghita: Yeah.
+Greg Petherbridge: How do you action it and solve for the pipeline problem? That's what we feel we I might just I might just let William walk through.
+Alexandra Ghita: But what do you mean? What do you mean with solving pipeline? I'm just trying to understand.
+Greg Petherbridge: So, if you look at the the sales hygiene dashboard here, if William is going to take you through the full journey here of finding a problem in a deal, how would we route that to a rep and how does it get fixed back in HubSpot?
+ 
+ 
+00:10:09
+ 
+Alexandra Ghita: Okay.
+William Ross: Yeah.
+Alexandra Ghita: Okay, let's go.
+William Ross: So, so really simplistically, what you could do here is what you what you're show seeing here is every deal in your HubSpot that has some type of hygiene issue. And just to show you the quick loop, if you go to my deals, um, and we look at, for example, this deal which has a missing amount, missing next step, and it's passes close date. You just request the update on that deal and then I as the deal owner would get a notification in Slack that says, "Hey, we're waiting for an update on this deal." And then the rep could be on their phone in a on a train, airport, on the go, or just working in Slack. And they're asked to fill in the amount, the next step, and the close date. So they could be the amount's 10,000. Next step could be meet the buyer, and the close date, which is currently set for September 9th, is obviously months past. maybe it's needs to be in January and then they update the deal from Slack and that's it.
+ 
+ 
+00:11:02
+ 
+William Ross: The the the deal's been updated. It's reflected in HubSpot. And then what you're seeing here is very messy test data, but basically whenever they have other deals that need to be updated, they will get them rather than being spammed all day every day. They just get them in one chunk every day. Here are all the deals that are meeting some type of hygiene issue across the last 24 hours that need your attention. So the basic premise is surface your hygiene issues, root those fixes to the to the deal owners in Slack. Deal owners deal with them in Slack. Um you can even see when updates have been requested by. So like you know here uh you made a request six days ago and it's not been actioned. And the last thing I want to show you is this rules page because all you've seen up to now are these built-in ones that are like like I said snapshot kind of internal audit ones for really common mistakes. But you can also create your own rules.
+ 
+ 
+00:11:53
+ 
+William Ross: So you can configure you can think of these as like your HubSpot workflows but it's a bit a bit easier to use. So we can we pull in all HubSpot properties, custom properties, associated contact and associated company. And so you can kind of configure any tracking of hygiene that you're that you're interested in, not just like a missing next step. Um, and that's the basic premise of funnel vision. I like to think of as surface hygiene issues. Configure them to what you care about and then reps will fix them in Slack.
+Alexandra Ghita: Okay. Okay. So, how can I help you here?
+Greg Petherbridge: I suppose I'd like to maybe dig in on on what you mentioned that it could be a lot of other other issues. Um, do you do you believe something like this wouldn't necessarily solve the pipeline hygiene or or what do do you even feel you have pipeline pipeline issues or or anything like that? Why do you feel that it might not be a fit?
+Alexandra Ghita: That that's what I wanted to ask.
+ 
+ 
+00:12:56
+ 
+Alexandra Ghita: What is a pipeline issue? Can you give me an example? What what are you referring to when you say pipeline issue?
+Greg Petherbridge: I would say clearly defining your your your ongoing pipeline in terms of like how we forecast that. So what we've seen from a lot of CRO is a lot of sales people without any scrutiny on what's actually in their deals and how accurately are they reflecting their deals in the CRM ultimately a CRO will go into their dashboard that they see and they will just take the number as truth okay we're predicted to hit 7 million revenue this year whereas what we want to do is further analyze okay the numbers telling us 7 million but as uh William would have shown you in that dashboard okay there's 79 deals that only have a 20% health score because they're missing XY Z, but they have this number in them that's telling me we're going to close this. So, what we're saying is if you work down from that and you say, "Okay, we clearly don't I I I haven't seen many teams that have completely accurate reporting of their pipeline. If
+ 
+ 
+00:13:57
+ 
+Greg Petherbridge: you work down from that, how do we make that as accurate as possible?" It's kind of the read and write back function that we're looking there. So, it's about getting a clear picture of what's missing, rooting that to the seller in in Slack, and then them being able to have a clear picture of what they need to do. Because I think sales people have a clear picture of a on a dashboard of their pipeline, but they don't have a clear picture of what's missing and what needs to be added. And I think if you close that loop, you have better trust in your numbers from the from leadership. You have revops stop chasing individual reps saying, "Update this, update that." Um I I think one thing it it does is create a an expectation within the team that pipeline defining your pipeline the correct way should be expectation and um yeah it it helps leadership down to yourself if everyone can close the loop and and be as as you know detailed as possible in what they're reporting.
+Alexandra Ghita: Mhm.
+ 
+ 
+00:14:53
+ 
+Alexandra Ghita: Okay. So, you want my feedback on on the tool itself, right?
+Greg Petherbridge: Yeah.
+Alexandra Ghita: Okay. Uh, I'm going to give you my opinion and I'm going to tell you what I think about this. So, uh, first off, you do have clarity in HubSpot. I'm sorry to say this, but if you don't have clarity in HubSpot, there are other issues there. Uh, it's not a tool issue. So you have forecasting in HubSpot, you have uh dashboards you can create, reports you can create, you have pipeline visibility of course, you have filtering that you can use if you want to see how many deals you have in each stage, where they are stuck, what do you have to do next, so on and so forth. So that's one thing. Second thing, uh I think it's very cool the Slack implementation and feature of sending um the notification just as you showed me. So that's I think that's valuable. Um but my overall opinion is that you need to different differentiate more than from what other CRM are using.
+ 
+ 
+00:16:17
+ 
+Alexandra Ghita: So that would be that would be my my final my final view on this. You would need a bigger differentiator than other tools.
+Greg Petherbridge: Okay.
+Alexandra Ghita: Um other tools are using now are so HubSpot and other CRM are including now uh of course AI they they have a lot of AI there. I don't know if you have that, but that may be um I think they have um more than you do. So um having AI now it's with the AI trending and all someone might opt for another CRM just because they have AI and you don't. I'm not sure if you do. Do you have AI in this?
+Greg Petherbridge: to be honest. I don't think it's necessary. What we're doing is solving it's a workflow issue and and it's it's about having that connection both ways. So for us, AI doesn't really have a place because we're not trying to get it to analyze something and and execute on on its own brain.
+Alexandra Ghita: Well, that Yeah.
+Greg Petherbridge: We're we're getting the sellers to input input the knowledge that they've gotten from from the sales.
+ 
+ 
+00:17:26
+ 
+Greg Petherbridge: So I would like maybe just back to your point on you can do a lot with HubSpot. You can create the the hygiene, you can create the dashboards, and you have you can get a picture on it. But do is this an issue? Um, do you see this as an issue in terms of either yourself or sales leaders having to okay first get the feedback that this is what's missing in HubSpot? I can see that. What's the next step from there? How do they solve that issue and how do they get the sellers to to meet them in the middle and and to to to work with the tool?
+Alexandra Ghita: Well, it's it depends a lot on on the management. That's what what I was saying earlier because if you have a good manager that uh includes the team in using the tool and they use the tool themselves and they have the trainings and they are um they are sure and they understand how to use it. Uh that's that's okay. That that works great.
+ 
+ 
+00:18:25
+ 
+Alexandra Ghita: If you have a manager that doesn't use the tool themselves and they don't insist for the team to use it, that will probably get lost and they and they will work like in Excel and whatever.
+Greg Petherbridge: Yeah.
+Alexandra Ghita: So other two aspects that I wanted to point here, one of them is the financial aspect. Uh I I believe you have a subscription or sort of Yeah.
+Greg Petherbridge: Yeah.
+Alexandra Ghita: Um, so you've have to take into account that someone that already has HubSpot. HubSpot is rather um expensive. It got expensive throughout the years. So I wouldn't want as a CEO or as a manager to pay an extra tool. I would rather make the tool that I have work. That's one thing. Uh the other thing is data. So you have the integration, it works perfectly, but what if you have you you there's a gap or something something doesn't sink something what is the source of truth there? Um
+Greg Petherbridge: Well, HubSpot is your like it we're purely focusing on pipeline.
+ 
+ 
+00:19:40
+ 
+Greg Petherbridge: So, in theory, anything we're assessing, we're we're trying to assess what's not there and what's there. So, what's there, we can we can measure the strength of that. you know, do they have the clothes they didn't? Do they have a strong um champion in in in the med pick field? That kind of thing. And we assess what's there and we assess what's missing. So if data is missing, we will identify that. If it's not in the right place, you will know and you will be able to bring it in. And that's the the kind of logic of the tool is to fill in the gaps. So data uh is data outside of that that that you're thinking of or is there is there specific data you're thinking of?
+Alexandra Ghita: Sorry.
+Greg Petherbridge: Because to us it's a we're assessing the health of your pipeline. So in theory okay and are you confident in the accuracy of of how you're reporting the pipeline?
+Alexandra Ghita: So basically HubSpot is the source of truth remains the source of truth, right?
+ 
+ 
+00:20:34
+ 
+Greg Petherbridge: Well then well then I maybe we're we're just not a fit because it sounds like you have a good team. But um like bring it back to your point on like a good manager and a good team does this of course and and I think we're not building this saying that every seller can't update their deals. Absolutely not the case at all. We've just seen that when there's when the when the sales leadership or VC pressure or there's a massive demand on a revenue target and every kind of million every thousand counts, you need to depend on every sales manager and every rep being disciplined to do that. So if you're on the assumption that yes uh everyone does that great if not it then becomes a behavioral problem and I think behavior and sellers generally from the companies we've worked with it's not perfect. So that's all our really our mission is is to bridge that gap and how do we make it as easy as possible. So we're not replacing a CRM. We're not we're not that tool at all.
+ 
+ 
+00:21:32
+ 
+Greg Petherbridge: We can't exist without your HubSpot. So from what I've seen, we've we've implemented a lot of software with a lot of companies and yes, your big investment is your CRM. That's that's your source of truth at all. Absolutely. But sales teams invest a lot of money in a lot of things in like gong and you know call like dialers and getting numbers and outbound tools. We consider ourselves priced really well for what we do. Um and we don't have user based pricing. So we have a flat fee. Um we from the companies we've worked so with so far in our in our early on boarding I think for the companies who really struggle with it and and do have this behavioral problem they're absolutely willing to find the budget within that tech stack because we'd be nowhere near that the price of a real CRM. Um but yeah I I think that's really what what it comes down to is the assumption of perfect behavior is hard to find in high high growth high velocity B2B SAS.
+ 
+ 
+00:22:30
+ 
+Greg Petherbridge: um particularly when there's quite a revolving door of of talent and it's hard to kind of standardize processes. So it sounds like maybe you're just very good at coordinating HubSpot and your team is very good. Um but it it's just more so we we we've built this off off the kind of inconsistencies in in standardizing that behavior and that expectation of being disciplined on your pipeline which is what we've seen. Um but yeah, I mean we really appreciate that feedback and um I I think you have called out some some great stuff and it's it's it's things we do consider.
+Alexandra Ghita: Okay. Do you have uh I I suppose you have already clients and what is the feedback from them?
+Greg Petherbridge: Yeah, I think mainly it's the RevOps teams and the sales leadership that are giving us good feedback. Reps don't really care about how the knock-on effect of of how they're being looked. reps can be a little bit annoyed at us because there's now scrutiny on on what they're doing and there it's very visible if you're lazy with it.
+ 
+ 
+00:23:26
+ 
+William Ross: Yeah, good.
+Greg Petherbridge: So, um but RevOps teams have loved it. So, um anyone who's like been a who coordinates the HubSpot, who owns the HubSpot, has to chase people saying please update your deals.
+Alexandra Ghita: Okay.
+Greg Petherbridge: Um they're the people who are right in the middle of the the pressure from leadership and the sellers. They're they're the ones that are kind of really benefiting off this
+William Ross: I've spoken to a few of the the sales reps that are using it though and the thing they like though is the well two things they don't get taken out of their workflow. So rather than having to go on a often what they would do before funnel vision was installed they would get on a call with the revs manager and they would take like an hour every week or every couple weeks to go through every one of their deals and be like is this up to scratch? Is this up to scratch? is this whereas now they don't need to do that. They can just do it for themselves in Slack in their own time when it suits them.
+ 
+ 
+00:24:12
+ 
+William Ross: So that's the bit they like. It's very frictionless for them.
+Alexandra Ghita: Okay. Yeah, that's cool.
+William Ross: Um so so there's two points. So really what we're trying to solve for is any manual chasing that's that's that's going on and causing that friction in revops and sales and taking time away from really valuable revops work that's that could be used on on other things like building even fancier analytics and dashboards rather than going through the deals and having to then ping all of the reps
+Alexandra Ghita: Mhm. I get it. Okay, that's cool. I'm really happy to hear that. That's that's great. And I hope you you get more customers, more clients.
+Greg Petherbridge: Yeah, absolutely. Um, you know, maybe I I I I don't uh I don't see you guys being a having a need anytime soon based on what you've said, but um I suppose if you ever have a bit of a a bit of unexpected growth and a lot of new hires, maybe it's something you you'll you'll be challenged with in the future and then maybe you'll think of us.
+ 
+ 
+00:25:11
+ 
+Greg Petherbridge: But um no, it's it's been re really good to talk to you, Alexandra, and um yeah, we really appreciate the feedback.
+Alexandra Ghita: Yeah, I'm happy to help. Uh, let me tell you a bit about myself because, uh, I'm a HubSpot specialist. It's more of a CRM specialist. So I work with multiple CRM but my passion and my um the main CRM I work with is HubSpot. So that's why I'm talking. So maybe it sounds I talk highly about it but they've they are working at it a lot and uh updating it constantly and I see how much it it grew throughout years. Um, so and I work in a marketing agency in a B2B marketing agency, but I'm also a freelancer. So my that's where my expertise comes from, from the clients we work with uh, and from the patterns I saw with them and with adopting the CRM and everything. So yeah, that's that's where I come from. I'm sorry if I was harsh in my feedback, but okay.
+William Ross: No.
+Greg Petherbridge: No, we want that.
+ 
+ 
+00:26:25
+ 
+Greg Petherbridge: We want that. Absolutely. Um, open honest feedback like you're the people who are experienced in HubSpot and can understand kind of the user adoption side. So, no, it's really valuable stuff and we're taking taking everything on board. So, um, yeah, we we really appreciate it and, uh, yeah, I'm sure, uh, hopefully you will see our name pop up a bit more in the future and, uh, yeah, and may maybe we'll have another conversation a few years down the line.
+Alexandra Ghita: Mhm. Yeah. Uh I am rooting for you. I encourage every um project that is uh CRM relevant or how to say it uh in that realm. Uh so yeah, I'm rooting for you and for your success. It seems like you you guys are doing good to to now and uh I'm sure you will develop more the the tool and uh I see I see some potential. So yeah, no worries.
+Greg Petherbridge: Thank you. Yeah, crazy. Go enjoy your day.
+Alexandra Ghita: Yeah. Yeah. Thank you.
+ 
+ 
+Transcription ended after 00:27:54
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

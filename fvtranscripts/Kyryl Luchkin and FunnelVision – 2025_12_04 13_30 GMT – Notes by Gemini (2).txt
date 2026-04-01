@@ -1,0 +1,180 @@
+﻿Dec 4, 2025
+Kyryl Luchkin and FunnelVision - Transcript
+00:00:00
+ 
+Greg Petherbridge: last year, so not not exactly the the same spot, but uh such such big place.
+Kyryl Luchkin: close. Yeah, the same.
+Greg Petherbridge: Yeah. Um really appreciate your your time. Um I'm not sure who you were expecting on this call, but I think was it Stefan you were in touch with?
+Kyryl Luchkin: Um, probably. Yeah, I a LinkedIn message from William.
+Greg Petherbridge: Yeah.
+Kyryl Luchkin: No, from you.
+Greg Petherbridge: Oh, okay. Yeah. So, we're all kind of sharing uh sharing the calls at the moment. Some of the guys calendars are getting a bit uh a bit filled up, but yeah, I might just give you a bit of background on where we are at the moment and and what we're building and um yeah, from there really just be great to to get your your perspective on what we're building and and hear a little bit about you and how this might be able to fit into your world. But um yeah, myself and William along with Stefan and Alex and Joshua as well.
+ 
+ 
+00:00:51
+ 
+Greg Petherbridge: There's there's five of us who four out of that five were in a a go to market consultancy for the last kind of year and a half. So um we've all come from B2B SAS backgrounds where we kind of worked in that 0 to 10 million journey for um a lot of these these B2B SAS companies and ultimately ended up going out on our own in a consultancy of of ourselves working with with founders uh who are kind of either in that stage before hiring their first sales team first sales hires could be early stage BDR type teams um scaling revenue that kind of thing. really our our what we were trying to do was just skip the growing pains that a lot of companies at that stage go through in terms of of go to market you know defining ICP early uh getting the right systems in terms of IT in place um the right sales training hiring their their kind of first GTM hires um and ultimately in running in kind of seeing a team scale we we kind of came came to the idea of funnel vision um which ultimately is a behavioral problem I I think everyone looks to AI now to to solve their problems, but um I think we we looked at AI at the start, but ultimately what what we were seeing in in all the companies we've been in is that CRO and sales sales leadership don't necessarily trust their their sales forecast.
+ 
+ 
+00:02:15
+ 
+Greg Petherbridge: Um and to some that doesn't matter. You know, a sales forecast can be completely inaccurate and and have no real bearing on on strategic decisions or or kind of the the end the end game by the time you get to the quarter or the end of the year. But in the that specific niche of companies we worked with, the sales forecast meant everything to the investors, to the leadership, to everyone in the team. And ultimately working back to that, we kind of found that the forecast mostly was quite wild due to I'm I'm not afraid to say it because I come from being a seller myself, but I think sellers themselves can be quite selfish and in their own world. And ultimately, if there's no incentive to populate your deal hygiene and to give us as clear a picture as possible within your deals, you're not going to do it. Some some individual sellers might be feeling the pressure to maybe inflate what they're doing to make it look like they're doing better now, kind of kick the can down the road and maybe maybe save their job later in the quarter.
+ 
+ 
+00:03:13
+ 
+Greg Petherbridge: But ultimately, what we found was how do we close the loop between lazy CRM entry or or not entering it at all? um inaccurate reporting to how do we bridge that gap to this sales leaders seeing exactly what they need to see and how do we help the people in the middle like revops who are chasing these people for updates and they're getting the pressure from the leadership to to make sure everything's updated and the hygiene's good. So, um, really that's what we did is is tried to build a solution that that closes the loop on from CRM, which is what you want to be your your single source of truth to where does your where do your sellers live and how do we root these problems to them and get it fixed in the CRM as quick as possible, which is what we see funnel vision to be. Um, so really starting with HubSpot and Slack as as kind of the first test case you might have seen. We're still pre-launch, so we have a few customers using using this first version of it.
+ 
+ 
+00:04:10
+ 
+Greg Petherbridge: Um, we don't really want to come out and and announce ourselves until we're pretty happy that the customers we have are are really happy with what they're using and and we're ready for the scale. So, um, yeah, really that that's that's where we're at. Um, William can walk you through the platform in in in a little bit, but uh, yeah, would love to hear a little bit about you and and your role and kind of what uh what what what kind of curiosity made you made you take the call, I suppose.
+Kyryl Luchkin: Yeah, sure. Um, so I'm providing revenue operation services to multiple companies. One of the companies is Precor. And when I received the message from you, William, yeah, it resonated with me because I wouldn't say that I'm chasing the sales people to update some things, but data hygiene is something that I really want to fix. And you know, of course, like I'm building the process the way where it's not possible to skip um the stage, skip updating the fields.
+William Ross: Yeah.
+Kyryl Luchkin: So they must do this uh if they want to advance the deals, if they want to move a deal to close to one stage and so on.
+ 
+ 
+00:05:19
+ 
+Kyryl Luchkin: However, I'm not happy with the data. It's just like it's messy, it's not organized and it's very difficult to implement the change because if you change something, you need to bother like multiple teams. You need to convince them to start following a new approach. You need to consolidate the data. You need you need to do a lot of stuff. Yeah. And of course I would like to explore like any solutions in the market if if there is any way to automate this if there is any way to u centralize and consolidate the data in a more efficient way. I would like to learn more about this because for me it's a pain. um I cannot rely on the data because um I'm providing the services for smalls size companies. So um they they might be in the market for a long time but but some of the things are not pretty well established. That's why um there are plenty of things that need to be improved. Um and one of the things is data hygiene and like maybe like data infrastructure I would call it.
+ 
+ 
+00:06:35
+ 
+Kyryl Luchkin: Yeah.
+Greg Petherbridge: Yeah.
+Kyryl Luchkin: So I I think it was the main reason why I decided to learn more about this because this is a fail for me or yeah let me let me try
+Greg Petherbridge: Yep. And you described, sorry, this one of your clients said, was it procore you say? Um, yeah, I'd just be keen because we've had a good few of these conversations now. Poro. Okay. Um, we we've had a good few of these conversations now. And as I kind of mentioned in describing this, like a lot of companies just don't care about accurate sales forecasts, our niche seems to be that kind of size of company that you work for where there's just eyes on this everywhere and and you can't help but not care about every thousand and every 10,000 you're forecasting for for the end of the year. So in in terms of your experience with that company, what's the what's the sales leadership? what what's their attitude to to to fixing this and and is it something they're really pushing with with you to to help solve?
+ 
+ 
+00:07:37
+ 
+Kyryl Luchkin: It's more like my initiative. Sales people do not understand what they need. Yeah.
+Greg Petherbridge: Yeah.
+Kyryl Luchkin: I need to tell them how we need to build it. I know what I want. Yeah. And they are asking about some things from me to build. for example, they would like I don't know like to forecast the deals better or um come up with a list of customers from a particular industry in a particular country and I know that I'm not able to do so because of the data quality. So I'm mentioning this I'm underlining that data quality is not good. So we might see some inaccuracies but we need to start fixing it like we need to start building the infrastructure to make sure that we can handle this request um in a year I don't know like in some period of time. So um this is of course like we we worry like you mentioned forecast couple of times like we we need to to focus on this. We need to forecast the deals properly.
+ 
+ 
+00:08:43
+ 
+Kyryl Luchkin: Um I wouldn't say that it's a big pain for us in terms of the data quality because there are like four or five things that need to be updated. Um and in most and I build a process where like we have a cadence, we have a template, they must they must follow the process. So the the quality of those things are good. I don't like the results. I don't like the way they forecast the deals. But if you're talking about data hygiene, they're doing their job properly. But I'm not quite sure if it is going to work if we if you scale, right? Like it's easy to control everything when you have like five sales reps, but I have no idea what what's going to happen if it's like 15 sales reps. And um like if we can have like more control over this um where I don't need to remind them to go to Hopspot to update close date or forecast category uh it would be extremely helpful.
+Greg Petherbridge: Yep. No, that that's that's great context and and yeah, of course, it's there's really different everyone's sales teams have different kind of levels of of discipline with all this.
+ 
+ 
+00:10:01
+ 
+Greg Petherbridge: So, completely understand it'll always differ and ultimately we we just felt that no matter how good they are at it, it's always helps to get visibility on where things are from that bird's eye view and and have as you say be prepared for that scale. If things grow, how do we move with it? how do we ensure that that behavioral alignment is there? Um, but yeah, I I really appreciate that that kind of initial prelude and and really good context on where you're at. Um, specifically with Preoro, I think, uh, William, I might just give you the floor and and let Zero have a have a quick look at what we're building.
+William Ross: Absolutely. Absolutely. I will jump into it. Let me share my screen and let me know if that pops up for you. Okay.
+Greg Petherbridge: Yep.
+William Ross: Uh, can you see it? Okay, awesome.
+Kyryl Luchkin: Yep.
+William Ross: So, so the way funnel vision works is is really simple. Uh, all you do is sync up to your HubSpot environment and that takes about 2 minutes.
+ 
+ 
+00:11:02
+ 
+William Ross: And then what you're presented with initially is this dashboard page.
+Greg Petherbridge: Oops.
+William Ross: And this dashboard page shows you essentially a a snapshot audit of your of your sales pipeline. Um, so you can see some common pre-built uh hygiene issues like if your deal is past its close date um or if they're missing a close date or if they're missing an owner, if they're stale or missing a next step and it's to give you, as I said, a very quick audit on some of the really common hygiene issues that will exist in your pipeline. And then at the bottom you've got a hygiene leaderboard to see which of your salespeople are more on top of their hygiene compared to others. And this is ranked by the number of issues they have per deal. So for example, I have 31 issues across 28 deals. And so I'm averaging about 1.1 issues per deal. And then poor Greg at the bottom, he has over about three hygiene issues across each one of his deals. So, it's just a really easy way for you to keep track on who who's who's overperforming or underperforming when it comes to to data quality.
+ 
+ 
+00:12:05
+ 
+William Ross: So, these are just your pre-built ones that are common. And as you'll be very aware, every sales and go to market motion has their own specifications. And so, what we let you do is create your own custom rule for any specific hygiene issue that you care about. And we so we pull in every single HubSpot property whether it's a custom property or an associated contact or or an associated company level and we have our classic and or conditions and so you can search for any hygiene issue that you think would be would be useful. So just as an example of one that I made um for test data was uh a next step that's not been updated in x number of days and it's in late stage. So we want to look at whether the next step hasn't been updated in more than 10 days and the deal stage is in late stage. So maybe it's uh in in our pipeline definition it would be solution confirmation and negotiation. So what that means is whenever the whenever a deal has its next step not being updated for 10 days and it's in these stages, it will surface it as a hygiene issue for you to track.
+ 
+ 
+00:13:16
+ 
+William Ross: And then what you can do is click this button which is to automatically request updates from the deal owners. And what that means is whenever the condition of the rule is met, it will automatically request an update to that deal owner um without you even needing to go into funnel vision or or click or manually click click to request an update. So this will basically run in the background autonomously 24/7 constantly picking up um any triggers for for for hygiene issues to be picked up. And so then what you're probably thinking is okay, I'm looking at all my hygiene issues and I've configured my my pipeline to track exactly what I want to track in order to have a healthy pipeline. And so I'm surfacing all the hygiene issues I could possibly care about. What do I do about it? And how do we action them? And so that's why we have a fixed issues page as well. And in this fixed issues page, we see every deal in your pipeline that has some type of hygiene issue.
+ 
+ 
+00:14:15
+ 
+William Ross: And you can filter that by the deal stage, um, any specific owner you're wanting to track, um, any specific hygiene issue you're interested in, and also by the close date. You can also click on any of the deals to see more information like any specific hygiene issue. Um, you can see their next steps, if they're missing or not, their lead source, how many days it's been since they've had any activity. And so, just to show you the workflow and how it would look, um, for requesting an update. Let's look at my deals. And let's look for a deal that's got some hygiene issues. And very quickly, you'll see there's two different things. You've got request update again and request update. So what this means is for the request update again that means I have already asked for an update on this deal but it's not been actioned. So you could easily see how many for which deals have you already asked for an update that haven't been actioned fully. So you can track what ones maybe need a follow-up and you can just click pending request updates and you'll quickly get visibility into into those deals.
+ 
+ 
+00:15:16
+ 
+William Ross: Uh so just to show you another one. So you can see this deal has a a missing amount missing next step and is passed as close.
+Kyryl Luchkin: Can we ask a few questions?
+William Ross: Hello.
+Kyryl Luchkin: Can I ask a few questions?
+William Ross: Yeah.
+Kyryl Luchkin: Yeah.
+William Ross: Yeah. Absolutely.
+Kyryl Luchkin: When we are talking about this action, what does it mean? So, do sales reps receive a notification to um to fix these issues? How does it work?
+William Ross: Exactly that. So what happens if I click request update? The the saleserson gets a notification in Slack to say, "Hey, Williams asked for an update on this deal."
+Kyryl Luchkin: Mhm.
+William Ross: They just click on it and they go, "Okay, it needs a missing amount because it's it's not got one." And they can go, "Okay, that's 10,000. Um, it's not got a next step. So, what's the next step?" It could be meet the buyer. And the close date is currently set in for October 22nd, which is in the past.
+ 
+ 
+00:16:02
+ 
+William Ross: So, we don't want that. So, what's the new close date? And it could be January 31st. And they just have to click update deal. And that's it. Done. They will then be asked if they've got any other update updates pending. So, like I said before, they had some pending updates. They can go through and deal with those ones as well. But the way this would work is they could be on their phone or on a train at the airport on the go really frictionlessly without needing to touch the CRM, without needing to touch funnel vision itself. They can make all of the hygiene issues updates natively within Slack itself. So there's no workflow um friction and whatever updates they make will get reflected in HubSpot and in funnel vision um as well. And that is really the simple premise of funnel vision is it's surfacing hygiene issues to make sure your data you're so that you can see everything that you care about configure the hygiene issues so that you're tracking what you want to track and then frictionlessly change uh making all the hygiene issues disappear in Slack.
+ 
+ 
+00:17:03
+ 
+William Ross: So then your data is exactly the way you want it to look. Um,
+Kyryl Luchkin: This makes sense again like of course like I'm building the processes the way where uh sales reps need to be accountable for for for their deals and I have plenty of reports. I have plenty of workflows to generate the tasks to highlight these problems. I need to process them. Is it perfect? Of course not. Unfortunately, it doesn't work pretty well. But the dashboard that you showed like like we we are doing this like many companies are doing this. They must do this because they need to uh to improve their data hygiene. The only missing piece I would say like this like interesting integration with Slack because like everyone lives in Slack today like they they don't want to use multiple platforms and they they spend a lot of time in Slack. The Slack thing is is very interesting like if they can update some things in Slack, it would be perfect. But the question is, is it like that critical because I would like them to go inside Hopspot and take a look at everything there.
+ 
+ 
+00:18:13
+ 
+Kyryl Luchkin: Like they need to take a look at the activities, they need to take a look at the note, they need to take a look at the fields that they uh completed and then decide when is the actual close date. Um I doubt that they have everything in their mind and they can quickly update it in Slack. I doubt because they they run I don't know like 30 40 deals and they don't remember this. So most probably they will click on on HubSpot link they will be transferred to the deal. They will uh take a view of of the deal and then update those things. Um so this is my feedback. Uh this again like data hygiene is is very important topic. Um but I think like all of those changes need to be done in HubSpot but yeah maybe yeah maybe it should work maybe like if you run like like five, seven, 10 deals a month, right? Like if it is uh high velocity deals, right? Like if um if there are few deals and you remember everything about them, right?
+ 
+ 
+00:19:26
+ 
+Kyryl Luchkin: And something is missing. What do you think about my feedback?
+William Ross: No, it's it's it's it's totally fair and yeah, I mean, you're absolutely right. One of the biggest selling points we've got is this birectional functionality between between Slack and HubSpot. Um, the only thing I would say is what we try and do and I'll just share my screen again very very quickly is because one of the things we wanted to account for was what you're absent saying is the contextual information between deals. And so that's why what we've got here is saying why why each why is each hygiene issue being asked for and what the current value is to avoid the rep having to go into HubSpot and remember what's going on in the deal. Um, so if they had a if they had a next step that was already in here, um, but like let's say it's it's out of date, it would it would funnel vision would outline, hey, here's what your previous next steps were and to try to try and jog the the memory there.
+ 
+ 
+00:20:22
+ 
+William Ross: So just wanted to clarify one of the things we are trying to do stop sharing is minimize that that um need to to context shift between the tools.
+Kyryl Luchkin: Mhm. Yeah. Makes sense. Makes sense. Again like we we also doing this but it's like it's a basic version. Yeah. But we are covering like the main needs I would say.
+Greg Petherbridge: Um, Mhm.
+Kyryl Luchkin: Um I just like another idea came to my mind. Yeah. Maybe it's easier to use like a custom object in HubSpot to visualize those problems. For example, like if close date needs to be updated, there is a new record in the custom object and once it's completed then it disappears. Yeah, maybe like something kind of you know and those SLAs might have an impact on them on new leads.
+Greg Petherbridge: Yeah.
+Kyryl Luchkin: For example, like if you have plenty of data issues, we are not going to assign new leads to you. So, you need to fix those issues and then we are going to um give the leads back.
+ 
+ 
+00:21:31
+ 
+Kyryl Luchkin: Okay, sounds good. Again, I I doubt that um it is something that uh require needs because again like we are doing some basic stuff and I I don't see how we can get the value out of this.
+Greg Petherbridge: Yep.
+Kyryl Luchkin: This is a nice to have thing. Yeah. Um what I think I expected maybe there are some things that that could be updated automatically from the calls from the notes and for example they don't need to they they need to fix it but they just need to review it and click approve for example the amount is 10k but there was a call where did they discuss the amount of 25k so 25k should be there and saleserson clicks approve and then like it gets updated
+Greg Petherbridge: Yep.
+Kyryl Luchkin: automatically. Um I doubt that with the platform that you showed like we solve the the the issues with data hygiene. Yeah, the sales people do not do this today and I doubt that they will do this if they are just reminded because I'm doing the same thing.
+ 
+ 
+00:22:37
+ 
+Kyryl Luchkin: I remind them of this. I generate the tasks, we have the cadence, we we build the workflows. So, um, yeah, I don't see how how we can improve it.
+Greg Petherbridge: Yeah, I I think you mentioned something there and like deal volume that's probably quite important to touch on from the start. Our ICP is really like, you know, an AE that has 20 30 deals always in their pipeline, which can be pretty hard to stay on top of. So if you multiply that by however many reps you have five 10 40 like that's a lot of those no matter what you build in HubSpot I' I'd ask I'd question how you close the loop so yeah we can get visibility oh we're missing this we're missing that but how do you make that a repeatable process that you can firstly get visibility on what's missing and have a degree of confidence or or disconfidence in in what your number is and you can kind of put put a number on that and secondly how do we route it to them our our slack feature how do they bring it back the right back and then what happens if they don't update it so in in this situation you push the SLA um it's like that constant loop of closing it and be bring it back I suppose that's what we're trying to fix and and and I
+ 
+ 
+00:23:54
+ 
+Greg Petherbridge: I know you mentioned things around like automating populating fields everything like that I suppose our our mission is to solve deal hygiene And ultimately the best I I I don't see the need to automate absolutely everything in in sales. I think we can automate a lot. I don't think we need to automate deal hygiene. And I think if we lean on like an AI taking all of our call recordings and just trusting that that's going to keep all of our deal hygiene intact, I think the more you tell a salesperson that AI will do the job for you, the more that AI won't really get there. and now you have a bit more distrust in your numbers. So what we're trying to fix is trust in numbers for for high volumes of deals in in forecasting teams and and ultimately we don't see AI as the solve there because I I think you put less attention on it more than instead of more and we think it just needs a little bit more. Um but I completely understand where you guys are at.
+ 
+ 
+00:24:50
+ 
+Greg Petherbridge: I think there's just a mis if if you're not if you don't have that high volume of deals. It's it's as you say kind of pretty easy to you you should stay on top of it. You kind of expect that from your reps. So, um, but I I think the feedback you've given is so valuable and and it'll definitely kind of keep it keep us thinking moving forward.
+Kyryl Luchkin: Yeah, makes sense. I I wanted to say that we do have a high volume of deals again like we have like 30 deals per rep and it's very important to update them. Uh so um I wanted to say that they cannot keep everything in their head. they cannot know everything about their deals that's why they cannot update those things vlike they will need to go back to hopspot so that was my my my thing and about just quick feedback I'm I'm just sharing this
+Greg Petherbridge: Yeah.
+Kyryl Luchkin: I yeah just like couple of thoughts that I have in my head we don't need AI to replace sales people or some work right but they need to rely on this work to be more efficient again like ideally
+ 
+ 
+00:25:42
+ 
+Greg Petherbridge: Mhm.
+Kyryl Luchkin: I would like I to update pay those things but sales rep needs to review them and approve them and it's going to to work well uh because again it's very difficult to be organized and you know that sales people are less organized that like operations people so for them like they're good at building the relationship but they're not good at updating the things in in HubSpot that's why it's it's a critical piece sounds good just like quick thoughts that's it yeah Um, I think it was a good call. It's always interesting to learn more about the market. Yeah. But I presume it's it's not the fit because I I I don't really see the value for for our business.
+Greg Petherbridge: Yeah, 100%. And and yeah, of course, maybe maybe someday you'll find yourself at a company that's in need of it and you'll think of us again, but for now, we're just really grateful to to connect with people with the knowledge of of HubSpot like yourself and and the behavior of these people we're trying to uh close close that gap on.
+ 
+ 
+Transcription ended after 00:27:17
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

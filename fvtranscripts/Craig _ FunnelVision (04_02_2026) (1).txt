@@ -1,0 +1,410 @@
+﻿Hi, Craig. Hey, William. How are you doing? 
+C
+Craig Heile
+00:10
+I'm doing well, thanks. Sorry for being a few minutes late. It's just kind of bizarre. I have this horrible calendaring. I got to get this thing figured out because it doesn't show on all in my calendars. I showed on my phone today. It doesn't show anywhere else. It's really strange. So I knew we had time. 
+W
+William Ross
+00:26
+No, no, I appreciate. Do you know, I had the same thing actually after Christmas where it feels like my laptop and my phone are out of sync, where sometimes I'll send an email on my phone but it's not sent on my laptop. And so when I sometimes wouldn't reply, I have to go back on my phone. 
+C
+Craig Heile
+00:37
+I'm like, for God's sake. This is. Yeah. And it's, you know, and I've got meetings coming in left and right and it's like, holy cow, I missed money on. And they're like, we had this. I'm like, I didn't have it on my calendar. We scheduled it with you. We got a thing. It's like, oh my gosh. So any case, enough of the world. So how are you doing? Good. 
+W
+William Ross
+00:58
+Busy. Yeah, it's been a busy, busy few months getting the, our product up and launching and getting the public awareness campaigns out there and a bit of context. We actually have. We started off as a consultant. We have a services arm as well. And then it was during this consulting work and a few of our co founders built their. Their whole careers on go to markets, especially in like seed series A size companies. And that's kind of where we built Funnel Vision, the pipeline hygiene product from. So essentially what we've got now is the consulting side is funding our product exploration and I'm now full time on Funnel Vision. So. Cool. Yeah, so it's been exciting times, but you can imagine, you know, it's a, you know, this running your own business. 
+W
+William Ross
+01:39
+It's always like every day is just a challenge in and of itself and you're not even sure what the challenge is sometimes. Names. 
+C
+Craig Heile
+01:45
+Yeah, yeah. How. How many people are in your company? 
+W
+William Ross
+01:49
+So there's five of us. So it's basically four. Four co founders. Then we've got our first hire in as well. 
+C
+Craig Heile
+01:55
+Yeah. Oh, good. So, so. And how long has it been since you've built, you know when. Since you've been in beta? 
+W
+William Ross
+02:02
+Yeah. 
+C
+Craig Heile
+02:02
+So for fun of us, you can. I'm so just. I'm asking these questions not to say, you know, hey, whether we. Anyone uses you or not, because I work with a company out of one of our best bot companies is three people and like 20 agents. 20 AI agents. And so like we pull them into good size opportunities. So my thing is this value of what the solution is. So when I ask these questions, curious for my own purposes. 
+W
+William Ross
+02:31
+Yeah, don't worry, you begin to get to know me. So I'm a pretty transparent, candid person as well. So there's no obs in here, but so. So we've had our beta since around November time December we got our first onboarded customers, a couple few of them and then January has been. A lot of it is going down the partnership routes. We just think partnerships is the big play for us, especially all the HubSpot agencies, revops agencies that are going on. So we've got three partnership agreements all signed, ready to go on that front. So that's kind of where we're at just now. But it's, we're just trying to get that ball rolling with, you know, getting revenue inside, get the partners that are on board and getting that incentive alignment. 
+W
+William Ross
+03:10
+And so and on top of all that on tight from the commercial side, it's, you know, the product is growing rapidly between, like, between the vision we have for it, vision customers have for it, vision the partners have for it. You're always trying to build all these different features and requests and things. So if you'd ask me what the product does now versus like six weeks ago, very different. Buried. And so. So we're trying to be balanced in that kind of being reactive. But you also need to make sure that every change is either very valuable or is generic enough to be applied to multiple different people and not just like a weird niche thing that one person's asking for. It's going to take six months to build. 
+C
+Craig Heile
+03:45
+Yeah, yeah, no, yeah. I mean that's the way it is and we're the same way on the services side of consulting and with stuff we do, it's like it just, you know, it's just going. 
+W
+William Ross
+03:57
+How long is Ascension Labs being grown for? 
+C
+Craig Heile
+04:01
+Yeah, so Ascend's been going for about three years. I mean we started it with right when, you know, it's basically the drop of OpenAI. And so when GPT showed, when chat opened up, we started doing work with it. And so we've been in earnest about a year and a half of really into it. And so we built out a whole consulting arm. And we have applications that we build and we have engineers that think of us as an AI integrator. So it's a little bit different than a product. Right. So. But any case, yeah, so we've been around a while and we're honing in every single day on our icp. It's just been a constant, you know, just everywhere. 
+W
+William Ross
+04:43
+You know, I was going to ask this, actually it was one of the questions I had for yourself, which was really interesting, was do you think when I was going to ask on your ICP refinement is do you find it easier in some regards when the data that you're working with is really bad or really good? Like, because obviously that classic with AI is, but the underlying data is really bad. Is the AI bad or a dc? Part of the job is you need to clean up that foundational layer before you can do any of the sexy fun stuff. 
+C
+Craig Heile
+05:08
+It really depends, right? You know, because we're doing workflows even, so we're starting with, okay, you know, like for instance, Talk, a digital agency. And so they're trying to build, you know, 500 websites at one time for companies, you know, and it's like, well, AI can help all over the place inside that, so can just regular, you know, regular project management systems. But, you know, so we'll go in and do the workflows with that and then the data that comes out is automatically structured the way we want it because they've never, it doesn't even exist today for them. So we're working in completely Greenfield, you know, areas where, you know, the data, they're not even to the point of, you know, building their own rags at this point. We're basically building those without them knowing it's there. 
+C
+Craig Heile
+05:52
+So suddenly they go in and can have this whole entire space that they, it's already built for them. So it just depends on the client. You know, some clients were doing some pretty in depth pieces and yeah, I mean we focus a lot on the data at that point and it's legacy data and it's kind of a pain, but as you know, it's a hell of a lot easier to bring in now than it was. You know, like, you know, like we have clients who are doing data transformation. We're like, just stop, stop. Nope, you're not building from 2022 anymore. Just stop. 
+W
+William Ross
+06:27
+Yeah, even the coin, the term digital transformation I think means something quite different in today's world than even like five, ten years ago. Right? 
+C
+Craig Heile
+06:33
+It was, I mean, just even a year ago. Oh, yeah. So anyway, so, yeah, so tell me about Funnel vision. I know Generally what you do and what I would. What I'm interested in. Well actually before we do that, tell me about your. Where you're located, where you want to play. 
+W
+William Ross
+06:52
+Yeah. 
+C
+Craig Heile
+06:52
+So regions do you want to be? 
+W
+William Ross
+06:54
+So currently based in Edinburgh, up in Scotland but again pretty region agnostic. So we've had users a lot obviously in Europe we've got a couple partners in North America, South Africa, we've got client using it. So it's really like really agnostic on that. On that side. So how about yourself, do you do business globally? I'm guessing AI is pretty. Pretty culturally agnostic. 
+C
+Craig Heile
+07:19
+It is, but it's not right because of EU rules and a lot of the EU folks don't really want to work with American based companies because this belief that they don't understand that you know, all the regulations. And that's not in our case. That's not the case. I mean we very well adept inside of it, so. But no, we work all over the place. I do have to tell you a funny story about Edinburgh though, so. Oh yeah, Friend of mine got married there. Gosh, I forget what castle it was just outside of town. He. He was a. He's a helicopter pilot for. For the oil up in the North Sea. So he's kind of stud that way. 
+C
+Craig Heile
+08:01
+But anyway, they got married at a castle up there and we did something that made the alarm go off in a castle and helicopters came and you know, the fire department shows up. 
+W
+William Ross
+08:13
+Do you know what that sounds like an iconic story? Absolutely amazing. 
+C
+Craig Heile
+08:18
+Well, the way it got there was even more amazing. It was, it was a completely different thing. We dressed. It was Halloween. So you're familiar with the American hog with Halloween. So went in dressed at. And so went in as Dracula wife was. 
+W
+William Ross
+08:34
+So the whole wed. Was the whole wedding themed then? 
+C
+Craig Heile
+08:36
+I was like, no, no. So this was. We were at the, were at the rehearsal dinner and we had it in the castle and so went up and did the rehearsal and then as we left we're like, oh my gosh, the dining room is too awesome. And so there was a rem. A remoire painting in the dining room. So went in and someone took a flash camera and flashed it, you know, with their flash. 
+W
+William Ross
+08:57
+Yeah, yeah. 
+C
+Craig Heile
+08:58
+That set all the alarms off in the entire place. And were the only ones in there. And the caretaker said stay in this room, do not go anywhere. We're like, we gotta go over. Get this. And so it was hilarious. 
+W
+William Ross
+09:12
+So you know, I love that. That is such a fun. I'm guessing is that your first time and only time in Edinburgh? 
+C
+Craig Heile
+09:20
+I've been up there a couple times but yeah. 
+W
+William Ross
+09:22
+Oh I mean that's one. I thought you could top that story. I mean I, I've lived here 20 plus years. I don't think I have a story that interesting. 
+C
+Craig Heile
+09:30
+Yeah we walked around downtown, had dinner and people were stopping and laughing at us. It was hilarious. It was on Halloween whatever year that was but really enjoyed the area. 
+W
+William Ross
+09:40
+Oh I'm glad that. Yeah. I mean yeah we're bit in the US based actually I've only been to namely Manhattan and Florida so unless you're in Disneyland. 
+C
+Craig Heile
+09:53
+So I'm in the state Utah out in the west and up in the mountains. So like my. What I'm looking at behind you here on my screen is the mountain range of ski areas right there. 
+W
+William Ross
+10:05
+I mean it might sound incredibly naive and ignorant of me to say but I, I've seen a lot of. I've not traveled a lot around the US but a few of my friends did like road trips around there and I do think of it on an international scale. It's so underrated for its nature. Yes, you need. When I, when the Europeans hear the U.S. you don't really want to think oh natural beauty like forests and like national parks. We don't think that but when you see it you're like holy bananas. What the heck is that? 
+C
+Craig Heile
+10:31
+Yeah, yeah. I. For some reason my phone won't work on this. I mean that's just. You know I've got snow capped mountains right there was. It's just, it's beautiful. So anyway, yeah, lots of nature. 
+W
+William Ross
+10:41
+Yeah, I'm really glad. I mean yes. On. 
+C
+Craig Heile
+10:45
+Let me tell you what my intention is so we, we're an integrator of AI technologies. You know we like bringing in you everything's new right now. So companies are going to be like you. We understand that and we want to find the absolute best technologies for our clients. And our theory is, is we will bring anything and everything in. We want our clients to use third party. We don't want them to build this stuff on their own. Yeah. And so you know when that occurs, you know they pay, they basically turn on with a credit card. Hopefully it works as well as they wanted to. And then you know we're on our way. So we find we're working with mid market companies anywhere from you know, 300 employees, up to 1500 employees. 
+C
+Craig Heile
+11:28
+We don't like to get into big companies because they're just a pain. But work with that does not mean that, you know, because our promise to them is that we want to help them compete at a level that they possibly couldn't have and AI is do it. So, so we bring in all different technologies across go to market, cross product development, cross support, cross customer success. So you know, we're looking for things constantly to go into our customers with and we're always uncovering, you know, like within, you know we don't have a lot of customers at this point. We have maybe probably 70 different customers. And so but anytime we come up with a new technology, it's a great opportunity for us to go rushing into them and go, okay, let's talk. We found something that might be interesting in your situation. 
+W
+William Ross
+12:15
+That is amazing background and I do think, yeah, I can see where Funnel Vision might be of interest. I'll give you some context on where we're at as well. But I think you might like what you're going to see and I also think you probably like our roadmap even better in that regards then really interesting story. So what Funnel Vision does, the reason why we built it was essentially pipeline hygiene is a big problem for sales leaders. When I was doing some prospecting on this product, I actually coincidentally had like three conversations in the space of about two weeks where I found out that three or four sales directors got fired because they couldn't forecast their data because the underlying data was really bad. So it's really consensus that regardless of company size industry pipeline hygiene is just really bad. The question was why? 
+W
+William Ross
+13:02
+And the reason was reps AES aren't going into their CRM to put in the data. Right. And makes sense. There's no incentive alignment, you know like one of our co founders is a salesperson through and they're like the hardest lazy people I've ever seen in my life where if they're asked to close a deal, they'll work 15 hours a day. They're asked to log into CRM not going touch it's not my problem. Don't, don't care, don't deal with and there's so many down funnel problems with that, you know like rev ops just spends all their time chasing and they can't do the valuable work for all your forecast conversations become hygiene conversations, your pipeline calls become hygiene conversations. There's a lot of just dead weight time that happens. 
+C
+Craig Heile
+13:43
+Dude, you're making me squirm because that's the world I live in. So. 
+W
+William Ross
+13:47
+Yeah, absolutely. So, so Funnel Vision was built and it was basically built on three premises. One was surface all of your hygiene issues in one place. Configure the issues that you can track whatever matters most to your own sales and goals of market motion and critically get the reps to make the changes that need to happen where they already work. So whether that's in Slack or teams. And we actually initially played around with the idea of auto populations tools as well so that basically it would automatically do it like automatically update all the hygiene issues. But what we actually found was the quality was pretty bad because what it missed was context and contextual information as well. So there's like two competing problems here. 
+W
+William Ross
+14:27
+You have, we need to make it frictionless for the reps to update, but we also can't afford to miss any context with those deals. So that's where Funnel Vision is kind of marrying those two forces together. 
+C
+Craig Heile
+14:39
+Yeah. So I'll give you some feedback directly, outside, as a customer and as, you know, a partner. Outstanding. I mean you've hit, you've just absolutely dialed it straight into the problem. So yes, anyone, any CRO is forming when they listen to you. 
+W
+William Ross
+14:54
+Amazing. Well, let me share my screen very quickly and I can give you a little, just like a very. Take like two minutes, quick demo. Let me know if that pops up for yourself. Okay. So yeah, as I said, the way what you're looking at now is the initial screen of Funnel Vision the way it works really simply you connect to your HubSpot instance and this usually takes two to five minutes depending on how much data is in the environment. And then you're immediately presented with a snapshot audit of your pipeline. So how many deals are past or close date or how many deals in your pipeline are stale? How many deals are missing in X step? And at the bottom is your hygiene leaderboard. So which of your deal owners are more on top of their hygiene relative to others? 
+W
+William Ross
+15:37
+And this one goes down an absolute treat with our initial users because the rev ups and the sales leaders can go, oh, poor Greg. At the bottom he's doing horrendously bad and he's not improved over time. We need to escalate that as an issue and it's just a good way to see which of your deal owners are keeping up with their hygiene. 
+C
+Craig Heile
+15:54
+Question for you. Once it gets connected in, is it using timestamp to be able to figure all this stuff out from previous or does this have to be from the point that it's turned on forward? 
+W
+William Ross
+16:04
+It's retrospective. It looks at it all the way. So whenever you log in you'll see instantly what your current pipeline looks like. 
+C
+Craig Heile
+16:11
+Well, I'm saying as soon as, if I go into a client we turn this on right now we'll look into the past data. So okay. 
+W
+William Ross
+16:18
+Yeah, yeah. 
+C
+Craig Heile
+16:19
+There's no magic in. In what? 
+W
+William Ross
+16:21
+No. Okay, so then you've got your rules. So as I said before, those are your pre built common hygiene issues that will exist but every sales and go to market motion has their own specificities. So we let you create your own rules. And because we pull in every property in HubSpot, whether it's a custom one, associated contact, associated company, the best way to describe this feature is. The limit is your imagination depending on how complex you want the rules to be. Just as I'll give you an example and these are really easy to use to give you an example. I want to know if my. This one I want to know. Let's say my sales methodology is anum. I want to know if some properties of anim are missing in late stage. All you have to go in here is go right. 
+W
+William Ross
+17:05
+I want to know if my ideal stage is equal to solution, confirmation, negotiation and we pulling all of your pipelines and deal stages. So you can just configure here what you're looking for and you know if need. 
+C
+Craig Heile
+17:18
+Okay, so you're building the summary from drop downs that then that rules. Okay, got it. You can do that via natural language. I'm like that's flipping cool that I, I see what's happening. 
+W
+William Ross
+17:31
+This is still, it's partly NLP actually that's going on here but, but yeah, so that's relatively basic but it's informed by the dropdowns. So if I changed all of this stuff then yeah, leads, you could pick lead source here, whatever. And there's two really powerful features to building your own rules. The first is this automatic request updates from deal owners. So if this is turned off, what it means is that this hygiene issue will still be surfaced and you would just have manual control as to whether you want to request an update on that hygiene issue or not. And if it's turned off. 
+C
+Craig Heile
+18:07
+Yeah, I understand so but yeah, the point is why would you even want that manually? 
+W
+William Ross
+18:14
+Yeah, the question is it's just to give you the option. Really. 
+C
+Craig Heile
+18:17
+Yeah. Okay, so I mean it's kind of rhetorical. Because of course I wanted to do it automatically. 
+W
+William Ross
+18:22
+Yeah, exactly. So the idea is you could. But the only question is if you'd want it to be like if it was a really niche. If it was a niche one that you're not wanting to bombard the sales reps with and you were just maybe wanting. Or if you're only wanting to surface a hygiene issue. But I want to fix it just for tracking purposes. But the idea is really you'd have everything as automatic request and update. And so what that means is whenever the condition of the rule is met, it will automatically send a request in slacker teams to get that hygiene fixed. But obviously what you don't want to happen is that the owner is getting spammed in slack with like 50 plus hygiene issues that they're going to have to solve all throughout the day. 
+W
+William Ross
+18:57
+That will not be good for adoption. So the work we're in for this is when it's turned on, it actually turns on in a daily digest format so that once a day at like 9am, the owner will get one Slack message with all of the rules, with all of the deals that have been triggered in the last 24 hours in a single message and they can work through the one by one at their own pace and anything that's not being actioned will just get asked again the next day. So really clean way for them to incorporate it into their workflow. 
+C
+Craig Heile
+19:26
+I'm sorry, I keep interrupting you. Like, I'm like I'm already in workflow of how this is operating inside of a customer. So you know what I would do with that is I'd have it send. Then I would train my sales reps to use Slack appropriately and actually have a task management. So it automatically in Slack, pull it over here, put it in their tasks and then potentially even have it scheduled in their day. Find a time in their day to be able to drop that in so they can complete it. 
+W
+William Ross
+19:50
+Yeah, exactly. 
+C
+Craig Heile
+19:53
+Okay, so, but you stop at just. Yeah, I was just kind of walking through the workflow. So you would stop at just putting it in Slack and then we have to put the rules in Slack to get it there. 
+W
+William Ross
+20:04
+Yeah, so we. 
+C
+Craig Heile
+20:05
+Yeah, yeah, we would. So you're just presenting at the slack and stopping there. It's just what I'm asking. 
+W
+William Ross
+20:12
+Well, yes, but then they can also make the actions from Slack as well. So in Slack. Yeah, yeah. 
+C
+Craig Heile
+20:18
+I just didn't know if you had, if you were reaching in Slack at all either. So no problem. Yeah, yeah. 
+W
+William Ross
+20:24
+Then the second feature here is to be able to basically specify to the receiver of the notification what it is you want them to update. So you can put any field here that you're saying, hey, here's the hygiene issue and here's the action I want you to take. Once you've done that, once you've surfaced all of the hygiene issues, you're configuring them all to look for exactly what it is you care about in your own sales. Go to Market Motion. The question is, what do you do about it? How do you actually access any of it? So we have this fixed issues page which shows you every deal in your pipeline with some type of hygiene issue. And you can click any of these individual deals to get more information. 
+W
+William Ross
+21:00
+You can filter by the deal stage or any owner or any particular issue you're looking for. Now, obviously, I won't wait for the Daily digest tomorrow at 9am for you to see what it looks like. You can also see your pending requests, so you can see which requests have been asked for in the past that haven't been actioned. And just to show you how it would look in Slack as well. So here are all my deals that have hygiene issues. And I can just show you. Let's say you want to know. Let's say you've got deal and you're like, I want an update on this deal. All you do is click request update. You see, I instantly get a notification in Slack that goes, I've been asked for this update. 
+W
+William Ross
+21:39
+So you can imagine from the perspective of the receiver of this notification, they don't need to know Funnel Vision exists and they don't even need to know HubSpot exists. They can be at the airport, on the train, on their phone, if they work on their phone, wherever it is that they're working, they go, oh, I need to update deal E. All right. Okay, what's happening? Oh, the amount is missing. Okay, it's meant to be 10,000 and the next step's missing. Or maybe it's scheduled meeting with cfo. And if there was already a next step value in place, it would tell them here was your previous next step. So they always have that contextual information as well. And then the close date has also been. It's been set in the past. So obviously you don't want to close date in the past. 
+W
+William Ross
+22:18
+And they can just change that to, let's say, April 30th. They just update the deal from here and that's it's fixed, there's no more hygiene issues. And then you can See here, part of the queuing system that we've got as well, so they're not being bombarded with notifications. Here are all the other deals I have that I need to action as well. So I could just go through these one by one. 
+C
+Craig Heile
+22:37
+Yeah, so. Okay. Fucking awesome. 
+W
+William Ross
+22:42
+Yeah. That's the basic premise of funnel vision for now. That's what we're proud of this now. So as I said, it's surface the hygiene issues, configure them, sort them. And just to tease you a little bit with the roadmap, what we're looking to do next is integrate further into the transcriptions and emailing based systems so that when their reps have a call, we'll know they have a call and then we can transcribe the call, put it into final vision and go, hey, here's what I think your next steps, here's what I think your medic is. And then they can just go yes, no. Or edit. So they can edit it as well. So, so it takes the extra layer. 
+C
+Craig Heile
+23:13
+So, so I already have. So we've gotten. These are sales coaches, AI sales coaches that do all of they capture, you know, they record anything from phone, also from email, from any video. It will take that, transcribe it and then we're using that in HubSpot. And what I would like to find out is because when the, when that system goes in and I've got two of them that we work with, they are so prolific inside the organizations across anything that touches a customer. So marketing, sales support, customer success, onboarding, it's, I mean it's incredibly sticky inside there and we can't rip those out because it becomes so critical inside there and it starts touching everything. All the different systems management to the CS, to HubSpot, to blah, blah. 
+C
+Craig Heile
+24:11
+So what my question to you is, is there a way that you can ingest that transcription from there and use it? I'm assuming yes, because it's whether you're a transcriber, whatever, it's fine. 
+W
+William Ross
+24:22
+Yeah, exactly. 
+C
+Craig Heile
+24:23
+Yeah. Okay. So what CRM are you working in right now? 
+W
+William Ross
+24:29
+So, so HubSpot right now primarily. And we have had quite a few requests for Salesforce. It's just, it's quite a hefty piece of work. And because we're bootstrapping, we have to kind of play around with how candid we can build it at. 
+C
+Craig Heile
+24:41
+No issue at all. And I'm sorry I keep cutting off and we only have a couple minutes Here, I gotta jump. 
+W
+William Ross
+24:45
+Yeah, apolog. Sorry if it's not the time. Apologies. 
+C
+Craig Heile
+24:47
+No, no, no, you didn't. You walked through it Great. So the. So yeah, HubSpot, because we're mid market, we're a really good fit for you that way. So everyone's on HubSpot. Everybody's in Slack. Are you. Are you Slack? Only at this point. 
+W
+William Ross
+25:00
+Teams as well. And teams. 
+C
+Craig Heile
+25:02
+Okay, excellent. So I would like to. Everything I'm seeing is more web hooks. What you're doing. Where is there an AI component for you inside here? 
+W
+William Ross
+25:18
+Yeah. So this is actually what was interesting. So the AI larger was actually used to build the product. So a lot of it will be in the back end. So we're using like Supabase and a lot of Claude in the back end. And this is where we're doing is because now we'll have the clean foundational data layer. That's when we can start building on the AI from here. So the roadmap is going to be a lot more AI centric regarding like usability because there's no point layering on AI when the hygiene is bad anyway. 
+C
+Craig Heile
+25:40
+Yeah. Well this thing right here is enough hook to give you an entree into, you know, so many different things. 
+W
+William Ross
+25:47
+So. 
+C
+Craig Heile
+25:48
+Okay, so here's what I would like to propose. So I'd like to. To get you in front of one of my clients and it'll be the VP of sales. Small company, they've got five salespeople, they're working in HubSpot. So it's not a lot, but it's, you know, through there. But actually before. I'll get you in there, don't worry about it. So what is the, what's your cost model? 
+W
+William Ross
+26:17
+So really simple for us, our initial users, we've got them at a discounted rate of 3,000 pound for a year, flat rate, no users, unlimited usage. So no user limit. So it's just a flat. So about $4,000. 
+C
+Craig Heile
+26:31
+Okay. And then are you. So do you want to sign? These guys will sign on the annual contract anyway. But what they'll pro want to do is, and I'm not saying they're buying it right now, but I'm pretty certain they will. I'd say there's a like 60, 70% chance they'll want to try it out for a time period. They're not afraid of paying for that's not an issue. But what they don't want to do is sign annual contract. If it doesn't work. 
+W
+William Ross
+27:01
+Yeah, of course. No, no, don't worry. We've got like a couple weeks trial for free. They were built in if they want to use it for free with no cost, no commitment really required. We're also very big on like so like no credit card is required. That was something I was bullish on. I was like, I want to make this as easy as possible for people to use. And also I should say for the. On our partnership side, we've got a few partnership agreements set up which we can send to you as well. But we're looking at 50 referral fee on the first deal annual contract, 20 thereafter, regardless of contract length will be straight in for you. 
+C
+Craig Heile
+27:27
+Okay. No, that sounds cool. Yeah, send that over and then we will, man. I mean this is the kind of like this is a super hook here for as far as I'm concerned and for that price right now, I know you're trying to get market shares so it's a steal for that. So. Okay then yeah, go ahead and send that over and then we'll get that signed. We will. I'll just, I'll just start getting you in front of clients. 
+W
+William Ross
+28:01
+Perfect. Yeah, sounds good. Yeah, I'll send a partnership agreement and if you want we can get a call with the wider team as well. If you want to meet other co founders, get a nice chit chat and yeah, looking forward to it. 
+C
+Craig Heile
+28:09
+Okay, yeah, that sounds good. And I would actually like to, I don't know, we're not big enough here to do anything, but I would like to play with it for ourselves. Let's get the part. 
+W
+William Ross
+28:20
+Oh yeah, our partnerships. Yeah, I should have mentioned you'll get it for free. For Forever partners will be free. So you can get it, no cost. 
+C
+Craig Heile
+28:28
+Okay, yeah, send it over. We'll get started with that and then I'm going to go ahead and reach out the company name is my advice. So you know it is. You can look them up. My advice dot com and I'll get you in front of Chad Erickson who is the VP of sales. 
+W
+William Ross
+28:46
+Awesome. Yeah, sounds good. Thank you for that. Appreciate it. Looking forward to working together. Craig, it's been a pleasure day. 
+C
+Craig Heile
+28:54
+Email and then we'll get you in front of Chad. 
+W
+William Ross
+28:57
+Perfect. Speak to you soon. Bye. 
+Sync with audio

@@ -1,0 +1,603 @@
+﻿Jan 9, 2026
+Aiden / FunnelVision Intro - Transcript
+00:00:00
+ 
+Alex Law: mess. Um, and so even I like that you're nodding.
+Aiden Boyd: boys.
+Alex Law: Even in like quote unquote best of breed um sales teams, it's it's still a mess, right? And like you get to a point where you've got like a CRO,
+Aiden Boyd: Yeah.
+Alex Law: a sales manager, revops, a on a forecast call and instead of like doing the important stuff, they're like, "Oh, is this up to date? Oh, that's the same as last time. That's missing." and you just have a very expensive meeting updating the forecast and then afterwards you can figure out what's actually going on.
+Aiden Boyd: Yeah.
+Alex Law: Um, so we built we built the product funnel vision. We've um to solve that that problem. I mean I've been a rep before. I've been a sales manager before. Uh I was terrible at putting my hand up at put like filling in. I'm part of the problem basically and I want to solve that. Uh so we we've built it.
+Aiden Boyd: Yeah.
+Alex Law: We've got two early early adopters that are using the product and getting value out of it going to convert them into into paying customers.
+ 
+ 
+00:00:59
+ 
+Alex Law: We've got a decent pipeline of of sort of um the next tranch of design partners. Uh it's quite funny we're seeing like very strong response from from our outreach to like revops leaders and sales managers that yeah this is a problem that needs solving. Uh and yeah that's it. So,
+Aiden Boyd: Awesome.
+Alex Law: I mean, for this call, it'd be great to William, you do your intro, but it' be from my perspective, great to understand what what you guys are doing, Aiden, um, your background, and then we can we can actually show you the the product and and get your feedback and see if there's any any overlap.
+Aiden Boyd: Okay. A lot of what you've explained,
+Alex Law: Cool.
+Aiden Boyd: I'm well aware of it. Doesn't matter how big the company is, how long they've been around, how clued in they are is always.
+Alex Law: Yeah.
+Aiden Boyd: Uh we're a business consultancy focusing on commercial transformation. So that's everything from website,
+Alex Law: Mhm.
+Aiden Boyd: CRM, marketing, sales, operations, and automations. We build, implement, streamline, and automate the entire commercial journey.
+ 
+ 
+00:02:01
+ 
+Aiden Boyd: How you get your clients, how you manage them,
+Alex Law: Mhm.
+Aiden Boyd: how you close them, etc. How you expand revenue. Part of that is implementing new CRM systems, new websites, marketing channels, etc. Part of it's just streamlining what they already have and automating it. Um we have 30 plus partners ranging from IBM Microsoft to monday.com close capsule all them ones as well. Um most of our market I say most is in the UK although for some reason we keep getting Australian clients Canada and the US even though we haven't really targeted them yet. they just pop up and like yeah sure we have clients they'll take you that's fine.
+Alex Law: doing something right then. Yeah.
+Aiden Boyd: Um but that's pretty much what we do. So every stage of the commercial journey we either implement automate improve optimize um the entire
+Alex Law: All right.
+Aiden Boyd: process
+Alex Law: And um just because we built the product for HubSpot, do you guys partner with HubSpot or Yeah.
+Aiden Boyd: we are partners with HubSpot. It's only one of of CRM partners.
+ 
+ 
+00:03:08
+ 
+Alex Law: Yeah.
+Aiden Boyd: Are you guys sticking to HubSpot or will this change in the
+Alex Law: Yeah.
+Aiden Boyd: future?
+Alex Law: It's um the the the goal at the moment is to prove that we can provide value with the current workflow. Uh once once we do, then yeah, expansion into into other CRM is the natural play,
+Aiden Boyd: Absolutely
+Alex Law: right?
+Aiden Boyd: capture more of a market, doesn't
+Alex Law: Yeah. Yeah. Exactly. Expand the market,
+Aiden Boyd: it?
+Alex Law: expand the the addressable market, all that all that fun stuff.
+Aiden Boyd: Yeah. So, it's not Oh, I've got a note taken there. So, it's not like you're you're strictly restricted to HubSpot. There's no nothing in terms or anything like
+Alex Law: Not. Well, at the moment we're built for HubSpot.
+Aiden Boyd: that.
+Alex Law: So, if we had a we would be turning down clients on on Salesforce and and Microsoft, but um in the future that that will change once once we get enough ground swell.
+Aiden Boyd: That's
+Alex Law: Cool.
+ 
+ 
+00:03:58
+ 
+Aiden Boyd: right.
+William Ross: Uh yeah. Well,
+Alex Law: William.
+William Ross: quick intro. Should we just jump into the demo? I can chat.
+Aiden Boyd: I do have one question for you guys.
+Alex Law: Yeah.
+Aiden Boyd: So, obviously digging before our call, I went on to your website.
+William Ross: Oh,
+Aiden Boyd: There's not much there. CG Partners, what's going on
+Alex Law: Yeah. So, it's a funny one. Uh,
+Aiden Boyd: there?
+Alex Law: we put zero effort into our own like business development as you can probably
+Aiden Boyd: I see.
+Alex Law: see by our website. Uh, we probably should just take that down to be honest.
+Aiden Boyd: Yeah.
+Alex Law: U, we have a very strong network within VCs. Uh, so we just get referrals constantly for for clients.
+Aiden Boyd: Mhm.
+Alex Law: Um, so we we we so one one Lighthouse example is I don't know if you heard a company called Light. Um, they raised like they're like um they've built AI ERP and so
+Aiden Boyd: H.
+Alex Law: revolutionizing like the finance industry.
+ 
+ 
+00:04:56
+ 
+Aiden Boyd: What do you
+Alex Law: We light light.
+William Ross: Oh
+Aiden Boyd: call
+Alex Law: Um, so we we we came in pre-revenue,
+William Ross: yeah.
+Alex Law: built their sales team, built their their sort of funnel and everything. Um, nothing on the marketing side, nothing on like the website and all that sort of stuff that that you guys do. Um, but we managed to get them from zero to 1.2 million in six months in in AR. Um, and that that those sort of stories,
+Aiden Boyd: H
+Alex Law: they they spread within the VC community and then we we we pick up new clients pretty.
+Aiden Boyd: and everybody wants to work with
+Alex Law: Yeah, exactly. It's pretty pretty nice position to be
+Aiden Boyd: you.
+Alex Law: in.
+Aiden Boyd: Actually, haven't heard of them.
+Alex Law: Yeah, they're growing pretty quickly.
+Aiden Boyd: US based.
+Alex Law: Nope.
+Aiden Boyd: Yeah.
+Alex Law: um out out of commercial teams in London. Um the founders in Copenhagen.
+Aiden Boyd: Oh, okay.
+Alex Law: Yeah. Cool.
+Aiden Boyd: How did you grow their
+ 
+ 
+00:05:56
+ 
+Alex Law: Uh so it was pretty simple to be honest. Um they had an awesome product.
+Aiden Boyd: revenue?
+Alex Law: So it's not not replicable for everyone. Um but they had a they had a a target to get to five mil by the end of the year. Um and so basically we take that target break it down by all the metrics that we know like industry standard best practice in terms of conversion rates um pipe gen conversion rates by by channel uh and then break that down. So if we need to get x amount of pipeline x amount of revenue how many BDRs do we need how many AES do we need?
+Aiden Boyd: Awesome.
+Alex Law: And then we we work with a recruiting guy and build the team, train them up, build the build the sales playbook, uh find the ICP, all the basic stuff that they they haven't
+William Ross: There's also a big one on ACB for that for like specifically as
+Alex Law: done.
+William Ross: well.
+Aiden Boyd: So most of your business comes are they related to lovable actually?
+ 
+ 
+00:07:00
+ 
+Aiden Boyd: Hold on.
+Alex Law: So was one of the clients that we signed while we were there.
+William Ross: Uh
+Alex Law: Uh so that that was quite quite a nice lighthouse lighthouse
+William Ross: yeah,
+Alex Law: win.
+Aiden Boyd: That's for
+William Ross: we also got um Santa as well while we were there.
+Aiden Boyd: sure.
+William Ross: If you know Santa.
+Alex Law: Yeah.
+William Ross: Yeah.
+Alex Law: And and the Goro as well being in the AI legal space. So basically the the kind of bit more detail is uh the hypothesis of the ICP was like all these high growth AI companies they don't want to work on netswuite uh it's like outdated technology yada yada yada uh let's go for those forward if you think about the bell curve of adoption let's go after all of those like um innovators and early adopters for AI and that that was was something that
+Aiden Boyd: Yeah,
+Alex Law: Yeah,
+Aiden Boyd: awesome. Well, congratulations so far,
+Alex Law: thank you.
+Aiden Boyd: even though your website doesn't
+Alex Law: Yeah, exactly. I bet you're looking at this like,
+ 
+ 
+00:07:59
+ 
+Aiden Boyd: work.
+Alex Law: how are these guys in business
+Aiden Boyd: Well, I did wonder that, but if if you're getting all your business from referrals on your network, I mean, that's exactly what you want. You spend nothing and you get deals.
+Alex Law: basically? Yeah, it's just bit time using the VCs every now and again and that's about it.
+William Ross: Yes.
+Aiden Boyd: like yeah that's what you need you know I did wonder why you used Squarespace to build the
+Alex Law: I've I didn't even know it was on Squarespace. I can't remember who built
+Aiden Boyd: website
+William Ross: I didn't even know we had one at this point.
+Alex Law: it.
+William Ross: And I could be the one that actually built it. I just forgot. No idea.
+Aiden Boyd: throw it up and that's it brilliant awesome
+Alex Law: Should we um should we jump into funnel vision then?
+William Ross: Yeah, let's do it.
+Aiden Boyd: Let's do
+William Ross: I'll uh I'll share my screen. I'll give you a bit of a a very very quick walk through.
+ 
+ 
+00:08:44
+ 
+Aiden Boyd: it.
+William Ross: It won't take too long. Uh where am I going? Yeah, this is it. Let me know if that pops up okay for you. Awesome. So, yeah, the basic premise of funnel vision is is really um three-fold before we get started.
+Aiden Boyd: Yep.
+William Ross: One is surface all of your pipeline um hygiene issues in one place. Second is configure those issues to what matters most for your own your own sales motion. And the third one is get updates to those hygiene issues in the place where reps already work. So, usually that'll be team Teams or Slack. So the way funnel vision works really simply is you connect into into only HubSpot for now. You sync the data and the and it usually takes about 5 minutes depending on how much uh data is in the environment and you're immediately presented with a snapshot audit of your pipeline. So how many deals in your pipeline are passed or closed date or are stale or they have a missing a company associated to them.
+ 
+ 
+00:09:47
+ 
+William Ross: And at the bottom is your hygiene leaderboard. So, which of your sales reps are more on top of their hygiene compared to others? And this was actually something I think I think Alex was really big on because obviously he has a sales background. He was like, it has to be a leaderboard. Sales love a leaderboard. They like to be competitive.
+Alex Law: Because yeah,
+Aiden Boyd: It's
+William Ross: So,
+Alex Law: we're we're talking two things here,
+Aiden Boyd: fair.
+Alex Law: right? It's it is a behavioral problem as much as it is a technology problem. Um, so this is it's part of like the the ethos
+Aiden Boyd: Yes.
+William Ross: Yeah,
+Alex Law: there.
+William Ross: absolutely. And so, but obviously these these are just your your your pre-built really common hygiene issues that will be pretty much universally uh exhaust across sector industry, but every sales and go to market motion have their own specificities. So, you want to be able to configure your own rules to to capture the hygiene that's specific for for your own for your own um environment.
+ 
+ 
+00:10:40
+ 
+William Ross: So, we let you create your own rule. And the best way to describe this kind of functionality is genuinely that the limits your imagination. We pull in every HubSpot property whether it's associated contact associated company or even custom properties. So if you're using Medic, Medpic, Anom or whatever sales methodology you use, we pull that in and you can build any hygiene issue to to track what it is you're looking for. U and just to show you uh a dummy example of one I built, uh I wanted to know if we have any deals that are in late stage. um they have a really big amount and there's no close date attached to it. So all you have to do is name your name your rule and you can see I'm very very creative with my rule names. Um and then you just select your property. You go okay you can just search for it. Okay, I want the amount to be greater than, you know, it could be uh change the change it here amount to be greater than 20,000 and the deal stage to be equal to the contract sent and decision maker brought in and we pull in all of your pipelines.
+ 
+ 
+00:11:43
+ 
+William Ross: So you can configure the deal stages and pipelines to whatever it is that that you'll that that will be in your environment. And the if the close date is empty, then I want to flag that as a hygiene issue. And the two really powerful features of building rules is twofold. One is to automatically request an update because the last thing you want to do is spam the salesperson on Slack or Teams continuously 24/7 with all of the hygiene issues they have. That's not going to be good for adoption. They're going to ignore it. So if you click this button, all it means is that whenever the condition of the rule is triggered, it'll be sent once a day in a daily digest format. So, every morning at 9:00 a.m., one Slack or Teams message gets sent with every single rule that's been triggered in the last 24 hours, and they can go through them one by one in their own time. And if anything hasn't been actioned, it'll get asked again the the next day. And I'll show you how that looks um in in Slack in a second.
+ 
+ 
+00:12:38
+ 
+William Ross: But pre basic premise here is it's one daily digest format. And the other really powerful thing is this to actually ask them what you want them to do because you don't want them to just say, "Hey, here's a hygiene issue. Um, do something about it." Cuz you don't, it sounds bad, but sales people don't want to think. They want to be told, "Okay, it's missing a close date. I want to fill I need to fill in the close date. Here's the close date." Or, "Here's the next step." Or maybe it's uh, I don't know. Yeah, like I want to change the amount or whatever it is that they want to do. you you're telling them within the rule here. This is what you need to to fix. And you can also put in your reason for the request so they have a bit more context. So once you've done that, once you've surfaced all of your hygiene issues and you've configured them to look at exactly what it is that you need in order to have a healthy pipeline, the last question is like what do what do you do about it?
+ 
+ 
+00:13:32
+ 
+William Ross: Because you'll have you can have this running in the background, but you also have ma you'll always have manual control as well. So we have this fix issues page which shows you every deal in your pipeline that has some type of hygiene issue and you can filter this by the specific owners or any issues that you're looking for or the stages. You can also look at your pending requests. So you can look at any deals that have had um issues as requested in the past that haven't been actioned and you can say hey this one was asked for two days ago. Um, you can click on the deal for more information to see what specific issues you um were being asked for. And so, just to kind of show you how it would look in practice, obviously I'm not going to wait till tomorrow 9:00 a.m. to show you the daily address. So, I'll just do a manual uh example for now. So, here are all my deals that have hygiene issues, right? So, we can just you could just click, okay, I want an update on on deal 3A, which again, very creative uh deal name.
+ 
+ 
+00:14:29
+ 
+Aiden Boyd: Yep. Know exactly what that
+William Ross: And then I as the deal owner instantly get a Slack notification that goes,
+Aiden Boyd: is.
+William Ross: "Hey, Williams asked for an update on deal 3A." And so you can imagine as the salesperson, they could be on the train, on their phone, at the airport, wherever it is that they're working, they get a Slack notification and they go, "Okay, I need to update deal 3A." Um, normally you'd have a missing company. We don't have any company in our dummy data because we it's dummy data. Um, but they go, "Okay, there's been no amount set for this deal. Oh, it's meant to be 10,000. There's no close date for this deal either. Oh, it's meant to be end of March. And there's also not been a next step. But if there was a next step, you be you would be able to see what the previous next step was. And the next step might be schedule meeting with CFO. The saleserson just updates the deal and that's it.
+ 
+ 
+00:15:20
+ 
+William Ross: And this is the Yeah, go for it.
+Aiden Boyd: updating in Slack. That's going to update well HubSpot in this case, but it'll update all the other CRM systems as it's integrated
+William Ross: Yeah. So,
+Aiden Boyd: with.
+William Ross: right now it's only integrated with HubSpot. So, yeah, absolutely.
+Aiden Boyd: Yeah.
+William Ross: Whatever wherever this information is is is connected to Yeah,
+Aiden Boyd: So, you basically got a two-way integration. So, it goes from Slack straight into
+Alex Law: Yeah.
+William Ross: exactly.
+Alex Law: When you show the show the the the deal page
+Aiden Boyd: HubSpot.
+William Ross: So, yeah, here it is in HubSpot. You can see the amount in the top left, 10,000. The close date 31st. Um,
+Aiden Boyd: Yeah,
+William Ross: and we can also look for the next step here is if I can spell properly. Next step, schedule meeting with the CFO. So, the key bit here is the salesperson doesn't need to they don't even need to know funnel vision exists or HubSpot.
+Aiden Boyd: perfect.
+ 
+ 
+00:16:03
+ 
+William Ross: They just work in Slack. And this is
+Aiden Boyd: Well, they technically wouldn't, would they? For the sales,
+William Ross: yeah,
+Aiden Boyd: they'd only know Slack exists, HubSpot exists, and it talks to each other.
+William Ross: yeah.
+Alex Law: All teams
+William Ross: Our teams, yeah, we work with um MS teams as well.
+Alex Law: for
+William Ross: Um,
+Aiden Boyd: Yeah.
+William Ross: and we also have a queuing system as well. So this is part of the daily digest but so you can see here I have other updates that are being requested for but I'm not being asked for it continuously. It says hey here are your other deals and I could just work through these one by one as needed.
+Aiden Boyd: Okay.
+William Ross: So 128 same idea fill in this information here you can see um that for the
+Aiden Boyd: Yeah.
+William Ross: next step there's a current value is already meet with the champion to discuss exec alignment and I go oh that reminds me I need to change the next step and that's really the basic premise of funnel vision I said surface your hygiene issues configure them fix them in slack and uh and that's
+ 
+ 
+00:16:54
+ 
+Aiden Boyd: I like it. I think it's weird because it's it's something so simple, but something that every single sales team misses,
+Alex Law: Yep.
+Aiden Boyd: which I think is what I like about it.
+William Ross: Yeah. So I I have I have like a a school of thought on this which is I always actually the there's there's generally two camps. You have people that think tooling is a is a pure behavior problem and people that think it's a pure tooling issue. And we built Funnel Vision with kind of both camps in mind of saying, well, it's a behavior problem, but you use tooling to address it. So, you're using tooling to address the fact that people don't want to update their deals,
+Aiden Boyd: Yes.
+William Ross: but at the same time, you need those people to update deals because they have the context. They have the knowledge and information.
+Aiden Boyd: And sales. I'll actually probably agree with this one. Sales team is notorious in not updating deals as much as what they should. They see the notes for example.
+ 
+ 
+00:17:52
+ 
+Alex Law: Yeah, absolutely.
+Aiden Boyd: Nobody puts
+Alex Law: And um there's a funny paradox there, right?
+Aiden Boyd: notes.
+Alex Law: It's it's the onus is on the rep to fill in the data, but it's actually the leaders that care about the data.
+Aiden Boyd: Yeah. Awesome.
+Alex Law: Yeah. And and um Aiden, you can be as horrible as you want. We we're looking for open and honest feedback. So, uh any any concerns you see as well, let us know.
+Aiden Boyd: My immediate question is what next?
+Alex Law: in terms of the product. So the next first we want to see does moving the the the process
+Aiden Boyd: Yeah.
+Alex Law: into HubSpot or um Slack or Teams actually help and work and we're starting to validate that. Um the next step is well the ultimate goal is to get to oneclick updates. So integrating with AI to ingest transcripts,
+Aiden Boyd: Good.
+Alex Law: ingest like calendars, emails and be more proactive and say, "Hey, we think the next step should be this.
+William Ross: We're also yeah also al also doing some cross object on companies
+ 
+ 
+00:18:56
+ 
+Alex Law: Do you agree?" Click.
+Aiden Boyd: Couple
+William Ross: and contacts because sometimes hygiene issues aren't just deal specific it could be at the company or contact level as well.
+Alex Law: Yeah.
+William Ross: So we want to do more more on that
+Aiden Boyd: of things. Um,
+William Ross: side.
+Aiden Boyd: one immediate problem is if that particular company doesn't have teams and doesn't have Slack, that creates a blocker. Slack, a lot of software teams use it obviously.
+Alex Law: Yeah,
+Aiden Boyd: But for example, consultant firms, they don't really use it. And then you rely on Teams.
+Alex Law: we're see if they were on what?
+Aiden Boyd: So what happens in that scenario?
+Alex Law: Sorry.
+Aiden Boyd: You sort of rely on them using Teams. But if they're not using Teams or Slack.
+Alex Law: Right now, it's an immediate disqualification. I mean, what we've seen we've seen a couple people on on Google Chat.
+Aiden Boyd: Yeah.
+Alex Law: It's pretty rare. Um, but what what other communication tools are you seeing?
+Aiden Boyd: A lot of companies I speak to just stick to email and I I need to to change that for
+ 
+ 
+00:19:56
+ 
+Alex Law: Oh, really?
+Aiden Boyd: them because my god that is archaic. Um, I suppose until their entire operations are rebuilt and streamlined, email is the best route for them until everything gets moved on to Teams or Slack. Um, I think that would be part of my work is to make the move to to Slack, you know,
+Alex Law: And is that is that part of your sort of road map for for a client engagement?
+Aiden Boyd: if it is what's best suits the client.
+Alex Law: But it's in in your wheelhouse,
+Aiden Boyd: Yes.
+Alex Law: right? Um Okay.
+Aiden Boyd: Yeah.
+Alex Law: Uh well,
+Aiden Boyd: Yeah.
+Alex Law: I mean,
+Aiden Boyd: That's all under operations technically.
+Alex Law: yeah. Okay. Well, if there's a if there's a business case being built Oh, my little two-year-old just walked in.
+Aiden Boyd: That's right.
+Alex Law: I'm working.
+Aiden Boyd: I've got kids myself.
+Alex Law: But I guess it it it can help with the business case of of like driving the value for moving them on to Slack and Teams.
+ 
+ 
+00:21:02
+ 
+Alex Law: uh if if it's something that's right for them,
+Aiden Boyd: Yeah.
+Alex Law: right? Uh what what is your typical like ICP in terms of company size,
+Aiden Boyd: Yeah.
+Alex Law: profile, industry?
+Aiden Boyd: It's typically 50 employees above. Um,
+Alex Law: Mhm.
+Aiden Boyd: strangely a lot of them seem to be consulting firms but not all of them. Um,
+Alex Law: Yeah.
+Aiden Boyd: we've got a lot of software companies which would use Slack. Um, and we've got government organizations as
+Alex Law: Okay, cool. Um,
+Aiden Boyd: well.
+Alex Law: yeah, that that makes and that that aligns with what we're seeing. We're seeing like under 50 is just not not valuable for them because they don't have a big enough sales team. Oh, sorry.
+Aiden Boyd: Yeah.
+Alex Law: One second. Um, uh, yeah, she's she's had a little bit of a moan now. Um,
+Aiden Boyd: That's why I'm sitting at the end of this office.
+William Ross: God, it's four minutes till lunch. Four
+Alex Law: yeah. Yeah.
+ 
+ 
+00:21:56
+ 
+Alex Law: Yeah.
+Aiden Boyd: I know you
+William Ross: minutes.
+Alex Law: It's near nearly nap time as well.
+Aiden Boyd: d
+Alex Law: In terms of next steps, Aiden, what what do you want to do? I mean, we we're pretty flexible in terms of our partnerships at the moment. We we're being pretty generous with like referral fees and support and things like that. Um, it's completely up to you on on how you partner, how you sort of approach these things.
+Aiden Boyd: So typically the way our partners are structured is we like to do the implementation. We also like to find deals. Um then we move people on to whatever software platform is best suited and then we do the implementation and we manage it for them. Okay. So we take a lot of that work away from a lot of our partners. Um but they get the additional clients essentially. Um and then with some of our partners they introduce businesses to us as well where we can increase the value there and a lot of them charge on a seat basis.
+ 
+ 
+00:22:54
+ 
+Aiden Boyd: So our goal there is obviously to expand the business which expands seats.
+Alex Law: very uh it's very fluid,
+Aiden Boyd: Um I don't know how you have been structuring your partnership so far.
+Alex Law: right? So, we're working with a few HubSpot partners. Um the implementation's pretty light. It might be like a couple of days in terms of configuring the rules and adopt any adoption services you
+Aiden Boyd: Yeah.
+Alex Law: have. Um but we can be we can be very very flexible at this stage,
+Aiden Boyd: Mhm.
+Alex Law: right? So when we do have an implementation, happy yeah more than happy to throw that all all to the partner. No quarms there. Uh in terms of pricing, we're keeping it super simple. If it's a team under 200 or company under 200 people, um at the moment it's just a flat like 5k. Um there's we've gone down to like 3k just to make it a bit easier. Uh and we are playing around with pricing. Um but yeah, and then in terms of referral fees, it's just whatever's sort of as attractive to get the partnership going because we know partnerships live and die on momentum.
+ 
+ 
+00:23:57
+ 
+Alex Law: So, if it if it if it's if it's like a 50% referral fee for the first few clients, then more more than happy to do that. Um, and then discuss it as as the partnership grows and we know it's got
+Aiden Boyd: Yeah,
+Alex Law: legs.
+Aiden Boyd: that 5K for 200 or less people is that monthly or
+Alex Law: Annual
+Aiden Boyd: annuals and okay one question do you have a apart from the leaderboard a reporting
+Alex Law: So that is that that's part of the next steps as well,
+Aiden Boyd: functionality
+Alex Law: the analytics around it. Um the other what what we're the narrative around it right now is most of the people we speak to have some sort of reporting they want to get out of HubSpot. Um sometimes they put it into PowerBI, sometimes they're using the dashboards within HubSpot. Our goal is to make sure that those reports are accurate in terms of the data that's in HubSpot as opposed to giving you the the dashboards themselves. Um, one thing we're playing with is giving you dashboards on the actual hygiene itself.
+ 
+ 
+00:25:00
+ 
+Alex Law: So out of your total pipeline,
+William Ross: Yeah,
+Alex Law: 50% of it is blah blah blah blah.
+Aiden Boyd: That that's that's what I meant by
+Alex Law: Yeah.
+William Ross: that's actually what we're looking for our design partnerships for because we you can imagine we get a lot of amazing data in the
+Aiden Boyd: reporting.
+William Ross: background. The question is what's the most valuable use out of it?
+Aiden Boyd: Mhm.
+William Ross: So that's open to thoughts and ideas on you know what do you think basing your clients what would they like to see and we canate that into basic hygiene reporting.
+Aiden Boyd: Yeah.
+Alex Law: What um what what what sort of moves the needle for for you guys?
+Aiden Boyd: Okay.
+Alex Law: Is it the implementation, referral fees, customer value?
+Aiden Boyd: More so customer value. I mean, we get the referral fees, we get the implementation, that's fine. But ultimately, we want to increase customer value. We want to help them grow their business as much as possible because obviously that means we get more in return down the line.
+ 
+ 
+00:25:59
+ 
+Aiden Boyd: Implementation fees and and and referral fees. That all changes per whatever partner you work with, but ultimately it's customer value and satisfaction is what we look for because that's what grows
+Alex Law: Yeah.
+Aiden Boyd: our business.
+Alex Law: Okay. And and can you think of any examples where and not not sort of pushing for introductions yet, right? I'm just seeing if there is a is a fit. Uh do do you see uh scenarios where you implement HubSpot uh the adoption sort of falls off a little bit and and that stunts the customer value or is that not really a problem for you guys?
+Aiden Boyd: No, the adoption doesn't fall off. Let's say I'd say an issue where this would come handy is a on the reporting side once you guys built that out, but also b it's streamlining that process entirely. So I don't want for any client where deals go to a pipeline and die. Nobody wants that. And this solves that problem. This flags anything that's missing, brings it to attention for everybody to see.
+ 
+ 
+00:27:22
+ 
+Aiden Boyd: And basically you're told, fix it now.
+Alex Law: Yeah.
+William Ross: Yeah.
+Aiden Boyd: And that's where we can really add value for the clients as
+Alex Law: Cuz do your do your clients have revops teams or typically care revops
+Aiden Boyd: well.
+Alex Law: teams?
+Aiden Boyd: Not all of them have herb ops team. Some do, but definitely not all of them.
+Alex Law: Yeah.
+Aiden Boyd: A lot of them there it's scenario where they grow too quickly and they haven't quite built that structure yet. Um and then there's the likes of the the larger organizations whether it's semi-government or nonprofit organizations. They they just they don't know how to do all that stuff. They they have everything there and they don't know what to do with it.
+Alex Law: Yeah. Yeah. And and we actually see this as kind of a a stop gap. Either if you have RevOps, free up their time because a lot of their time is chasing and and doing this stuff themselves. Uh, and if you don't have RevOps, then this is like your your mini junior revops agent that's spotting the the the
+ 
+ 
+00:28:13
+ 
+Aiden Boyd: Yeah. Is
+Alex Law: problems and chasing. Um, and we can see a scenario where like the partner is managing the instance.
+Aiden Boyd: it
+Alex Law: So there's some sort of managed service there where you're um building the rules, maintaining maintaining that and sort of updating the business. Um, so there's there's a play there as well.
+Aiden Boyd: Yeah, I mean that's for for this year anyway. That's we're placing more of our focuses on managed services. That's where we expand the
+Alex Law: Yeah. Yeah. Exactly. That that that makes sense for any any services company,
+Aiden Boyd: most.
+Alex Law: right? Uh
+Aiden Boyd: Absolutely. I mean implementation charges are nice because it's a larger lump sum but managed service that's that's what you want
+Alex Law: yeah, it's the recurring revenue you're looking for,
+Aiden Boyd: to
+Alex Law: right? Um and that's the that's the other thing we're doing. Not. Um I think mo most vendors they do like oh you get referral for you on the first year.
+ 
+ 
+00:29:02
+ 
+Aiden Boyd: absolutely
+Alex Law: Uh we're just doing it on on customer lifetime.
+Aiden Boyd: yeah a lot of them well a lot of the larger ones it's it's usually
+Alex Law: Yeah. Yeah. Exactly. We're right right now.
+Aiden Boyd: cuped more flexible
+Alex Law: Nothing like that. Trying to make it as easy as possible. But yeah, we're over time.
+Aiden Boyd: Yeah.
+Alex Law: We I just wanna What do you think we should do as next steps, Aiden?
+Aiden Boyd: Um, do you have any partner agreement docs to send over can read through with the
+Alex Law: Uh next week we will I think uh we've
+William Ross: That's
+Aiden Boyd: team?
+William Ross: it.
+Alex Law: um we we launched in December after well actually no we launched in November signed up to to pilot customers started going out to partners and customers in December uh and so now formalizing those processes. Uh what would what would the partner agreement unlock do you think?
+Aiden Boyd: basically puts everything in in writing what we can do, what we can't do. Um, commission structures, everything.
+ 
+ 
+00:30:09
+ 
+Aiden Boyd: So there's I can't argue, you can't argue, you know,
+Alex Law: Yeah.
+Aiden Boyd: keeps everything open and honest.
+Alex Law: Okay, cool. Um and just Yeah.
+Aiden Boyd: Don't need to be complex.
+Alex Law: No.
+William Ross: Yeah.
+Alex Law: So, yeah. Um a lot of our experience is in partnerships.
+Aiden Boyd: just
+Alex Law: Uh, and we've we've been in companies where the partner agreement is like 20 pages long and we're we're definitely Yeah,
+Aiden Boyd: if
+Alex Law: I never read them either.
+Aiden Boyd: it's
+Alex Law: So, I was the one sending them. Uh, so we're going to keep it super simple. Um, and then once that's all like sort of sent over,
+Aiden Boyd: Perfect.
+Alex Law: let's say you like it, what what happens then?
+Aiden Boyd: Um, sign the documents and then we can get another call and see how
+Alex Law: Yeah,
+Aiden Boyd: to bring this to the market on this side of the world.
+Alex Law: brilliant. Okay, that sounds sounds promising.
+William Ross: Perfect.
+Alex Law: Um,
+William Ross: Any other questions for yourself,
+ 
+ 
+00:30:59
+ 
+Alex Law: awesome.
+William Ross: Aiden?
+Aiden Boyd: You've already said if I notice anything that could be improved or something that'll bring value, just bring it to you guys.
+William Ross: Yeah, ping ping me, LinkedIn, email, whatever.
+Aiden Boyd: And who done the
+William Ross: We can grab a call whenever suits as well.
+Aiden Boyd: development
+William Ross: Uh so it's probably myself and we have a CTO as well.
+Aiden Boyd: work?
+William Ross: So, uh, my my head has handi worked for it that
+Aiden Boyd: Yeah. Yeah.
+William Ross: way.
+Aiden Boyd: See, I come from a a strangely an engineer back in the day and then I've moved into sales, worked my way through that. And I've always wanted to I've started learning how to do some dev work, mainly Python, but it doesn't click in my
+William Ross: Yeah. Yeah. I I I always for myself I understand it all intuitively,
+Aiden Boyd: brain.
+William Ross: but that's it. And when it gets I've done Python coding courses so many times and I understand it when it gets explained in like plain English, then I see the quote that's
+ 
+ 
+00:31:56
+ 
+Alex Law: We do have a um we do have another dev as well uh who who actually has like what like 30 40
+William Ross: different.
+Alex Law: years in in being an engineer. Uh but he like the the crazy thing at the moment is all this vibe coding stuff which is which is growing
+William Ross: Yeah.
+Alex Law: exponentially. Um so the but the issue there is you can't build a
+Aiden Boyd: Yeah.
+Alex Law: production ready product with just five coding. So we've got a guy called Joshua to come in to build Yeah.
+Aiden Boyd: It's it's also the longevity of the code as well,
+Alex Law: Yeah.
+William Ross: Oh
+Alex Law: Exactly.
+Aiden Boyd: which is my blocker because I've I've got a list of things I want to build.
+William Ross: yeah.
+Aiden Boyd: Don't have the brains to build.
+Alex Law: Yeah.
+Aiden Boyd: So, I need to find
+Alex Law: Well, if you want to talk to to Joshua, we're more than happy to make an introduction.
+Aiden Boyd: someone.
+William Ross: Oh yeah,
+Alex Law: He's um he's he's got his own like dev agency.
+ 
+ 
+00:32:38
+ 
+William Ross: absolutely.
+Alex Law: He like he's uh he is part of the funnel vision team.
+Aiden Boyd: Okay.
+Alex Law: He's got some equity and that's not his normal engagement strategy, but he he's part of our founding team. Um but we're bootstrapping this. We don't want to get any investment because you lose control and all that sort of stuff. So, Yeah, if if you want to talk to Joshua,
+Aiden Boyd: You guys know
+Alex Law: he's he's got a team of people that that sort of builds these ideas for companies like us.
+Aiden Boyd: this?
+Alex Law: We can make that introduction, no
+Aiden Boyd: Mhm.
+Alex Law: problem.
+Aiden Boyd: So, that's how you you've structured a deal with them. It's not we pay you X, it's you have X.
+Alex Law: We we started off with just normal client relationship. So, we were paying him I think it was like somewhere between like 8 to 10 grand a month. Um but then he started to see the momentum that we got early early late year like hey Joshua we can we can strike a deal
+ 
+ 
+00:33:30
+ 
+Aiden Boyd: Uh yeah,
+Alex Law: here. Yeah. Yeah.
+Aiden Boyd: let's stop paying.
+Alex Law: Exactly. So now we've got a pretty pretty nice arrangement with him and he he's he's definitely part of the team
+Aiden Boyd: Yeah.
+Alex Law: now.
+Aiden Boyd: Awesome.
+Alex Law: Yeah.
+William Ross: Yeah. So,
+Aiden Boyd: Fantastic.
+William Ross: yeah. All the new new modern day business. I feel fluidity. It's just Yeah.
+Aiden Boyd: Yeah, that's that's the way it should be.
+William Ross: Yeah.
+Alex Law: Exactly.
+Aiden Boyd: Awesome.
+William Ross: All right. Pleasure. But if you're interested, I can I can intro yourself to to Joshua, but obviously any any questions on Funnel Vision thoughts, them as
+Aiden Boyd: Yes.
+Alex Law: Yeah.
+Aiden Boyd: Yes.
+William Ross: well.
+Aiden Boyd: I I've got your email, Alex.
+Alex Law: Yeah.
+Aiden Boyd: I don't have your if you just want to ping me a message or something.
+Alex Law: Excellent.
+Aiden Boyd: So,
+William Ross: Yeah.
+Aiden Boyd: it's
+Alex Law: Yeah, I'm on the invite. So,
+Aiden Boyd: there.
+Alex Law: um, yeah, and we'll, uh, we'll be in touch next week once we've got some some partner agreements up and running.
+Aiden Boyd: Yeah,
+William Ross: Yes.
+Aiden Boyd: just something simple so I don't have to spend my nights read.
+Alex Law: Don't worry, we can summarize it in an email as well.
+Aiden Boyd: Perfect.
+William Ross: One page and half of it's the exact
+Aiden Boyd: I'll do Yeah,
+William Ross: summary.
+Aiden Boyd: extra large logo
+Alex Law: Okay, we don't have one of those.
+Aiden Boyd: done. They're sticking on the website. Awesome.
+ 
+ 
+Transcription ended after 00:35:06
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

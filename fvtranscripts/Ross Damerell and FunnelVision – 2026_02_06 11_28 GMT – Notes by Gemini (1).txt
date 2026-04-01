@@ -1,0 +1,226 @@
+﻿Feb 6, 2026
+Ross Damerell and FunnelVision - Transcript
+00:00:00
+ 
+Greg Petherbridge: pretty broad look at, you know, different stage companies, different stage GTM, our past lives as well, and kind of these startup scaleup type companies. And the consistent thing we kind of saw is this complete disregard or or or lack of trust in in actual revenue forecasts. Like it's seeing it from the side of a rep,
+Ross Damerell: Yeah.
+Greg Petherbridge: which I I don't mind saying because I I I have been one and I am one. They can live in their own world. they can be pretty selfish and and you know if if all that matters to them is just I'm going to hit my number and close my
+Ross Damerell: Heat.
+Greg Petherbridge: deal. If they're not being pressed on the information within that and there's no kind of top down scrutiny on on what's in the deals and it being accurate and it act being accurately forecasted it it just it's not done. Um so so really we've made funnel vision to to tackle that issue of pipeline hygiene particularly in this kind of niche of uh size company that we've been working with like any kind of you know VC backed fast growing lot of eyes from VCs founders on on on the revenue targets uh we we've really found that's been our our kind of best best niche so far uh of course you know it's not to say that pipeline hygiene isn't important elsewhere it's just where we've we've kind of started working with HubSpot Slack and
+ 
+ 
+00:01:13
+ 
+Greg Petherbridge: Microsoft Teams Um so so we've really built funnel vision to do three things. Uh one give that kind of top level leadership or or um you know outside investors some visibility on on kind of the health of your pipeline and what's missing and and who's missing it. Secondly, whoever's chasing and and being we've you know this falls on revops quite a lot falls on sales managers to just be like an annoying parrot, you know, update your deals, update your deals, update your deals. We're hoping we have a solve for that in the sense that funnel vision can work in the background and once you set up your automated rules it kind of just runs on on whatever base whenever that kind of um when whenever you know that case is satisfied or that rule is satisfied it just runs at 9:00 a.m. you know giving people a nudge. So thirdly, just that kind of uh making it as easy for the reps or or more so staying on the reps to just be like this is what you're missing in the deal. This is how you can update it and just being able to update it straight from Slack or Microsoft Teams.
+ 
+ 
+00:02:14
+ 
+Greg Petherbridge: So yeah, that that's kind of an a broad intro on all of us. William, would you have anything to add? I know William's come from quite a more diverse background than me
+William Ross: No.
+Greg Petherbridge: anyway.
+William Ross: Yeah. No, nothing relevant to to add. And I always like to add that that I started my I don't know how I ended up here. I started as an economist in the government for like three and a half years and then slowly my way through the technology side.
+Ross Damerell: Nice.
+William Ross: I think I I sometimes feel 10 years older after that stint in government, but but nothing nothing really relevant to unless unless you work in government and we can vent about it on another
+Ross Damerell: Not yet, mate.
+William Ross: call.
+Ross Damerell: Not yet. Maybe one day. I'll only do the Cornish government when we get on. But no, it sounds it sounds really cool. I I I had a look at the website.
+William Ross: Oh,
+Ross Damerell: I had a look at the overview.
+ 
+ 
+00:03:01
+ 
+Ross Damerell: Um if I give a bit of background on me, where I came from, just to kind of set the scene. Um I originally did advertising at uni, come out of uni and look for a job in advertising. So like everyone ends up in sales. Um so started a job in sales uh a big company which was 100 calls
+Greg Petherbridge: Yeah.
+Ross Damerell: a day just hammering through the phone. Um and then I got a job in adtech where they didn't it was a startup they didn't have a sales team or anything like that and that's where I started putting in like CRM um setting up HubSpot setting up Salesforce making sure everything spoke to each other. Um, so I was doing the sales whilst setting that up. Did a bit of time there. Went to a few more startups and then it was always the same thing. I was normally the first sales hire. Put the first team in place. Build the team up, build out the processes. Um, and that was always startups.
+ 
+ 
+00:03:55
+ 
+Ross Damerell: And then the job just prior to this, I joined a massive corporate. It was like 11,000 people. And going from I think my biggest company prior to that was maybe 40 or 50 to 11,000. That's when I started working on their HubSpot and their CRM and start and seeing that everyone has the same issues anyway. Um, but again, still with a sales target on my head. So, I went, you know what, actually what I really enjoy doing is the processing, is the reporting, is setting everything up. Um, and that's how I've moved into the RevOps role. So, applied for this job, ended up getting it, came into the business. Um, and this has been my first role that I've really just been solely focused on RevOps. And uh, when I came into this during the interview, they said to me, "Our CRM's a bit of a mess." And I was like, "It'll be fine." And holy s***, like this was the biggest mess I've ever seen in my life. um to give a bit of a foundation.
+ 
+ 
+00:04:52
+ 
+Ross Damerell: It's if you if someone sold a deal, we we work in SAS, so someone would sign up a client, there would be one deal for that. If they added another user, another deal. If they added a an add-on, there was another deal. So, some of these clients were adding like 60 70 additional users a year. For one one company and one subscription, we had 89 deals.
+William Ross: How did they even build that? But how? Like you I wouldn't be able to accidentally do
+Ross Damerell: Yeah, it was there there was a guy here that did it.
+William Ross: that.
+Ross Damerell: He's not here anymore that he knew he knew a little bit about HubSpot, just enough to be dangerous. Um, and that's really kind of how he run everything. And like I can understand the foundation for it because he's like, I'll do the deal. And then that deal notifies finance, they'll go through it. But then you come to renewals and then you renew a load of you renew that deal but forget to do all of the previous ones or you spend hours closing off all those 80. Um so all the numbers were wrong.
+ 
+ 
+00:05:56
+ 
+Ross Damerell: The reporting was wrong. The number of clients what they had access to was all a mess. So we've now got it into a stage whereby rather than using deals we're using line items which is how it should have been. Um but it was just a mammoth mammoth job getting that in place. So we we're now sort of running with it and I feel like we're in a position where it's working well. Um but one thing when you talk about hygiene and stuff like that, we've had to put in so many rules and required fields at different stages as it passes through just because like like you guys will know what it's like from a sales side. You want to do your sale, you don't really give a s*** about the admin. Um and notoriously you get the best salesperson is often the worst admin because they go, "I'm busy doing sales. I'm not giving a s*** about admin. Um, so that is where some of the frustration came from. I think now we've we've taken a team that were BDRs and trained them correctly from day one, but now you start to see them slipping into those sort of sort of habits where it's just, oh, they'll miss something or they'll just put something in that's a bit s***.
+ 
+ 
+00:07:01
+ 
+Ross Damerell: Um, and then I think one of the key ones which I I watched the the the bit the demo on the website. Um, I think you mentioned something about if it hasn't been updated in a while. That that one I thought was quite interesting because that's a tough one to do directly from HubSpot. I mean, I could custom code it, but it's the the value it adds the time I spend custom coding it. So, it's more so one of them I just have a big dashboard in HubSpot called Ross' error reports and every
+Greg Petherbridge: Of
+Ross Damerell: morning check that out. The dream state, they should all be empty. Um, and that helps me be able to see, okay, what's in here? What do I need to do? Now, the the knocking effect that comes with that, I I try and build everything as if I were hit by a bus tomorrow, someone else could come in, keep it all working. Um, at the moment, they couldn't partly to save my own job as well.
+ 
+ 
+00:07:53
+ 
+Ross Damerell: Everything's custom coded to ship. But, um, there is an element it should be should be feasible. And I suppose my question just to understand a bit more about funnel vision is where do you guys see the real differentiation between the guardrails you can put in place with HubSpot and and your system? And um sorry, just to add to that, would you say it's more of a case whereby because sorry I'm going off on a bit of a tangent here, but my initial thought when I saw the video is I thought this looks amazing for people
+Greg Petherbridge: course.
+Ross Damerell: that almost don't have a RevOps team or don't have a RevOps person because I think for a RevOps person, they're like, "Yeah, this is great, but I could do a lot of this in HubSpot." But what you're saying is that startup early stage where they don't have someone that's focused on this all the time. It makes it a lot easier for a CEO to go, I want to know all of this stuff. I want to make sure this is updated.
+ 
+ 
+00:08:46
+ 
+Ross Damerell: Um, and I suppose, yeah, that that's where the question comes from. Who is it you're
+Greg Petherbridge: Yeah. I I I think you're right in the sense that yeah,
+Ross Damerell: targeting?
+Greg Petherbridge: we have seen a lot of interest and traction with those kind of fast growing teams who don't have revops in place and yes, it's like a great substitute for those managers who are chasing who are trying to get visibility and like close the loop here. Obviously, yes, we've had the feedback from RevOps teams. They're like, I'm I'm pretty sure I could build something pretty close to this, but we put I I think the true value lies in the read and write back from from sales or Microsoft t from Slack or Microsoft Teams. And it's more so the kind of you're continuously hitting the loop.
+Ross Damerell: Yeah.
+Greg Petherbridge: You know, every day it's scanning the system. As you say, you go into Ross' errors error report. I suppose the value you would get out of it is that you don't really need to do that manually every day.
+ 
+ 
+00:09:33
+ 
+Greg Petherbridge: Um and that like you know pipeline hygiene it is often just more of a cultural thing than like than anything else. So that if it is a priority to fix we just don't believe that unless sales people are be kind of being nudged to constantly um fix their deals fix their deals fix their deals that it's just not going to happen. So I I think it is more the the the repeated nature of it and having that kind of full loop of detect route to the to the seller and bring it back kind of having that full circle. We've probably seen um a couple of our early users adopt that quite a lot even even with a RevOps
+Ross Damerell: Yeah. Yeah. The learn learn learn um kind of repetition element to it I think is great because you
+Greg Petherbridge: team.
+Ross Damerell: almost want it a way that people get pissed off with it coming up. Like if I do it properly the first time I'm not going to get any notifications. I'm not going to have things jumping in and telling me this.
+ 
+ 
+00:10:25
+ 
+Greg Petherbridge: Okay.
+Ross Damerell: Um, but I think it's also beneficial, massively beneficial for junior people coming in because that's a case where they think they've done everything right.
+Greg Petherbridge: Yeah.
+Ross Damerell: There's certain fields that you'll get with HubSpot that sometimes are required, sometimes aren't, and I can build the conditional side of it, but there is an element to it whereby there there's an element of awareness that comes with it. And other than adding 200 different fields to get that sorted, that's the other thing. I came in and there was 600 fields on the deal. So, um, we've cleaned that down a lot, but it's Yeah, it is. It is cool. I don't know what I've only seen that video there. Is there anything else that's more of a that feeds into it or anything more that I should know, would you
+William Ross: I mean, the the demo gives a pretty good overview of I mean,
+Ross Damerell: say?
+William Ross: I'm happy I I can walk you through it just now if you if there's anything else you want to see.
+ 
+ 
+00:11:20
+ 
+William Ross: But there's other than maybe seeing like a live version of like the being able to send a notification in Slack or Teams and be able to update it. Um yeah so the basic premise of fun vision was really built on being able to surface all your hygiene issues in one place
+Ross Damerell: Yeah.
+William Ross: in a dashboard view configure them so you are tracking what you care about because we pull in all the properties you can build any kind of complex rules you want then the re the real benefit was that the sales teams don't need to context or tool shifts they can live in Slack or
+Ross Damerell: Yep.
+William Ross: teams and then make all the changes and hygiene requests updates without needing to break their workflow
+Ross Damerell: Yeah. Yeah. I I think that's brilliant. You know, it's because we do we use Slack. We our tech stack is basically exactly what you've got here. It's HubSpot and Slack. So, it's it's a good fit for that. Um I I haven't actually looked at your pricing.
+ 
+ 
+00:12:13
+ 
+Ross Damerell: Sorry. So, you're three grand a year with unlimited users. So yeah, you're looking at 75 a month, aren't you? Because we got four four salespeople. So I just I think if I'm honest, this is what I'm saying. With a RevOps team in place, there's not enough value there for me at the moment because, well, I can do it. If you find that I'm out of work next month, give the company a shout and just be like, "This this will replace Ross." Um, but it does look really good. I don't know if you've got any more questions for me. Anything you want to understand or any feedback? You think there anything I'm
+Greg Petherbridge: Yeah, I suppose like this is obviously the first version of of what we're building
+Ross Damerell: missing?
+Greg Petherbridge: and and we have a a kind of a roadmap idea of where it goes from here in terms of do we go down an an analytics route, do we go kind of more of a like a clarity type thing where you're centralizing a lot more like we're reading transcripts and maybe trying to automate that going kind of autopop populating deals.
+ 
+ 
+00:13:19
+ 
+Greg Petherbridge: What would you see would you see anything or does anything scream out to you as something that can sit alongside something like this or something that we can build into this that would play nicely alongside it as as a kind of next step in the future?
+Ross Damerell: Oh, it's a good question. Um, I think from the clarity perspective at that point, you're competing with a super busy market. There's so many tools that fit there. You've got gong, you've got all I know they're not all similar,
+Greg Petherbridge: Yeah.
+Ross Damerell: but they're all in that same sort of area and then you'll spend a lot of time developing something that you're competing with so many people for. I think the area that you've got at the moment, it's not an area I've seen loads of tools in when it comes to that hygiene thing.
+Greg Petherbridge: Cool.
+Ross Damerell: And especially with the HubSpot and Slack integration, you see s*** tons of it for Salesforce because from day one people are like, "Oh, the big companies use Salesforce. We want to target the big companies." But there's a lot lot more small companies than there are big companies.
+ 
+ 
+00:14:14
+ 
+Ross Damerell: So I think the HubSpot Slack setup's great. Um I just think from what could sit alongside it. I think what I said on the point earlier is for a startup where they're bringing in their sales teams, even if they've got a sales manager, I would almost say every sales manager that I've had does not do HubSpot properly. Doesn't fill everything in. The hygiene's all over the place. This is an this is a tool for sales managers or for CEOs as they're hiring the sales teams. They can have that awareness from it. Um I don't I don't know if there's much on the reporting aspect of it. So that's another thing is what we've got in HubSpot is the operations hub. Have you guys seen the operations hub in HubSpot?
+William Ross: Not not overly with it.
+Ross Damerell: I I can show you if you fancy if you've got two minutes. It will give give you a bit of insight.
+William Ross: Yeah.
+Ross Damerell: Um, one second. And I would almost operations hub costs a wedge as well.
+ 
+ 
+00:15:15
+ 
+Ross Damerell: So I would just say just copy what they got and do it cheaper. It's often an easy way to do it. Can you guys see my screen there?
+William Ross: Yeah.
+Ross Damerell: Yeah, perfect.
+Greg Petherbridge: Yep.
+Ross Damerell: So on here you've got this is the operations hub that you've got data quality.
+William Ross: Yeah.
+Ross Damerell: Um and what this will give is like duplicate issues, formatting issues, uh enrichment gaps, anything like that. What feeds into workflows, data quality, property insights as well that's not been used. Now, the issue you get with this and where you guys differ is you can't really put any rules into this. So, this will just give you like duplicates, anything that's not formatted correctly. Um but you can't say okay if this if this is at this stage then we need this that you have to set up in the back end of HubSpot but then I've got a load of workflows that feeds into that. So like for example um if I go to the dashboard go to my errors report it will be busy in there at the moment.
+ 
+ 
+00:16:18
+ 
+Ross Damerell: I know I said I want it all at zero but we're dealing with stuff at the moment. Um, stuff like ending in the next week without a close date, deals without car close dates in the past. Really just trying to build out everything that I need to see to go, is this updated? How does this need to be updated? What do we need to add to it? you know, so there's a lot of things there that when you move on to the operations hub package of
+William Ross: Mhm.
+Ross Damerell: um HubSpot, you almost have access to a lot of those formatting issues and stuff. But I think you only get that if you go sweet. And then a lot of the companies that don't have an operational side aren't going to have the operations hub. They won't see a need for it.
+William Ross: Yeah, that makes sense because one thing we've been trying to figure out as well is alo there's a com as well that a lot of what you can we do you can replicate hubs so apart from the the right back from from Slack.
+ 
+ 
+00:17:11
+ 
+William Ross: So been kind of trying to think through as well like what's the what would be like a wow moment to someone like yourself that would go oh that's really really good. It might not even be something enough to convert you into like a paying customer but enough to go like oh did this thing like cuz you're right what
+Ross Damerell: Yeah.
+William Ross: what we're being very careful of is we don't want to compete with a with a client that's not our we because we think
+Ross Damerell: Yeah.
+William Ross: I mean I spoke I we've sent on a few HubSpot partners pretty respectable and they've said they've not really seen anyone tackle pipeline hygiene specifically from this lens. So we're trying to dig more into that area and maybe is analytics on hygiene itself. How do you tie hygiene to value? Is it as you say like all like like one click updates from transcriptions like what's the the next
+Ross Damerell: One one thing that would be really cool is so when we do a sale it'll go
+William Ross: thing
+Ross Damerell: salesperson onboarding team account manager.
+ 
+ 
+00:17:59
+ 
+Ross Damerell: Um sometimes if an onboarding can be tricky or data is wrong they'll start a group chat in Slack with the salesperson the onboarding person and the the future account exec. They'll be chatting there about a client and they may say or support will get involved and say, "I've had a call from this client. They've said all of this." Now, our support team don't have access to HubSpot. They don't do anything there. If they could send a message saying, "Greg has messaged me and said he's not happy about this." If there was an option where you could click add to HubSpot, search the deal, and then it just adds it as a note there. It's just one of those extra things that makes things run a bit quicker. I think that would be really cool because then you've got the people that aren't in HubSpot having the ability to be able to just throw stuff there when it needs to
+William Ross: Yeah,
+Ross Damerell: be.
+William Ross: that's that's interesting. Yeah, absolutely. We can we can clock and see if we can
+ 
+ 
+00:18:50
+ 
+Ross Damerell: Yeah,
+William Ross: incorporate.
+Ross Damerell: I don't think that'd be a crazy step to um to function in, you know. Um but I'll have a think about it if that's right with you guys and just really I think I'll just make a list of things that frustrate me and shoot them over to you and say no.
+William Ross: That would be beyond valuable for
+Ross Damerell: Yeah. Yeah. Every time I get pissed off,
+William Ross: us.
+Ross Damerell: you'll get an email from
+Greg Petherbridge: We can
+Ross Damerell: me.
+William Ross: Ross's Monday pissed off comments number
+Greg Petherbridge: be
+Ross Damerell: Yeah. Yeah. Yeah.
+William Ross: one.
+Ross Damerell: Exactly. Just can you fix this? Um but it's it's tough, isn't it? Like it's you almost don't know you need something until it's there. And sometimes you'll see something go,
+William Ross: Yeah.
+Ross Damerell: I never even thought of that. Um that's where the value is.
+William Ross: Yeah. Absolutely. Absolutely.
+Ross Damerell: Yeah.
+William Ross: That's what we're racking our brains for just
+ 
+ 
+00:19:34
+ 
+Ross Damerell: Yeah. Yeah.
+William Ross: now.
+Ross Damerell: Chat just what what people complaining about.
+William Ross: Where did this whole idea came from? for
+Ross Damerell: Yeah. Yeah.
+William Ross: us.
+Ross Damerell: I tell you there is um the the HubSpot communities just go on the ideas um area and anytime people have asked for anything there's a guy that his entire job is he just makes little apps for HubSpot um and sells them out. He's like, "Hey, I saw you wanted this. It was a quick fix. I built it. Here you go." £100 a month. And some people are like, "This what I need, I'll pay it." And just you can make these quick things and throw them
+William Ross: perfect. Perfect. I mean there no other thoughts,
+Ross Damerell: out.
+William Ross: comments, questions for myself, Greg Ross, but um just in case we don't really want to say thank you for the time. Really grateful for the feedback and Yeah.
+Ross Damerell: Yeah. Sorry if I'm not that much help, you
+William Ross: No, honestly these conversations are really really helpful to us.
+Ross Damerell: know.
+William Ross: can't can't um exaggerate it enough. So appreciate
+Ross Damerell: Cool.
+Greg Petherbridge: Yeah,
+William Ross: it.
+Greg Petherbridge: we'd love to hear those inner monologues if they do come up.
+William Ross: That' be wonderful.
+ 
+ 
+Transcription ended after 00:21:00
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

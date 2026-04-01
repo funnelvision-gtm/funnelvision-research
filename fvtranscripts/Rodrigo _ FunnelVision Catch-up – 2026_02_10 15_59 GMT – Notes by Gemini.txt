@@ -1,0 +1,254 @@
+﻿Feb 10, 2026
+Rodrigo / FunnelVision Catch-up - Transcript
+00:00:00
+ 
+Rodrigo Rivas: got approval on the uh life cycle stages, lead statuses, and pipeline structure. I got approval from the VP of marketing like two weeks ago. So, it's been it's been kind of a process.
+William Ross: Wow.
+Rodrigo Rivas: I think during the first month of the project, they were not really like engaged or interested because they had been burned by an agency before. Um,
+William Ross: Yeah.
+Rodrigo Rivas: so I think their expectations and their standards were not really high. Um, and I Yeah, and at some point I did feel like, oh my god, this project I don't think it's going to work.
+William Ross: Yeah, because you're Yeah,
+Rodrigo Rivas: Um,
+William Ross: because again because your job requires everyone to be bought in and like so imagine part of your job recently has been kind of that change man side of it as
+Rodrigo Rivas: yeah. Yeah. Yeah. Yeah. So mostly the CEO he was very unengaged like he was not joining calls he was not really
+William Ross: Oh,
+Rodrigo Rivas: responding to emails uh but then at some point something happened I don't know what it is and they have been super engaged for the past month and a half um they have been joining calls they have been giving me materials they have been super interested we actually launched uh a nurture sequence pretty recently and we did like a whole email analysis so you know things are going well however I still Uh I still don't have any comments from the CEO on the life cycle
+ 
+ 
+00:01:21
+ 
+Rodrigo Rivas: stages and he did say I want to review them. Uh but I think what's going to happen is uh this week my goal is to stage everything in HubSpot review it with him like anything regarding pipeline life cycle stages lead statuses I'm going to review it with him on Thursday most likely. Um, and then if he gives me approval,
+William Ross: Mhm.
+Rodrigo Rivas: I will be able to start coaching the sales team into how to use the the new process. So, a few things are going to happen once we get there. I'm going to build a manual, like a user manual,
+William Ross: Yeah.
+Rodrigo Rivas: so they know like, oh, this is what needs to happen, blah, blah, blah, blah, blah. And I think that is when I can talk to them about you because also the CEO, his name is Adam, he's very interested into making things easier for the team. Um, part of this is that this week he is signing up uh like a contract or he's signing up to a platform that allows um like artificial intelligence to like understand more about the prospects and to engage with the prospects in a way that will allow us to enrich the information that we have in the CRM.
+ 
+ 
+00:02:37
+ 
+Rodrigo Rivas: So I think that's I think that will be very valuable. But I I told him this will be valuable if we execute it properly. Like AI will only go so far if but we need to give it the
+William Ross: Yes.
+Rodrigo Rivas: information. Um so he said, "Oh yeah, sure.
+William Ross: Mhm.
+Rodrigo Rivas: I know you're working on this. So you know, we need to give AI everything you've been working on so it can actually qualify uh prospects." So as a second part of that, I do think I'm still going to struggle quite a lot once we get to the sales team because they have been historically really bad at putting the information in HubSpot and this is not
+William Ross: Mhm.
+Rodrigo Rivas: something I have made the observation of like the CEO will gladly admit like the sales team has been pretty bad at putting the information in HubSpot.
+William Ross: Yeah.
+Rodrigo Rivas: So I think this could be a great addition. I think maybe we can touch base in like a month because I think like a month, month and a half because I think that's when I will be at a point where I can be like, "Hey, you know what? You're struggling with this.
+ 
+ 
+00:03:42
+ 
+Rodrigo Rivas: I get it. Here's a cool solution I found." Um, now if you can give me access to like a tool that I can play around with, that would be great. Not right now because what I would like is I would like to show it to Adam and be like,
+William Ross: Yeah,
+Rodrigo Rivas: "Hey,
+William Ross: of course.
+Rodrigo Rivas: you know what? I found this. This looks great. I think this could be a really great addition for the team." Um, I don't know how much the environment has changed in the platform, but just a reminder, they are using uh teams and was said something else,
+William Ross: Perfect.
+Rodrigo Rivas: but I can I'm blanking on it right now, but yeah, they use teams. So,
+William Ross: As long spot,
+Rodrigo Rivas: if we Yeah.
+William Ross: you're
+Rodrigo Rivas: Okay, great. Um,
+William Ross: fine.
+Rodrigo Rivas: and then that's that's the update I have. I know I mentioned another client. Honestly, she like I had a conversation with her at the like late December and she told me, "Yeah, we have a few contracts coming up. Um,
+ 
+ 
+00:04:42
+ 
+Rodrigo Rivas: nothing has come up like again." So, I think it's time for a friendly follow-up to see like, "Hey, what's up? What's going on?" Um because yeah, you know, I'm I'm a oneman show, so I'm also a
+William Ross: Yeah, I was going to say you Yeah,
+Rodrigo Rivas: salesman.
+William Ross: we know that pain quite well. do absolutely everything
+Rodrigo Rivas: You know, it is what it is. I decided to venture myself into the independent professional
+William Ross: and which I guess makes it even worse when
+Rodrigo Rivas: thing.
+William Ross: the when the engagement doesn't isn't as enjoyable because you go there's not there's no escape there's nothing else I can do there's no one I can give the work to
+Rodrigo Rivas: I know. I know. It's like if I don't work or if I get sick, then you know money is not coming in.
+William Ross: No, but really appreciate the update. That is genuinely works perfectly for us.
+Rodrigo Rivas: Yeah.
+William Ross: Um, our our team's integration is pretty much all up and running now.
+ 
+ 
+00:05:39
+ 
+William Ross: We just need to get approval from Microsoft to get onto the app store.
+Rodrigo Rivas: Okay.
+William Ross: So, like that's just a way to get basically the integration is ready for you to use it. We're just waiting for Microsoft to let you use it.
+Rodrigo Rivas: Okay. Ah, great. No, that sounds good.
+William Ross: It works well.
+Rodrigo Rivas: So, if
+William Ross: So as soon as that's done, we can get you on on a because basically the way it works is if because we we can go into like a we've got like some draft partnership agreements
+Rodrigo Rivas: you
+William Ross: for all our friendly initial partners. We get some really good compensation plans. As part of that, you would have access to funnel vision yourself for free. So if you have your demo instances or like dummy data, whatever it is you have, you can just use it for free however much you want and then any clients you think would be interested, you can just use it for them and you'll always get that get that kick.
+ 
+ 
+00:06:19
+ 
+William Ross: So I was thinking next steps and what we can do is obviously we'll work in the in the background on the team stuff.
+Rodrigo Rivas: Mhm.
+William Ross: I can send you some of the power agreements as well and then you can give them a skim if you like them just so that just so we
+Rodrigo Rivas: Yeah. Yeah.
+William Ross: get things ticking along moving and then once it's ready to be kicked off we've done some of the boring paperwork and it's
+Rodrigo Rivas: Yeah. Sure.
+William Ross: just
+Rodrigo Rivas: That sounds good because I honestly didn't think it was it was going to take so long to get approval. So,
+William Ross: yeah it was actually it was a lot easier on Slack and HubSpot Microsoft me and the CT our CTO is just banging
+Rodrigo Rivas: yeah.
+William Ross: our head because basically I won't bore the deals but the summary is like they for
+Rodrigo Rivas: Yeah.
+William Ross: for them to approve it they need to be able to test the product ex in teams and we're going but you need to have HubSpot they go we use dynamics I'm like well we don't we don't use dynamics we've had to create like a really artificial instance that lets and it's just
+ 
+ 
+00:07:10
+ 
+Rodrigo Rivas: Yeah, that sounds very
+William Ross: something it's weird because like I can show it to them like I can prove
+Rodrigo Rivas: annoying.
+William Ross: it works it's just yeah so classic Microsoft
+Rodrigo Rivas: Yeah, hopefully hopefully it'll be approved soon. Um, but yeah, that's perfect timing because also I still don't have my life cycle stages be approved.
+Greg Petherbridge: No.
+William Ross: Yeah, exactly. So things things will work well. So um so yeah, so I I after this call I can send over those partner agreements.
+Rodrigo Rivas: Sure.
+William Ross: You can give them a check and um get those get those off and I'll obviously keep you in the loop. So as soon as our teams are ready to go fingers crossed next week or two we can get a we catch up and just get you on the platform and just playing around with it.
+Rodrigo Rivas: You know what? There might be another client that might be interested. I started working with him after our conversation. I think like late December. Um he his team well he's an agency but he has a
+ 
+ 
+00:07:58
+ 
+William Ross: Yeah.
+Rodrigo Rivas: client and then they are having a lot of issues to have their sales team like fulfill or fill out all the information uh and deals.
+William Ross: Yeah.
+Rodrigo Rivas: They are also having another issue but I don't know if the tool covers this. They are also having quite a bit issues when their team books a meeting.
+William Ross: Mhm.
+Rodrigo Rivas: They are not selecting like a meeting type or you know like small details like that. If the tool doesn't cover that maybe that could be something for like the road map or something in the future. Um and that translates to us not being able to properly track some of the things because for example they want to know um out of the lead nurture that they have established they want to know how many people are booking demos or how many people are booking this type of call. But since the sales team they're not selecting the proper call like the proper
+William Ross: Mhm.
+Rodrigo Rivas: call type if anything at all. if they're selecting anything at all.
+ 
+ 
+00:09:05
+ 
+Rodrigo Rivas: Um, best case scenario, they select something. Worst case scenario, which happens like 80% of the time, they don't select anything. Uh, we just don't have visibility as to from the nurture what type of
+William Ross: Yeah.
+Greg Petherbridge: Yeah.
+Rodrigo Rivas: calls are being
+William Ross: Yeah,
+Rodrigo Rivas: scheduled.
+William Ross: that's that's something we can absolutely look into seeing if anision can can sort that again and if not we work pretty fast and rapidly. So it's if it's something that doesn't work right now, we can easily build a couple of our early earliest users, we've built some pretty bespoke things just for their use cases as well.
+Rodrigo Rivas: Okay.
+William Ross: So, so yeah. So, we obviously we can't do that indefinitely,
+Rodrigo Rivas: Yeah,
+William Ross: but for our initial users, we'll try and make sure that everything's running smoothly.
+Rodrigo Rivas: sure.
+William Ross: If it's something which is relatively like generic and will apply to other other cases,
+Rodrigo Rivas: Yeah.
+William Ross: then
+Rodrigo Rivas: So, let's do something because I haven't really shown this to him.
+William Ross: absolutely
+ 
+ 
+00:09:54
+ 
+Rodrigo Rivas: I can show it to him. And only yesterday we were having a conversation about data quality and was what I built a dashboard for them and one of the most or one of the biggest highlights we've gotten for the from the dashboard is the sales team is really not putting enough information so we can track things. Um so maybe I can show this to him and think like it's not really my decision but it could be
+William Ross: Yeah, of course.
+Rodrigo Rivas: something he can take into account.
+William Ross: Yeah, I mean, if you want us to jump on that call, we're happy to walk them through it. I mean, you can bring Greg on as well because Greg's our actual sales specialist. So, he can talk a lot more from the lens of what the sales guys will be thinking, what will motivate them, what's their incentive, and he can through all that. So, if I mean, if that works, we can h more than happy to to jump on a call whenever.
+Rodrigo Rivas: Let's do something. I have a call with him, I think, on What date is Monday?
+ 
+ 
+00:10:49
+ 
+Rodrigo Rivas: Uh, I think I have a call with him on Yeah,
+William Ross: 16.
+Rodrigo Rivas: but no, I think I have a call with him on Thursday. So, let me try and introduce the software to him on Thursday.
+William Ross: Okay.
+Rodrigo Rivas: You sent me some resources last time, so I can use those and then if he's interested, then I can try and book like an interval with you
+William Ross: Yeah,
+Rodrigo Rivas: guys.
+William Ross: absolutely. That would be amazing. Thank you so much for thinking of that. That's really appreci really really
+Rodrigo Rivas: Yeah. No, you're welcome. I just think I I mean I think it would really help them with the issues that they're having.
+William Ross: grateful.
+Rodrigo Rivas: Uh but I just have I just hadn't connected the dots. So yeah, it just came to my head right now. Um
+William Ross: Yeah. Well, that that's a really good plan.
+Rodrigo Rivas: yeah.
+William Ross: Um to be honest, that's that's everything on our side. We're happy that easy next steps.
+ 
+ 
+00:11:35
+ 
+William Ross: We'll get the power agreement. We can get another touch pace when the when you're ready to get on teams. We'll see how your call goes next Thursday. Um, yeah, Greg, anything on on your
+Greg Petherbridge: No,
+William Ross: side?
+Greg Petherbridge: I think that's a great place to work towards. If um yeah, if you need another call in the meantime, happy to happy to do that. But if we're yeah,
+William Ross: Yeah,
+Greg Petherbridge: if if we're able to to get face to face with with that client and and give them a walk through FA uh over over a call,
+Rodrigo Rivas: Yeah,
+Greg Petherbridge: that would be
+William Ross: you've got me on LinkedIn as well,
+Rodrigo Rivas: sure.
+William Ross: so you can message anything,
+Rodrigo Rivas: Yeah,
+Greg Petherbridge: great.
+William Ross: even if it's not workrelated. I do love a good rant
+Rodrigo Rivas: that's cool. Thank you. I I love that.
+William Ross: every
+Rodrigo Rivas: Uh, so let's do that. And I feel like I'm missing something and I feel like I we will get off the call and I'll be like, "Oh, I forgot." Uh,
+ 
+ 
+00:12:21
+ 
+William Ross: shower like at night and you're like,
+Rodrigo Rivas: yeah.
+William Ross: "Oh,
+Rodrigo Rivas: But also, that's usually how I solve a lot of issues like when I'm like doing house chores. Yeah.
+William Ross: random." Do you know what the worst for me is
+Rodrigo Rivas: Like, oh, you know what? I should do this with that dashboard.
+William Ross: when I wake up in the middle of the night with an idea and I and I have this debate in my head where I'm like, do I write down the idea and risk losing sleep or do I hope that I'll remember it in the morning?
+Greg Petherbridge: All
+Rodrigo Rivas: Ah,
+William Ross: And every every time I say I'll remember in the morning,
+Rodrigo Rivas: no, it's Yeah.
+William Ross: I forget every
+Rodrigo Rivas: No, you got to just like get up and write it down. Yeah, I know the feeling.
+William Ross: Yeah.
+Rodrigo Rivas: Uh, well, cool.
+Greg Petherbridge: right.
+Rodrigo Rivas: Let's do that. and let's touch base maybe next week on my client and then let's touch base about my other client maybe in like a month and a half because I think we'll be in a much better place by then.
+ 
+ 
+00:13:10
+ 
+Rodrigo Rivas: Um I I need them to use the system to see
+William Ross: Yeah, of course.
+Rodrigo Rivas: how it's working.
+William Ross: Yeah, makes sense. Makes sense. And we'll get a touch base before that as well just to get you on funnel vision as well because regardless of anything, even in that meantime,
+Rodrigo Rivas: Yeah,
+William Ross: your your feedback from your usage of it will be so valuable to us as well.
+Rodrigo Rivas: thank you.
+William Ross: So that' be Yeah,
+Rodrigo Rivas: Appreciate
+William Ross: absolutely.
+Rodrigo Rivas: it.
+William Ross: been there's not many experts like yourself that especially with a one one man army you'll be doing everything so like that super valuable feedback so yeah pleasure thank you so much this was like I mean it's it's
+Rodrigo Rivas: Yeah.
+William Ross: like almost 20 4 in the evening for us now so it's a great my day great
+Rodrigo Rivas: Well,
+William Ross: day yeah this is
+Rodrigo Rivas: I I hope it is it is a nice way to end your day over
+Greg Petherbridge: Yeah.
+Rodrigo Rivas: there.
+William Ross: absolutely I wish I wish most of my days could end like
+Rodrigo Rivas: That's great. That's that's nice to hear. Thank you. This is a good start for my
+William Ross: There you go. There you go.
+Rodrigo Rivas: day.
+William Ross: That's that's that's what I like to hear. But yeah, absolutely pleasure. I'll I'll send off those documents after this call and uh hopefully speak to you next week.
+Rodrigo Rivas: Cool.
+William Ross: But most importantly, enjoy the rest of your your day and week ahead. Hopefully things go well with the client and they get nice and bought
+Rodrigo Rivas: Thank you. Uh hopefully hopefully Yeah.
+William Ross: in. Absolutely, absolute pleasure. Best of luck, Rodrigo. Speak to you soon.
+ 
+ 
+Transcription ended after 00:14:32
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

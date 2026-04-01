@@ -1,0 +1,274 @@
+﻿Jan 21, 2026
+Affan / FunnelVision Intro - Transcript
+00:00:00
+ 
+Affan Ahmed: I'm good. How are you
+William Ross: Yeah, not too bad. Not too bad. It's been a It's been a nice start to the new year.
+Affan Ahmed: guys?
+William Ross: Busy busyish week. Um but yeah, almost getting ready to plan the next holiday. I think it's it's like getting to that time where I'm like, what's where am I going to go away in a few
+Affan Ahmed: Yeah.
+William Ross: months?
+Affan Ahmed: Interesting. I haven't been to vacations for a long time though because this is a new company that that I'm working at. I'm a founder at RepCloud to be honest and I started in January 2025 so it's only one year anniversary. We're going to have a company all hands uh later this evening and um basically we are HubSpot partners and we have remote offices in different regions uh Dubai, UAE's one in the UK, America and Miami, Florida and a remote office in Pakistan Lahore. So we're basically not just HubSpot, we're also trying to deliver an end based workflows and trying to supercharge HubSpot with and so so that's a bit trendy these days and also
+ 
+ 
+00:01:03
+ 
+William Ross: Huh?
+Affan Ahmed: controversial because they keep saying that we can replace your sales team and things like that.
+William Ross: Yeah.
+Affan Ahmed: This is that's not realistic at all. That's not what we do. We try to have sort of a retainer arrangement with people who want to use AI agency, want to have real business outcomes with those agents rather than, you know, one-off solution and then go go to the next client and rip them off. So that's that's something that we're trying to change at RepCloud.
+William Ross: Yeah.
+Affan Ahmed: What about you guys?
+William Ross: No, I mean Greg, you want to you can provide some context if you want on on how we got to this
+Greg Petherbridge: Yeah. Yeah. Of course. Actually,
+William Ross: journey?
+Greg Petherbridge: we were similarly coming from like a consultancy background ourselves as well. Um, so Funnel Vision is kind of the the child of of our consultancy CG partners who um, effectively what we were doing there was similar to what you guys do, just not really revops, you know, more so kind of on the on the GTM side of of running deal cycles and, you know, establishing ICP and working with founders in that early stage where, you know, they've got their funding, they've got their product, and you're kind of looking to make those first moves into GTM.
+ 
+ 
+00:02:19
+ 
+Greg Petherbridge: It's it's more of a kind of um hands-on consultancy role that we were doing where a lot of founder le sales defining that ICP you know um testing messaging and and kind of setting them up with their sales stack and and being fractional members of the team until the point our stepping off point would come where we would make the hires of of their first BDRs AES and kind of move on from there. So William was doing a bit of revops for us and and ultimately one thing that we saw both in our previous companies and in the companies we worked with was kind of this lack of trust in in forecasting. Um and more so that you know it's not necessarily
+Affan Ahmed: Yeah.
+Greg Petherbridge: because people don't know how to forecast their deals. I think it's because it's either a behavioral problem with with the people inputting it. So, you know, the AES and the reps who are kind of owning these deals or it's just too much of a task to chase these people and and to kind of, you know, demand once the the standard is set where data hygiene and deals isn't a a prerequisite to closing a deal or to to for your manager to be happy with you.
+ 
+ 
+00:03:23
+ 
+Greg Petherbridge: When when the bottom line is all that matters, hygiene kind of falls by the wayside. Um so ultimately we we kind of saw three problems was one that leadership wasn't getting the visibility on what was in their their forecast what was in their pipeline and what was going to close and I mean in a in a cashrich environment that might not matter you know if if people are kind of you know whatever we close we close you know forecast inaccurately all you like but with the companies we were working with that kind of early stage seed to series B stage there's so much eyes on on where
+Affan Ahmed: Yeah.
+Greg Petherbridge: we going to land next quarter, you know, VC pressure and board members that are just, you know, breathing down the neck of these sales leaders to understand what's in their pipeline. So, one, we didn't see that very well. It was lack of trust there. Two, we felt like RevOps people had turned into just like they were just chasing reps constantly to
+Affan Ahmed: All right.
+Greg Petherbridge: to fix data and to to make sure that they would update their deals.
+ 
+ 
+00:04:18
+ 
+Greg Petherbridge: whether that would be the RevOps team or the sales managers, we saw it kind of in two places, but whoever was sitting in the middle of that rep and and sales leader ultimately just kept barking for for updates. So, um thirdly, just how do we make that easy on on the rep themselves? If they're not filling out the the deal, how do we kind of take as much friction out of that as possible? And ultimately, we found the funnel vision can close that loop. So um it's really a tool that exists to sit on top of of your CRM and just to uh be able to detect what's missing. So we started with HubSpot. So whatever field or object is is or sorry not object whatever field within your deal is um you know missing or inaccurate or or or not you know containing the data you need whether that's kind of the built-in rules or custom rules that you built specific to your team. It becomes a lot easier to get that visibility on what's missing in your pipeline.
+ 
+ 
+00:05:08
+ 
+Greg Petherbridge: Uh secondly, it becomes a lot easier to route those fixes to the sellers by just setting up these rules either on an automation basis or or manually. Um and then thirdly, it makes it nice and easy for for the rep to fix it themselves within somewhere where they sit every day, whether that's Microsoft Teams or or Slack. Um they'll get the updates within within that. And um it should be you know a full loop closed from there where uh senior leadership gets visibility, revops sales managers stop chasing people and reps are able to to get nice and clean uh guidance on what needs to be fixed and fix it from from the the messaging themsel from the slack messenger or teams master themselves. So that's really what we do. Is that kind of a story that resonates with what you've seen or or are we way off?
+Affan Ahmed: Yeah, I've seen that. I I see that all the time to be honest because I I have worked with like chief revity officers before always having one-on-one with sales reps basically all the problem that you have discussed like not filling in the fields and and not being able to forecast and and because they were all so VC funded.
+ 
+ 
+00:06:16
+ 
+Affan Ahmed: So forecasting has a lot more importance in VC funded startups than than you know bootstrap because they have to report to to to the board uh the VC firms that this is how we're doing this is the future outlook. So forecasting has a lot more importance in that context and HubSpot compared to Salesforce HubSpot has some sort of a limitation there I observe. So, so we want to fix that as well. And I have seen people using other tools. Super is one that has, you know, process enforcement rules and stuff. So, so that's what they do. They're good at it. But, uh, I just want to understand how you're different and and what's the the name of the tool? Are you currently building that or how do you ensure the accuracy and and rules enforcement for the sales rep? So, that's something that I want to understand.
+Greg Petherbridge: Yeah. No, absolutely. I think it's a pretty quick demo demo that William can walk through. Um, what was was it the tool you said you thought we were like?
+ 
+ 
+00:07:21
+ 
+Affan Ahmed: Um the tools that I mentioned.
+Greg Petherbridge: Yeah, I thought you mentioned there was one that we sounded quite similar
+Affan Ahmed: Yeah. Yes. Yeah.
+Greg Petherbridge: to.
+Affan Ahmed: It's called Super. Uh as you met Matt Bolan, who's the founder of this tool called Superird? They have like a pink sort of a branding. They have I don't know if you have they have a bold sign on their LinkedIn. I think you have come across some of their LinkedIn
+Greg Petherbridge: Okay.
+Affan Ahmed: post.
+Greg Petherbridge: And is that more um data hygiene for the full CRM like you know contact information and account information or is this kind of pipeline focused like like this conversation here?
+Affan Ahmed: Yes, just generic adoption focused for all the sales teams process rules and enforcement of the rules and making sure that everyone is filling out the the required details. It just gives you a bird eye view of what's missing and what's not missing. It's not really focused on forecasting as you said. It's not focused on you know pipeline hygiene only.
+ 
+ 
+00:08:22
+ 
+Affan Ahmed: It covers pretty much entire hubspot regarding whatever rules you want to enforce and there you have more of a I would say it's governance focused rather than accuracy or hygiene focused. So so that's what it is all about. The person has to jump in and and tell people still that you need to fill these form these properties and other things. So, so that's what they're good at and I think they've been successful in what they do like driving adoption with HubSpot and having the sales people follow the process which is a a problem that every business
+Greg Petherbridge: Absolutely. Sorry. No,
+Affan Ahmed: faces.
+Greg Petherbridge: good to know you've you've kind of already looked at a few of these uh these ways of of potentially getting better there. I mean um hopefully hopefully what we show resonates as well. Um so maybe William just looking at time maybe it's it's worth jumping in now and and giving you the wheel to to show a bit of fun vision.
+William Ross: Yeah. Yeah. Let me share my screen.
+ 
+ 
+00:09:23
+ 
+William Ross: And does that pop up? Okay, perfect. So, um, before we begin, funnel vision is, as Greg alluded to,
+Affan Ahmed: Yep.
+William Ross: is basically built on three core pillars. The first is surfacing all of your pipeline hygiene issues in one place. Second is configure them to what matters most to your own sales and go to market motions because as you know everyone has their own specifications for what matters to them. And the third is fixing them in the places where the deal owners already work. So namely Slacker teams. We don't want people to be context shifting tool shifting and causing inefficiencies through that. So if we can get them to make the updates where they're already working that's what we found drives the most adoption. So the way funnel vision works is you really simply you sync into your HubSpot environment and this usually takes between two to five minutes depending on how much data is on the system and what you're immediately presented with is a very quick snapshot audit of the health of your pipeline.
+ 
+ 
+00:10:27
+ 
+William Ross: So how many deals in your pipeline are past their close date or have a missing close date or are stale or have a missing next step. And these are just your your your your core common hygiene issues that will that exist that are pre-built for us to determine. And then at the bottom you've got a hygiene leaderboard. So you see which of your deal owners are more on top of their hygiene relative to others. And we know from a lot of experience that to a te sales people love a leaderboard and they love tracking progress. Um, so this is often really helpful for them to understand how how things are tracking over time, who's more on top of it, what's the scale of the problem or is there is there one or two people that are really on top of top of their hygiene relative to everyone else. So again, just a really quick sense to see how how does hygiene look across the the deal
+Affan Ahmed: Yeah, sorry to cut you off,
+William Ross: owners.
+Affan Ahmed: but so it says issues per deal.
+ 
+ 
+00:11:21
+ 
+Affan Ahmed: What does issue mean here?
+William Ross: So So issue just refers to a hygiene issue. So if it's got if a deal has like a missing close date,
+Affan Ahmed: Yeah.
+William Ross: that would be an issue.
+Affan Ahmed: And and that deal is owned by this sales rep. So, so that's that's okay.
+William Ross: Yes.
+Affan Ahmed: All right.
+William Ross: Yes.
+Affan Ahmed: Got it.
+William Ross: So perfect. So this is just your your your snapshot, but as I mentioned before,
+Affan Ahmed: Yep.
+William Ross: every sales to market motion has their own specificity. So we want you to create your own rules. We want you to be able to to create whatever it is that matters most to your own motion. So we have this create rule uh um configuration and genuinely the best way to describe this is the limit is your imagination because we pull in every HubSpot property whether it's a custom property um associated contact associated company and so you can build any hygiene alert that that you care about. So to give you an example here of one I've just built that's really simple but just to to illustrate it.
+ 
+ 
+00:12:18
+ 
+William Ross: I want to know if a deal has a big amount and it's in its late stage and there's no close date assigned to it. So you literally just go in here, you build your rule if the amount and you just type, you could just search for the amount field and then pick your condition type. So is more than 20,000 and the deal stage is equal to late stage. And we pull in all of your pipelines and deal stages. So this will be whatever it is that's relevant for your sales motion and the close date is empty. Then I want to surface that as a hygiene rule. And there's two really powerful features to building rules um that that you that is just that our big one of our big USPS. The first is to automatically um request updates from deal owners. So, what you don't want to happen is your your deal owners to be spammed all day with 40 plus notifications on Slack or Teams with all of their hygiene updates that they're having to make because that's just not going to drive adoption.
+ 
+ 
+00:13:16
+ 
+William Ross: They're going to ignore it and it's just going to be waste of time. So when you turn this on, what it means is that if all of the hygiene issues appear in a daily digest so that every morning at
+Affan Ahmed: Yeah.
+William Ross: 9:00 a.m. the dealer will wake up to a Slacker team's message, one message that contains all of the hygiene issu all of the deals with hygiene issues and they can go through them one by one in their own time. And if anything's not actioned, it will get asked again the next day. So they just they don't need to they they can drive it into their own way of working. they can just do it at a time that suits them best. Um, bake it into their into their into their workday and drive adoption and drive adoption that way. If you don't turn this on, it will always be surfaced as a hygiene issue. You'll just always have you'll just have more manual control over it. So, but theoretically, you could just run all of funnel vision autonomously in the background 247 notifying all the all of the hygiene issues and then you just need to log in to make sure that everything's running correctly or if you want to amend any of the rules.
+ 
+ 
+00:14:16
+ 
+William Ross: And the second really powerful feature is to actually ask the deal owner what it is you want them to do because what you don't want is to say to a deal owner, hey, here's a hygiene issue. Fix it. So here, what you do is you can literally just give it to give them the fields that they need to populate. So in this context, maybe it's the the close date and the next step or maybe you want them to fill in the amount or whatever it is you want them to do when they receive the hygiene issue, you just put it in here and that's it. So once you've surfaced all of your hygiene issues and you've configured them all to to to look and analy look for everything that you care about, the the question is what do you what do you do about it? How do you actually action it and fix everything? And so that's why we have this fix issues page. And this page shows you every deal in your pipeline that has some type of hygiene issue.
+ 
+ 
+00:15:08
+ 
+William Ross: And you can filter this by your owners, um, any specific issues you're looking for, and the stages that they're in. And this is also really cool. You can see your pending requests. And so this shows you which deal which which uh deals have had requests in the past that haven't been actioned. And you can see how long ago they were action. So, these were from today because I was doing some testing earlier. But if this was like 3 days ago, it would say, "Hey, this this deal has an update request 3 days 3 days ago and it's not been actioned." Now, obviously, I will not stay on this call with you until 9:00 a.m. tomorrow to show you the daily digest. So, I'll just do a manual test of what it would look like in practice because you'll always have manual control. So, I will just show you these are all my deals that have hygiene issues and we can sort them by one that's got a lot of it. And you can also click on any of the deals for more information to see exactly what the miss what the hygiene issues are and any more context about the deal.
+ 
+ 
+00:16:03
+ 
+William Ross: So let's say you didn't want to wait for the daily digest and you just want a manual control over this deal. De deal 1A.
+Affan Ahmed: That
+William Ross: All you have to do if in funnel vision is click request update and then
+Affan Ahmed: was
+William Ross: I the deal owner instantly get notification. So if you can imagine now from the perspective of the deal owner I don't know if funnel vision exists. I can be on my uh on a train at the airport. It works really well on mobile, so they can be on the go wherever it is that they're working. They just go, "Hey, I've had an up I've had an ask for this update on deal 1A." All right, what do I need to do? Uh missing company. I can't do that because we don't have any in our test data. We don't have any companies in it, unfortunately. But what's the amount? Okay, the amount is 10,000.
+Affan Ahmed: Good.
+William Ross: The next step, what?
+ 
+ 
+00:16:47
+ 
+William Ross: Why? We don't have a next step. And it'll always tell you the current value. So if there was previously a next step in there in populated, it would tell you what that next step is. So you always have um context and maybe it's scheduled meeting with CFO, whatever it is. And the close date, the current October 31st, 2025, which is obviously in the past, and it tells you why it's in the past. So maybe it needs to be now in in March. So the deal owner just updates the deal, and that's it. It tells them what happened. So they've updated the amount, the close date, the next step, and it logs the date and date of the next step, and then as you can see here, as part of the daily digress I had from this morning that I've not actioned, I still have more pending requests in this queuing system. And that's it. They don't need to touch funnel vision. They don't need to touch HubSpot.
+ 
+ 
+00:17:34
+ 
+William Ross: The updates have been made.
+Affan Ahmed: Awesome.
+William Ross: And that's really the premise of funnel vision. Surface everything in one place. Configure it to your own motions. Fixes happen in Slack or or in Teams as well.
+Affan Ahmed: Thank you, William. And I think you're putting uh super out of market with this if we get successful. And I I would really uh appreciate an understanding of what sort of packages are you currently offering for this? Are they based on number of contacts or deals or are they based on anything else like HubSpot tiers or what's kind of the business model here for tier based pricing and
+William Ross: Yeah, good question. So,
+Affan Ahmed: others?
+William Ross: we true to the nature of Funnel Vision, we wanted to make it as simple as possible. So, we essentially have two packages. Um, our early adopter package is £3,000 for a full year and that is unlimited seats, unlimited usage. So, there's no restrictions on that. That price will go up to 5,000 once we've secured our last slots of early adopters.
+ 
+ 
+00:18:36
+ 
+William Ross: Then we have an enterprise pricing if you've got about like over over 20 salespeople on uh on the team.
+Affan Ahmed: Okay. So, it starts from 3,000 for per year, right? Okay.
+William Ross: Yeah.
+Affan Ahmed: 250, right? Good. That looks good. And I actually have a client uh in the UK and we are on um contract signing phase at the moment. And they're also looking for something hygiene related. And I I had a question about um yeah, it's it's all pipeline focused, right? So their problem is basically they have so so people work in different industries. For example, the SI the systems integrators like like Deoid and others uh there are people who work at different organizations at the same time. They have different email addresses like uh if it's myself it's Safan at DraftCloud and then Afan at at systems and the at something else. So, so when it comes to deals, so it gets a bit confusing when it uh who's the right person to be associated with that deal or their duplicates or they are working uh at at different organizations at the same time because there they are a part of a systems integrator.
+ 
+ 
+00:20:03
+ 
+Affan Ahmed: So, so in terms of dduplication workflows, do you do you help with that as well at the contact level or is it just deal ownership and pipeline visibility
+William Ross: Uh right now we're really focused on deal and pipeline level.
+Affan Ahmed: only?
+William Ross: Early in our road map for Q1 Q2 this year we're looking to get cross object analysis in. So that's where we can do company and and contact level as well. But right now it's focused on deals.
+Affan Ahmed: Okay. uh and based on so if the contact is missing from a deal so it's going to alert us is it also going to uh advise us or or is there any sort of an AI based on who is the right contact that should be associated with this there there can be one more than one contacts associated with a deal and there are decision makers and and people who have who we have already spoken with and If there's anyone missing so in the case of more than one contact so are we able to create a rule based on that as well or is it like boolean like a yes or no whether it's a contact associated or
+ 
+ 
+00:21:15
+ 
+William Ross: Right now we're mostly building because we can see like the number of associated contacts on a deal.
+Affan Ahmed: not.
+William Ross: So you can track to see what how many there are associated and if it's like zero then you can build a rule for that.
+Affan Ahmed: Okay. So if there's one associated, there should be at least three contests associated with that deal. Uh how are we able to to create a rule based on that
+William Ross: So we know the number of associated contacts.
+Affan Ahmed: situation?
+William Ross: So we could do like for example if the um because imagine the the number of associated contacts will be relevant to like the deal size. So if the deal size is a certain amount and the number of people associated are like less than three then you could flag that as a as a hygiene rule.
+Affan Ahmed: Okay. Interesting. So, so yeah, there are a lot of situations where people really want visibility into who is the right person going to sign the deal and the blockers and all of the frameworks that sales um methodologies have.
+ 
+ 
+00:22:02
+ 
+William Ross: Mhm.
+Affan Ahmed: So one thing that all the CRO's need is are we like tracking and communicating with all the relevant people who who are going to be responsible to close that deal and are we associating communicating with all of them equally uh at the deal level are they associated with the deal company so these are the problems that I generally face and and you're right about the notifications part too that sales people don't like receiving notifications of these things every day. Uh once once a week is something that is uh you know decent
+William Ross: Yeah.
+Affan Ahmed: like every Monday or something like that. So it's always a cat and mouse sort of a chase between the the sales manager and the sales reps to to you know update on the deals and stuff and fill out these properties and things like that. So it's helpful in that way. So, but I'll be interested in knowing how much customization this tool can can support with
+William Ross: Yeah, on on the rule side, it's pretty customizable. It's pretty flexible.
+ 
+ 
+00:23:18
+ 
+Affan Ahmed: this.
+William Ross: I was thinking maybe a good next step then because we've got our um our CTO as well, we can bring him on and we can get a chat with the client you're thinking of and we can because because we're quite early, we're always open to trying to accommodate to to clients needs as well. And so if there's something very specific that's really valuable for them that we don't currently deploy, it's something we can chat about and see whether we can build it in time for them to actually use as well. So that might be sounds like a reasonable next step.
+Affan Ahmed: Yep. Awesome. And and I I would like to uh so so I have a co-founder as well. He's based in Miami and and we also have an anan engineer who is also
+William Ross: Mhm.
+Affan Ahmed: a commission partner with with D cloud. He's he's not an employee. So, so we work with a lot of use cases like AI agents. So, whenever HubSpot hits its limits, we try to expand the uh extend the the HubSpot limits with uh a bit of a and it sort of an infrastructure that can support different use cases and so so that's what we we are all about at the moment.
+ 
+ 
+00:24:28
+ 
+Affan Ahmed: I can invite them uh both Nor and Sean uh to the next call and see if we can uh discuss things in detail and also a potential for for a partnership if we could refer your your solution to to the clients that we are working with at the moment or in the future. So that will be a good partnership as well as we we are developing our partnership ecosystem as well. If you would visit our website and and we have a partner section there. So there there are two types of partners at the moment. App partners like like HubSpot is one of course and then there's unified CRM another CRM based in the UK and and Nitan is also a partner and there are agency partners as well like uh Nitan related agencies or or people who we want to work with. So so there are two categories of partners that we partner with and there are two types of partnerships. So there's just co-arketing and co-selling partnership and there's implementation partnership. So that that's more of a higher end of you know if if it's if a tool is too difficult or or you know for to implement for the people in house.
+ 
+ 
+00:25:40
+ 
+Affan Ahmed: So we help them implement that. I don't think that would be the case with funnel vision. So I think it's a plug and play.
+William Ross: Yeah, I will try to not make it
+Affan Ahmed: So yeah so some tools are complicated.
+William Ross: complicated.
+Affan Ahmed: So, so Glman is somebody's Have you heard of Celestial?
+William Ross: Yes, I've se I've seen I've seen one. Yeah. Yeah.
+Affan Ahmed: Yeah. So, so we are al uh I'm also Glamman reached out to me and and he was saying that we we should partner up with uh as an implementation. He has shared a contract with me. I haven't had a chance to look at it but if we could you know have a similar sort of a partnership that would be a better way to for for the two of us to work together replation.
+William Ross: Yeah, we'd love that. I mean, we're doubling down on partnerships. I mean,
+Affan Ahmed: So,
+William Ross: a couple of our co-founders, they're their bread and butter background was in partnerships.
+ 
+ 
+00:26:34
+ 
+William Ross: So, we've got a few contracts signed just now. So, yeah, it's something we're very keen to explore as well.
+Affan Ahmed: awesome. Well, it was really nice to meet you, William, and and it's a decent tool. Now, definitely look at it. Can you give me more like a demo access to it? So, so I can uh because I'm invested in it a little bit and I want to understand how it works and and see different use cases that I have seen in my HubSpot career and if it can support all of those workflows. So, so is that possible to to you know if you could give us a demo sort of an access for like at least seven days or something.
+William Ross: Yeah.
+Affan Ahmed: I don't want that.
+William Ross: Yeah, absolutely. We we I mean, if you go actually on the website, you could pretty much sign up there. We got we got an inbuilt free trial there. And if you if you need any help, I can jump on like a literally a fivem minute call with yourself if you want to just I can walk you through how to get set up.
+ 
+ 
+00:27:28
+ 
+Affan Ahmed: Okay. No, that's fine. If if there's a free trial, I'll try that and I'll I'll check it out
+Greg Petherbridge: Do should we maybe put in some time for Monday or something?
+Affan Ahmed: and
+Greg Petherbridge: Like uh we can you know the trial isn't that set to a week. We can extend it for you if you want. So um I found if you want to go to the website and download it yourself um and you know see if you if you can kind of figure it out just just by you using it or we can put you know let you do that. now this week and put in some top 15 minutes for Monday just to help you uh implement any more rules that you might
+Affan Ahmed: Yeah, I'll try to do that myself.
+Greg Petherbridge: need.
+Affan Ahmed: If I hit a bottleneck or something, if there's a block or something that I don't understand, I can reach out to you.
+Greg Petherbridge: Okay,
+Affan Ahmed: I I think I already your email or
+William Ross: Yeah,
+Greg Petherbridge: perfect.
+ 
+ 
+00:28:13
+ 
+William Ross: exactly.
+Affan Ahmed: some Yeah,
+William Ross: You got email on LinkedIn as well. So either either works for
+Affan Ahmed: I'll reach out to you on LinkedIn.
+William Ross: me.
+Affan Ahmed: So I prefer that more than emails keep getting in spam. I I hate that.
+William Ross: Less I can open my emails,
+Affan Ahmed: I don't know why.
+William Ross: the better.
+Affan Ahmed: Yeah. And also uh I keep using these warm-up tools and things like that. Things have changed a lot in the email ecosystem as well. People keep using it for cold outreach and things like that and everything. If it's an important email from me, uh just goes into junk folder. I don't know why that is the case.
+William Ross: Amazing.
+Affan Ahmed: I'm using a lot of you know warm-up tools and I'm not even running a cold outreach campaign with this account. So we are pretty much word of mouth based at the moment. So so the algorithm and and everything behind the emails email service provider is getting stricter day by day. I don't understand why but but yeah I prefer using LinkedIn more than than emails
+William Ross: Perfect.
+Affan Ahmed: now.
+ 
+ 
+Transcription ended after 00:29:32
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

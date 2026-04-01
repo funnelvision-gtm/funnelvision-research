@@ -1,0 +1,235 @@
+﻿Feb 5, 2026
+Mick / FunnelVision - Intro - Transcript
+00:00:00
+ 
+Greg Petherbridge: Oh, well, I'm based in London myself, but uh yeah, not not the best over here
+Michael Pickering: Are you? Yeah,
+Greg Petherbridge: either.
+Michael Pickering: it's pretty rotten. Um, so gladly I'm inside nice and cozy with the central heating
+Greg Petherbridge: Where? Fantastic.
+Michael Pickering: on.
+Greg Petherbridge: And And where whereabouts are you based?
+Michael Pickering: Uh, so I'm in Do you know Fur
+Greg Petherbridge: Oh, yeah,
+Michael Pickering: House?
+Greg Petherbridge: of course. Yeah, kind of near near the race course and everything.
+Michael Pickering: No, that's Fairy House. Um,
+Greg Petherbridge: Okay.
+Michael Pickering: do you know Lion Rum?
+Greg Petherbridge: Oh, my cousins live in Knockline in um what's forget their estate. They've lived there for years though.
+Michael Pickering: Is it Or
+Greg Petherbridge: They went to Yeah,
+Michael Pickering: Grove?
+Greg Petherbridge: they went to like the the the primary school there that's like one of the biggest in Europe or something.
+Michael Pickering: Yeah. Yeah,
+Greg Petherbridge: And very nice.
+Michael Pickering: it's massive. And yeah, I'm right beside
+Greg Petherbridge: Um but well again really appreciate you jumping on.
+ 
+ 
+00:00:48
+ 
+Greg Petherbridge: Um as you kind of would have seen from my message, we're still at the very early stages. So kind of at a mix of having some some early adopters now and and some people on the platform, but also we're kind of in that sweet spot where we are still kind of adding to the road map and and still trying to innovate as much as possible. So um any any kind of feedback we can get off people like yourself who've kind of lived this and been in the weeds of of uh pipeline hygiene and and all the all the wonderful uh chasing and and discussions that come around that. Um we we can maybe just Yeah,
+Michael Pickering: a forever forever problem that everybody has and always seems to
+Greg Petherbridge: exactly. Um,
+Michael Pickering: fix.
+Greg Petherbridge: but yeah, we can maybe start by just introducing ourselves and giving some context as to kind of how we got to where we are right now and and why we're building what we're building. Um, and then, you know, by the time it swings around to you, we'd love to hear a little bit more about your experience and kind of what what resonated and why you took the conversation.
+ 
+ 
+00:01:44
+ 
+Greg Petherbridge: Um, but but on our side, we've we've kind of started as a consultancy. So uh there was four of us in CG partners who uh kind of came together. Our paths kind of joined towards the the the final step before CG. So three of us were at Pigment which was a a French fintech where I met Stefan and Alex to two of the co-founders. So really they've done that kind of zero to 10 million journey a couple of times now at Salonus at Pigment. Um, so we effectively turned that into like a GTM consultancy where we'd work uh side by side with with VC backed founders. So that kind of ranged from seed stage to series B. Um but effectively kind of the the same thing we saw from reps and from lead like founders, CRO's, RevOps people, we kind of saw the same challenge everywhere when it came to to pipeline hygiene that um I don't mind saying this from my perspective because I am a sales rep, but they're quite selfish and in their own world and um you know the challenges that come with that is that like from the top down without the context on how people are inputting information into their deals and how disciplined they truly are.
+ 
+ 
+00:02:56
+ 
+Greg Petherbridge: Um whether that's pressure coming from VCs, whether that's just internal pressure from founders that forecasts are pretty obsolete or just mean nothing when when it comes to the culture in certain companies.
+Michael Pickering: Yeah.
+Greg Petherbridge: It just has become quite, you know, I'll sandbag this till next quarter. I'll fluff up this because I'm scared of getting fired. Simple laziness. We kind of saw it as a behavioral problem from the reps, but it affects people either in RevOps chasing people to we update your deals, we update your deals, we update your deals, or whether that's the sales manager, uh it affects them. Um and then on top of that, just like top down leadership, whether it is the founders or or VCs, there's no real kind of trust in in in the forecast or or where the the projections are actually moving. So um we kind of built funnel vision that that's the genesis of it is just that
+Michael Pickering: Sure.
+Greg Petherbridge: we think there's not really a tool out there that solves specifically pipeline hygiene. There's tools like clary and ddup that look to you know help solve the general hygiene of your CRM in terms of information and and um kind of the your your contacts your your accounts things like that making sure like your your your addressable market is up to date in your CRM.
+ 
+ 
+00:04:06
+ 
+Greg Petherbridge: But we found very few solutions are actually helping solve pipeline problem pipeline hygiene. So um really that that's that's how we got to where we are. We're kind of in the early stages of this working with specifically HubSpot uh and Slack and Microsoft Teams. So happy to get into the platform as we kind of go along and conscious. I want William to make a quick introduction before we swing it back to you.
+William Ross: Absolutely. But yeah, uh pleasure to be introduced, Mick. Yeah. Um there's a background was in that consultancy space. Actually, a bit before that, I was a recovering government economist. I was an academic economist for a few years um in in department of education and that that took a toll. I think that that erased about 10 years of my of my life.
+Michael Pickering: Oh,
+William Ross: Um it was actually it was a very interesting time over it was very interesting time over over co and
+Michael Pickering: the lights.
+William Ross: um jumped into the technology space uh when when I could after that and yeah then through the CGP side uh yeah did a lot I did a fair bit on the rev up side which is kind of how we kind of all got together on the same problem where I was seeing that the problem wasn't necessarily you know an inability on reps to update information it was an incentive alignment problem really it wasn't like you know they're not Greg's a smarter guy he's not incapable of you know going
+ 
+ 
+00:05:18
+ 
+William Ross: into the CRM women making changes. It's just why would they and like what's the incentive behind it? And so that so um that was part of the problem we we needed to uncover. It's it's it's twofold. It's tooling and behavior. And we saw a few tools that try to address either of those problems, but not both of them. And how our thesis was you need to address both sides of the coin to to solve the problem holistically. But yeah, we'd love to know a bit more yourself and let you know why why you took the call and just what's what's fun in your what's what's going on in your life, Mick.
+Michael Pickering: Yeah. So, um, obviously I've been doing this for over 20 years now. Um, work primarily in technology, then went into finance for a bit. I worked in been a hedge fund for the last four years and then joined uh, edge tier about back in end of August. Um, will never work in finance ever again. Horrible, horrible people.
+ 
+ 
+00:06:10
+ 
+Michael Pickering: Um, no offense to if you've ever worked on it, but they don't seem to really have any uh value in what they do. But, um, what I've seen throughout my career is that one of the biggest issues is sales reps having hearing what they want to hear and sometimes being afraid to ask the hard questions and qualify things out and be, as you said, disciplined, right? not necessarily discipline about their admin, but discipline about, you know, trying to qualify what's real and what's not real. A lot of it is down to, you know, human temperament or they could be afraid and they're trying to uh build a big pipeline so that they look good because they're not actually closing. And we've had a few issues here of very basic things being missed and we're losing opportunities because of that. number of different ways trying to solve it of you know sorry one of the other issues is just being able to manage high volumes of opportunities. Um you know we're not a very transactional business but they're still managing quite a large amount of opportunities.
+ 
+ 
+00:07:20
+ 
+Michael Pickering: Um and it's being able to manage all of those make sure that we're capturing all the key data points and we're not missing anything really important. So you know there's number of different sales methodologies that we're using throughout the process from the qualification to kind of deal analysis. So we use medpic for for deal analysis but it's you know customized a little bit to to our needs. Um and you know so convers then we use gong as well to try and evaluate the actual conversations and pull out data points that they might have missed. um you know sometimes they won't have the correct conversation. They'll float around pricing conversations um without you know getting into the real figures um and they'll say you know we talked about pricing but then you'll go back and look at the the gong analysis and they won't they won't have actually locked in on what the pricing will be. So that's kind of stung us a few times. Um, so right now we're we're using HubSpot trying to feed into kind of the the opportunity the AI opportunity score and how that relates to the score that we have built from our own formula, how they match up um, and using things like whitespace reporting.
+ 
+ 
+00:08:46
+ 
+Michael Pickering: So at a high level they can see where they might be missing gaps or what we would need to do. um with those opportunities, but once again, we're we're missing a lot of very basic things and we keep getting caught out. So that's why I took this long
+Greg Petherbridge: Brilliant. I mean, sorry. Firstly, just to address one of the things you said there on kind of the high volumes deals, how many deals would you see kind of per rep at at any given time?
+Michael Pickering: Um I can tell you right now um this is another headcount is another issue that we're trying to solve. We we have a very large BDOR team for the size of the company. We have like 15 BDRs but only five AES and two of them are quite new. So our BDR team are really good. Everything's outbound but they are generating a lot of meetings um and opportunities. Uh but the the AES are kind of finding it difficult to actually manage all of those. Um
+ 
+ 
+00:09:53
+ 
+Greg Petherbridge: Do do BDRs assist in like the maintenance of of kind of what's going on in each deal past
+Michael Pickering: they're they're just they're just outbound.
+Greg Petherbridge: S1? Okay.
+Michael Pickering: They they generate meetings. Um so right now we have they're managing about 20 opportunities each um in open pipeline obviously and then
+Greg Petherbridge: Okay.
+Michael Pickering: having having to do meetings and intros and qualification calls as well as that. So it's quite a it's a it's a sizable enough book.
+Greg Petherbridge: Yeah.
+Michael Pickering: Um it takes up a lot of
+Greg Petherbridge: Okay.
+Michael Pickering: time.
+Greg Petherbridge: And how what's the the average kind of deal cycle? How long is it?
+Michael Pickering: Uh right now it's too long. It's about 6 months. We want to bring that down to max five,
+Greg Petherbridge: Okay.
+Michael Pickering: four or five. Um if they go into PC and like what our stuff is while it's SAS, there's still a lot of work involved in on boarding. um you know we need to get in with their technical teams uh do customizations custom in integrations with their CRM or whatever call system that they're using.
+ 
+ 
+00:11:07
+ 
+Michael Pickering: So the whole process can be quite quite lengthy uh like if you're doing technical calls and making sure everything will will work together.
+Greg Petherbridge: Okay.
+Michael Pickering: Um,
+Greg Petherbridge: And I saw in your profile you've got kind of Salesforce and and HubSpot. Is it is the pipeline being run through
+Michael Pickering: no we use HubSpot.
+Greg Petherbridge: Salesforce?
+Michael Pickering: So, uh, we haven't we don't use sales. Uh, we don't use Salesforce here. Hub, everything is HubSpot
+Greg Petherbridge: Oh, okay. Okay.
+Michael Pickering: here.
+Greg Petherbridge: Sorry. I thought I thought that said something else on your profile. Um, okay. Brilliant. So, we're
+Michael Pickering: So, like most of my most of my career has been Salesforce or Zoho.
+Greg Petherbridge: living
+Michael Pickering: Um, I'm not a massive fan of HubSpot.
+Greg Petherbridge: Okay. Yeah. I mean, we started with HubSpot because from what we've seen in this kind of niche of like VC backed companies or any kind of new high growth company, it tends to be that HubSpot is their first step.
+ 
+ 
+00:11:59
+ 
+Greg Petherbridge: So, we just started there because we thought our market was was kind of more suited to to tackling HubSpot first. Um but no no brilliant. Um I mean we're primarily here to to get your eyes on the platform and and you know give us some some honest feedback, good or bad, any kind of potential ideas you've had you'd have or or something we could add to it. I mean the road map's pretty pretty stacked um in terms of where we want to go. But I think these conversations are helping us kind of prioritize and figure out what what the next best step best step is. So any ideas that come to your head, we'd be really grateful for it. Um, but yeah, I think might as well just jump into it, William, if if you're ready to go.
+Michael Pickering: That's
+William Ross: Absolutely. I love showing people off,
+Michael Pickering: right.
+William Ross: throwing this off to people. Uh let me know if that pops up for you. Okay, awesome. So,
+Michael Pickering: Yep.
+ 
+ 
+00:12:52
+ 
+William Ross: the basic premise of funnel vision was largely built on three three core foundations. Uh the first is surface all of your pipeline hygiene issues in one place. The second is configure those the issues that you're tracking so that you're monitoring what matters most to your own sales and go to market motion. And then the third is get those uh updates to be made frictionlessly um without any any context or tool switching where the reps are already working. So teams or slack. So the way it works is is actually is really simple. All we do is it's a simple connection into your HubSpot environment and this takes about two to five minutes depending on how much data is in your system. and you're immediately presented with a like a snapshot audit of your of your sales pipeline. So, how many deals in your pipeline are stale or are past their closed date or have missing next steps or, you know, have a missing amount attached to them? And at the bottom is your hygiene leaderboard showing which of your deal owners are more on top of their hygiene relative to to others.
+ 
+ 
+00:13:57
+ 
+William Ross: Uh, and so this is a good way to see over time, you know, which of the reps are actually getting more on top of their hygiene. um and seeing, you know, is there being any progress over time or not? Uh and you can also see how many issues they have across how many deals they have. So, it's not it's just as simple as, you know, they have the most issues. They're the worst because it could also be assigned to the most number of deals. Now, obviously, these are just pre-built uh hygiene issues, but every sales and go to market motion have have their own specifications. So we have this rules page on the lefth hand side and this lets you create any hygiene rule that you could care about in order to determine whether your pipeline's healthy or not. So we pull in and I'll show you here every single HubSpot property that you have in your system including custom properties. So you mentioned you have medic. So any sales methodology use will be picked up here.
+ 
+ 
+00:14:47
+ 
+William Ross: Um associated contact and associated company will also be picked up here. So the best way to describe this this rules page is that it kind of limits your imagination. It can be as powerful and complex as as you'd like it to be. You can really build any rule that you want. Uh and just to show you a very simple stupid example. So I made this really uh just to show it off. I want to know if a deal is has a big amount and it's in late stage and there's no close date assigned to it. All you do is you go right, I want my first one to be amount. So you just find the amount field greater than 20,000 or whatever is a big amount in your eyes and then you go I want the deal stage to equal late stage and we pull in all of your pipelines and deal stages. So whatever is whatever would appear whatever appears in your HubSpot environment would appear here and the close date is empty. And then there's two really powerful features to creating your own rule.
+ 
+ 
+00:15:41
+ 
+William Ross: Uh the first is this automatically request updates from deal owners. So if this is turned off, all it means is that this rule would get surfaced as a hygiene issue and you would have manual control as to when you'd want to request an update on that on that issue. And if it's turned on, what it means is the rather than having manual control, you you will have it will run automatically in the background 24/7 so that whenever the condition of the rule is met, it will automatically send an update to the deal owner in Slacker Teams and go, "Hey, this rule's been triggered. Please make the update. Now, obviously, what you don't want to happen is the person receiving this notification gets, you know, 50 plus of them all throughout the day, you know, 20 like incessantly because that's not good for adoption and they'll just ignore them all. So, when it's turned on, it will actually appear in a daily digest format so that they get one message a day at 9:00 a.m. that says, "Hey, here are all the deals that have been triggered in the last 24 hours." And they can work through them all one by one.
+ 
+ 
+00:16:39
+ 
+William Ross: And I can show you how that would look uh in a little bit. So that's really good for driving the adoption because they can work through it in their own time, bake it into their practice. And also whatever doesn't get action will just get asked again the the next day. And then the second powerful feature is to actually specifically prescribe what you want the receiver of the notification to actually action. So rather than just saying, hey, here's a hygiene issue. Go and fix it. Here you can put in any property that you actually want them to edit. So you could put in, oh, if they don't have a lead source, I want you to fill in the lead source for this. Or you could put in I want you to update the the close date if you want the close date and then maybe you don't want to have these ones. So whatever it is you want them to do with the room you can do it here. So once you've done that once you've sifted all the hygiene issues you've configured them all so that you're tracking exactly is what matters most to your pipeline.
+ 
+ 
+00:17:28
+ 
+William Ross: The question is what do you do about it? How do you actually action them? So we have this fix issues page on the left hand side and this shows you every deal in your pipeline that has some type of hygiene issue and you can filter this by deal stage um any any owners that you're looking for or any specific issue that you're wanting to track as well. You can also click on any of the deals to get more information so you get bit more context in any of the deals as well such as like how when was last time there was activity on the deal or what the current next step is. You can also track pending requests. So you can see which deals have had um have been asked in the past for updates and not been actioned. So you can see some here that have been asked like 29 days ago when we were doing some of our testing and they haven't been actioned. And now obviously uh I won't keep you on the call till 9:00 a.m. tomorrow.
+ 
+ 
+00:18:19
+ 
+William Ross: Uh so I will just show you a manual request to show you how the kind of workflow would look in practice. So, here are all of my deals that I own that have been assigned to that have some type of hygiene issue. So, let's say you want an update on deal 155. Again, very creative name. So, you see, all I do is click request update and I instantly get a Slack notification that says, "Hey, I've been asked for an update on deal 155." Now you can imagine from the perspective of the receiver of this notification, they don't know Funnel Vision exists and they don't need to touch HubSpot. They just go, they could be at the airport, on their phone, um on the train, wherever it is that this salesperson is working. The receiver of this notification just needs to go, okay, what's what what are you asking for on this deal? Now, right now, it's got a missing company, but we don't have any companies in our test data set, so we can't we can't action that one, but we've got no amount assigned to this deal.
+ 
+ 
+00:19:13
+ 
+William Ross: Oh, maybe it's 15,000. And currently there's no next step. Okay. Maybe it's schedule meeting with CFO.
+Michael Pickering: Sorry. Give me two Give me two seconds.
+William Ross: Yeah, no problem. Just give me a shout when you're back. No, no,
+Michael Pickering: Sorry about that.
+William Ross: no worries at all. So, so yeah, so they can fill in the next step and then you can also see the close date has been currently set in the past. So, 30th of December and obviously don't want any deals in the past and they go, "Okay, maybe I need to push that back to the end of March." And that's the other really clever thing about funnel vision is it will tell you the exact value of what was in here before. So, if there if there was already a next step filled in, they would tell them what's in here. So, they just need to click update deal and that's it. They've done it. And you can see here part of the daily digest here are all the other deals that I have that that I need to action that have high gen issues.
+ 
+ 
+00:20:22
+ 
+William Ross: And I could just go through these one by one. And it tells them here what exactly they've populated the fields with. And if we view this in HubSpot, you can see here the amount is 15,000. The close date set 31st of March. And the next step, here we go. Also logs the data which it was signed. So you can also have a time log of when all the next steps were set. But this person doesn't need to touch funnel vision. They don't need to touch HubSpot. And even more importantly, even you as the owner of as would be the owner of Funnel Vision, if you set all the rules running in the background 24/7, you would only need to go into Funnel Vision pretty minimally just to, you know, if you want to see the pending requests, configure any rules, but you could really just let this thing run mostly in the background. Um, and that's really the basic premise of Funnel Vision that surface them all, configure them, let Teams fix them in Slack or or Microsoft Teams.
+ 
+ 
+00:21:10
+ 
+Michael Pickering: Yeah. Um, yeah, it looks good. The the only thing like obviously we can achieve a lot of that stuff already with existing functionality within HubSpot. Um, it's the it's being able to edit it within Slack is the is the powerful piece. Um, I don't like I don't think we have that much of a need right now because a lot of the guys are very much kind of inside cells. They do do face to face, but it's not as as frequent. Uh we are going to be taking on some enterprise people who will probably be on the road a lot more because that's kind of the nature of of that game. Um but all of our enterprise stuff is kind of done by the guys that are doing inside sales right now. So the need to be able to update stuff within Slack is not that important right now. Um, so they, you know, they're they should, well, they're supposed to be living in HubSpot. Uh, and they have the app on the phone if they if they do need to update stuff right now.
+ 
+ 
+00:22:14
+ 
+Michael Pickering: Um, it looks good though. Uh, I just don't think it's it will be needed for us right now.
+William Ross: Oh, you're on mute.
+Greg Petherbridge: Sorry. Um, no, I appreciate the feedback, mate.
+William Ross: Sorry.
+Greg Petherbridge: Um, I suppose we are considering kind of what layers to add on to it. Is there anything screaming out like obviously kind of the Slack functionality alone wouldn't be enough for you? Is there anything that you could see this coupled with that would that would kind of make it more interesting to you?
+Michael Pickering: um sharing visualizations within um within SL like so the people who are on the road all the time are the leadership team so our CEO or uh chief revenue officer uh and our you know the the head of sales they're the people who need this functionality within Slack and be able to kind of create reports or see where there might be gaps you know they're not the one they're the ones who don't have their laptop talk with them all the time. They're the ones who need this stuff.
+ 
+ 
+00:23:20
+ 
+Michael Pickering: Um, so I guess if you could send stuff through Slack where there's where they need to review where there might be issues and then they can send from Slack to the user to update it, that would be great. Um, yeah, that would be kind of the the main thing, I think.
+Greg Petherbridge: Okay. Yeah. No, we've had similar kind of feedback in the sense of like something more visual for for leadership and um kind of different ways of feeding into the reporting aspect of it as well. But um no, we really appreciate that feedback and um yeah, I suppose uh no need right
+Michael Pickering: I know I was I was giving out about the finance industry,
+Greg Petherbridge: now.
+Michael Pickering: but I think they would get great value from this.
+Greg Petherbridge: Okay.
+Michael Pickering: Um because there those guys are always on the road like my last place,
+Greg Petherbridge: Yeah.
+Michael Pickering: Abby Capital, no one was ever in the office. Um but I think most of those places would be using Salesforce or something else a little bit more robust than HubSpot.
+ 
+ 
+00:24:26
+ 
+Greg Petherbridge: Yeah. Yeah. No, I mean I mean even if it's not realistic right now, we'd be happy to kind of give you access to it if if you did want to play around with it in in in edge tier, but I mean if it sounds like there might be a that might be a little bit too much to to consider right now and sounds like you've got a lot more going on than
+Michael Pickering: Yeah, we have a lot of other kind of stuff around.
+Greg Petherbridge: that.
+Michael Pickering: We're rolling out clay and um some other automation tools as well. Uh so that's kind of taking up a lot of our
+Greg Petherbridge: Yeah, clay is great,
+Michael Pickering: time.
+Greg Petherbridge: but it's like so heavy to configure. It's just like it can get fantastic
+Michael Pickering: It is it's it's not a side project
+Greg Petherbridge: things.
+Michael Pickering: unfortunately.
+Greg Petherbridge: No,
+Michael Pickering: It's uh people don't realize how much testing and how many pitfalls you can come across with
+Greg Petherbridge: it's
+Michael Pickering: it. Um, like if you don't set it up properly, you can really make your business look stupid. So,
+Greg Petherbridge: Yeah,
+Michael Pickering: you have to be very careful,
+Greg Petherbridge: it's great for setting up like a a BDR setup.
+Michael Pickering: right?
+Greg Petherbridge: like we we've used it for like automating like insight um kind of dashboards where it's like automating job posts and new hires and it's really good for that kind of top of funnel stuff. Um but yeah, all the best for it and thanks a million for the chat. Um we really will take this feedback on board and um yeah, always good to kind of get a RevOps eye on this. So, so really really appreciate you giving us the time.
+ 
+ 
+Transcription ended after 00:26:04
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

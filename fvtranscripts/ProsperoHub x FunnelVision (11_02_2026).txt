@@ -1,0 +1,541 @@
+﻿Stefan. 
+S
+Stefan
+00:01
+Hello, can you hear me? 
+H
+Hazel Johnson
+00:02
+Yes, hello, can you hear me? 
+S
+Stefan
+00:03
+All right, loud and clear. How are you? Good to see you. 
+W
+William Ross
+00:07
+Not bad. 
+H
+Hazel Johnson
+00:07
+How are you getting on? 
+S
+Stefan
+00:08
+Yeah, good, thanks. Can't complain, can't complain. I mean, I told myself I'm not going to complain about weather, so. Because that's silly. Can't control weather. 
+H
+Hazel Johnson
+00:17
+No point this time of year, is there? 
+S
+Stefan
+00:18
+So, I mean that is what it is. But how are you getting on? How's your start to the year? 
+H
+Hazel Johnson
+00:22
+Being good, incredibly busy, but incredibly productive. So should not, cannot, will not complain. 
+S
+Stefan
+00:28
+All, all well. 
+H
+Hazel Johnson
+00:33
+Appreciate neither of you met Colin. This is one of our fabulous directors, Colin Abercrombie, that I've spoken about many a times. So I'll let you guys do intros, take it from here. But Colin has got some of the big, bigger picture context. Can't speak tonight. 
+C
+Colin Abercrombie
+00:48
+Nice to meet you guys. Sorry I had to postpone from last week. Last minute, last minute stuff, you know what it's like. I'm sure. But good to be here today. 
+S
+Stefan
+00:56
+But no, very well. Colin, it's a real pleasure to finally meet you, put a face to the name that we've heard so much about, so. Oh dear. It's good things, all good things. 
+C
+Colin Abercrombie
+01:06
+All right, that's good, well done. 
+S
+Stefan
+01:08
+You can pay Hazel later. Yes, no, it's great. Yeah. Really, really nice to connect. I don't know how much context Hazel's given on our backgrounds, but I have to give a bit of a spiel on myself. And then William. So I mean I've spent my entire career in classic sort of VC backed high growth tech companies. Last part, working remotely from here in Edinburgh. So companies like celonis and pigment, CFOs office or verticalized or horizontal software or AI building, all commercial go to market, so leading sales teams and so on. And then about two years ago, a year and a half, two years ago, we spun out our own advisory firm with William as well. And then we started to advise a lot of early stage businesses on go to market sales and whatnot. 
+S
+Stefan
+01:56
+And we kept coming across the same reoccurring pain point and challenge and problem around specifically optimizing for revenue. And we're looking at, okay, how do we help? We were going in and helping clients with I guess deriving insights that they can drive some of these decisions. And then we kept finding that deriving those insights were really painful and difficult. And mainly William down there was spending his time running around CRMs adjacent tooling. So on Trying to pull together all the underlying data that just wasn't quite there. Fields missing out, date this, that so on. And we're going well especially kind of, we could talk more to it. 
+S
+Stefan
+02:39
+Obviously we kind of spent a lot of time with gentic AI and agents and we're like well agents are sitting on top of all this data and if the data is a bit redundant it doesn't really do much. So like the prerequisite to do something really exciting and to build a really exciting product would be that we need to fix some of that data. So we decided to spin out and build a solution for that. And yeah, that's I guess what's taken us down this path which we can share more for. But anyway, I'll let you give a bit of a spiel. 
+W
+William Ross
+03:09
+No, absolutely, yeah. I mean, yeah. Stefan basically summarized what we do really well. I mean my background a little bit more varied. I, I consider myself a recovering economist from my government days. So I started working there for. It was a long three and a half years especially it was over Covid as well. So I don't know if you remember that lovely period where the. I worked at the Department of Education. We had about of states in two weeks. So literally it was like people say, you know, every week you don't know what to expect. It was every hour. I didn't know what project I was going to be on left and right and so really, really interesting work. But then moved into the technology side from there and obviously a bit more of a, a data purist. 
+W
+William Ross
+03:46
+So when I was working with the sales guys a lot, you'd kind of currently, you know, like oh can you please just, you know, update your pipeline, update the fields. And it wasn't over too, over time and you realized it's. You have to kind of be very respectful on both sides because it's like that's not their. So they're incentivized to do that. So a lot of this and a lot of the solutions that go into this is very much just expecting them to change when it's like well that's maybe not. Maybe we need to rethink the problem. Because Stefan, I know this probably better than anyone. The general go to market and sales complexity nowadays is so much greater than it was even 10, 15 years ago. So the solutions need to move forward with that. 
+W
+William Ross
+04:24
+So that's kind of where the idea of funnel vision was born. Was like if we took a step back and we could just paint a new solution with kind of A white canvas. How, how would we do this? 
+C
+Colin Abercrombie
+04:33
+Yeah. 
+W
+William Ross
+04:33
+And this idea was, it was to merge both, to use technology to drive behavior rather than, you know, only focusing one side of the. One side of the argument. 
+C
+Colin Abercrombie
+04:42
+Yeah, yeah. And they all. If we wanted to go from here to there, we wouldn't start from here. Yeah, yeah, yeah. Very good, very good. 
+S
+Stefan
+04:55
+Yeah. But we'll have, we'll happily share more. I'd love to. More a little bit about yourself and where are you based, Colin? Are you based in Edinburgh? 
+C
+Colin Abercrombie
+05:02
+I'm Glasgow and Neil, my co. That's fine. 
+S
+Stefan
+05:06
+I like Glasgow. It's just along the road, like, I'll be honest, having spent my entire career on global and multinational rebates, I, I am so happy, you know, Hazel's around Edinburgh, you're in Glasgow. It's so close to home for me. I'm like, this is so refreshing, to be honest. 
+C
+Colin Abercrombie
+05:20
+It's a bit different, isn't it? It's a bit different, yeah. And yeah, I mean, I'm a chartered accountant to trade, so a bit like William's backstory. I, I, I'm a recovering accountant, so. But I put my first CRM into what was my own firm. By 1999, I deployed my first CRM, a system called ACT that I bought off the shelf in PC world on a CD ROM, uploaded it to an on prem server and had 29 staff running off on 99 quid CRM, which, those were the days. I integrated that with a system called Inview, which was electronic document management and were completely paperless by 2007 and I thought the world was doing that until we got bought by somebody else and I realized what a car crash the rest of the industry was. 
+C
+Colin Abercrombie
+06:13
+So I joined the national firm of Miguel, went in there, deployed a system called Workbooks and HubSpot and integrated both of them with their central CRM system called CCH that professional services firm use kind of changed our whole marketing and BD approach and then decided, actually I hated professional services and I wanted. Well, that's not true because we are professional services. What I hated was the kind of, shall we say, the small tightness of it all, you know, advising chief executives how to get their wife a free company car gets boring eventually, you know, so you actually just want to go do something constructive. So Neil and I, I decided I was packing in the profession and Neil and I started Prosperohub, the back end of 2019. It was in pre design. We were contemplating how we're going to do it. 
+C
+Colin Abercrombie
+07:08
+Launched in February 2020. Lockdown kicked in a month later. And you know, you're thinking, is this the shortest business in history or. But actually it was the opposite. As you would imagine, digital transformation became a thing overnight and you know, online became a thing for teams and zoom and all the rest of it. And were able to recruit a personnel base that didn't have to live within seven miles of Glasgow because we could never have scaled by doing that because HubSpot talent is very rare. It's not exactly proliferate now. So we had to, we had a lot of work to do just to build a team. So. 
+C
+Colin Abercrombie
+07:49
+And then went from being nothing to being an elite partner within about three and a half years and then were ninth in global partner of the year in 2024 and then solo bought us last September and we're now part of the biggest hustle partner on the planet. So it's exciting, it's been a blast, it's been an exciting journey, it's great fun and I feel that every time we cross our another milestone, you feel as though there's an entire journey still in front of you because so much has changed even in the last 12 months and the work in Techland and what we can expect from systems like HubSpot, it's just a never ending evolution and it's exciting time to be in this space. 
+S
+Stefan
+08:41
+Absolutely. 
+W
+William Ross
+08:42
+And I was going to ask as well, how are you keeping up with the evolvement even of HubSpot itself? Because I mean that technology's changed even across the last three, four years, dramatically. 
+C
+Colin Abercrombie
+08:53
+Do you know there's two answers to that question. One is like we have people who basically make it their day job to stay at the forefront of all the cool, sexy things that HubSpot are doing. The second point, and probably more important point though is that's two years ahead of where any client wants to be. You know, really, in reality, the client demands are still very basic. In fact, you're hitting on what you outlined earlier on. You know, there are basic issues and working practices, the way people do their day jobs, that when you're pointing out these really cool, sexy things they can do. The fundamental issues are data structure, training of teams, you know, a license application. 
+C
+Colin Abercrombie
+09:35
+You know, if I was at a client prospect yesterday who's already saying, you know, if you look at license creep in most organizations, they're paying for a whole lot of NetSuite seats, they're paying for a whole lot of HubSpot seats. Everyone you're thinking, right, and their chief execs are rightly saying our license costs are out of control just so that people can see things. This is crazy, you know. So I think that is a, that's a big inhibitor and that of course lack of people being in platforms leads to lack of accurate data because if they're not in there, they're not spending time in there, they can't update anything. 
+C
+Colin Abercrombie
+10:14
+And then I think there's still a clunkiness to, I mean, I'm on record as saying in the early 90s, until someone does away with the keyboard, I will not interact with the computer. Right now, that was back when Pentium 120th were launched. I was like, this will never catch on. The biggest inhibitor is undoubtedly that we have to key things. It still is, whether it's your phone or your laptop. And I think to me that's going to be the one that gets us across. The data problem is being able to, through solutions like Whisper, being able to add data into fields by speaking because that's what people want to do. And I think that will be where we have clients then starting to demand more because of data integrity. 
+C
+Colin Abercrombie
+11:03
+And the assurance of data input will be easier in that world because most offenders are senior, believe it or not, and likes of me, most offenders are, most data offenders are senior people who can say, well, I don't need to do that and nobody's going to, nobody can threaten me with anything, so I'm just not filling it in. So in my world, professional services firms, the more senior the person, the less processes they will adhere to. So I don't think that's the problem. 
+S
+Stefan
+11:31
+It's brilliant to hear you chat because I know, William, you'll be smiling because it's almost, in a way we're so converged in the same problem statement, it feels like you're pitching for us as well. It's nice because that really is it. And from a purely sales perspective, when I was running a lot of forecast calls every week, I didn't realize at the time until I took a step back and start to advise. I was like, wait, my forecast calls are effectively hygiene calls. It's like I, you know, I'm spending my time going, what? Why is this closed day and this day? Why is the closed out of date? The next step hasn't been moved from last week, but you've done something. Why? Why is that? And suddenly it's actually, I'm really. All of that time was redundant. It's wasted, it's not value driving. 
+S
+Stefan
+12:18
+It's not helping the deals move forward. It ends up becoming the weekly hygiene call. We can start calling them do. 
+C
+Colin Abercrombie
+12:26
+You know. Interesting though I think in a sales environment that's more obvious because the time dynamic is different. If I go back to, you know, the early 90s, you're sitting with a client talking about their accounts. In the first draft of accounts, they would tell you why every figure in that draft was wrong. As you're reading them out to a client, you're saying, right, your sales were this. No, they weren't, they definitely weren't that. And it's the same data entry problem. You know, it's just slower moving back then because people measured less regularly and bigger things. Now people want to measure how many phone calls have you made this afternoon. Those kind of things. And therefore the accuracy of the data in real time and the amount of data is significantly more. 
+C
+Colin Abercrombie
+13:13
+But the problem goes back 50 years, it's not new. 
+S
+Stefan
+13:18
+Yeah, if it's not convenient and if it's, I was going to say if it's not convenient to make the updates, they're not going to do the update. And I always say like, because like, look, I'm Obviously, I love CRMs for what they do and what they provide, the central knowledge system of truth and the ability to make decisions and what they unlock for the business. But the reality is their biggest strength to me is often the biggest weakness, which is that they're highly customizable, highly flexible. But like if I was Joe Blog and a companies, I don't need a gazillion fields, I don't need a million dropdowns, I just need to know what I need to know. But it wasn't personalized from my view as much as it could be. 
+S
+Stefan
+13:53
+And even more recently, recent times, I was like, I can't just make an update in my phone on the fly. It's like so I can't be on the train or the toilet and make an update. It's like I have to be sitting there, login. Yeah, yeah, 25 clicks. And I'm like that psychological barrier. I was like, I remember even little things like, you know, I was at bank of Scotland in Monzo and I kept using Monzo in my day to day bank for a couple of different reasons. But one of them was actually at the time it just had like a face ID unlock and I was like, I didn't need to go through this like two factor authentication, put my password each time, blah. 
+S
+Stefan
+14:26
+And I was like, I don't want to have to go through all these clicks to just open it up. And that's what we kind of start honing in. And it's a human problem. It's a behavioral challenge. And the challenge, we kept trying to find a solution for this and then you can give the stories like you were looking at like this MCP and how to build agents and plug Claude into HubSpot and maybe we can pull information out and tell you. And it doesn't work for that because it doesn't fix the behavior challenge. So we have to go really granular to actually let's do the clever engineering in the background and to the front end. It should be as easy as possible. It should almost look like it doesn't exist. It should be. 
+W
+William Ross
+15:05
+So. 
+S
+Stefan
+15:05
+Yeah. 
+C
+Colin Abercrombie
+15:05
+Yeah. 
+S
+Stefan
+15:06
+And so that's kind of where we. But yeah, I don't know if you can talk and maybe even show it William, because that'd be put in by. 
+C
+Colin Abercrombie
+15:14
+Well aligned on the issue. Anyway. 
+W
+William Ross
+15:17
+Yeah. Let me, let me share my screen. Just to preface the last time I did the teams demo with one of our now onboarded clients, it doesn't let me share my. Because we're on a teams call, share teams and show teams. So my worst case, I will show you what it looks like on teams. But we'll do a slack example. But, but I. Yeah, we'll see. Teams doesn't like. Teams doesn't like when I share multiple screens. 
+S
+Stefan
+15:45
+Yeah. 
+W
+William Ross
+15:46
+So let me know if that pops up for you guys. Okay. 
+C
+Colin Abercrombie
+15:49
+Yep. 
+W
+William Ross
+15:50
+I can move you guys to this side. Apologies. 
+S
+Stefan
+15:52
+So maybe flagging one of this dashboard is not seen by. Yeah. Users. It's seen by only the admin. Yeah. 
+W
+William Ross
+15:59
+But I'm going to go through everything. Don't worry. Okay, so basically, the basic premise of funnel vision is basically built on three premises. First is surface all of your pipeline issues in one place. Second is configure those issues so you're tracking what matters most to your own sales and go to market Motion. And then the third is make those issues fixable as frictionlessly as possible to get set up ridiculously easy, you just connect into your HubSpot environment and this takes like two to five minutes, depending on how much data is in your system. And you're immediately presented with a snapshot audit of your pipeline. So how many of your deals are stale or past their close date or are missing their next steps? 
+W
+William Ross
+16:43
+And at the bottom is your hygiene leaderboard, which shows you which of your deal owners are more on top of their hygiene relative to others. So sales love this little feature where they can, it's good for to monitor, you know who's to keep on top of. And you can see how this trends over time. Now obviously these are your. These hygiene issues come out of the box. But every sales go to Market Motion has their own specificities. So we have this rules page on the left hand side and this lets you create and track any hygiene issue that you could possibly care about in your pipeline. We pull in every HubSpot property which you can see here, whether it's a custom property, associated contact or associated company. 
+W
+William Ross
+17:21
+So the best way to describe this is really the limits of your imagination on how creative and complex you want these hygiene rules to be. So just as like an example random one I made up doesn't really matter is you want to know if the deal stage is equal to late stage. So maybe that's your contract and your decision maker has been bought in. And we pull in all of your pipelines and deal stages so whatever is reflective in your system will appear here. And you want to know if your lead source is empty or your amount is greater than 10,000. You can flag that as a hygiene issue. The two really powerful features to creating your own rules is this button here is to automatically request updates. 
+W
+William Ross
+17:56
+So when this is turned off, all it means is that the issue will still be surfaced and you'll have manual control and whenever you want to request it. And if it's turned on, what it means is that whenever the condition of the rule is met, it will automatically send a notification in slacker teams to the deal owner. But obviously what you don't want to happen is for them to get spammed 50 plus times throughout the day with hygiene issues because that's not going to drive adoption. So we've got a really clever function where it actually sends in a daily digest. So every morning at 9am they'll get one teams or slack message that outlines all of the deals that have been triggered in the last 24 hours. Anything that's not been actioned will just get asked again the next day. 
+W
+William Ross
+18:33
+So they can just wake up, get that single message, go through it one by one in their own time and then obviously you will always have manual control. If you want to escalate anything, you can just chase them on something maybe if it's particularly urgent. And the next really powerful feature is to prescribe exactly what you want them to action on the hygiene update. Because what you don't want is to send them A hygiene request. And they go, what do you want me to do about this? Here you can literally say to them, hey, I want you to only update Lead source. Or you can say, I want you to update the next step, whatever it is you want them to do, you can put it here. 
+W
+William Ross
+19:13
+Once you've done that and you're surfacing all of your hygiene issues and you've configured them all so you're tracking what matters most, the question is, what do you do about it? How do you actually do anything? We have this fixed issues page and this shows you every deal in your pipeline that has some type of hygiene issue. You can sort this by any owners you're looking for or any particular issues, or across the deal stages, you can also see your pending requests. These are requests which have been asked in the past and haven't been actioned. You can see, for example, this one was asked six days ago and it's still been a hygiene issue. The premise of one of the key ideas of Funnel Vision was for it to be a very low touch tool. 
+W
+William Ross
+19:51
+The idea is, once you've set up and it's tracking everything, you only really need to go into Funnel Vision if you want to configure your rules, make sure things are running correctly, if you want to check the pending requests. But it's really low touch. Now, obviously I will not leave you on a call till 9am tomorrow to check out a hygiene request. So I'll just do a manual example and I'll show you here all of my deals that have hygiene issues. Now, the question is whether I'll be able to share my screen, my team's screen, or not. So let's say you want to. And you can click on any of these deals for more information, more context. Let's say you want to look at deal 5A and you want to request an update. 
+W
+William Ross
+20:25
+All you do is click Request update and then there we go. Can you see my screen still? 
+C
+Colin Abercrombie
+20:29
+Yep. 
+W
+William Ross
+20:30
+So you can see here I instantly get a teams message that goes, williams asked for this update on deal 5A. And then here's a really cool system where you can see the daily digest queuing system we've got built in. And you go, okay, he asked for update on deal 5A. I need to fill this out. So from the perspective of the person receiving this notification, they don't know Funnel Vision exists. They don't even need to know HubSpot exists. They just get asked for this update and they could be on their phone, as Stefan says, at the airport, on the Train wherever it is that they're working without breaking workflow, they just go, the amount's been missing for this deal. Okay, maybe it's 10,000 and the next step's missing because the current value is not set. 
+W
+William Ross
+21:09
+If there was a previous next step in here, it would be included here. So maybe it's a scheduled meeting with cfo and right now the deal's past its close date. It's set January 6th, so maybe they need to push it back to April. The person updates the deal and that's it. That's it. They don't need touch anything else. If you want to look at this, we can view this in HubSpot. 
+S
+Stefan
+21:31
+Let me put my. 
+W
+William Ross
+21:34
+Actually let me close this because there's quite a cool function here. So you can see here the amount's been set to 10,000 to close the 30th of April. Yeah. And the next step also logs the date at which the next step was actually action as well. So you can see a time log in the next steps and that's it. So that's really the basic premise of final vision for version one is surface them all, configure them all and then let those fixes happen frictionlessly. 
+C
+Colin Abercrombie
+21:59
+That's cool. I like the push into teams. I mean that's the area. I mean that Slack, I hate Slack, by the way. But the ability for people to work in the environment that they're in as opposed to hopping between applications and I think also the big win there is that I can see is the one single push. So I mean HubSpot obviously can. We could set triggers in HubSpot to remind me, but I'm going to get 47 notifications and I'm going to learn to ignore them all. That's all that's going to happen there. If I have 47 deals in flow and I'm getting a flood of hospital notifications for property updates, whereas I think being able to do that, getting it in a digest format like that. 
+C
+Colin Abercrombie
+22:48
+But I can go in and I'm prompted as part of my housekeeping on a 9am or whatever it is I'm setting aside because you could schedule that presumably William to hit at sales admin time. So sales admin hour that pops in reminds me I'm due to start sales admin hour and a tidy up. So I can see that being really strong. Just. And you know, as you say that Stefan, in your opening remarks about that data foundation, the data stability and the ability of a sales leader to call a meeting and actually Discuss what are we going to do about the deal? Not, you know, is that closed date connect you with me and those bits is hugely significant. Love it. Yeah, I really like it. It's really cool. 
+C
+Colin Abercrombie
+23:35
+And obviously you mentioned there, that's you sort of version one, if you like, what are the plans as far as depth and object, you know, what other objects are you single out now to say, look, this is where we can go with this? 
+S
+Stefan
+23:49
+So glad you asked. Yeah, no, it's a great question. 
+W
+William Ross
+23:52
+Well, yeah, first of all, I just want to say a massive activity while you're on the call. Massive. Thank you to Hazel because she was actually one of the first people to see Funnel Vision and it's actually really helped shape it to be where it says so part of the simplicity and why it works and even on things like the Daily Digest, a lot of that can be Hazel's insight as well. 
+H
+Hazel Johnson
+24:09
+So all I did was get excited over a coffee and yeah. Honestly, even just seeing it, every time I see it I'm like, oh, it's beautiful, I love it's great. 
+W
+William Ross
+24:19
+She's actually the reason we pulled. We rolled out teams so quickly, to be honest. We had to get this done. 
+S
+Stefan
+24:23
+That's no joke. We'll come to roadmap. But that's true. So you know, were, we had a kind of multi tool stack and then were like. And his was like, you know, professional services, huge market. I could see this, but they're predominantly on teams. And then, you know, we had this conversation, William. I walked away and we're like, should we just build our teams and. 
+C
+Colin Abercrombie
+24:41
+Yeah, Joe, it's a valid point. I would go further. I would say the only people who like Gmail and Slack and the whole Google environment are techies. Right. And, and actually manufacturing, construction, professional services, you name it. Which is where all the money is. That's where all the money is. Right. Science businesses come and go but. But you know, text fixated on Google and actually I think so. 
+S
+Stefan
+25:06
+So by the way. So I can only echo that from all of my anecdotal evidence as well. And this is actually. But before we just touch on the roadmap, one thing that's worth noting is that we've kind of very consciously from day one decided to be partner first. And I've always had lots of companies decide I'm going to be partner first. So what does that mean for me? I've spent best part of 10 years and building partner go to market. So a kind of being the person at HubSpot that would build these partnerships. And my view was well partners should be top of mind, front of mind and I should be thinking not just about the incentive alignment but it's really a case of their feedback is often a one to many. You are seeing construction and manufacturing professional services. 
+S
+Stefan
+25:49
+Your, your oversight is exceptionally valuable. But the difference is finally because we have our own company we can actually follow that through because many companies don't. I know that. Salesforce don't. I know that. I know because HubSpot don't either. 
+C
+Colin Abercrombie
+26:02
+Yeah, yeah. 
+S
+Stefan
+26:03
+For us we like no like this is important like because like we partners are the unlock for us. You know so we're like the feedback is mission critical, you know ensuring that we have a very aggressive and generous incentive alignment from the beginning also we stick to what we say and it's like those little things and it comes, it's so important. So I think that's also why like we, when you give feedback, when we take it very seriously and actually. 
+C
+Colin Abercrombie
+26:31
+We will follow through quick query on the relationship between seats and the teams user. So that came out to you William. If I'm not, well I'll phrase a question from the bottom up. If I'm a view only user in HubSpot or I am not a user at all in HubSpot, can you still push my digest to my desktop? 
+S
+Stefan
+26:57
+Yeah. 
+C
+Colin Abercrombie
+26:59
+Wow. Right. Because Hazel probably mentioned to you, I mean you know for a thousand person law firm they are not going to buy a thousand HubSpot seats but they do need people to keep data and it's a major issue for them. It's a major blocker for HubSpot. 
+W
+William Ross
+27:13
+The only, the only requirements to get funnel vision is either one HubSpot admin to install it and one Teams admin to install it. That that's it. 
+S
+Stefan
+27:24
+You just need to know who owns what opportunities. But that's. Yeah that's all it is. And yeah to William's point you just need somebody that is responsible for. I need from what people and then that's a one to many. 
+C
+Colin Abercrombie
+27:37
+Yeah. 
+W
+William Ross
+27:39
+On the roadmap. Yeah. So really good question. So we're quite leaning heavily into the ethos that you need to solve hygiene from the ground up in order to build on analytics and things from there. So we actually want to take it one step further on our next step on the roadmap which is to ingest transcription calls that is if they're stored in HubSpot so that you can do one click update so there's even less manual work required from the reps. So if you can envision a scenario where they've had a call and then as soon as the call's ended, funnel vision prompts them to say hey, based on this call, I think this was your closed date and this was your next step. 
+W
+William Ross
+28:13
+But rather than auto populating we always want to have a human in the loop so they can go yes or edit because what we don't want to lose is the sales expertise and their ability to judge noyance on a call. It's because AI is great for text but not for reading human feelings. So it's not just about hey, here's what the transcript said, it's how do you think the call went? So there's a balance of both that we want to. 
+C
+Colin Abercrombie
+28:36
+No, I like that. And that's a big win as well. There's no doubt about that. The follow up assurance and picking things out of lengthy meetings. And it's another sales point of friction particular field sales guys if you're out on the road that's an even bigger problem which is I've got to get back to the office, then I've got to read through my transcription, summarize the key points. And I know you're right, AI will give you that now. But you're still good, you know, there's still an element of. Right. I'm going to have to go and update my deal and send other people emails to let them know and all the rest of it. 
+C
+Colin Abercrombie
+29:09
+So you can see where the threat can go here with you know, my team's notification becoming me nudging other people in my organization in a team's environment, you with me to do things, you know, for team collab in the teams environment. 
+W
+William Ross
+29:26
+And aside from that. 
+S
+Stefan
+29:27
+Sorry, you go first. I was going to say quickly William, is that like we actually started by trying to apply like the language model and it was getting errors, were getting so many errors with the fields and it wasn't quite right in the right place. And I'm sure it will get better but it's not there. It's just the reality on the ground is just not there. And also it wasn't efficient in terms of the tokenization of the usage of the LLM as well. It was also very slow because it had to read the whole database to try and get understand the context and somewhere it would go. But yeah, it's also worth. Maybe you can. I don't worth. You want to mention the kind of cross object stuff because outside of sales, obviously this is a high. Hygiene is horizontal to everybody. 
+W
+William Ross
+30:08
+Yeah, I was going to read this. So there's other, these other ideas we have on the roadmap. But it's a really good point Stefan raised, which is that what we had to do is really unconventionally, we had to stray away from all this new tech. And not that it's bad or wrong, but. 
+C
+Colin Abercrombie
+30:21
+Yeah, yeah. 
+W
+William Ross
+30:22
+It was a question of what's the problem, what's the actual root, the root cause of this problem and what's the right solution for that. And if the cool tech was the answer, but we just found that wasn't the answer. But it could be later. That's our own self hygiene first, before you layer on that tech. 
+C
+Colin Abercrombie
+30:40
+Absolutely. I think you're thinking about this through the right lens, which is you're working backwards from a human being. How do they behave, what do they interact with, rather than working forwards from a tech solution and force feeding that to the market. I had a conversation with a client the other week there he was talking about AI is going to make HubSpot obsolete. And I said, only make HubSpot obsolete if humans learn to read binary code. Because you still need a UI of some description. 
+S
+Stefan
+31:09
+Exactly. 
+C
+Colin Abercrombie
+31:10
+So the human, everything begins and ends at the human. And if you're working backwards and forwards from that, I think you're very much in the right track. 
+W
+William Ross
+31:17
+Yeah, absolutely. And that's, as I said, other ideas we have on the roadmap. Once we've kind of nailed that hygiene is bringing more complexity to it. So like cross objects, right now we're focused primarily on the deal side. That's where the biggest bang for your buck is, where the value is. But bringing in companies and contacts to create even more complex things, especially when you move into kind of the customer success side as well. Other ideas we've got building on analytics onto that, so correlation analysis on like, you know, deals with good hygiene, how are they moving through the funnel? ICP refinement. So a lot of people have an idea on what their ICP is. But then you might go, well, actually based on the hygiene, based on the deals that are actually moving through the funnel. 
+W
+William Ross
+31:54
+This is actually a better company size to target or this is a better geography to target. But this is all stuff we would love to work with. Our early users, our partners and stuff. The transcription side is one we're really wanting to nail. And then aside from there, we have a good vision. But as you know, probably better than anything, one of our best traits is being Reactive and reflective and constantly iterating it. So. So, yeah, so, yeah. But there's a few ideas in Piper. I'm sure Hazel has a couple up her sleeve. 
+C
+Colin Abercrombie
+32:26
+I don't do that for a minute. I don't do that for a minute. She usually has. She usually has. No, that's. That. That sounds great, guys. I'm definitely enthusiastic about partnering with you on it. I think it's. It splits right into. I can't think of a single client where there is not a play for this now. It's whether it's a cost effective play. It might be another matter. But there's certainly a play in terms of their use case and their need in their organizations. I mean, and it isn't just the more obvious ones where you've got 600 people, none of whom are using HubSpot. You're with me. There are actually smaller use cases where actually they are using HubSpot, but that's a slicker way of doing it, as you're showing there. Yeah, yeah. You've got a fan already. I'm not a fan. 
+S
+Stefan
+33:16
+Good, that's great. Now, thank you so much. I'm happy to chat through how we thought our thinking as well through the pricing as well. That's helpful just for wider context. So again, we tried to keep everything in line with this idea of being simple and straightforward and easy to adopt and we appreciate that. Also hygiene is horizontal. It does affect many people. So we, where we landed was more recently is unlimited usage, unlimited users, no caps, no limit, with a fixed 5,000 pound per year. And that's it. And then for the very initial clients we brought on board, it was 3,000 just discounted and there's no limits, correct me, I'm wrong on usage, volumes, users, anything. 
+S
+Stefan
+34:05
+And then the idea would be that the partners that help us at the beginning, we would for the first deal give them 50% of the deal and then for following that, we would give 20% perpetually. So if it's a rolling contract with funnel vision for year on year, we give 20%. And it's, that's just what it is. So hypothetically, 5,000 thousand a year, every year. And that's how it run and keeping it very simple. And again, in the spirit of being like we want to make sure that partners feel exceptionally valued and also we just, we're going to stick by it. 
+C
+Colin Abercrombie
+34:36
+Yeah, no, that sounds great. Stephanie and I like the idea of one of the biggest issues in the SaaS market right now in the tech market generally is what clients refer to as. Well, I'll refer it to it in many ways, not many of them complementary. But the pricing model of most SaaS businesses is a source of frustration for many clients because it's not transparent. They could see features that they want and then they realize it's gated or it's limited or it's a consumption model or all those things I think are causing people to really get particularly a HubSpot model because HubSpot now has possibly the most complex pricing on the planet and it's caused a lot, yeah, it's caused a lot of aggro with clients and I think by simplifying your model then that's going to be a good thing. 
+S
+Stefan
+35:32
+We want to keep it simple all the way. And also I hope you get a sense that we're very transparent, we're very open to share. And so for example, our cost base is really coming from the volumes of data. So typically that's going to be associated with the, it'll be associated with the number of users, the number of people. But we're going to keep it nice and concise because like that 5000 will cover us up to the vast majority companies. Now yeah, it was a company with 50,000 people, 100,000 people like pushing real volumes, the records being really high. Like yeah, it probably is not going to be very economical but at some point, like right now that's not, we're not necessarily dealing with 100,000 person companies. 
+S
+Stefan
+36:17
+So I think it's within the HubSpot ecosystem that typically sits really well in that mid market space companies. A thousand people or 500 people or 2, it fits really well. And that was yes, we will have a variable on our side, we're going to have a variable margin, we'll accept that. But I would rather give that up and have the simplicity for. Because I'd be on their side working in software companies with this complex pricing and even as on that side it's a nightmare and I see the friction that it causes and it's really hard to build the business cases and it's also arbitrary. 
+S
+Stefan
+36:49
+And like I remember doing analytical processing capacity at Celonis it was like it was, we even had to create a term for the type of data that were processing in the volumes and they were like, I don't know what volumes. And were like we can make an estimate. And it was just, you know, William and I were like from bigger, we're like, we're not doing that. We're not. Like, we can't, you know, if we have to put the price up to keep it simple, we'll keep it simple because. Yes, but the reality is right now, I think that this is going to cover us for the first period for sure. Again, in spirit of full transparency. 
+C
+Colin Abercrombie
+37:26
+Yeah, no, absolutely. And as you say, you know, you can publicize that rate and then as opportunities present themselves, you can take a commercial view, but still keep the overall broad principle of keep it simple. You know, if somebody comes along and you see the opportunity in their account, you say, do you know what? We'll give them a three thousand or a two and a half thousand introductory offer for an early adopter. You can do that, but you're keeping it simple. And people have seen that they're getting. 
+S
+Stefan
+37:55
+So. 
+C
+Colin Abercrombie
+37:55
+No, I think that's absolutely the. The way to do it. Sounds good. Sounds good. 
+S
+Stefan
+38:01
+Yeah. 
+C
+Colin Abercrombie
+38:01
+I think we're keen to work with you, I think, is the long and the short of it. So what do you want from our side? 
+H
+Hazel Johnson
+38:08
+We're signed up now, aren't we? We did the. Is the contract all. All right? Signed William, Just to check. 
+W
+William Ross
+38:14
+All good. 
+H
+Hazel Johnson
+38:15
+Okay, good. 
+W
+William Ross
+38:15
+Yeah, yeah. 
+S
+Stefan
+38:17
+Contracts all signed. I mean, really from, from our side. I mean, I guess on timing it would be. It'd be great to kind of. For our side as well, to publicize a partnership. I understand sometimes that can be wanted to wait until we've got a joint success or story or a client. No worries. But also just seeing, is there. Is there a way in which it, you know, we obviously need to make sure that you have access, because that's another thing, is that partners will have access, no strings attached, nothing to it. So that again, if you're an advocate, that's. 
+C
+Colin Abercrombie
+38:50
+And I think that's key. And actually it's quite opportune because Neil and I have just started an executive assistant this morning and one of Kate's first tasks is going to be sales enablement and injecting sales velocity for us. And I see perhaps this, you know, the rollout of this Hazel, within our environment as being one of Kate's initial responsibilities. Because, you know, we can just give it to him, say, right, get it in there. Let's get the rules built out. Let's what, you know, what with the direct work with Neil and I to do that. Build the, build the infrastructure of it, Understand it. Roll out to the team, then start talking to the team about, right, guys, start thinking which clients you can talk to about this because once they see it themselves I think that's, that's, that's the. 
+C
+Colin Abercrombie
+39:40
+Because I think as you were saying William, all the background stuff which in HubSpot's behind the cog and frustrates me when anybody goes on a demo and shows any client behind the cog and don't show them that's not what they're going to use and what you want to see is that really neat in the teams environment. We go. There you go. You've had your digest pushed through. That's what you have to do and that's what our guys, that's what our team will see. So from their point of view this will be. This is slick. I like this. And then that's the bit they want the clients to uptake on and then we can presumably do the install for them and do the configuration and the rules based on what we already know. 
+H
+Hazel Johnson
+40:41
+You'll always be the expert on it. It updates too quickly for me to. Yeah, same as HubSpot. You're just too good guys. 
+S
+Stefan
+40:47
+So let's get you guys up in an environment. The next step is there for. Let's get the environment, get you using it and set up and it's. 
+W
+William Ross
+40:56
+The best thing for me is we can get a check in, you can bring in the new EA and then we can just get you guys set up on that spot. 
+H
+Hazel Johnson
+41:03
+No, that sounds good to me. We want to get some time and is next week I suspect is probably better for Kate at this point. Colin? 
+C
+Colin Abercrombie
+41:10
+Yeah, I think so, yeah. She only started this morning so maybe early next week. I forgot to tell her IT team that she was starting so she doesn't have a laptop or an email address yet. But anyway, so that's the way we, that's the way we do things in Prosperity Hub. We just plow on. 
+W
+William Ross
+41:32
+When I was in government I rocked up because I was given a long story short, I was given a choice to work in London, Manchester or Sheffield. I'll pick Manchester. My friend lives in Manchester and I rocked up to the office only to find out that all of my team were based in Sheffield, in London. And I was like why, why. 
+S
+Stefan
+41:46
+Am I in Manchester? You would think they would tell you that before, right? 
+W
+William Ross
+41:53
+There's no first day. There was like no manager. I didn't know. I was just, I was getting told to do things. I was like, oh, are you my manager? They're like, no. 
+C
+Colin Abercrombie
+42:02
+I have a similar story in the Royal Bank. This was back in the late 90s after a one month induction program of all the trainees. And one of the guys that I knew, I played football with him. He came through six weeks of induction at rbs and then on the last day of the six weeks, they came into the boardroom and they handed them all a car key for their company car so they could go on the road. And the bold gem announces. What's this? And the Shakar Kut. I can't drive. I've never had a license. Nobody ever asked. So they've just hired a guy, a regional guy to drive around the region and they never asked for their driver's license. 
+S
+Stefan
+42:40
+That's brilliant. Yeah, guys, I'm really excited. So, yeah, thank you so much for the early advocacy. Let's get you set up, let's get you using it and really we can take it from there. We can obviously have a conversation once been used and adopted, like what, what that, what that might look like going forward and for clients and yeah, we're here anytime and probably Willie will be the primary point of contact and I'm around also as well. 
+C
+Colin Abercrombie
+43:06
+Excellent. Well, thanks very much for your time, guys and thanks for the demo that was really informative and looking forward to getting some traction. 
+W
+William Ross
+43:14
+Perfect. Pleasure to be. To meet you, Colin, and to see you once again. Hazel, as always. Thank you. 
+H
+Hazel Johnson
+43:18
+It's always a pleasure, guys. 
+C
+Colin Abercrombie
+43:19
+Thank you so much. 
+H
+Hazel Johnson
+43:20
+Appreciate it. 
+C
+Colin Abercrombie
+43:22
+Have a good afternoon. Cheers.

@@ -1,0 +1,295 @@
+﻿Dec 12, 2025
+Aditi Mehta and FunnelVision - Transcript
+00:00:00
+ 
+Greg Petherbridge: metric or uh this is definitely the close date like there's a lot of automation that doesn't it doesn't really pick up everything. It doesn't really pick up human sentence. It might not pick up private WhatsApp messages. So really what we're looking to do is just get eyes on on the right missing information and making it as easy as possible to fill
+Aditi: Yeah.
+Greg Petherbridge: that gap. So Gong can definitely automate a lot of this in terms of you're like yeah they might not need to update certain fields when when Gong is able to to just pull it in from a certain call. What we're trying to find is um if you leave everything up to AI we've found that you still have and it can kind of accelerate the problem a little bit.
+Aditi: Yeah.
+Greg Petherbridge: Um but yeah I think William maybe maybe this a good point for you to jump in and and give a quick idea to
+Aditi: Yeah.
+Greg Petherbridge: Aditi of of what uh what funnel vision can do.
+William Ross: Yeah. No, absolutely.
+ 
+ 
+00:00:47
+ 
+William Ross: And just to echo kind of what what Greg's saying there we think or our hypothesis largely it's all about control with hygiene and when you and this things like Gong are wonderful like you know auto auto transcribing autopop populating but at the end of the day it doesn't tell you if your if your pipeline's bad it doesn't tell you anything it's and you have to then trust that it's all happening the funnel is give you a lot more control and
+Aditi: Right.
+William Ross: say here are the things that are important for my pipeline that I need to track and then you get visibility on exactly what matters. for your pipeline and then let them and I that's where kind of the the the difference kind of kind of
+Aditi: Good night.
+William Ross: lies is in the ethos and the approach if that makes
+Aditi: it does um and it's so just uh candidly right I'm trying to develop
+William Ross: sense.
+Aditi: a u PI tool which something like what funnel vision could sort of feed into right uh could be like the leadup to that if you will because it's the so what so what of the data what do I do with this all this data but what's my next steps.
+ 
+ 
+00:01:52
+ 
+Aditi: And very often people get analysis paralysis, right? or they get overwhelmed with spreadsheets and um so this tool basically to your point tells you exactly what you need to do, who are the customers you need to go after um you know and what has been their buying behavior and what maybe attach surveys right to um the data so that you have customer sentiment built in as well of past uh experiences um which could drive additional action or like tailored um offers to that customer based on what their feedback has been. Uh, and you know, price always comes up, but if you're somebody if something's too expensive or if people are complaining it's too expensive, it's always going to be too expensive, right? There's other qualifiers that you need to layer in um that can that that can help you understand that customer's behavior and what are the triggers for decision making.
+William Ross: Yeah, absolutely.
+Aditi: So yeah,
+William Ross: Yeah.
+Aditi: so I think we are you're on the like the sales side and I'm on the intelligence kind of I'm I'm going on that track. So maybe there's opportunities for future partnering
+ 
+ 
+00:03:12
+ 
+William Ross: We love partnerships.
+Aditi: together.
+William Ross: That's a a couple of other co-founders. That was really their their bread and butter for like 15 plus years was incentive alignment,
+Aditi: Yeah.
+William Ross: partnerships, win-win situations. That's
+Aditi: Exa Exactly.
+William Ross: absolutely
+Aditi: uh because I think y'all are uh you know the sales funnel is real and visibility into that funnel is really important and then um essentially telling sales people what to do right because uh and you know we I work with about I want to say 85 teams and everyone is doing their own thing there isn't standardization so this would also help bring standardization into um into the organization is my sense.
+William Ross: Yeah.
+Aditi: Yes, I would love to see your platform,
+William Ross: Yeah.
+Greg Petherbridge: Yeah.
+William Ross: I was going to say time to time to see how we can connect the dots together at DT.
+Aditi: you know. Yes.
+William Ross: So me share my screen very quickly and
+Aditi: Yes.
+Greg Petherbridge: Okay.
+William Ross: let me know if that pops up for you. Okay.
+Aditi: It does.
+ 
+ 
+00:04:19
+ 
+Aditi: And I'm going to switch you to my bigger screen just so I mean it'll look like I'm looking sideways but I'm just
+William Ross: No worries.
+Aditi: looking at this bigger screen.
+William Ross: I I can't see any faces just now anyway, so don't worry.
+Aditi: Okay.
+William Ross: Is that through? Okay, just now. Okay, perfect. So, so the way funnel vision works is you you quickly sync up to your to your CRM for right right now that's specifically HubSpot and this takes about two to five minutes depending on how much data is in in in the system and then what you're immediately presented with is this hygiene dashboard which um I like to think of it as a very quick snapshot audit of your of your pipeline issues things like how many deals are passed or closed date, have stale activity, um have a missing owner assign attached to them or they're missing or anything. So, it's a quick snapshot on saying,
+Aditi: Mhm.
+William Ross: "Hey, here is some basic health of your pipeline." And at
+Aditi: Yeah.
+William Ross: the Yeah,
+ 
+ 
+00:05:22
+ 
+Aditi: This is good because we call it the red flag
+William Ross: exact. Okay, that's a good name. Actually, you know what? I might steal that. The red flag report.
+Aditi: report.
+William Ross: Uh and then at the bottom, you've got your hygiene leaderboard. So, which of your deal owners are more on top of their hygiene compared to others? and it's ranked by how many issues they have across their deals. Um,
+Aditi: Right.
+William Ross: so you can see, for example, I have an average of just over one issue per deal and poor Greg at the bottom has about three issues per deal that he has.
+Greg Petherbridge: This is all dummy Hey, I'm I'm not that
+William Ross: He's not that bad. It's all data. Um, so obviously this is just this is pre-built really common hygiene issues,
+Greg Petherbridge: bad.
+William Ross: but every sales and go to market motion has their own specificities. So we allow people to create their own rule.
+Aditi: Okay.
+William Ross: So you we pull in every property in a CRM including custom properties, associated contact and associated company.
+ 
+ 
+00:06:11
+ 
+William Ross: So you can build the the world's your oyster with what you can build here.
+Aditi: Mhm.
+William Ross: So just as an example of one I built um I wanted a rule that if the if the next step in a field wasn't updated and the deal is in late stage, I want to be notified if that's a as a hygiene issue. So you just go in hub you just go in your rule configuration. You say okay if the next step day since update was like more than 10 days ago and the deal stage is some late stage ones like demo and negotiation then you can click this button to automatically request updates and this is a really really cool feature because the last thing
+Aditi: Mhm.
+William Ross: you want and going back to the whole behavioral adoption is you don't want sales people to be getting spammed on Slack or Teams continuously all day about things they have to do. So when when this button is clicked,
+Aditi: Right.
+William Ross: what happens is every day they'll get one daily digest message of every issue that that has been triggered in the last 24 hours in one in one message to say, "Hey, at 9:00 a.m." they get a message.
+ 
+ 
+00:07:11
+ 
+William Ross: It says, "Hey, here are 10 deals that have hygiene issues and they can go through them one by one in one message. So rather so rather than getting them all day, it's just one simple message.
+Aditi: Okay.
+William Ross: You can turn this off and it would still you would still have visibility in the dashboard. It would just give you manual control. So you could just manually request the updates whenever you want. But you could set up Funnel Vision in a way that you could just set up automatic notifications for all hygiene issues, let it run in the background, and then all you have to do on Funnel Vision is just check if if the if the actions are being taken or not, and that's
+Aditi: So,
+William Ross: it.
+Aditi: as a um leader of that team, would I get a daily digest of okay, there were so many issues reported and Greg went in and fixed Five, but five are still
+William Ross: Yes. So, I will show you that in a second. And we're actually building an email integration as well for managers so that you can just get an email to say like whether it's weekly or daily
+ 
+ 
+00:07:57
+ 
+Aditi: pending.
+William Ross: to say, "Hey, here are all the deals that had requested updates. Here are the ones that were actioned. Here are the ones that were not actioned." Um, but you can get visibility on which ones were pending or not. And then the last thing here is you just put in in this one which when the person who receives a notification in Slack or Teams gets the hygiene issue, what do you want them to action? Because you don't want them to just say, "Hey, this deal has a hygiene problem. Do something about it." You can specifically tell them what it is to do.
+Aditi: Hey,
+William Ross: Maybe it's update the close date or maybe change the amount. And they'll be able to do that natively within Slack,
+Aditi: great.
+William Ross: which I'll show you in a second. So, so once you've done that, once you've configured all of the hygiene issues that are specific to your motion and you're tracking everything that's important for you, the question is what do you do about it? How do you how do you actually fix it?
+ 
+ 
+00:08:54
+ 
+William Ross: Because what you're getting is visibility on all the problems,
+Aditi: Yeah,
+William Ross: but you're not actually fixing anything. So, that's why we have a fix issues tab on the left.
+Aditi: Hey,
+William Ross: And what you're seeing here is every issue that exists in your pipeline, every deal that has issues. And you can filter them by pipelines. We pull in multiple pipelines or by specific stages. You can filter by the owners if there's any specific issue you're looking for.
+Aditi: Mhm.
+William Ross: And you can also do it by the close date if you're wanting to look at deals that are closing within a certain period. And as I mentioned before, here you have your pending request updates. So we don't have any just Oh, we do have one just now. Great. So what this means is this this hygiene issue has been requested but it's not been actioned. So you can literally just set everything running 24/7 in the background.
+Aditi: Okay.
+William Ross: You don't have to touch anything and then you could just click here and go all right what's not being actioned in the last and it will tell you when when it was when it was requested whether it was one day ago two days ago or 10 days ago.
+ 
+ 
+00:09:52
+ 
+William Ross: And so just to show you how it would work manually,
+Aditi: Okay.
+William Ross: let's go to my deals and we can let's say you only care about the sales pipeline and we want to look at um any deals with issues. So here are all of my deals in the sales pipeline have some type of issue. So let's look at this one. It's got it's passed it closed date and it's got some type of stale activity. It's not been it's not been it's not being interacted within in some in a period of time. All you have to do is click request update and then I as the deal owner instantly get a Slack notification that goes, "Hey, Williams asked for this update. Please fill in the information below." And so you can imagine a salesperson or the deal owner would be on their phone, on a train, at the airport, uh wherever it is that they're working without needing to change their workflow could just go, "Oh, the close date for this deal is in the past because it's currently set for the 6th of December. It needs to be January.
+ 
+ 
+00:10:44
+ 
+William Ross: All right, there it is. And what's the next step?" And for context to to avoid them even having to go into the CRM,
+Aditi: Yes.
+William Ross: you get contextual information on what's already in that field. So here's the current value of what the next step is, which is a whole bunch of dummy data. Maybe the next step is uh reschedu meeting with Sarah the CFO. They update the deal and that's it.
+Aditi: Okay.
+William Ross: And if they had more, if they had more hygiene issues with deals, they could just go through them one by one. But right now, that was the only one I had. So there's no other pending update requests. And this information gets reflected in the CRM and in funnel vision. And that's it done. So the salesperson doesn't need to go into funnel vision or the CRM. They don't need to know it exists. And you don't need to go into and contact the salesperson and go, "Please fill in all this information. You can just go in funnel vision and interact with it
+ 
+ 
+00:11:36
+ 
+William Ross: there.
+Aditi: So let me ask you this. If there's um if there's a bunch of things that have the date of 6th of December and you want to extend a bunch of things,
+William Ross: Mhm.
+Aditi: can you group extend or do you have to go into it one by
+William Ross: Right now we could go to one one by one,
+Aditi: one?
+William Ross: but that is an interesting idea. We haven't come across that that use case. So that is absolutely something we So are you thinking if like if you have like 20 deals that all have the same close date, you're like I want to change all of the close dates past that's interesting.
+Aditi: Yeah.
+William Ross: Yeah, that that that's something we should we should be able to group managees.
+Aditi: Yeah. You you could have the same uh like in our case we have multiple products opportunities per company and each uh product will have its own line and all of them could have the same date. So I and it's one conversation right?
+William Ross: Mhm.
+Aditi: So if I if I want to extend company XYZ and all the product lines, I could just click on all and say extend all of them versus going into it one by
+ 
+ 
+00:12:35
+ 
+William Ross: Yeah, that that's really interesting.
+Aditi: one.
+William Ross: Yeah, that's absolutely something we could look into.
+Aditi: Um and then there is um I don't know whether you have this in there of uh the funnel is nice, fixing is nice but u by account executive or you know just like you had the average uh issues per deal or yeah what is their conversion rates based on activity
+William Ross: Yeah.
+Aditi: levels?
+William Ross: So, so part of our road map is analytics. So, that's the thing next thing you want to build is some kind of dashboard and UI on not just the sales people's hygiene issues, but then their context on, you know, how many deals are they bringing in, what's their close rates? Because then what we want to do is the because then what's useful for funnel vision is you can then do analysis on are deals with better hygiene going through the deals process faster and that's how we can quantify the so that's that is something we want to
+Aditi: Right.
+William Ross: do very fast
+Aditi: Yeah. And and start to end,
+ 
+ 
+00:13:31
+ 
+William Ross: Q1.
+Aditi: right? The time taken for a do deal to close. Uh is there somebody doing things faster than others for a higher value, right?
+William Ross: Yeah.
+Aditi: Because the value also matters of the deal close. or is somebody chasing a bunch of low value deals and it's taking far longer?
+Greg Petherbridge: Yeah.
+Aditi: Like what what is a best practice that can emerge from
+William Ross: Yeah. Yeah. No, this type of analytics is first and foremost we're looking at is the the key thing for us
+Aditi: this?
+William Ross: and actually to Greg's point on the AI side was what we found was layering on analytics on bad data isn't necessarily that useful. So we wanted to try and solve the the the data layer problem first. Get the data clean, get the pipeline clean, get the behavioral adoption there. Then you can build in all the fun sexy fun analytics on top of
+Aditi: Yeah. No.
+William Ross: that.
+Aditi: And um is so you mentioned this is uh based on HubSpot.
+Greg Petherbridge: Yeah.
+Aditi: Is it also uh is there a Salesforce dashboard somewhere?
+ 
+ 
+00:14:28
+ 
+Aditi: Because Salesforce has the higher adoption I
+William Ross: So yeah, so we only run HubSpot just now,
+Aditi: think.
+William Ross: but we are looking into do a Salesforce integration, but probably not anytime soon. We'd look to explore kind of back end of next
+Aditi: Okay.
+William Ross: year.
+Aditi: Um and um I think HubSpot the final question. HubSpot also has because I know my team struggle with this is they have stuff in so we have Salesforce for CRM and we have HubSpot for campaigns and
+William Ross: Mhm. Okay.
+Aditi: HubSpot reporting on campaigns is terrible. So since your CRM is HubSpot and if if campaigns are marketing campaigns are in HubSpot, how did if I market to a customer, if there's a open opportunity and I market to that customer, is there a way to create a correlation between that marketing campaign and further action?
+Greg Petherbridge: Mhm.
+Aditi: Like I, you know, I send them an marketing email on December 4th and they opened it on December 5 and they signed it on December 6. So that you could create a direct correlation there, right?
+ 
+ 
+00:15:37
+ 
+Aditi: Or did somebody call them after the market like that activity um cadence leading up to close or leading up to a
+William Ross: Mhm.
+Aditi: loss?
+Greg Petherbridge: Yeah,
+Aditi: Yeah.
+Greg Petherbridge: I think we're slightly away from that at the moment. Like if we in an ideal world, we would have a Salesforce integration now and that would be what we'd be able to tackle for you. So kind of coming back to the conversation around the analytics. I mean a lot of Salesforce HubSpot,
+Aditi: They're
+Greg Petherbridge: they'll have dashboards built in. will you be able to see conversion rates etc etc but we yeah but but I suppose
+Aditi: not
+Greg Petherbridge: our our thesis is that those dashboards become a lot more trustworthy once you work
+Aditi: green.
+Greg Petherbridge: back and ensure that the data is right in the first place. So you can see a correlation score of who's like pipeline health is the best and you can kind of measure that up with with the conversion rates and who's performing the best and and generally you'll be able to to see the trend of if someone isn't really you know,
+ 
+ 
+00:16:35
+ 
+Aditi: Okay, go
+Greg Petherbridge: pulling their weight on on on the hygiene side, maybe their deals fall by the wayside as well.
+Aditi: ahead.
+Greg Petherbridge: So, um, that that's kind of our thesis is that we still want the CRM to be your single source of truth for for leadership. There's going to be a lot of analytics built into that. There's going to be a lot of dashboards that people have already built. We're trying to just strengthen those dashboards to be give you more confidence that the numbers are right behind it all.
+Aditi: Okay. Um, and then once something closes, is there like a notes section for feedback from the client, right? Say the client is signing a contract and say they say, you know, I'm signing this contract, but I want this and this and this for next year. Um, is there a way to track any of that? Because right now those tend to be siloed or it tends to be sitting in somebody's email. Um, but if it's all in their customer record in HubSpot, then it's easier to carry forward for the future, right?
+ 
+ 
+00:17:34
+ 
+Aditi: Um, to look at, okay, what did this customer do last year? What were the notes? And what am I solving for so that I can close the deal for next
+Greg Petherbridge: Yeah, William,
+Aditi: year.
+Greg Petherbridge: maybe you're better positioned for this, but can that be solved at mandatory fields?
+William Ross: Exactly. Yeah. So you you could set up as a mandatory field in HubSpot,
+Greg Petherbridge: Yeah.
+William Ross: but then also you could set it as a hygiene issue so that if the deal stage is a specific stage or specific pipeline and certain information is not there, flag as a hygiene issue and then force them to to fill it out.
+Aditi: Okay. Yeah. But I think this is great. Um I mean it's a great start. Uh it's the it's the very start of the funnel. Um and I would love to see how it progresses,
+Greg Petherbridge: Yeah,
+Aditi: but yeah,
+Greg Petherbridge: 100%.
+Aditi: it's it's a good start.
+Greg Petherbridge: Well, yeah, we're excited as well. And yeah, it's a shame uh we couldn't give you access for a for a free trial if if that if your CRM kind of pipeline sits in Salesforce.
+ 
+ 
+00:18:29
+ 
+Greg Petherbridge: Hopefully, we'll be able to reopen a conversation at some point in in in the future,
+Aditi: Yeah.
+Greg Petherbridge: but for now, we we just really appreciate you jumping on kind of giving us a second set of eyes and um yeah, we really appreciate the feedback.
+Aditi: Yeah. And I think we are married to Salesforce. So just setting up expectations, right? uh I've been down that road and uh we have right now four different instances of Salesforce. We are completely married to it and there is no appetite for change there.
+Greg Petherbridge: Yeah, I've I've been in Salesforce companies before and it's too it's too heavy a tool to just to just let go of.
+Aditi: It's
+Greg Petherbridge: I suppose the reason we started with HubSpot is because we've worked with a lot of com we think we'll make a pretty big impact with that kind of early stage or zero to a thousand type type employee companies. Um and majority of them tend to be on HubSpot.
+Aditi: Yeah.
+Greg Petherbridge: So that's where we put our attention for the initial build. But uh there's a lot on the road map.
+ 
+ 
+00:19:21
+ 
+Greg Petherbridge: So we're excited to see where it goes. But that's the vision is to to eventually cover it all.
+Aditi: And I just thought of one more pain point that we have is multicurrency. So you have multicurrency enabled,
+William Ross: Yes.
+Greg Petherbridge: Yeah.
+Aditi: right? And okay. Yeah.
+Greg Petherbridge: Yeah.
+Aditi: Because some US space companies do not,
+William Ross: Yeah.
+Aditi: which I have found out the hard way.
+Greg Petherbridge: No,
+Aditi: Um I come from you know I my as you've seen I was 10 years with
+Greg Petherbridge: I
+Aditi: Lufansza overall but so currency doesn't even occur to me because it seems automatic.
+William Ross: Yeah.
+Aditi: But there are companies like that that are u they start off as US- ccentric and then if they expand and they go into currencies they haven't enabled these features in some of the CRM and it costs extra. So that might be something you run into as
+William Ross: Yeah. No, absolutely. Yeah, it's um Yeah,
+Aditi: well.
+William Ross: we we managed to to attack that one nice and early.
+Aditi: Good.
+William Ross: Yeah.
+ 
+ 
+Transcription ended after 00:20:41
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

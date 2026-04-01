@@ -1,0 +1,135 @@
+﻿Feb 5, 2026
+Clare and FunnelVision - Transcript
+00:00:00
+ 
+Clare Frerk: um in uh across AMIA. So basically for open LMS we work um in the UK and Ireland and Africa and then for turn it in we just work across Africa. Um and my role is really just to make sure that everything works together. Um and uh we ultimately are able to both report internally but also externally and often that involves having multiple reporting structures um and then trying to manage that within um our CRM. Um I'm I'm also quite technically minded. So I actually set up our HubSpot by myself um on the starters on starter package and I also built um Zapia zaps to um uh do automations in HubSpot as well. So um I've yeah I kind of do everything and that anybody asked me to do um don't have a
+William Ross: Wow.
+Clare Frerk: exact title or I mean well I have a title but exact job role but um the reason why I'm interested is obviously from a reporting perspective um I've tried a lot of different um tools in HubSpot obviously like the free versions s um and I'm try quite interested to hear more about your product um and how it works because um what you guys had mentioned it is definitely a pain point um when you're dealing with sales reps and and looking at the pipeline and actually being able to report on what actually changes and why it changes um from week to week.
+ 
+ 
+00:02:05
+ 
+Clare Frerk: Um, I think that's really important. So, I'm just interested to see if that your tool is able to do that. Um, and just hear more.
+William Ross: No, absolutely. I mean, yeah, I happy to give you a quick run through of Funnel Vision. Um, Greg, if you have any other thoughts, questions, I can just dive straight into it and get into get into the fun
+Greg Petherbridge: Yeah, let's just jump into it.
+William Ross: stuff.
+Greg Petherbridge: I mean, I have nothing nothing val more valuable to add than getting into the platform. Let's go.
+William Ross: All right, let me know if this pops up for yourself. Okay, Cla.
+Clare Frerk: Yep.
+William Ross: Awesome. So, so Funnel Vision was basically built on on three three pillars, three premises. Um, the first is to surface all of your pipeline hygiene issues in one place. Uh, the second is to configure those issues so that you're tracking exactly what matters most for your own decision-m and forecasting within your sales motion. And then the third is make the necessary updates to those hygiene issues as frictionless as possible so that you can let the your sales people make those changes natively in inside Slack or Teams.
+ 
+ 
+00:03:18
+ 
+William Ross: And so what you're seeing here is the initial view of Funnel Vision. And the way you get it set up is impossibly easy. Um you just uh connect into your HubSpot environment and this usually takes two to five minutes depending on how much data is in your system. um and you're immediately presented with like a a snapshot audit of your pipeline. So you'll see um how many deals in your pipeline are stale, so they have no activity recently or how many deals in your pipeline have missing next steps or how many deals in your pipeline are past their close dates. And then at the bottom is your hygiene leaderboard, which shows you which of your salespeople are more on top of their hygiene relative to others. And so this is a really interesting way to see over time, you know, who's actually keeping on top of their of their hygiene, who's making the changes, and and you can see this as a kind of a performance incentive here as well. Uh Greg Greg used to be at the bottom, but he's actually improved on our dummy data, so I've made sure he's not at the bottom right away.
+ 
+ 
+00:04:19
+ 
+William Ross: Um, and so obviously this is just your these are just your your pre-built inbuilt hygiene issues.
+Greg Petherbridge: Thank
+William Ross: uh but every sales and go to market motion has their own specificities.
+Greg Petherbridge: you.
+William Ross: So we have this rules page which essentially allows you to create any rule or and to to alert up any hygiene issue that you care about in your sales motion. Uh and so the best way to describe this genuinely is the the limit is your imagination because we pull in every HubSpot property and you can see here every HubSpot property whether it's a custom property um associated contact or associated company. Uh I'll give you an example of one I've just built here. Really random and it's super simple. So let's say I want to know if a if a deal has a big amount, whatever that means, it's in late stage and there's been no close date assigned to it. All you have to do is you go right I want to know if the amount and you could just search for amount um and put put your condition type could be greater than 20,000 or whatever is a big amount and if your deal stage equals late stage for you and we pull in all of your pipeline all of your deal stages so you could just put in whatever is relevant here and the close date is empty.
+ 
+ 
+00:05:31
+ 
+William Ross: Then there's two really powerful features to creating your own rules. Um, so right now if this is if this button is turned off, what it means is you would always have manual control to request the update whenever you want. But if it's turned on, it becomes automatically running in the background 24/7 so that whenever the condition of the rule is met, it will automatically send an update to the dealer asking for the hygiene issue to be actioned. And what's really clever about this is what you don't want is your salesperson to be, you know, spammed on Slack or Teams with 50 plus notifications all throughout the day with these constant hygiene issues to to update. So when it's turned on, it will actually appear in a daily digest format so that they get one single Teams or Slack message at 9:00 a.m. that outlines all of the deals that need to be updated and they can go through those one by one at their own time and anything that's not been actioned will just get asked again the next morning. So rather than getting all these messages throughout the day, they'll just get one single message, which is a lot better for driving adoption and making sure the hygiene issues actually get actioned.
+ 
+ 
+00:06:36
+ 
+William Ross: And the second really powerful feature is this one here. Because what you also don't want to happen is you ask for this. You know, you've got this hygiene issue that gets triggered. Uh it goes to the saleserson. They go, "Hey, here's a hygiene issue. You need to do something about it." That they're going to have to think. We don't want the sales teams to think. So, what you do here is you you type in whatever it is you want them to update will appear as a hygiene requested field. So, you could put in, you know, if the amount's missing, you could say, "I want you to update the amount." and maybe you don't want them to update the close date. Whatever is relevant to to the rule that you're creating, you can just put it in here. And then that's that rule made. So once you've done that, once you've surfaced all of the hygiene issues and you're configuring them to say, "Hey, here are all of the things I care about in order to to determine whether my pipeline's healthy." The question is,
+ 
+ 
+00:07:24
+ 
+William Ross: what do you do about it? How do you actually fix it? So, we have this fix issues page, and this shows you all of the deals in your pipeline that have some type of hygiene issue, and you can filter this by the stages, um, any specific issue you're looking for, or also by the owner. You can click on any deal for more information. You can click the HubSpot icon to be taken directly to the to the deal in HubSpot. And so, this is a really good way to say, okay, now I've got, you know, all of my deals that have hygiene issues, you can you can track them here. Uh now obviously I won't wait until 9:00 am tomorrow to show you uh the Slack interface. Uh so I'll just do a manual request. So I'll just go in my deals here and all these are all my deals with issues and we can sort by one that's got quite a few. So let's say I want to know about deal R. Right.
+ 
+ 
+00:08:10
+ 
+William Ross: So deal R has all I have to do is click request update and then you'll see here I instantly get a Slack notification. Oops, there it is. So you can imagine from the perspective of the receiver of this notification, they don't need to know funnel vision exists. They don't need to know HubSpot exists. They can be on their mobile phone or on a train at the airport, wherever it is that they're working without breaking their workflow. They just get asked, hey, here's a I've got I need to update DR. They just click it and they fill out a really simple form. We don't have any companies in our dummy data, unfortunately, because it's all dummy. So we we don't have that information. But okay, the amount's not been set. What's the amount? Oh, it's meant to be 10,000. The close date's also missing. It's not There's no deal. There's no close date with this deal. Okay, maybe it's meant to be end of April.
+ 
+ 
+00:08:57
+ 
+William Ross: And currently, there's no next step for this deal. Okay, so maybe it's schedule meeting with CFO. And what's really clever about Funnel Vision is it tells you tells you what the current value is of that property. So, if the if the close date was in the past, it would tell you what the current value was. Or if there was already a next step in here, it would tell them, hey, here are all the previous next steps. So they always have that contextual information. So the salesperson just goes, "Okay, update that deal." There you go. And that's it. Tells them what they've updated it with. You can view it in HubSpot here to make sure it's actually gone through. So you see here the amount has gone into 10,000. The close date is the 30th of April. And if we go look at the next step, schedule it to be the CFO. And it tells you the it logs the date of when that next step was tracked as well.
+ 
+ 
+00:09:41
+ 
+William Ross: And that's it. That's the basic premise of Funnel Vision. surface all those hygiene issues, configure them so you look and track whatever you care about the fixes happen in Slap or in Teams or whatever it is that they're working so that you can monitor it and in funnel vision that everything's been action.
+Clare Frerk: Cool. Great. What do you guys still have left to do on
+William Ross: Oh, I mean as as the product owner, the product's never quite finished.
+Clare Frerk: it?
+William Ross: There's there's there's lots we want to do. So, um on our road map is a couple things we're looking into doing. um transcriptions and call recordings so that when calls get happened, we can log the calls and do oneclick updates from the deal owners to say, you know, funnel vision will ask them, hey, based on the call, here's what I think the next step was. Here's what I think the amount is. And then the the saleserson will go yes, no, or they can edit the message as well.
+ 
+ 
+00:10:31
+ 
+William Ross: So, so there's a lot more closing the look there. Um, and we're also looking to get insights on our information as well. So we can track um the ICP of the companies because what you don't want as well is to have a sales rep that goes hey I've got all these deals in pipe and you know I'm doing great but none of those deals are actually relevant to the to to the the to the sales you're trying to close. So so we're looking to do some insights on the hygiene as well.
+Clare Frerk: Okay.
+William Ross: What was your initial thoughts on on funnel vision? Like what do you what do you think of the tool? So, does it does it does it kind of meet what you're looking to
+Clare Frerk: Yeah, I think it's great. Um,
+Greg Petherbridge: Amazing.
+William Ross: solve?
+Clare Frerk: definitely takes out a lot of the manual. um process and what I'm having to do at the moment. So, it's um definitely a great tool.
+Greg Petherbridge: And and sorry,
+ 
+ 
+00:11:24
+ 
+Clare Frerk: Yeah.
+Greg Petherbridge: I noticed um 186 digital looks quite quite small. How um you mentioned kind of dealing with a few reps. How how many would you would you deal with or or or what what's the size of the team that that you kind of see um at the
+Clare Frerk: Yeah, it's very small. So,
+Greg Petherbridge: moment?
+Clare Frerk: um we we have we've got like about like 10 people in our company. So, we we are very small
+Greg Petherbridge: Okay. And how how many like sales reps or people owning pipeline?
+Clare Frerk: like six
+Greg Petherbridge: Okay. See, so so a lot of sales people. Um Okay.
+William Ross: Wow.
+Greg Petherbridge: And do you have you have HubSpot? Do you have Slack or or Microsoft Teams?
+Clare Frerk: We have teams.
+Greg Petherbridge: Okay. Um,
+Clare Frerk: Yeah.
+Greg Petherbridge: and I suppose if you were to to play around with this or or you know take a trial, do you think could you see the team using it and engaging with it and kind of you know actually getting value from
+ 
+ 
+00:12:28
+ 
+Clare Frerk: Um, it depends, you know.
+Greg Petherbridge: it?
+Clare Frerk: Um I think I think we because we're so small um and mainly a reseller business. Um so I don't know if you know the model of reseller but you earn quite a small margin on your sales. So um you know we really have to be able to justify spend um yeah when it comes to software. So, um I'm not sure. I just depends how much it costs. It's always up to cost. Um yeah.
+Greg Petherbridge: Okay. And yeah, you mentioned um you know things around the around like the deal cycle. How many like deals would would the reps own?
+Clare Frerk: Sure.
+Greg Petherbridge: Like what what's the average kind of sales cycle for these?
+Clare Frerk: So we have I mean a big panel in my in terms of the pipeline. So I mean our pipeline sitting on about like $800,000 US. Um but as I mentioned we only get like a a small percentage of that. Um and our deal size our sort of average deal size is about $5,000 a deal.
+ 
+ 
+00:13:54
+ 
+Greg Petherbridge: Okay. Okay. Well, well, I I suppose it's up to you. We're happy to kind of give you just free access to it for now. Um the price of it at the moment, we're we're charging 3,000 a year at the moment for those who have signed up and are using it for for the full year. Um just an upfront fee. That will rise to to 5,000 once we get out of our our early adopters um pricing. But um we're really for anyone taking these feedback calls with us, we're just kind of giving them access to the platform if they want it. um just to to see if if it's something they'd use and and to get feedback on on where where we could improve or or um what you what else what other functionality you'd like out of it. So um yeah, I suppose do do you think it's something that that you consider triing or or or think would be useful to take
+Clare Frerk: Um, let me chat to the team and um,
+Greg Petherbridge: in.
+ 
+ 
+00:14:50
+ 
+Clare Frerk: I will I'll come back to you on that. I just don't want to like make any promises to you guys and then we don't like go ahead or whatever.
+Greg Petherbridge: Of course.
+Clare Frerk: So, just let me chat to the team. We've got a few changes um, coming up at the moment. So, and it might not be the right time for us to try something, but just I can come back to you on that if that's okay.
+Greg Petherbridge: Brilliant. No, of course. I I mean, yeah, even if if our engagement stops at this uh this call alone, we're really grateful for kind of taking a look and and just giving us some some candid feedback. So, yeah, I think may maybe we'll um I'll just follow up with with kind of an email of our of our website and just a little breakdown of what we do. If if you do want to share it with the team and um you want to to give it a go on a free trial,
+Clare Frerk: Cool.
+Greg Petherbridge: we're happy to to to jump back on another call and get that set up for you.
+Clare Frerk: No problem. And I'm happy to um engage in your LinkedIn posts or share your stuff or whatever. So um please connect with me. I know that I think we have connected. I'm not sure but um whatever you guys post or whatever I'm happy to give it a comment
+Greg Petherbridge: Yeah, I think brilliant.
+Clare Frerk: or a share.
+Greg Petherbridge: Well, the social plan we we kind of just have the LinkedIn account made just to have it on our LinkedIn so that people know what we're doing. But um I think the the marketing strategy is is kick going to kick off a little more from next month. So, uh yeah, hopefully uh see you engaging with with our content from then. All right. Well,
+ 
+ 
+Transcription ended after 00:16:33
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

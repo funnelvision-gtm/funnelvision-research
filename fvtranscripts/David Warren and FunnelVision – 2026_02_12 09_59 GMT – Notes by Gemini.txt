@@ -1,0 +1,414 @@
+﻿Feb 12, 2026
+David Warren and FunnelVision - Transcript
+00:00:00
+ 
+William Ross: Yo.
+Greg Petherbridge: Y
+William Ross: Oh, any news on um Victor being moved on Friday?
+Greg Petherbridge: Victor.
+William Ross: Wicked. Wick,
+Greg Petherbridge: Yeah,
+William Ross: whatever his name is.
+Greg Petherbridge: I missed
+David Warren: Morning.
+William Ross: Hi,
+Greg Petherbridge: him.
+William Ross: David.
+David Warren: How are you doing, sir?
+William Ross: I'm very good, thanks. How are you?
+David Warren: Yeah, not bad at all. Not bad.
+William Ross: been a been a been a busy
+Greg Petherbridge: I have it.
+William Ross: week.
+David Warren: Yeah, lots of meetings, lots of discussions.
+William Ross: Amazing.
+David Warren: Sorry, all the hassle around trying to find a time.
+William Ross: Well,
+David Warren: It's just my meetings have moved around quite a lot recently and things keep dropping in. So,
+William Ross: no, no, of course. Well,
+David Warren: um
+William Ross: great. Grateful for the time, honestly, and uh and yeah, I appreciate uh taking the time to have a chance. Hopefully, this be a nice fun conversation. Hopefully will be nice energized but I would love to know as well but um happy to give you some background ourselves why we're taking the call but really interest what's going on with yourself you mentioned you're on a role just now but you're busy with meeting so what's what's going on with yourself
+ 
+ 
+00:01:04
+ 
+David Warren: Yeah. So, um, yeah. So, I'm just taking some time out really to to connect with my network, looking for my next role. Um, so, yeah, I think you, yeah, you'll see I was at Daisy Education and I was, um, managing a team of 10 salespeople.
+William Ross: Yeah.
+David Warren: Um but yeah um kind of came to that come came to an end and uh yeah just really doing a lot of networking reaching out to my network um seeing what other opportunities are
+William Ross: Heat.
+David Warren: out there and taking some time out with the family and we'll seeing what uh seeing what the next kind of challenge is really. Um, yeah. So, when I saw your your connection, I had a little look on uh on your demo on the website and that kind of thing and it intrigued me a little bit because I've even though I'm quite long in the tooth when it comes to sales and had some really senior roles in uh in organizations, um I've I've got quite a track record with startups. So, I've been quite hands-on with HubSpot.
+ 
+ 
+00:02:01
+ 
+David Warren: kind of talked I I uh I taught myself um HubSpot and kind of built build up the sales processes from scratch. So a lot of the quite a few times I've gone into an organization built all of the processes um to took the company to market with a new solution and then um taken the company to like the next VC raise and then built out the sales team and and trained them on the processes which I've defined. Um, I find it's a hell of a lot easier doing it that way and building out a team when you've owned and experienced the process of firsthand, um, than it is when you go in and you adopt something that's, you know, um, a team that's already established in a sector that you might not be familiar with and the processes are kind of a bit um, or already there and you you got to refine them and that kind of thing. So, it was what you're doing was interesting to me. So, I thought I could add value in the conversation. um seemed like an interesting conversation especially with what stage you're probably at.
+ 
+ 
+00:03:02
+ 
+David Warren: Um so yeah, so tell me
+William Ross: Yeah, absolutely. Yeah. Um, yeah, as you say, I think your feedback and insight could be really useful.
+David Warren: more.
+William Ross: Um, I guess, um, kind of a bit of background on us. We we all there's there's four co-founders. We all come from a a bit of a variety of background. Greg, Greg is a salesperson through through and through. He was at a company called Pigment, one of the top performing BDRs there. Um, I have a more a wide range. I started as a government economist for like three and a half years. Um, and then moved into technology from there. I think three and a half years in government was was enough time. Um, especially we were I was there over uh over COVID. So there was that team with four secretary of states and shenanigans were going on. Uh so went into technology consulting and eventually the revops route and our other co-founders are in the kind of VC backed B2B SAS companies specializing more in the partnership side.
+ 
+ 
+00:03:53
+ 
+William Ross: Um and then we kind of all came together and started a consulting company uh to to scale usually VC backed high growth B2B companies um generally seed series A size and then from there we kind of pivoted now into into into product largely because across all of our expertise we realized that there was a really common denominator which was data hygiene and particularly pipeline hygiene and what that led to which was like bad forecasting or if forecasting. Um so we thought how how could we you know solve that largely for for our client base and then obviously maybe
+David Warren: you
+William Ross: productize that as as well and um and yeah so that's kind of and then being more of a data purist I was very big on you know solving root cause problems rather than just you know slapping on technology. So I thought well if we could take a blank canvas how would how would you how would you solve data hygiene and the premise of it was really that context lives with the sales guys but the people who care about it are over here the the the revops leaders the sales leaders and there's kind of discrepancy between the two so the idea was how do you use technology to enable that context to to filter through the system very frictionlessly so there's no there's no friction required rather than just expecting behaviors to change on the sales team because what you want them to do is focus on what they do,
+ 
+ 
+00:05:11
+ 
+William Ross: closing deals or winning deals or you know or finding opportunities rather than tool switching. Um so that was kind of the basic idea of funision and obviously I can give you give you a quick demo and walk walk you through how it looks but does that kind of resonate at all or do you go sit there thinking what the heck are these numpties talking about? What what the hell
+David Warren: know, it resonates a lot. It's just why we're having a conversation. So, I don't think I've um I've worked at places and built sales teams where forecasting's been really good in certain cases, but pretty much always, no matter what you've got put in place, you've got Excel spreadsheets and other things kind of going on to support what what's in there. Generally speaking, HubSpot's pretty good. Um lot better than my days of using Salesforce in the past. Um, usually we kind of I've always with Salesforce, it's a it's a good few years since I've used it to be honest, but um I was always looking for tools to plug in on the marketplace and there's one called pipeline manager
+ 
+ 
+00:06:13
+ 
+William Ross: Yeah.
+David Warren: that sticks in my mind where I to try and get a bit more granular detail and and in a bit more robust forecasting and Salesforce Salesforce is rubbish. you always need extra. It's a good foundation for enterprise level, but you always need like plugins and add-ons to get it to do what you wanted to do. HubSpot's a lot better. Um, the place I've just come from had a had a bespoke CRM which was really niche to the industry which generally means the functionality is not as good as the kind of big more general tools. Um, but the forecasting was really robust there. But it was all done um wasn't all done in spreadsheets, but you you basically took the it was it was a mixture of taking the numbers from what the CRM was telling you and what we'd got out of that, but then also having real-time conversations with the reps and every sales meeting and take their numbers down and and compare it with what was in the CRM and through a mixture of witchcraft and um Yeah, artistic license and experience, you kind of get a feel for what the pipeline looks like.
+ 
+ 
+00:07:22
+ 
+David Warren: Um, but I think for me, when I had a look at your demo, I'm being totally honest, there was bits of it I thought I would do that slightly differently in HubSpot or there's functionality in a HubSpot that would either duplicate what you've got on there or I could achieve certain things in HubSpot. What I don't I guess what I didn't like and I guess this is me just having please feel free to challenge me because this is me just having a brief kind of scan through is is the idea of duplication. So quite often as a sales leader you get not emergency meetings but you get asked on the spot right where are we at? You know what's the forecast? What's the pipeline looking like? And it's changing in real time. So the last thing that you want to do is have another kind of is then go back to your sales guys and go look the numbers aren't right, the forecast's not right. Can you update? Because they're in meetings, they're having customer calls and it takes them time.
+ 
+ 
+00:08:21
+ 
+David Warren: It might take them, you know, if you've got a big team, it might take more than a day for them to actually go back in and amend what's wrong if it's not already right. So what I always do when I'm building pipeline is to try and build in as much of a process where they have to follow a procedure without almost thinking about it and that gives you the for I'd want that to give you
+William Ross: Mhm.
+David Warren: a forecast is is it's almost impossible to do right but try to give you a forecast that is robust so when you do get put on the spot by maybe the CEO or whatever you're able to kind of go Right, this is where we're at and the numbers are already there rather than a list of things that need updating somewhere else because the initial data that's been put in isn't up to date. You want you want reps to basically update stuff in real time, right, as they're kind of going as much as humanly possible.
+Greg Petherbridge: I suppose that's also part of what we're trying to do is like the positive reinforcement or maybe negative reinforcement
+ 
+ 
+00:09:16
+ 
+David Warren: So,
+Greg Petherbridge: where it's like if they get into the habit of if they're in the habit of not updating the deals as soon as they should be after a call a client call and and you know they they don't finish the day by updating the CRM if that's the process they're in well then the nudge the kind of consist consistent nudge of listen you haven't updated your deals you haven't updated your deals what we've seen from some of the teams we're working with is that's changed behavior over time so as reps who used to formerly be quite ill disciplined about their how they'd update their their deals just the sheer idea of having to um you know potentially get that annoying nudge or have someone someone kind of um come from the top to say listen you're not on top of your hygiene we've seen their hygiene improve over time so yes we're not an analytics platform form and we're not the we don't have your forecast, but I suppose we're not trying to rip up too much of that because HubSpot and CRM have all that functionality.
+ 
+ 
+00:10:16
+ 
+Greg Petherbridge: All we're really trying to tackle is just the the data behind it all and and kind of how reps behave and engage with the CRM um and just kind of by consequence of that, your forecast and your reporting isn't as um kind of up in the air or waiting on updates. You're hoping that those updates kind of the amount of updates you're waiting on reduce over time.
+David Warren: But cool. Do you want to run through a demo and I'll probably get a better idea
+William Ross: Yeah,
+David Warren: of
+William Ross: absolutely. Let me learn if that pops up for yourself. Okay.
+David Warren: I'm just going to pop you on my big screen.
+William Ross: Yeah.
+David Warren: I'm not looking at yet cuz we
+William Ross: Don't worry, I can't see anyone, unfortunately. It's just just me and my me and my final vision screen.
+David Warren: all
+William Ross: Is that okay?
+David Warren: Yeah, I'm just um I don't need to Google me very much. Let me I will make it bigger. Yes. Well, you don't know how I make that big idea.
+ 
+ 
+00:11:35
+ 
+David Warren: Just just so I can see the actual actual demo a bit larger. I'll just put my glasses on. It's all right. Okay. Shoot. Not
+William Ross: Oh, good. Perfect.
+David Warren: good.
+William Ross: So, so you see, so you've seen if you've seen the demo on the on the video, you'll a fair bit this will be will be familiar, but just for a bit of additional color and context. Um, so Final Vision was built really on on three three pillars.
+David Warren: What? Sorry. Sorry. I'm sorry. What stage are you guys at,
+William Ross: One,
+David Warren: by the way? Like are you have you raised funds or you kind of preede?
+William Ross: so we're bootstrapping.
+David Warren: Where where were you at?
+William Ross: So we still have our our um consulting arm uh running in parallel to this. So a couple of our co-founders are basically running that side fund there are being used to distribute into into funnel vision so that this this can run.
+ 
+ 
+00:12:22
+ 
+David Warren: Where's
+William Ross: And we've got our CTO on board as well. And uh it's really just going going gung-ho with go to market and seeing how this lands in the in the in the industry market really.
+David Warren: the product at? Is this an MVP I'm looking at
+William Ross: It's like version one. So it's ready to go ready to be monetized.
+David Warren: or
+William Ross: Um obviously we've got we've got a clear road map ahead for the for the next I would say 6 to 12 months.
+David Warren: what are you guys doing on a consultancy basis? Have you got what's your expertise in the consultancy side of things that you're doing on the side or is the main
+William Ross: uh broad. So the so like I said so so Greg's a on our sales background through and through top perform pigment so he does a lot of the execution side there um training up the reps build putting the processes in place obviously specialized in a lot of outbound as well um other co-founders are really zero to one straight go to market experts they've done
+ 
+ 
+00:13:12
+ 
+David Warren: All
+William Ross: uh general manager positions head of partnerships really scale VC back companies from zero to 0 to 5 mil in like 12 months. So their their that's where their expertise is in and uh I often came in as like a bit of revops background but I focus primarily on funnel vision across the last four or five months.
+David Warren: right. What's this built
+William Ross: Uh so this is built in mixture we the website obviously was built in lovable we've got some superbase
+David Warren: in?
+William Ross: uh did a lot of it this in Azure as well
+David Warren: Okay. There's no paid customers yet.
+William Ross: uh we've got no no paid customers we've got three live customers we've got four partnership agreements signed um and yeah so so hoping a few of those live
+David Warren: Are you
+William Ross: part those live customers will get converted into paid ones.
+David Warren: looking to raise or
+William Ross: Um I one of the things not not seeking it but if the opportunity came up potentially but uh we're pretty pretty stretched thin on time wise regarding that.
+ 
+ 
+00:14:26
+ 
+William Ross: So it's it's one of those question we we we have gone through the race process before we even had the MVP um and it just sunk up a a lot of time and effort.
+David Warren: All right. No worries.
+William Ross: No worries. Any other any other questions? This is really really useful stuff.
+David Warren: No, no, just um as they pop into my head if you don't mind.
+William Ross: Yeah, of course. No,
+David Warren: I'll
+William Ross: absolutely. Just just stop me whenever.
+David Warren: look.
+William Ross: Don't worry. Um, but yes, like I said, a lot a bit a bit of CL context. So, a lot of this will be familiar with yourself. Um, the funnel vision was really built on that on three premises. One was surface all of your hygiene issues in one place really cleanly. Two was configure those issues that you're tracking what matters most to your sales and go to market motion. And then the third one was make those issues easy to fix and make them frictionless for the people responsible to make the updates.
+ 
+ 
+00:15:15
+ 
+William Ross: Um, so to get set up is really easy. You just literally plug into your HubSpot environment and this takes like two to five minutes depending on how much data there is. And then you're instantly presented with like a a very simple snapshot audit of your pipeline. So how many of your deals are passed or closed date or have missing next steps or how many are stale? And at the bottom is your hygiene leaderboard which shows you which of your which of your deal owners more broadly are more on top of their hygiene relative to others. So it's a really fun exercise to see you know who who's keeping up to date with this who's tracking this over time. But obviously every sales and go to market motion have their own specificities. So we have this rules page on the left hand side which lets you configure and create your own hygiene rules so that you can track whatever is that matters most to you. And really the best way to describe this is that the limit is your imagination because we pull in every HubSpot property whether it's a custom property or associated contact or associated company.
+ 
+ 
+00:16:10
+ 
+William Ross: So you can really track anything and everything. Uh so as like a very stupid simple example just to illustrate let's say you want to know if your deal is in its late stage. So it's you know in discovery or in or or an early stage or lead and we pull in all of your pipeline and all of your deal stages here. So you can whatever it is that's in your system will be reflected. Um, you want to know if your lead source is empty or your next step's not been updated in like 10 days or if your sales methodology is anom or medic or medic or whatever other fun acronym you use. If you want to know if they're empty, you can surface that as a hygiene issue. And the really powerful feature to creating your own rules is this button. And so basically, if this is turned off, all it means is that when you create the rule, it will still be surfaced as a hygiene issue. Um, and you'll just have manual control and whenever you want to request the update.
+ 
+ 
+00:17:02
+ 
+William Ross: But within the ethos of Funnel Vision, the idea is lightweight, simplicity, and no friction. When this is turned on, what that means is whenever the condition of the rule is met, it will automatically send an update to the deal owner to to to fix the hygiene issue. Now obviously what you don't want is that person in Slack or Teams to be spammed like 50 plus times all throughout the day with constant hygiene issues whenever they get triggered. So our clever workound is a daily digest format so that whenever this is turned on this the the deal the deal owner will get one single t Slack or teams message that outlines all of the deals that have been triggered in the last 24 hours and so they can work through those one by one at their own time and then whenever it's not been action we'll just get asked again the next day. So the idea here is you can really just configure your rules, set them to automatically request updates, and then Funnel Vision will pretty much do 90% of the work in the background 24/7, and you don't not only does the deal owner not need to know Funnel Vision exists, you barely need to log into Funnel Vision.
+ 
+ 
+00:18:03
+ 
+William Ross: Um, and so that's the basic premise there. So once you've done that, once you've surfaced the hygiene issues, you've configured them all so that you're tracking what matters most to your pipeline, the question is, you know, what do you do about it? How do you actually action things? And so we have this fix issues page on the lefth hand side and this shows you every deal in your pipeline that has some type of hygiene issue. So you can filter this by the owners, any stages, any specific issue you're looking for. You can also see your pending requests. So this is probably if you if you ran Funnel Vision in the background for most of the the the tasks you could literally just log into Funnel Vision and go, okay,
+David Warren: Right.
+William Ross: which which deals have been asked in the past and haven't been actioned and are they worth escalating? And so it's very minimal, very light touch oversight you would ever need for Funnel Bush. Um, and so just to give you an example of how the kind of workflow would look in terms of receiving the update, obviously I won't keep you till 9:00 a.m. tomorrow.
+ 
+ 
+00:18:57
+ 
+William Ross: Um, I'll show you some here all of my deals that I own that have hygiene issues and we can filter sort them by uh which ones have the most issues. Um, so let's say you want to look at this deal and you just want to say, okay, I want an update on this deal. You would just click request update. You see, I instantly get a Slack notification that says William is or, you know, William's been going to ask for this update. So, from the perspective of the person receiving this notification, they don't need to know Funnel Vision exists. They don't need to know HubSpot exists. They they could be on the train, at the airport, on their phone, wherever it is that they're working in their workflow without breaking friction or without context or tool switching. They just need to go, okay, I need to update this deal. What do I need to do? And it's a super simple form. So it tells them exactly what they need to do. The amount is missing.
+ 
+ 
+00:19:41
+ 
+William Ross: So you could say it's maybe maybe it's 10,000 for this deal. The currently there's been no next step. So maybe it's schedule meeting with the CFO. Oops. And currently the close date set in the past. It's currently for February, which obviously we don't want in the pipeline. So maybe they need to push that out to April. They update the deal and that's it. It tells them what they updated it with, 10,000. Uh it tells them the the date at which the next step was logged. And here's part of the queueing/daily digress system where they can now go through the other deals that I have that I have hygiene issues for and work through them at my own time. And really that's it. That's the basic premise. Surface those issues, configure them, make them frictionless to update in Slack or in Teams so that there's no there's no context or tool switching.
+David Warren: Okay. What integrations have you got? So, is it HubSpot and Slack and email
+ 
+ 
+00:20:32
+ 
+William Ross: So we've got HubSpot,
+David Warren: three?
+William Ross: Slack, and Teams.
+David Warren: But you send emails as well like the daily updates. Is that in Slack Teams?
+William Ross: So they'll be in Slack and Teams.
+David Warren: No, there's no email integration. It's not an email daily digest kind of
+William Ross: Not
+David Warren: thing.
+William Ross: yet.
+David Warren: Okay. Interesting. I like what you've done.
+William Ross: Appreciate it. Yeah. honestly happy to uh you know rip into it, dig into it like what what because you mentioned some things as well that you said you would do a couple things differently as well
+David Warren: Yeah, it was more that it was like the list of rules that you've got.
+William Ross: and
+David Warren: So, it's um so example when I've it's been a little while well couple of years since I've built a HubSpot process for a sales team. Um but things I guess there's things in HubSpot that I felt I'd be able to achieve um sort of the hygiene side of things. So when you move something into a when you move a deal into the next stage you can force mandatory fields things like that.
+ 
+ 
+00:21:38
+ 
+William Ross: Mhm.
+David Warren: So if you've got um so in terms of next steps usually what I would do is once once something gets to a certain stage then every time every time you move it to the next stage you would need to make sure the next step's updated. I think if I remember rightly you can make it mandate that needs filling out but maybe you can't make it mandatory that it needs updating um and how often it needs updating. Um, so I probably just I could probably do with a bit more detailed refresher on what's in HubSpot, but I just felt some of it was a little bit of I'd be able to achieve some of those hygiene um issues that you're flagging by the way you build it in HubSpot. And of course, like the the functionality changes all the time, right? They're always releasing things. Um, so yeah, that that that was more of it more of it really. I guess it'd be good to have a look at those hygiene rules really and just discuss those if you've
+ 
+ 
+00:22:38
+ 
+William Ross: Yeah, absolutes or the kind of the custom
+David Warren: got um both both
+William Ross: ones?
+David Warren: really just to understand the depth of what you've got
+William Ross: Yeah, to be honest,
+David Warren: there.
+William Ross: like I said, it's um the the pre-built ones are are relatively out of the box. So, it's things like missing your close dates, missing your next steps, if you're past your close date, if you're stale, very stale, if there's no company associated to the deal. Uh, top of my head, the other ones missing if the if the amount is missing on the deal. And on the the custom ones, really, it's like I said, it's really down to what's important for your own sales and go to market methions because it really depends on the length of your sales cycles. How often would you expect the next step to be updated? How long would you expect a deal to be in a specific stage for? Um, what fields are important at specific stages? Sometimes medics's important, but at different stages, different elements are important.
+ 
+ 
+00:23:30
+ 
+William Ross: So, that's really what the idea is is you can customize it. So, you're really just tracking what matters to your sales and go to market motion. And then once you've built them, that will just be running in the background. So, if you know,
+David Warren: those custom rules,
+William Ross: Greg
+David Warren: what what can you do? What's the depth of what you can do with those custom rules? Because what you've just described there, I guess, is you're just hitting nail on the head of what I was trying to articulate is, you know, if if you've got missing close date, missing next steps, missing automation. How I would solve that is by what I've just described, right? you'd kind of maybe you know maybe you need to do the demo that or the discovery before you would know before you make amount mandatory. So you did the discovery that gives you a good feel for the size of the company the size of the opportunity. So then at that point you make amount mandatory. So they literally can't move it on um without filling that in. I guess the the thing is is like how up to date is that right?
+ 
+ 
+00:24:25
+ 
+William Ross: Mhm.
+David Warren: It's like how how do you know it's up to date? So, it's um catching things catching closed dates in the past. Not sure if that's in HubSpot already. Um not sure how that can't really remember how that would be handled, but certainly in terms of missing information, as I say, you can make those things mandatory. It's a question of like is it is it up to date? It's another thing altogether,
+William Ross: Yeah,
+David Warren: right?
+William Ross: absolutely. And like to be honest, like I said, when it comes to surfacing hygiene issues, yeah, obviously a bit of this is replicable in HubSpot. Like it would be crazy if it wasn't. Where funision really comes in is is closing the loop because surfacing problems doesn't solve the problem, right? So if I, you know, make it up, I can tell you any any problem that exists in the world, but like it doesn't solve it. just just telling so if you tell a sales person hey here's a problem that doesn't solve it what solves it is they have to action it and the problem currently is they have to action it inside HubSpot and that's that's the critical difference which is that that means tool switching context shifting breaking their workflow from what they want to do which is closing deals so that's where that's where what the one of the key values of funnel vision is which is not only are you
+ 
+ 
+00:25:38
+ 
+William Ross: surfacing the hygiene issues and more complex than HubSpot offers but the fixes happen natively where the sales team are already working. So you get more reliable forecasting data. You get more reliable CRM data. And then the other side is even what can be surfaced in HubSpot requires a lot more m it's a bit more brittle requires a lot more workflow management. A lot it's a bit more brittle to to to uncover. So funnel vision just makes that a bit easier. So you're right like there is absolute workarounds. you know, and you could get really clever with like Zapier and N integrations, but in terms of simplicity, that's really where that why the funnel vision comes in.
+David Warren: Yeah.
+William Ross: It's this idea of really closing the loop on on hygiene and making sure that the data, not just that the data is clean, but the people responsible with the data, it's not a burden to them and the people need to surface the data, it's not a burden to them. Um because what we found across almost any size of company we've spoken to is there's you have some p what I would consider like revops purist that would just expect the sales team to work in HubSpot and they're going but why I don't close deals in HubSpot that's not where I work I don't care
+ 
+ 
+00:26:45
+ 
+William Ross: about HubSpot I care about you know as you maybe emailed Slack teams calls that's that's where I do my job and so if the expectation is to completely change the behavior I've seen it happen. It's just it's it's difficult. It's really hard to to have a whole cultural adoption into everyone needs to live in the in the CRM. So So yeah, so you're right. So So there's this, you know, funnel vision is not being candid. It's not a one-sizefits-all and every com every company on the planet should use funnel vision and it's all everyone's going to benefit from it. That's that's not the the case at all. I've be I have a little bit of an ego, not that much of an ego to my to my name.
+David Warren: Yeah. Does it um if you needed a field updating that's already filled out, does it surface that information within Slack and say look this I
+William Ross: Yeah. Tells them what the previous Yeah.
+David Warren: think and the current I'm show you what the
+ 
+ 
+00:27:36
+ 
+William Ross: what the previous value of the property was as well. Yeah.
+David Warren: current was and say look I think I think you need to update this from what I know already.
+William Ross: Yeah. Yeah. So like for example,
+David Warren: Right. Okay.
+William Ross: if the next step's not being updated in 10 days and there's already been like even like three next steps, it'll say, "Hey, here all here were your here are your current next steps, but it's not been updated in 20 days. Need to
+David Warren: Yeah. Yeah. So, there's feels in um it's been my last company didn't use HubSpot.
+William Ross: update
+David Warren: So, I'm it's kind of like I'm trying to drag out memory of of using it, but I used it pretty extensively before that. Um because there is functionality HubSpot in your deals on the pipeline deals. You can surface how how old the last update was, right? So you can and I think that you I think you've got that functionality, haven't you?
+William Ross: Yeah,
+ 
+ 
+00:28:24
+ 
+David Warren: Where you can actually say, "Look,
+William Ross: you can start.
+David Warren: this hasn't been updated in 20 days. Can you update it?" Right. Look, I like I like what you've done.
+William Ross: Mhm.
+David Warren: I think it's interesting. I think it would need Yeah, it's one of those ones where I think you you know, you'd want to be trial, you'd want to you get customers to try it. Like if I was going to use it in it, I'd want to trial it and just see what the value was like. that that feedback from the reps and obviously from the head of sales is going to be really is going to be massively valuable. It's like you can't really see the value in these things until you've actually tested them. Do you know what I mean?
+William Ross: Yeah, of course.
+David Warren: It's like you might put it in place and then they go actually it's not you know we're more buttoned up than
+William Ross: And then
+David Warren: we thought or um it's when you go in and forecasting is an issue um or the hygiene is an issue.
+ 
+ 
+00:29:10
+ 
+David Warren: It isn't always the case. Depends on how it's being built as well. But um I like what you've done. I think is your plan to go down a premium kind of model? Is that what you're thinking?
+William Ross: Uh, not really. We're actually planning a lot in the partnership place. Um, we we've we've signed a few like diamond or platinum, whatever the the or elite, whatever you call them, HubSpot partners and a few RevOps agencies. Um, and we think that's probably the best place to go in because these com these agencies and and partners know the problems of their clients more intimately than we do. So, the discoveries become a lot easier. And as I mentioned before,
+David Warren: How
+William Ross: a couple of our co-founders, their their bread and butter was partnerships. The ability to to expand and scale from that point is a bit a bit easier and it leans itself very nicely into the HubSpot ecosystem as well because it's such a plug-in in play. So, there's not really a friction in terms of adoption or in terms of like it's not it's not a new tool.
+ 
+ 
+00:29:58
+ 
+William Ross: It's not a new learning curve. It's not really even a new platform or or stack or anything. So, um, so that's kind of what we're leaning into there. And so, we'll have a free trial. Obviously, our partners will have it on for free and the pricing model will be in conjunction with how simple Funnel Vision is very easy. It's just a flat annual fee and it's basically unlimited users, unlimited usage, and it's just a one-off fee for the year to get their buy in, get them using it, and then that's it.
+David Warren: long would the free trial be?
+William Ross: Uh like I said, I planning for about two weeks. Um but obviously as as we're rolling this out, we can be reasonably flexible. Obviously, we've had we've had one early our earliest user who has been out there from even when the product had problems and gaps and holes. They've been on it for about four or five weeks. Um and since probably mid January to late January, we've got feedback from them to say, you know, it's it's going very well.
+ 
+ 
+00:30:50
+ 
+William Ross: They've made like about five six hundred updates. the the reps to love it because they don't need to do anything. So, um we're giving them a bit more free time because they were such a nice people to us. So, we're hoping by end of February we'll try and convert them into into a paid customer.
+David Warren: And then have you got an idea what you're going to price it
+William Ross: Yeah. So, for our initial users,
+David Warren: at?
+William Ross: we're looking about 3,000 and then 5,000 for anyone going after we're we've we've got a few a few paying customers.
+David Warren: Right. Okay. Um, you know, have you have you signed the agreement with HubSpot yet? Are you going to be on the
+William Ross: Yeah, we've got them.
+David Warren: marketplace?
+William Ross: So, we we're on the HubSpot marketplace as well on on Microsoft and Slack as well.
+David Warren: And is that so could I go on the HubSpot marketplace right now and purchase get on free
+William Ross: Yeah. Yeah, you can.
+ 
+ 
+00:31:38
+ 
+David Warren: trial? So you you guys on the verge pretty much on the verge of having paying
+William Ross: Yeah. Yeah. Exactly.
+David Warren: customers.
+William Ross: So, we're we're we're really really really close to being there. And I said what we've we've got our couple really big HubSpot partners that we've signed.
+David Warren: Okay.
+William Ross: Once we get a couple wins that are there that that will go public and then that's when hopefully we'll get some because we've not done any work really on the marketing side, the website even even on the of the hub marketplace. We've just not had the time to really dive into those resources. has been a lot on getting customers, getting the product, getting feedback, iterating the
+David Warren: Yeah. Yeah. Yeah.
+William Ross: product,
+David Warren: Excellent. How did you find me? Yeah. Did you just use sales nav or you got like
+William Ross: just manual. Everything's really manual at this point. Just LinkedIn,
+David Warren: we
+William Ross: researching, checking things out, different checking out different titles, see what sticks mean.
+ 
+ 
+00:32:23
+ 
+William Ross: Me and Greg have done outbound on Funnel Vision for I don't know how long, what, four, five, six weeks. just just being
+David Warren: could head of sales kind of stuff. No, I I like what you've done,
+William Ross: Yeah,
+David Warren: guys. It's really interesting.
+William Ross: appreciate
+David Warren: I think um no I've got a I've got a great I've got a good network of I'm always kind of c
+William Ross: it.
+David Warren: especially at the moment I'm catching up with a lot of people who are in tech in in startups and in sales and um I'm always looking for kind of you know ways to make things more efficient I think um one thing which I think um don't know if it resonates with you I think I've been in SAS businesses for nearly 20 years and I think uh we tech businesses are always much more innovative with what they use, right? They're always looking to be more efficient. They always have a bigger tech stack,
+William Ross: Yeah.
+David Warren: especially like a sales and marketing tech stack than other businesses because it's just in the culture, right?
+ 
+ 
+00:33:16
+ 
+David Warren: Because you're kind of selling something to try and make people's lives more efficient. So, you kind of it tends to just be inbuilt in you to kind of always keep an eye out on what's can make things more efficient.
+William Ross: Yeah.
+David Warren: Um, I think personally it'll depend on where I end up and um, you know, if there's sort of hygiene issues with a team that you are using HubSpot in that organization personally, but certainly um,
+William Ross: Absolutely.
+David Warren: it's always good to have these kind of conversations and if I come across my peers having sort of issues and that kind of thing, I'll I'll certainly spread spread the word for you. I think it's it's one of those ones where you just got to try it,
+William Ross: That's
+David Warren: haven't you? And you got to kind of see kind of how it's how best it is. And I think you guys that feedback will be invaluable for you around kind of how much difference it's made for people
+William Ross: absolutely
+David Warren: and um getting the feedback from from the reps.
+ 
+ 
+00:34:05
+ 
+David Warren: I think it'll help it'll help the reps as well. You know what I It's like I've been in a lot of organizations where I'm literally asking for updates every single day and chasing people and getting annoyed and um you know if if it kind of takes away that kind of friction and makes it easier for the rep to update things as well um then then great.
+William Ross: No,
+David Warren: Um so
+William Ross: I'm really really really grateful grateful for that that um offer obviously yeah early early users and feedback is really really I mean not to sound stupid but it's not as valuable as a paying customer but it's it's equally it's very valuable feedback and I was going to ask because when you mentioned at the beginning you've got quite a a varied background and you're exploring What what what do you have an idea of what you're looking for in your next role? Are you looking for tiny tiny three person startup you want to run like chief chief of stuff there or you wanting to go 10,000 plus org and
+ 
+ 
+00:34:56
+ 
+David Warren: Um,
+William Ross: just
+David Warren: I'm really I'm really openminded. I think a lot a lot of it really is is identifying the opportunity and where where I can add the most value. Um, and then and then what what what I feel is a good fit. So, um, yeah, I do a lot of consultancy bits and pieces on the side. So, a bit of fractional work here and there, but then then every now and again you get pulled into more of a full-time role. um because you know the you're doing a bit of consulting for somebody and then they're like oh could you come and actually do this you know this project or could you come on board for a year or to get the team up and running or whatever it may be. So yeah I'm really kind of open-minded about that side of side of
+William Ross: Yeah. So, but I won't I won't bombard you,
+David Warren: things.
+William Ross: but if we come across anything that looks interesting, um, I'm happy to to share it along with yourself as well.
+ 
+ 
+00:35:41
+ 
+William Ross: Um, but I know you've got a pretty extensive network, but I always like to make sure that, you know, it's not just not just here asking, begging, like, please, you know, help me out. I'm always keen to make sure we can reciprocate whatever wherever and however we can as
+David Warren: I really appreciate it.
+William Ross: well.
+David Warren: I mean um just I guess a little bit more meat on that is so um the last few years I've done a lot of cyber security stuff.
+William Ross: Okay.
+David Warren: So I've been in help helped a lot of um cyber security companies go to market. Um uh I've yeah I've done a lot of kind of small uh startup stuff. So getting them through the first sort of first, second, third kind of raises. Um but then you know then things a little bit bigger than that as well. So cyber's I guess a big strength to my certainly recently um obviously it's a big big growing sector. Um anything related to AI at the moment is always kind of always of interest as well.
+ 
+ 
+00:36:26
+ 
+William Ross: Mhm.
+David Warren: It's um seems like all the VCs just if it hasn't got AI in the title then they're not that not interested. Um but of course it's there's a lot of kind of um I guess there's a lot of kind of frogs in that space as well where everybody in that car was say everybody in that uh is saying that they've got an AI solution and it's not really kind of it's not really AI or it's AI for the sake of it and um it's got to be kind of in the right context and used in the right
+William Ross: Yeah.
+David Warren: way.
+William Ross: Yeah. Well, that's actually good to know actually because one of the um partners we're trying to work with just now, he had a potential client for Funnel Vision that is a cyber security company. So, we're trying to sell into them. It's secretive enough that he can't tell us the company's name until they've agreed to meet with us. So, we're waiting to hear it till we get that fingers crossed we get that meeting with them and obviously try and wow them
+David Warren: Right.
+William Ross: with funish but if it goes well obviously I'll keep an eye out and see you know try and put some and stuff.
+David Warren: Yeah. Yeah. Absolutely. Well,
+William Ross: Um,
+David Warren: keep keep in touch, guys, because it's like it's um when you're in the kind of startup world, it's like your network's massive.
+William Ross: absolutely.
+David Warren: Most of it comes most of your hires and um yeah, and kind of your you know, your advice and your kind of guidance is massive is key because you're doing stuff, everybody's doing stuff for the first time, you know,
+William Ross: Yeah,
+David Warren: um you kind of you're breaking new ground in in a variety of different ways.
+William Ross: absolutely.
+David Warren: So, being able to network and take advice from people is really important. So,
+ 
+ 
+Transcription ended after 00:38:13
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

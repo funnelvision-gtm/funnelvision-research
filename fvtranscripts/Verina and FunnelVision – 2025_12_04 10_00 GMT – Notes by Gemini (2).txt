@@ -1,0 +1,179 @@
+﻿Dec 4, 2025
+Verina and FunnelVision - Transcript
+00:00:00
+ 
+Greg Petherbridge: early adopters who will be able to kind of keep help make sure we iterate on this before going fully live. We we do have a solution that's working for a couple customers right now, but as you might have seen, we don't have funnel vision on our LinkedIn. We don't have the product launch yet. So, we're just really trying to to come to the market with a tool that really doesn't have any holes in it yet. Of course, there's going to be a long road map. Um we've got a lot of a lot of things on our mind but uh from my message you would have seen we're tackling HubSpot and Slack first and we're tackling this this kind of workflow and and and this uh this specific use case first. So um yeah just to paint the picture it's specifically focused on sales pipeline hygiene.
+Verina Cornelia: What?
+Greg Petherbridge: So we're focused on the deal level.
+Verina Cornelia: Mhm.
+Greg Petherbridge: We're not really like a dupe or any tool like that where we're we're talking about the overall hygiene of the CRM.
+ 
+ 
+00:00:45
+ 
+Greg Petherbridge: We're specifically talking deal hygiene and getting visibility on on the forecast. So yeah, just really want you to to help us out in terms of feedback, positive, negative, happy to hear it all. And um yeah, that all of these kind of RevOps conversations are really adding so much value to where we're at right now. So yeah, really grateful for for you being here and grateful for anything any feedback you have.
+Verina Cornelia: for sure. And what's the size of the sales team? That's your ICP right now. Like 500 sellers above, 500 below, 50 below.
+Greg Petherbridge: I we've started with as small as three or four. Um to be honest, it it comes down mainly to like the the nature of the pressure on the forecast in the company.
+Verina Cornelia: Okay.
+Greg Petherbridge: So B2B SAS, you know, high growth environments, VC backed companies, wherever, you know, if you're a massive uh a massive enterprise company and there's just like you're a Microsoft or something and there's not really any scrutiny on the
+Verina Cornelia: Mhm.
+Greg Petherbridge: on the sales forecast, I don't know if the the pain is going to be there enough for us to to help out.
+ 
+ 
+00:01:50
+ 
+Greg Petherbridge: wherever you're you're counting every single thousand. I think that's that's where we're where we're helping is that sales leaders who need clarity and RevOps people who are just drowning in in chasing people for updates and and making people update things.
+William Ross: Awesome.
+Greg Petherbridge: It's it's trying to make the RevOps lives easier and and give the sales leaders better clarity.
+Verina Cornelia: Mhm. Okay. Sounds good. Excited to see it.
+Greg Petherbridge: Let's go.
+William Ross: Yeah, let me share my screen and let me know if that pops up. Okay, awesome.
+Verina Cornelia: Yep. All good.
+William Ross: So really simply how Funnel Vision works is you you sync up into your HubSpot environment and within a couple minutes you'll instantly be presented with this screen and what you're seeing is some really common pre-built um hygiene issues that could exist across your pipeline. Um I think of this as like a snapshot audit of your pipeline. So how many deals are past their closed date or are stale or they have a missing amount or missing a company associated with them?
+ 
+ 
+00:02:48
+ 
+William Ross: And along the bottom you've got your hygiene leaderboard. So which of your salespeople are more on top of their hygiene than others. And this is ranked by how many issues hygiene issues they have across how many deals they have. So just for example, I have 34 issues across 28 deals. And to his to his name, Greg the seller has 110 issues across 34 deals. And so again, just to give you an indication on which of your reps are more on top of their hygiene than others, but these are just your your pre-built ones really common. And as you'll know, every sales and go to market motion has their own specificities, has their own their own things they want to account for. So we let you create your own rules. And because we pull in every HubSpot property, whether it's a custom property or associated contact or an associated company level, you can build your hygiene rule to look for any specific issue that you care about.
+Greg Petherbridge: Nice.
+William Ross: Um, so just an example of one I made randomly.
+ 
+ 
+00:03:46
+ 
+William Ross: I wanted to make a rule that if the next step was not updated in late stage, so all you do is fill in your HubSpot property. So the next step field and then you choose your condition type. So if it was updated last like 10 days ago and if the deal stage is in late stage. So you could pick like solution confirmation negotiation or whatever whatever um stages are reflected in your own pipeline. Then all you have to do is select this button which is um optional but really powerful which is to automatically request an update. And what that means is whenever the condition of the rule is met or triggered an the update to the deal loader will automatically be requested without you even needing to touch funnel vision. So you can think of this as it's running autonomously in the background 247 tracking whether any any triggers are be are being met. And then the really cool feature within this is rather than spamming a salesperson all day every day with with all of their uh hygiene issues they're having to update, it will get logged in like a daily digest format so that once a day they will get one batch message that has all of their hygiene issues across all of their deals that have been triggered in the last 24 hours.
+ 
+ 
+00:04:56
+ 
+William Ross: So they can at any point in day just go through that list and in their own time just make any fixes. So then what you're thinking is, okay, you've got all these hygiene issues that you're that you're uncovering and you've configured them to be exactly what it is that you care about as a company. How do you action it? What the heck do you do about it? And so that's why we have this fix issues page on the left. And what you're seeing here is every deal in your pipeline that has some type of hygiene issue. And you can configure this by the deal stage, um, any specific salesperson or deal owner you're looking for, any specific issue that you're looking for, and also by the close date if you wanted to look at deals that are being closed within the next x number of days. And so, just to show you how the a really simple flow would work. Let's look at my deals. And you can see these are all my deals that have hygiene issues.
+ 
+ 
+00:05:45
+ 
+William Ross: And you can click on any of these deals for more information, to see which specific issues they have, and some more details about the deal. Um, you can also click on your HubSpot icon to get taken directly back to back into HubSpot. And so let's say you wanted an update on this deal which has a missing amount missing next step and it's passed his clos date. You could just click request update and then I as the deal owner automatically get a Slack notification from from Funnel Vision that says, "Hey, Williams asked for this update on this deal. Please fill in the required information in a very simple formbbased structure. So they're told exactly what they need to fill in and exactly how to fill it out. And so you could imagine a salesperson could be on the train, at the airport, on their phone, wherever, wherever it is that they're working within Slack. They can go, okay, um, Verina's asked me for this update. What's the amount on this deal? Because it's currently not got a value.
+ 
+ 
+00:06:35
+ 
+William Ross: Okay, it's 20,000. Um, and what's the next step? Because you can see there's no next step. It could be, um, schedule meeting with Jim, the CFO. Um, and what's the close date? Because currently our our close date is in November the 19th, which is in the past. So that's not very good. And I can say, "Oh, it's meant to be in January." So I'll put it in for January 31st. And then as a salesperson, I just have to update the deal. And that's it. Done. I don't touch funnel vision. I don't touch HubSpot. I've already made the changes. This gets reflected in funnel vision and reflected in HubSpot. And there's no other pending requests. And if you wanted to see something cool, you can do request updates multiple times. And you'll see here just a little batch update. What will happen is rather than spamming the salesperson, they'll just get one update that says, "Hey, you can see all your pending deals."
+ 
+ 
+00:07:27
+ 
+William Ross: So you can see, and then one at a time, they can take action. And so that's the really simple premise of funnel vision. It is surfacing hygiene issues, letting you configure those issues to whatever you care about, and then pushing those updates straight into into Slack for the sales people to fix. in their place of work without disrupting their workflow. And you can also track whether the changes are actually being made because you can see here I've requested an update and I've not actioned it. So, it's pending. And you could literally just click on pending requests and you'll get a view on all of the updates that you've requested that haven't been actioned. Uh, and that's the gist of Funnel Vision. I hope that was quick or not too quick.
+Verina Cornelia: Ah, that's just right. Thank you so much for running me through.
+William Ross: So any we would love to get initial thoughts, impressions.
+Verina Cornelia: I think the first thought that came to mind was it's quite similar to the Salesforce and Slack integration.
+ 
+ 
+00:08:24
+ 
+Verina Cornelia: That was the first thing that came to mind. The second thought is, wow, it's going to be very easy for us to ask the AES to get an update on their deals because the biggest pain point is that they get hundreds of notifications requesting different kind of updates depending on the rule set that you've also showed earlier and it's very hard for them to just navigate show it. They end up just not doing it at all. So, I really like that deal digest and how you're able to just choose which deal you want to update within the Slack. Um, I also like how you have a dashboard to see who are the common violators or the a who keep on doing the same across very different deals instead of just one that could um impact the numbers. I was also curious to understand how you count issues on the dashboard because I saw there was a part at the end where it says the AE has 1.2 deals with issues. Do you just calculate the total number of issues you have and divide it or is it an average?
+ 
+ 
+00:09:20
+ 
+William Ross: So it's the total number of issues by their by their deals. So if it's 1.2, it means that on average they'll have like 1.2 issues across their deals.
+Verina Cornelia: Okay, gotcha. That's pretty straightforward. I think that's the first impression that I have for the tool. I really I just really like the deal digest so much. I'm like that wouldn't work. Except if the AE has like 30 deals that they need to update, then that's probably going to be a lot.
+William Ross: Yeah, exactly. But that's the beauty is they can just click see pending and then pick and choose what they what they want to do at any given time and uh and then they can just slowly get through and then you'll be able to track as well what they're actioning, what they're not actioning as well.
+Verina Cornelia: Yes, exactly.
+Greg Petherbridge: Verina, did you ever put yourself in your shoes looking at the tool? Obviously, Deal's quite a quite a massive org. Um, do you ever if you if if funnel vision was to be put into deal where do you see a fit anywhere?
+ 
+ 
+00:10:10
+ 
+Verina Cornelia: Mhm.
+Greg Petherbridge: Do you see it being more localized in a team? Um, did you imagine what that might look like within your world?
+Verina Cornelia: I did. That's why I said the Salesforce integrate because we're currently using Salesforce as our main CRM. The thing is for us, we already have a lot of automations in place and we actually use a lot of AI to solve a lot of our hygiene issues.
+Greg Petherbridge: Okay.
+Verina Cornelia: We also have a very similar functionality that you just showed earlier about like deal updates. you can directly locate them in Slack. You would have notifications. Uh we also have like what else like those buttons where they can automatically update it. So I think it would be very useful. The only thing we didn't have is the deal digest. That's why I was very hooked on it and I find it very easy for the ace to just easily update it. The thing is we are a very large sales organization more than 700 people. We also have overlays so it's pretty complex.
+ 
+ 
+00:11:10
+ 
+Verina Cornelia: So it's a huge issue for us but we also have automations in place already. That's why I was asking earlier like what was your ICP? Because if it was like a 50 to 100 sales people organization I think they'll probably find this very useful because they would have managers below them but the managers can't be on top of hygiene all the time. So I guess that's where funnel vision will give more value to the sales ops and it's usually just a oneperson rev ops.
+Greg Petherbridge: Yeah.
+Verina Cornelia: So they wouldn't have time to constantly ping anyone to like hey update your next update. They would have more valuable things to do.
+Greg Petherbridge: Yeah. No, exactly. I suppose they're the people's world we're trying to really really help with. But obviously as as you said it's different dynamics based on size of the team, how many managers this this most this job mostly probably falls on a sales manager in in a bigger team where you come on man I need to report the an accurate forecast here where it's kind of their life is all about their forecast.
+ 
+ 
+00:12:05
+ 
+Greg Petherbridge: So yeah, I I think that's one thing we're figuring out with more and more of these conversations is who we're who we're best suited to and um yeah, I mean it would be a company like deal.
+Verina Cornelia: What's that? Mhm.
+Greg Petherbridge: Obviously for now it doesn't seem realistic because of you know you guys are working with Salesforce. That's something that's um outside of our outside of our initial our initial um kind of version of the platform that that's something that's hopefully on the road map. Um but yeah, I I think it kind of comes down to uh that that kind of sweet spot of whereas someone in RevOps is just losing their mind with this and there's still a lot of a lot of
+Verina Cornelia: H because I was actually with one of our acquired companies and they were using HubSpot and their very much pain point they've always asked me to solve is how can we make sure our ease are updating their deals
+Greg Petherbridge: expectation from the top. Um but yes, I think we Yeah.
+Verina Cornelia: within HubSpot.
+ 
+ 
+00:13:02
+ 
+Verina Cornelia: So when I saw that I'm like h if our acquired company was still using HubSpot they would probably be interested but with us they just got migrated over to Salesforce so it's just a thing.
+Greg Petherbridge: Okay, that's the timing.
+Verina Cornelia: Yeah.
+Greg Petherbridge: Yeah. Um, yeah, I suppose that's who we're looking for, these uh these HubSpot users for now. William, did you have a question there?
+William Ross: Yeah. No, I was just going to ask just just just out of curiosity because obviously um I was aware that I sorry I didn't know you were on Salesforce but I do know that Salesforce have a pretty complex Slack
+Verina Cornelia: Was
+William Ross: integration which um HubSpot users don't actually have. So, uh, so I've worked a lot with HubSpot and the best that they have is a very one directional sync where you can, um, put messages from HubSpot into Slack, but you can't go from Slack back into HubSpot. So, it's like a big problem where they can surface things, but they can't action anything. And that's why a really common problem with HubSpot users is um, it's the behavioral adoption of getting the reps to make any changes because they often have to go into HubSpot and that's just a friction point.
+ 
+ 
+00:14:00
+ 
+Verina Cornelia: Mhm.
+William Ross: Um, and obviously because because we're early stage and we're trying to figure out, you know, even things like ICP or messaging, would you mind telling like what's the big value you have from this from the workflows you have with Salesforce and like the Slack integration that we could possibly embed in our messaging because whether it's like forecasting updates, whether it's um hygiene issues or time saved having to chase reps because I imagine chasing reps isn't something you need to do as much because you can just chuck them into Slack. And so just trying to get a sense on how if you were a HubSpot user, what what would be the things you'd want to hear for us to to use funnel vision?
+Verina Cornelia: Let me see. I think the two main things I would focus as a rev specialist is how can I build processes that would increase our revenue and how I can make sure the time that our sales people are spending is well spent. So what funnel vision is doing if I get it right is that you're able to decrease the amount of admin or the amount of platforms that your AES need to go back and forth into.
+ 
+ 
+00:14:56
+ 
+William Ross: Mhm.
+Verina Cornelia: If you can do everything out of Slack because you need to speak internally and just update your deals at the go, it will be much more efficient. Terms of messaging, autos synchronization is probably something people would probably very interested in because real time data is key. Let's see what else. Yeah, I would think of those two. Time revenue and autosyncs because people are impatient these days. They want everything to be done at real time. So if I was a oneperson revops team, I think automating those notifications is already enough.
+William Ross: Yeah, absolutely. It makes sense. I guess the way to think of it is like if you for for whatever reason didn't have the Slack and Salesforce integration, what would you want to hear, you know, from from that side to
+Verina Cornelia: Like that would already be a selling point to me. And the difficulty I forecast I would have is probably selling it internally because it's al only solving a pain point for me depend on how the AEES look at it.
+ 
+ 
+00:16:04
+ 
+Verina Cornelia: Do they truly feel that just updating it in Slack is useful? I'm not sure if HubSpot has an app like Salesforce but if they have it then they can simply use their HubSpot app to update the deals as well. I think we had that in the past. I remember our because I used to work for a company who used HubSpot. We use the apps instead so that the deals can get updated. Yeah, I think the only main point pain point for me is that one. I don't have to do manual updates and I put rules in place. Increase hygiene. Yeah.
+William Ross: Yeah. And that's you you hit the nail on the head which is one of the things we're trying to to tackle which is how because it's such an indirect effect like hygiene it's hard to attribute it concretely to to value because it's saying what's the benefit of clean data. It's like well it's hard to quantify but it's really easy to tell you what the what the problem is of bad data.
+ 
+ 
+00:16:54
+ 
+Verina Cornelia: Exactly. Yeah. I think that's like the difficulty that we usually have with hygiene. It tells you about the bad things, but then the business always wants to focus on the good things.
+William Ross: Yeah.
+Verina Cornelia: So, that's probably a hard part.
+William Ross: Yeah. No, that's that's really insightful. Thank you for that. Uh that's Greg, do you have anything else? Last questions while we've got a gold mine of knowledge ahead of us.
+Greg Petherbridge: No, Vina, I think uh I think you've given us a lot there.
+Verina Cornelia: Oh.
+Greg Petherbridge: I think there's there's some things you said there that we really haven't heard. So, um absolutely great great for us to get that feedback. Um really really appreciate the the positive things you said and and kind of the the thoughts you've given us. Um, but yeah, I think uh for now it would be great if we could get you set up on a free trial to play around with the tool, but sadly we're not there with Salesforce yet.
+ 
+ 
+00:17:42
+ 
+Greg Petherbridge: But um, yeah, it' be great to keep in touch and hopefully, you know, we're connected on LinkedIn now. So hopefully you'll get to see us kind of come out of the woodwork soon and and you'll see Funnel Vision making noise about themselves and uh hopefully in the future there's there's a fit someday where where potentially you could you could become an early adopter again.
+Verina Cornelia: for sure. I would be excited to see the growth.
+William Ross: Yeah, absolutely. Sorry, I have one last question just because it came across in another conversation I had with someone and I'm just looking for validation or nonvalidation on it, which is if we had a way or I should ask this. If you had a way to attribute hygiene to the bonuses slashtargets or quotas of reps.
+Verina Cornelia: Mhm.
+William Ross: So for example like if a if a rep has 50% hygiene so it's bad they don't get their full bonus and but you could track it. Is that something you would be keen to explore as a as like a function or feature?
+ 
+ 
+00:18:35
+ 
+Verina Cornelia: I think that would be something that would be interesting for reps who are in PIPS in performance management plans. But let's say this rep has a 80% hygiene problem, but they're hitting 100% in a quarter.
+William Ross: Mhm.
+Verina Cornelia: I don't think I would mind.
+William Ross: Yeah. Yeah, it makes sense because Yeah. I've heard like from three different rebels people, they've all said different things. They're like, "If you could do that, that would be like the best selling point." Other people have gone, I don't like it's not important for them because they only have the the revenue target. They don't care about hygiene. And so, I'm just trying to get a consensus on is this a feature worth looking into?
+Verina Cornelia: I would say it is. I think that would be a unique selling point because I've never heard of that in other in other tools. Let me see. I think it also depends on the company's culture. I work in a company where they truly um prioritize hygiene and that would be a setup they would be interested to. To be frank, deal is not that kind of place. We prioritize revenue. So that's it really depends on the culture and like the sales leader I would say.
+William Ross: Yeah.
+Verina Cornelia: Sure.
+William Ross: No, no, makes sense. Well, yeah, I appreciate that. Sorry. That was my last last question. I promise. But as always, if you if if there's anyone you know or any other companies that are on HubSpot that would like a free trial or just to get onboarded and to test out Funnel Vision, obviously just would love to connect with them as well.
+Verina Cornelia: Okay. Yeah. Thank you so much for introducing the platform as well. I appreciate your time. Bye.
+ 
+ 
+Transcription ended after 00:20:20
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

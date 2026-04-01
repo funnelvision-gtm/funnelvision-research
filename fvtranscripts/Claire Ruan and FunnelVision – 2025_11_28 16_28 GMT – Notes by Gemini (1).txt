@@ -1,0 +1,321 @@
+﻿Nov 28, 2025
+Claire Ruan and FunnelVision - Transcript
+00:00:00
+ 
+William Ross: but pretty productive week. Um, so yeah, how have yourself?
+Claire Ruan: Nice.
+William Ross: How's how's the week been?
+Claire Ruan: Busy. Very busy. Happy Friday, guys.
+Greg Petherbridge: Happy Friday.
+William Ross: Happy Friday. It's What time is Yeah. What time is it for yourself? Are you based in Canada?
+Claire Ruan: Yeah, Toronto.
+William Ross: Amazing.
+Claire Ruan: So, it is Easter.
+William Ross: Yeah.
+Claire Ruan: Yeah.
+William Ross: Yeah. Yeah.
+Claire Ruan: How about How about yourself?
+William Ross: Greg's out in London and I'm in Edinburgh in Scotland.
+Claire Ruan: Oh, wait. So, what time is it for you guys? It's the afternoon.
+Greg Petherbridge: What's heavy?
+Claire Ruan: Afternoon now.
+William Ross: 4 4:30. Yeah.
+Claire Ruan: Oh, okay. So, average probably guys are wrapping up the day.
+William Ross: Well, we've been waiting in anticipation for this call, Claire. That's what we've been doing.
+Claire Ruan: Okay.
+William Ross: No, but absolutely really appreciate taking the chance to have a quick call with ourselves on on on Funnel Vision and all things all things RevOps.
+ 
+ 
+00:00:39
+ 
+Claire Ruan: I guess sorry.
+William Ross: Um, I saw in your profile you seem to love RevOps and uh and being excited about work. So, I hope this will uh tickle your brain a little bit.
+Claire Ruan: Yeah, for sure. I'm excited to hear your tool. Um, I can I guess give you a bit bit of introduction of myself.
+William Ross: Yeah, please.
+Claire Ruan: Um, so I've uh been in this world for about two years now and then I've worked in small companies, bigger companies. I'm currently working in a company of 500 people around about five and it's which has been around for a long time. Um, and then I'm currently using Salesforce. Um, but I've seen like a lot of like pipeline problems that could happen for a bigger company and especially ones that's been around for a very long time. Um, but I've worked in smaller companies where I've got insights for Hopspot and then like how smaller kind challenges would present for smaller companies and then what are the challenges there. So like happy to see what you guys have and what solutions that's available right now that can solve different problems.
+ 
+ 
+00:01:46
+ 
+Claire Ruan: Um, yeah. so excited for the tool and I actually like over the years I've thought about creating some tools to solve those problems and it's very doable especially with AI now. Um so that's here I am I'm trying here I'm I'm ah I'm here for to learn to to to see what's available and what's in the build.
+William Ross: perfect. Yeah, I mean I'll absolutely give you a quick product walk through and show you how it works, but uh Greg, do you want to give a quick elevator pitch on on funnel vision?
+Greg Petherbridge: I don't like calling it a um No. Yeah, Claire, really really appreciate you joining.
+Claire Ruan: Yes, please.
+Greg Petherbridge: I suppose the purpose of today is really just to get your feedback on on what we're building. Um, so I'm not sure if you have all that context that we're still pre-launch. So we have a few early early adopter customers right now. Um, yeah.
+Claire Ruan: Oh.
+Greg Petherbridge: So, so it's purely focused on a HubSpot and Slack setup right now. Um, but yeah, I suppose the the genesis of what why Funnel Vision exists is because we're actually the the four founders right now, five, we all come from uh a GTM consultancy where we all left our jobs because we were working in in high growth SAS and ultimately we saw that there was a lot of growing pains that could be kind of skipped for early early um early SAS startups.
+ 
+ 
+00:03:04
+ 
+Greg Petherbridge: Um ultimately all of our careers were were in kind of early stage B2B SAS from from that point and yeah so so for the last kind of year year and a half we've been working with early stage VC backed startups uh effectively just helping build their GTM from the ground up working closely with founders.
+Claire Ruan: Oh, you know more than me.
+Greg Petherbridge: Sorry.
+Claire Ruan: Sounds like you you've had a lot more experience than I do.
+Greg Petherbridge: No, no, listen. Different types of experience, but um we we always had the appetite to kind of productize our experience and and tried to build something that really encapsulates a lot of what we solve um as as a consultancy. And really something that we landed on was a behavioral issue really that comes down to to reps.
+Claire Ruan: Yeah, I agree.
+Greg Petherbridge: Um, I'm a salesperson myself, so I have no problem in saying that sales people can be very selfish um, in their own worlds and ultimately a lot of the knowledge of their pipeline can sit within their head or not really get documented.
+ 
+ 
+00:04:02
+ 
+Greg Petherbridge: And we can see the knock-on effect that ultimately I don't think we ever worked in a company where the sales forecast was accurate. It was kind of a tickbox exercise for the sales leaders. it was very hard to really gauge where you're at or where you're going to land by the end of the quarter, end of the year. Um, so ultimately the technology behind it isn't that crazy. It's it's about how do we make it as easy as possible for first of all top down leadership to get visibility on what's missing, what looks good, what what's a what's a risky deal in in in terms of you know is it unrealistic expectations here? Is the is the close date too far in the future? are they missing a lot of key details on the deal? Um, so yeah, one for the top down sales leadership, we want to give them visibility on kind of what the pipeline is looking like and where bits might be missing. We want to make it easier for RevOps teams to stop chasing people for updates and um, you know, give them a clear view as well as as what's missing and who they need to chase.
+ 
+ 
+00:05:03
+ 
+Greg Petherbridge: And we want to make it as frictionless as possible for sellers to be able to to update the CRM. So, um, yeah, I think really just I want you to William's gonna walk through the platform.
+Claire Ruan: Mhm.
+Greg Petherbridge: Any any ideas you have, any any positive or negative feedback, uh, we'd love to hear it.
+William Ross: Awesome.
+Greg Petherbridge: But, um, yeah, that's kind of the genesis of it is just how do we bridge the behavioral gap between sellers and and leaders.
+Claire Ruan: All right.
+Greg Petherbridge: And, uh, yeah, that that's what we're looking to build.
+Claire Ruan: Okay, let's let's let's see it. I'm excited.
+William Ross: Let me share my screen and let me know if this is popping up for you. Okay.
+Claire Ruan: It is
+William Ross: Awesome. So really simplistically, what Funnel Vision does at the outset is sync up into your HubSpot environment and it normally takes like one to two minutes and then what you're immediately presented with is what I like to refer to as like a very quick snapshot audit of your of your pipeline.
+ 
+ 
+00:05:58
+ 
+William Ross: So you're seeing really common hygiene issues that could exist like whether a deal is passed it close date, if it's missing a next step, if there's a missing associated company.
+Claire Ruan: Mhm.
+William Ross: again along with the frequency of how often these hygiene issues are occurring. So um so just gives you a snapshot audit on like the initial state of your pipeline and then at the and then at the bottom we've got the leaderboard.
+Claire Ruan: I think
+William Ross: So which of your sales people are more on top of their hygiene um than others and it's ranked by the number of issues they have across how many deals they have. Um, so you've got for instance myself, I have 24 issues across my 28 deals and Lazy Greg at the bottom has 110 issues across 34 deals. And so again, just give you a sense on you can track the trend there on who's who's been keeping up with their hygiene or not. And so this is just your pre-built stuff. So this comes in automatically. There's no configuration necessary to do anything here.
+ 
+ 
+00:06:49
+ 
+Claire Ruan: Uh-huh.
+William Ross: But then obviously, as you'll know, every sales motion, every go to market motion has their own specificities. So that's why we let people create their own rules as well. So because we pull in every property within within HubSpot at the D level including associated contact associated company and custom properties, you can build any hygiene issue you want to monitor that you want.
+Claire Ruan: Mhm.
+William Ross: So just to give you a little example of one I built here. Um a lot of times sales reps will put their next steps as like TBC or TBD. Um, and so you want you might want to flag that as whenever that occurs as a hygiene issue because that's not really an appropriate next step. So all you have to do is name your rule. Figure out what what properties do you care about and you can pick as many as you want. We have our and or conditions. So you can do and or and then all you have to do is you can click this button here and automatically request updates.
+ 
+ 
+00:07:39
+ 
+Claire Ruan: Mhm.
+William Ross: What that feature does is it means whenever the condition of the rule is met, it will automatically ask for an update on that hygiene issue to the deal owner without you even needing to touch final vision.
+Claire Ruan: Slack.
+William Ross: Pardon?
+Claire Ruan: Through Slack. Are you going to send a not
+William Ross: Yeah. Yes. Into Slack. Yeah. Um so if you turn it off, it still it still becomes it still flags a hygiene issue. It just means you you have to manually manually request it. So mo for most instances I would imagine you would turn it on but there might be some discretion where you'd want some manual control as well.
+Claire Ruan: Mhm.
+William Ross: And that's it. And that's it. So really simply once you've configured all of your hygiene issues to tailor to look at exactly what you want to look for and you're surfacing all those hygiene issues. So you've got a pure a visibility on across the entire pipeline. The question is how do you action it?
+ 
+ 
+00:08:33
+ 
+William Ross: What the heck do you do with all this information? And that's why we have this fix issues tab on the lefth hand side. And so what you're looking at here is every deal in your pipeline that has some type of issue.
+Claire Ruan: Uhhuh.
+William Ross: And you can filter it by the deal stage um by the owner and any specific issue you're looking for and also by the close date. Um you can click on any deal and you get some more information on for example like what specific issues there are. So if you just sort by the number of hygiene issues you can see for example this deal has a missing company missing amount missing next that it's past its close date and it's stale. dreadful deal.
+Claire Ruan: Uh Mhm.
+William Ross: Um, and just to show you how the flow would look, um, if we look at my deals here, you can see I've got a few deals that have, um, that have some hygiene issues. So, this one's got a missing amount, missing next step, and it's past its close date.
+ 
+ 
+00:09:21
+ 
+William Ross: And what I also wanted to show you is, you see how it says request update again. So, what that means is at some point, four days ago, I've already asked for an update on this deal and I didn't action it. And so the reason I wanted to show you that is because not only can you request an update on a deal, you can also track who's not actually the deal since you've made an update request. And what we're seeing here is the manual way to request updates. But like I said, you could sort all this as an automatic trigger. So you don't even need to request it. Um, but just to show you what the flow would look like, if you just clicked request update, the deal owner, who is myself, instantly gets a Slack notification that says, "Hey, William's waiting for an update on this deal.
+Claire Ruan: Uhhuh.
+William Ross: Provide when you have the chance." So they just click on the deal and as you can see here they're told hey go and fill in your lead source.
+ 
+ 
+00:10:06
+ 
+William Ross: They go okay outbound and then all the and you can imagine here the rep here would be could be on the go. They could be on their phone on a train at the airport anywhere on their and they just update the deal and that's it. They don't need to know funnel vision exists. They don't need to know. They don't need to log into their CRM. And then what they get here is a daily digest which is something we are rolling out.
+Claire Ruan: Mhm.
+William Ross: Uh well, it's actually an in production. Now, this is just our test environment, so it's a little bit messy. But basically, what this means is rather than having um the sales people be spammed all day, every day with notification requests, it's a lot better for their behavioral adoption to get one daily digest of all the things they need to solve um once a day. So, whenever a condition of a rule is met within a 24-hour period, they will get a daily digest at any point in the day that you can configure yourself to say, "Hey, at 9:00 a.m. you're going to get a list of all the deals that you need to fix in one go." Um,
+ 
+ 
+00:11:04
+ 
+William Ross: so that's what this is seeing here. So, these are all the other rules that I have that have that I've messed up and um and that's that's the gist of funnel vision. It is surfacing hygiene issues, configuring it to your own to your own environment, reps fix them in Slack. you don't need to chase them. You don't need to do anything. Um and but then obviously you can track when they're not making the updates as well.
+Claire Ruan: Got it. Okay, this is great. Um, so I have I do have a few questions.
+William Ross: Go for it.
+Claire Ruan: Um, what's your ideal what's your ICP size?
+William Ross: Good question. So I guess ICP would be and we've had varied answers to this. Um there's two types. those with a few more than probably five sales reps in general. And the other indication is number of deals coming in like per month or per year. So for example, you might have large scale enterprise. You you're deal you're only with like one deal a month.
+ 
+ 
+00:12:01
+ 
+William Ross: Funnel vision is probably a bit overkill for yourself because I think you've got wider problems if you can't track one deal going through a month.
+Claire Ruan: Mhm.
+William Ross: Um so so higher volume of of deals coming in a month is one and probably a few more than five reps.
+Claire Ruan: Mhm.
+William Ross: Um the other way to think of it is like revops to to reps ratio as well. So we actually spoke with one client and they were oddly enough had two revops managers and two sales reps. So the rebel commanders had a very bird's eye view on everything that was going on.
+Claire Ruan: Oh, but okay. So, if that's the case, like for that company specifically, they have they have enough rav person to buck the rap. Like they don't really need a tool to see on a high level what is going on. Like they can just very easily go into their instance and check it.
+William Ross: Yes, exactly. So it's really those that are drowning and chasing admin. They're doing a lot of the nonvaluable
+ 
+ 
+00:12:54
+ 
+Greg Petherbridge: Yeah, I think in that case it was more so the deal volume route. Um, so yeah, as William said, it's like deal volume or more than Yeah. four or five reps. Um and that obviously this gets kind of more and more complex as you push up market and as you go more enterprise there's a lot obviously a lot more deals to handle there's a lot more um a lot
+Claire Ruan: Mhm.
+Greg Petherbridge: more going on but I think what we see is where it's really pressing is companies that are really fixed on X level of growth um someone whose sales forecast really matters to either investors or or um pressure coming
+Claire Ruan: I'm done.
+Greg Petherbridge: down from leadership. So um where we've seen probably the most interest is like anywhere from a small enough company for kind of 100 employees up to kind of scale up startup thousand employees plus. Um it's really where there's kind of our world of of VC backed high volume B2B SAS that's probably where we see the most interest but to be honest it's wherever pipelines a problem wherever pipeline hygiene's a problem where
+ 
+ 
+00:14:00
+ 
+Claire Ruan: Mhm.
+Greg Petherbridge: we look to be. So from our early early conversations, we've kind of seen that this is a challenge that people in revops of all sizes of all company sizes are resonating with. So that's something we found really validating. But um definitely I think it's where that's where it's that perfect mix of kind of demanding an accurate forecast and a lot of volume of deals and reps is is really the the perfect mix we probably see.
+Claire Ruan: Got it. Um, just I I almost feel like you guys have had more experience using using different tools and dealing with more clients than I do. Um but one of the questions that I have is um since all the information that are gonna from their CRM instance anyways why couldn't they just build a dashboard in Salesforce or in HubSpot that tracks these specific fields like for example number of like company name missing where like no full update that's very easily filterable they can just on their own dashboard.
+Greg Petherbridge: Yeah.
+Claire Ruan: Sure.
+Greg Petherbridge: Yeah. No, no, it's a really good concern.
+ 
+ 
+00:15:01
+ 
+Greg Petherbridge: I think where more so we probably have focused our attention is the broader details within the deal. So we will be quite specific to what your kind of med pick or whatever your your metrics are and we'll kind of um you'll be able to wait what's important to you.
+Claire Ruan: Mhm.
+Greg Petherbridge: I think where the real value lies is the full circle, right? So you can build a dashboard within in the CRM and of course you can do that and have a bird's eye view of it, but it's the behavioral problem we're trying to solve. So yes, you can have that view and you can build that report, but it's going back to the rep and and coming back to the to the CRM. That's that loop we feel hasn't been solved. So that's the the kind of reading right back to Slack that we haven't
+Claire Ruan: I see.
+William Ross: Yeah.
+Claire Ruan: I I got it. I got it now. And then how about um so when you send the notifics, will you also link for example like a URL to this deal?
+ 
+ 
+00:15:53
+ 
+William Ross: Mhm.
+Claire Ruan: So they would probably have Oh, okay.
+William Ross: Yeah.
+Claire Ruan: Got it. Got it.
+William Ross: So, so they get two they get two two things.
+Claire Ruan: Okay.
+William Ross: They get the the the notification of what they need to update. They'll get a link if they want to see the deal in HubSpot the self, but then for any property, they'll see what's currently in that property. So if they're filling in a next step, they'll see what's already in that next step field for for a bit of context.
+Claire Ruan: God, I actually have a different I I I went in this thought it's going to be like something automated like I feel like the way to solve like those behavior issues is to automate as much as possible and then um we are actually looking at tools that record in conversations and then just autopop populate those fields to to solve hygiene issues. Um how I guess like one concern that I have would be like how do you guys um compare against those ones like they they can just listen to your conversation and then public those fields as the conversation going and associate the conversation to the same op opportunity contact whatsoever and then how like reduce manual efforts like what's what's your value proposition comparing to these or like your your unique selling point compared to these type of competitor.
+ 
+ 
+00:17:05
+ 
+William Ross: Yeah.
+Greg Petherbridge: Yeah, I I think um Are you talking about like how Gong can give you like direct feedback to um Yeah.
+Claire Ruan: Um, so two tools that I'm looking at, one is called Attention, they're also startup and one is called Momenta, which is much bigger.
+William Ross: Yeah.
+Greg Petherbridge: Okay. So, where I would kind of see the difference is, of course, it's great to kind of take your calls and automate all that.
+Claire Ruan: Yeah.
+Greg Petherbridge: Um, but I think there's also a few things you can't automate, like I don't know, let's say you can populate a med pick field and you have, I don't know, an LLM in the background that tells you, yes, oh, this is this is where they came with the champion, whatever. I where what I've seen is AI is not perfect yet. it's not able to completely fill in the gap of gaps of what humans need to do. And ultimately, I've seen that sales reps should have more time to do this stuff. They it's their own deals. They should be taking care of it.
+ 
+ 
+00:17:58
+ 
+Greg Petherbridge: Um, and I think what we've seen is we went down the route of, oh, maybe let's do this with an LLM.
+Claire Ruan: Mhm.
+Greg Petherbridge: Maybe let's try integrate as much AI as possible into this. But ultimately, what you're solving for is clarity. And I don't think you get that clarity with just a meeting recorder. one, you don't have all your meetings recorded. So, if a meeting isn't recorded and it's denied on the other side, it's like, okay, is that deal just not going to be like I I
+Claire Ruan: Oh, right. True.
+William Ross: Yeah, but it's also Yeah. And to echo Greg's point, it's also control. So if you're So I there are really cool tools. I've looked into them by the way. There there are some some really awesome ones out there, but they only know the context of the conversation, right? So if you wanted to check out, hey, a deal is going past its close date and there's no next step and it wouldn't pick that up because it's it doesn't become configured to your own sales process and your own go to market process.
+ 
+ 
+00:18:53
+ 
+Claire Ruan: Fair. Okay. I had one other question, but I can't remember. Did I write it down somewhere? Okay. Question for you guys. Like, what do you want to get out of this conversation? How can I bring Uhhuh.
+Greg Petherbridge: to be honest. I think the questions you've already asked, making us think, that's a lot of the purpose of this, just getting feedback on what you think of it. Um, I mean, you said you're working with a Salesforce setup right now.
+Claire Ruan: Uh, yeah. Well, I so I I'm like I work for a SAS company. I'm not a I'm not working with a consultancy.
+Greg Petherbridge: Yeah. And they're on Salesforce.
+Claire Ruan: Um, on Salesforce I am also on Hopspot.
+Greg Petherbridge: Okay. Yeah. I mean, if you're on HubSpot, we'd probably try to be like, do you want a trial? Do you want to see what's happening? Um Oh.
+Claire Ruan: Um, yeah.
+William Ross: Huh?
+Claire Ruan: So I have a like I'm working for another company.
+ 
+ 
+00:19:41
+ 
+Claire Ruan: Um I hope this call is not recorded.
+Greg Petherbridge: Uh but but the reps within the company use Salesforce.
+Claire Ruan: So um I basically I also work for HubSpot as well. I So I'm um also working with a company that uses HubSpot.
+Greg Petherbridge: Sorry, I missed that. What did you say? Okay.
+Claire Ruan: Uh but I guess the only if I think about implementing this tool to their instance the problem is it's very small. It has like five reps but their focus is bringing more deal versus having better hygiene that like their GM probably don't care because they're only asking so much of the information anyways.
+Greg Petherbridge: Yep.
+Claire Ruan: They're not at a stage where I want to optimize my pipeline. I don't I I don't care. I want you to give me more deal. And as long as as I as as long I know on a high level these deals are moving forward, you're making X number of calls as you're supposed to, I'm fine.
+Greg Petherbridge: Yeah. Yep. Yeah.
+ 
+ 
+00:20:41
+ 
+Greg Petherbridge: Actually, that's another probably gap where we when discussing ICP earlier in the call.
+Claire Ruan: Mhm.
+Greg Petherbridge: Maybe another area we're not too suited to is like softwares that are like oneweek sales cycles, they don't have much complexity within the deal where it's just about deal volume and it's it's kind of quite easy to sell where not as much scrutiny on the deal. Maybe we're not as much of a fit. So, um yeah, I I think the office like CFO and things like that we're quite good with. But yeah.
+Claire Ruan: Sorry, one more one more comment back to the tool.
+William Ross: Really?
+Claire Ruan: Um, is there a way to tie with the improvements suggestion that you're making uh with the progress that this company is making to their revenue? I I I'm not sure if it's possible, but I just feel like that would be really great so that all the sales like all the sales managers care about is revenue is ACV, right?
+Greg Petherbridge: Yeah.
+Claire Ruan: If they wouldn't only want to invest in such a tool unless they see there's a value to it.
+ 
+ 
+00:21:41
+ 
+Greg Petherbridge: Yep. Well, sorry. You're talking about generally like getting a better picture on revenue.
+Claire Ruan: Yeah. like like can you guys probably like make assumption or like a model in the back end that if these number this x number of fields is feld then like how can it help with our how like can it improve our revenue? I'm not sure if it's something that's possible.
+Greg Petherbridge: I I think what what the core of what we do is trying to make your revenue number and your forecast clear and worthy.
+Claire Ruan: Okay.
+Greg Petherbridge: So you what by working back toward yeah sorry just working back towards the the like making sure everything's accurate then within your Salesforce or your HubSpot in this instance you should just trust that number on your forecast a
+Claire Ruan: See, I see. So no, no, I got it. I got enough.
+Greg Petherbridge: bit better is basically where where we're trying to fit.
+William Ross: Yeah, because it makes the forecast conversations a lot more productive rather than the the sales director having to individually go through every deal and be like, "Yo, what's up with this deal? What's
+ 
+ 
+00:22:35
+ 
+William Ross: up with this deal? What's up with this deal?
+Greg Petherbridge: So yeah, but that's great feedback.
+Claire Ruan: I see.
+Greg Petherbridge: Um, so you mentioned, sorry, the company you're working with on HubSpot, are they in that bucket of like not very complex sales cycles, fast sales cycles? Are they kind of like that? What what what kind of space are they in?
+Claire Ruan: Yeah, it is it's it is pretty fast sales I want to say. Um, let me sorry, give me one moment. Let me think about it. Um I guess like another another comment here is so from what I've seen um in the like the SAS company that I work for one thing is tool adoption is always going to be a challenge like the reps
+Greg Petherbridge: Yep.
+Claire Ruan: they don't like like once they fix to a certain way of workflow they don't want to change it um so like introducing additional tools is always difficult and Having them to like do extra things add to their have extra workflow extra steps into their workflow is something really difficult.
+ 
+ 
+00:23:42
+ 
+Greg Petherbridge: Yep.
+Claire Ruan: Well, I guess you guys are not really asking reps to go. They're only asking them to do it in Slack. That's okay.
+Greg Petherbridge: Yeah.
+William Ross: Yeah. So there's no there's no tool adoption. That's Yeah.
+Greg Petherbridge: I I my my push back on that would also be if there is an internal expectation within the company to populate your deals and have that hygiene tight the people who do that won't have any problem because there
+Claire Ruan: Yeah. Good. Perfect.
+Greg Petherbridge: won't be any anything to push to them and the logic we kind of had is like we've worked with in Slack in the past like certain like security uh things you'd have to do and certain like vanta have
+Claire Ruan: Mhm.
+Greg Petherbridge: this chat within your your Slack where you have security protocols to do and you would never do um unless you kept getting nudged by this bot and you were like, "Okay, fine. I'll
+William Ross: Yeah.
+Greg Petherbridge: do it." So, I think that's the logic is that if we're going to force a behavioral change, it's got to be front of mind and somewhere that you spend your time, which is Slack.
+ 
+ 
+00:24:31
+ 
+Greg Petherbridge: So, people who actually already do it, they don't need to adopt anything else.
+William Ross: And be yeah and be very prescriptive for the sales people.
+Claire Ruan: Makes sense.
+William Ross: This is this is what you need to update. This is why you need to update it.
+Claire Ruan: Question.
+William Ross: You don't want Good question.
+Claire Ruan: Why are you guys lunch for Salesforce?
+Greg Petherbridge: William
+William Ross: Good question. Salesforce is a whole a whole other beast if if we're honest. um part are the reason we we we absolutely do plan on going after Salesforce but I mean being honest we've got other integrations coming in first like teams we want to go through um email Salesforce probably looking at
+Claire Ruan: You know, I've been going after. Oh, okay.
+William Ross: back end of next year
+Claire Ruan: I guess I guess what I want the reason why I ask is I'm very much I I find it's very interesting. I do see that it's solving a problem. So I'm more than happy to just talk to my manager who have more experience on these things and then probably she can if I have any other feedback or insights I can share back with you guys um on these things.
+ 
+ 
+00:25:26
+ 
+Claire Ruan: But that would be Salesforce Salesforce and then I would love to try in Salesforce if in the future it's ever a thing.
+Greg Petherbridge: Yeah, 100%. Um, yeah, I mean, our focus right now is to make sure we master the the HubSpot Slack setup and teams.
+William Ross: Absolutely.
+Claire Ruan: Yeah.
+Greg Petherbridge: So, um, for us, we just feel like our ICP is most suited to HubSpot right now. Um, kind of niche of of fast growing startups that there seems to be within our ICP mostly on HubSpot.
+Claire Ruan: I see. Makes sense.
+Greg Petherbridge: So, we've been trying to master that and then once we know we've we've kind of nailed it on that side, I think that's when the the Salesforce integration will come. But um yeah, maybe until then you can we'll we we're due to be making a lot of noise over the next uh month or two when we launch properly. So hopefully you'll keep an eye on what we're doing.
+Claire Ruan: Good night on you guys.
+Greg Petherbridge: Yeah, we can uh we can connect once once we're in uh we're aligned a bit better with with where you're at in your tech.
+Claire Ruan: Perfect. All right. Nice talking to you. Of course. My pleasure. It's great talking to you guys, too. All right.
+ 
+ 
+Transcription ended after 00:26:35
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

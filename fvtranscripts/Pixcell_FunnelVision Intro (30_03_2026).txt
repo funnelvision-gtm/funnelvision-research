@@ -1,0 +1,88 @@
+﻿Meeting Title: Funnel Vision <>Pixcell | HubSpot Consultancy
+Date: Mar 30
+Meeting participants: Rabia
+
+
+Transcript:
+ 
+Them: Hi William.  
+Me: Hi Rabia, how are you?  
+Them: I'm good, I'm good. I'm so sorry for my camera being off. I'll be on in a minute. I'm just in between a couple of tasks at the moment, but let's do the presenter. I'm able to connect. How are you doing?  
+Me: No.  
+Them: What do we know about William? Who is William? What does he do?  
+Me: Honestly, I go by either as long as it's not Bill or Billy, I'm pretty fluid between the two, so whatever you prefer. Usually family call me William friends call me well so it's up to you.  
+Them: Okay. All right. So William, how do we know each other? What do you do?  
+Me: So yeah, so I reached out on LinkedIn.  
+Them: Yeah, yeah, I saw your message about Funnelvision, but I haven't been able to go on to the website and check anything about it.  
+Me: And. No no no no worries. So yeah basically I reached out because we built a product to try and streamline a lot of the pipeline hygiene issues in HubSpot. And we're running a partner like go to market motions and I know you work for a hospital consultancy so we'll just be looking to explore whether if this is a pain point you experience with your clients or if it can improve any of your any of your service offerings whether it's a play to explore a potential partnership.  
+Them: Yep.  
+Me: And that's really it.  
+Them: Absolutely. Absolutely. Absolutely. Okay, so what does Funnelvision do? To help a partner or help a end user of HubSpot? I'll tell you a few challenges that we have. So when it comes to pipeline hygiene, there's only a few types of challenges that actually happen in like the hub spot ecosystem, to be very honest. We can look at it from any point of view at all. There's only a few type of customer types and team types. And there's only. A few problems they would run into it again and again. It's for various reasons. So for example, let's talk about a big team. So if we have an example for a HubSpot using company who have a big sale team and they are also. Very. Now doesn't matter if they're working under 1% or did I cut off. Can you hear me now?  
+Me: Just yeah the last thing I heard was a large sales team.  
+Them: Absolutely. Okay, so I'm so sorry. I didn't know why I cut off. Let me know if you cut off again. Okay, perfect. So for large sales teams, what happens? And it's quite a recurrent specifically in high velocity sales processes. So when I say high velocity sales process, it's a process that's moving too fast. The problem that happens is that if the pipeline hygiene is complicated, the process is complicated. They're 100% going to skip over most important things and just get to the end point. But I believe that mostly comes with a high velocity sales process. However, there's another type of team, could be the same size, could be high velocity. But what happens with them is that they are non-technical. So they are really trying and they really, really want to have good upsworg hygiene. But there's just no technical enough to do it. That is something I haven't been able to resolve as a houseboat partner myself.  
+Me: Perfect yeah and and that is an actual way you described there is actually really aligned with it with our ICP on that high velocity side, you know especially if it's a key deal owners with like you know 15 20 deals or more assigned to them right you've just got all this. Information context and admin. So the really simple solution that we've worked around that is to be able to alert people of what exactly what they need to fix natively within slack or teams where they're already working so they don't need to as you say be technical they don't need to shift anything. Within slacker teams they can just go okay I need to update something and they can just go and and we found that that's a really frictionless way for the sales teams to be able to like stay on top of their hygiene without needing to be you know aware of hubspot or even though we're Funnelvision and that's kind of where we're a funnel.  
+Them: If I'm not getting this wrong, is it sort of a software that lets people update HubSpot from within slack? Is that it?  
+Me: Exactly. Yeah.  
+Them: Okay. Okay. Okay. Sounds great. And what are the limitations for it? Like I get the gist of what it does. That's great. What are the limitations? And I asked for the limitations specifically because limitations are why we are unable to sometimes sell it. Or sell it, be able to sell it. So what gives?  
+Me: So well all the limitation is tech stack so if they don't use slacker teams then we're not the tool so if they if they use you know I don't know I have one company that would use discord as their IAM system.  
+Them: You.  
+Me: So.  
+Them: Hi, I'm 100% sure I have teams. Okay, so ironic. Companies who use slack are not non tech savvy. They're always going to be tech savvy and they're always going to be able to take care of their hubspot in the hubspot account. Companies use teams. Another story. There are a lot more non tech savvy users on teams. So I will, I can already think of a couple of clients who maybe interested in this. So what has happened now is that somebody who has a hub spot professional account has connected their account to Funnelvision and teams. What happens next?  
+Me: And Funnelvision they will basically create rules or like hygiene alerts. And they can set those to run automatically in the background 24/7 so you don't really do it and the really cool thing we have is a daily digest format so rather than being rather than rather than the end user kind of being spammed whenever a hygiene rule is triggered they get one's message that outlines all of the deals that need to be triggered.  
+Them: Yeah.  
+Me: So that's something that HubSpot doesn't let you do so rather than because one thing we found was whenever I was making rules in HubSpot it was it still wasn't engaging people to make any changes because it would get like six, seven, eight, nine, ten and a go ten in a row.  
+Them: Okay.  
+Me: Sorry the other limitation that we have right now that we're working on is to right now we want to look at deal level hygiene issues and what we want to do with the roadmap is look at cross objects so be able to pull in company and contact level object data so that within the same rule you can look at like you know if a company hits certain milestones or if a contact has certain requirements and the deal is at a certain stage then you can build a hygiene rule.  
+Them: Okay. All right. Okay, so here's a couple of things that I can already think of looking at the website and everything that we have discussed. Number one. What do the client clients require? So for example, outlook has this integration with hubspot, which is actually quite good. It has issues, but it does the job. So they're able to create a contact from within their outlook with data company and with teams. They're able to send messages from hubsparent teams as well. What would actually help is if the messages that come in are connected to HubSpot automations and we are able to trigger actions. So for example. If there is in terms of hubspot hygiene, if there is a deal that is past its close date and the stage is still not closed one or closed lost. Then can they commit an action from inside sales, slack or teams? Can they like change the sales date or does it automatically change the sales date or something like that?  
+Me: Yep so you can create as a rule and then you can basically ask you can within the rule you can pick the property you want them to update so you might want them to update the the deal stage or the the close date or you might want for some reason you might want to update the next step to say hey give me the clothes and the next step that what you're going to do.  
+Them: Okay, okay. So basically what we're saying is that with the notification comes in action item. And you can conclude our action.  
+Me: Yeah exactly exactly you can tell them exactly what the what you want them to update based on the rule.  
+Them: Yes, exactly. And that is. For deals only or contacts and companies as well.  
+Me: S limitations are referred to earlier so this deals only right now and our very next episode yeah is going to be cross object.  
+Them: Eventually. Okay. Okay. So the client that I'm thinking of right now would really like it if it was deal. Companies and contacts just because the way they are. To be very honest. They just tend to think like that. But I can still. Talk to our customer success manager. See if he is able to gauge interest from them and then connect you both with each other.  
+Me: Awesome absolutely and and if you want as well I can draft up like a really simple partner agreement we've got a really nice comp plan for our early.  
+Them: Oh yeah, we're going to go for the partnership anyway.  
+Me: Awesome.  
+Them: We're going to go for the partnership anyway. We have partnerships and do you prefer if I connect you guys over via email or does should he go onto the website and apply for partnership? Because that's easiest.  
+Me: Email is easiest yeah that's just em. Ail.  
+Them: Email is easier. So there's no way to do it on your website.  
+Me: No our website's pretty lackluster at the moment because we're moving pretty fast.  
+Them: Okay. Yeah, no, I get it. I get it. I'm just going to give you his email address and you can let him know that I connected you. And then he will be able to set up a partnership with us.  
+Me: Sounds great and also as part of the partnership again you would have full access to Funnelvision for free so if you want to use internally internally test it out give us feedback help our roadmap obviously we'll put your opinions pretty pretty high on the priority list.  
+Them: Lovely. I have just shared in our chat here. His email address, his name is Cameron. He's based in London. And he is the one who looks after partnerships with us. And then him and I, we both work together to sell these products to our customers.  
+Me: Awesome sorry I can't see the email where did. It go.  
+Them: I just send it in the chat here.  
+Me: Is it didn't pop up for me a sword.  
+Them: I'm going to send it again. Do you see it?  
+Me: No I just see the chat function it says no chat messages unless I'm looking.  
+Them: Okay, let me just draft an email introducing you both. Then.  
+Me: I apologize unless I don't know. So.  
+Them: Okay, hold on, hold on, hold on. Here's I'm able to do. I'm going to send it to you on LinkedIn.  
+Me: Yeah. That'll be easy.  
+Them: Just email him and he will respond and we can then get connected.  
+Me: That's awesome thank you so much.  
+Them: No problem at all. We love doing this.  
+Me: Yeah me too it's I love working with parts it's a lot more fun to be honest.  
+Them: Yeah, they want to get things done.  
+Me: Especially even on the pro roadmap cycles when I speak to someone like yourself and I get your opinion of reviews I'm getting it from someone that's worked with dozens of companies for me to get the same level of feedback I'd have to speak to dozens of individual companies so it makes my life a lot easier I just speak to Rabia.  
+Them: Yes. Yeah.  
+Me: Download your to me please.  
+Them: Here is Cameron. I've just sent you a message on LinkedIn. Check if you received it.  
+Me: Yeah yes I have that. Perfect. Thank you very much.  
+Them: You can let him know that he spoke to me.  
+Me: That will do.  
+Them: And then I redirected you towards him to be able to breathe the partnership with us. And he can also give you feedback. Honestly, his feedback would be much more detailed than mine because he usually does these a lot with the clients. He looks after the partners and partnership and expansions. And so he can also give you really good feedback. The feedback that honestly I'd give is that multi-object thing, I'll be honest with you. Deal is great, but a lot of the fraud customers are going to ask. For multiple objects. The reason is because some people will use it for years. Some people will use it for leads, contacts, companies. Everybody's working in a different way. Sure, most of them are going to use it with deals, but there are going to be customers going to be other asking for the objects. And as long as they are able to update their HubSpot from within teams or slack, they're going to be very happy and they're always going to be customers. I believe there's somebody. Who does that for slack already. They have an integration for slack to do this already. I can't think of their name now. Hub something.  
+Me: I know I know Salesforce bought a company called like momentum for that slack integration. Can't be revealed.  
+Them: Yeah. I don't remember the name now. Sidekick. I think it was sidekick if I'm not wrong. I think it was sidekick. Let me check. Yeah, I think it was sidekick. It's a slack intelligence platform. So yeah, yep, we've worked with them in the past. And I think we may still have a partnership with them. You okay with that?  
+Me: Yeah of course absolutely.  
+Them: Okay. Okay. Yeah, sidekick. Try sidekick.com.  
+Me: Yeah I'm just looking at it perfect that's awesome.  
+Them: Yeah, so they do this basically. Do it on slack only. I think so. Yeah. Oh, they also do teams. I just checked. The last I spoke there, you doing slack only nitin now also do teams. So if I'm honest with you, this is what you're up against.  
+Me: Yeah yeah of course. I love good competitions.  
+Them: Yeah. So this is what they do. Perhaps you can go a step further.  
+Me: Absolutely absolutely we've got a bar hopefully I think I think we can surpass that.  
+Them: Yeah. So I'm going to be honest with you. Anything and everything my client could perhaps ask you, it's already inside gig. So let's take that as our roadmap.  
+Me: Perfect perfect well really really appreciate it Rabia is there anything else I can help clarify.  
+Them: Nothing really honesty. Check with cam if we can while having sidekick as a partner if we can continue to have partnership with you. I think that's good. Let's go. Let's do it. Happy to help.  
+Me: Thank you so much really appreciate it well enjoy the rest of your day and week and hope.  
+Them: You. Bye. Bye. All right. Catch you soon. Bye. Bye.

@@ -1,0 +1,342 @@
+﻿Nov 27, 2025
+Venkat Iyengar and FunnelVision - Transcript
+00:00:00
+
+
+Greg: what size of company do you typically work with?
+ 
+Venkat I: mostly I would say around this startup more like the SMB space like scaleups I think like 50 60 70 people somewhere around there that's sort of the sweet spot but then we also do some much smaller agencies so
+Greg Petherbridge: Okay.
+Venkat I: sometimes it's it's like you know it's it's not really even a big deal to just go and do everything manually but then for a couple of recent clients we've had to start using um qualify I'm sure you guys
+Greg Petherbridge: Nice.
+Venkat I: know about it right Yeah, um yeah, just just sort of automate the the workflows to get the cleanups done.
+William Ross: Yeah. Yeah.
+Venkat I: And I saw that HubSpot also recently released their own betas to go and um sort of set up your your control rules and things, but it's it's so basic um it's just not useful at the moment. Um yeah.
+William Ross: Yeah. HubSpot do they I mean they had a role especially when the AI hype was happening their their rollouts were fast. I mean I don't know if you their model context protocol that got released and their agents got it was crazy times.
+ 
+ 
+00:00:54
+ 
+Venkat I: Yeah. Yeah. Yeah. Yeah, exactly. Still going like what what inspired this this idea in your journey so far?
+William Ross: Uh amazing. So Greg if there's no other question yourself I'd love to give just a quick run.
+Greg Petherbridge: Yeah. I mean, let's just get into it and and yeah, any any thoughts you have, Venad, positive or negative, we'd love to hear about it.
+William Ross: Yeah.
+Greg Petherbridge: Yeah. So, so basically we we we're coming from a a consultancy of four of us who um started about a year ago. Um myself and and William's really the the tech brains behind it all.
+Venkat I: Okay.
+William Ross: Heat.
+Greg Petherbridge: So um the other three of us had come from kind of high growth SAS together. Uh ultimately kind of seen that journey from 0 to 10 million twice. Uh so we kind of looked at a lot of the let's say frictions that were happening on in early on in building sales teams and going to market.
+Venkat I: Yeah.
+Greg Petherbridge: So ultimately we we turned that into uh a bit of a consultancy to help PCbacked early stage uh startups to to just lay the foundations of GTM.
+ 
+ 
+00:01:54
+ 
+Venkat I: Got it. Yeah.
+Greg Petherbridge: Um, and yeah, something we we kind of always thought of in in the back of our minds was was to make a product to to help encapsulate kind of the the work we do. And um really what what what came to us was, you know, I'm a seller, so I don't mind saying this, but individuals, contributors, and sellers are can be quite selfish and quite, you know, in their own lane. So ultimately we found that unless there was an incentive or an easy way to kind of populate populate the CRM with your deal hygiene ultimately the knock-on effect for that for leadership was no real trust in the forecast we we didn't really meet any sales leaders who had full confidence that their deals were up to date that what they were seeing on their live dashboards had any kind of real real truth to it.
+Venkat I: Yeah.
+Greg Petherbridge: So, um, ultimately we kind of worked back from that and said, how do we make it as easy as possible for individual contributors to to make populate the CRM and to have everyone working off the same page and
+ 
+ 
+00:02:45
+ 
+Venkat I: Cool.
+Greg Petherbridge: everyone with the same up-to-date information. So, that was kind of the genesis of it was seeing it firsthand.
+Venkat I: Yeah, makes sense. Makes sense. Yeah, I think it's it's an ongoing struggle we all have.
+Greg Petherbridge: Yeah.
+Venkat I: So, yeah.
+William Ross: There's a theme around when we speak to people. It's like the empathy is really growing strong where people feel the pain point.
+Venkat I: Yeah, I think especially with with forecast, right? cuz still nothing's really changed in that world. You still just do like a bottom up forecast. You say you need to send I don't know these many emails with these many replies, these many positive responses, these many demos, blah blah blah. But never really pass out that way. Um yeah.
+William Ross: Yeah, absolutely. Well, let's see. Let's see if Funnel Vision can uh what your thoughts are on this.
+Venkat I: Yeah.
+William Ross: Let me let me know if it pops if my screen pops up.
+Venkat I: Yeah.
+William Ross: Um, perfect.
+ 
+ 
+00:03:37
+ 
+William Ross: So, so really simply, what happens with Funnel Vision is you you you sync up your with your HubSpot environment and that takes like 30 seconds. is really quick and then what you're immediately presented with is what I like to refer to as like a very quick internal audit of your sales pipeline. So you see the really common but important hygiene issues that exist across your pipeline. Um so whether a deals past its close date, missing next steps, if it's got a missing associated company, missing amount, whatever. And then at the bottom you've got a hygiene leaderboard which shows you which of your sales reps are on top of your hygiene. So, um I always I always have to point out Greg to um really embody the position of a salesperson is terrible at his hygiene and he's really down at ranked at the bottom right there. Um and so this just gives you like a snapshot view of what your initial pipeline looks like, but these are just pre-built.
+Venkat I: And this is this is only now.
+William Ross: Yes, we're only looking at deals.
+ 
+ 
+00:04:30
+ 
+William Ross: Um and so obviously this is just pre-built ones, but every every sales go to market motion is has its own specificities. So we we allow you to create your own rules. And by rules, what we mean is we pull in all deal object any deal object property within HubSpot. So you can build your own custom rules and we also pull an associated contact and associated company at the deal level. Um so you can imagine you can get really creative with this. So you can build you know if a if a lead source is missing any custom property that you're wanting to look at. Um and then this little button here is very small button but a very cool button. And basically what it means is whenever the condition of the rule is triggered, it will automatically send a request of an update to that deal owner in Slack without you even needing to touch funnel vision. So that will all run autonomously in the background. So So think of this as like a really powerful workflow builder where you can build any of your own rules here.
+ 
+ 
+00:05:25
+ 
+William Ross: So then once you've done all that, once you've got your pre-built rules which you can turn on or off, you've got all of your custom rules that are specific to your own the needs of the organization. How do you actually action and fix any of them? So, that's where we have the fix issues tab on the left. And what this shows is I've one-stop shop of every deal in your pipeline that has some type of hygiene issue.
+Venkat I: Nothing.
+William Ross: And you can filter this by the stage um by the deal owner if there's a specific issue you're looking for and also by the close date. And so, just to show you how it would look in practice. So, if you look at my deals, these are all my deals with issues. You can also see here if you've made a request of an update to that person and they've not actioned it when it was last requested. So you can say, "Hey, I I requested an update on myself 2 days ago and I've not made an update. Oh
+ 
+ 
+00:06:14
+ 
+William Ross: gosh, I can ask for it again." So, so let's have a look at this one here. Um, deal 2A has a missing amount, a missing close date, and a missing next step. All you have to do is click request update. the receiver of that of the deal owner would receive a Slack notification instantly that goes, "Hey, Willings requests an update on deal 2A. All they do is update it." So, they could be on their phone on a train, at the airport, on the go, wherever they are. It doesn't really matter. And they can go, "Oh, Venat's asked me for this update. Oh, the deal amount is 10,000. Uh, close date could be in January 31st." And what's the next step? It could be meet the economic buyer. Just update the deal.
+Venkat I: Okay. Yeah.
+William Ross: And that's it. And what you're seeing here is all the other deals I have in my in my in my to-do list. We're actually working on the on a daily digest feature as well.
+ 
+ 
+00:07:03
+ 
+William Ross: So I can um that's being rolled out this week. So basically what that will do is the rules that are met on a scheduled basis, the deal owner would receive once a day a list of deals that are saying, "Hey, here are all the deals that have met these conditions in the last like 24 hours." So
+Venkat I: Yes.
+William Ross: rather than, you know, getting spammed all day every day, so they can't actually do their day job, they would just get like a one a day, 8 am, 10 a.m., whenever you feel like it.
+Venkat I: Yeah.
+William Ross: Um, here are all the updates that need to be made. So that's the general premise of Funnel Vision. Surface your hygiene issues, make it tailored to your own needs.
+Venkat I: Cool. Yeah. And focus on deals, right? They're focused on the sales team. So, it's it's almost like a like a sales ops piece within the robots umbrella.
+William Ross: Exactly. So, so we're actually what there's two aspects that are going to be first and foremost in our road map once once we've rolled out this version, which is a teams integration/ email integration and cross object as well to
+ 
+ 
+00:07:52
+ 
+Venkat I: Yeah.
+William Ross: pull in deals and companies. Um, so we were actually thinking of doing all of that prior to launch, but it was it's a lot more uplifting. We really wanted to get this into the market quicker. So, um, so we will be bringing it cross object as well.
+Venkat I: Yeah.
+William Ross: Um, probably early next year if we can do teams before this year is looking like the timeline.
+Venkat I: Yeah. Nice. Yeah, cool. No, I think it makes a lot of sense. I like I like that you can update it directly in Slack. I think that's like the main added value, right?
+William Ross: Yeah, exactly.
+Venkat I: Otherwise, I mean, you could correct me if I'm wrong, but I you could do almost all of it with workflows. It's just like the difference then you'd have to go and design everything and then you'd have to go and like make all your workflows, then maybe like trigger Slack notifications and things like that. Um, yeah.
+William Ross: Yeah.
+ 
+ 
+00:08:34
+ 
+William Ross: And also the getting the getting getting the views a bit a bit harder and having that ability to just action it because what Yeah.
+Venkat I: Yeah. It's just like a lot of manual work that teams would have to do over and over and over again.
+William Ross: Yeah.
+Venkat I: Yeah.
+William Ross: Yeah. But as Greg said, we'd also love to hear what would you like to see from Funnel Vision or what what's it not doing that you think it should be doing or absolutely tear into it as much as you as you please.
+Venkat I: Yeah. Interesting. I don't know that that's a that's tough question. um around the sales piece. So like if someone doesn't um update their whatever let's say mark, right? Let's say that that's the property missing. You would then like as the sales manager leader, would you have to go in and request it over and over again or is it just going to keep funing them until they do it? And if they don't do it, I don't know, it's like going on a blacklist or something.
+ 
+ 
+00:09:31
+ 
+William Ross: Yeah. So the the two ways is if it's on if if you can set the anything on a scheduled basis and that means that you the manager wouldn't have to ask for anything manually. It just means that let's say um I I have a deal issue that is conditioned and triggered on Tuesday and I don't action it on Wednesday on the same day, same time, it will then ask me again because I've not actioned it. So it's still in the system that I have a hygiene issue. And one of the other things we're rolling it is again probably just after teams and cross object is analytics. So then managers can actually see have an analytics on when how long's it taken for things to be action.
+Venkat I: Yeah.
+William Ross: So then you can actually attribute more accountability to the people that are responsible for. So basic people like Greg can't just hide in the background and just be like, "No, it's not my fault. I've
+Venkat I: Yeah.
+William Ross: done my hij
+Venkat I: Yeah. Exactly.
+ 
+ 
+00:10:17
+ 
+Venkat I: No, but also I think the the accuracy, right? like one thing is just filling in the values but then the the next question is the accuracy which is why else you have your weekly syncs and things. Um I don't know if it's if it's an overkill to try to put those things in place. Like for example, if someone says um I don't know the the close date for this deal is in two weeks, right? But it's only in the meeting schedule stage, but then you know your sales cycle is like six months. Very unrealistic. So then that's generally where the people you would try to question um and nail that didn't nail that down. I guess you could automate, you know, parts parts of that as well and then just already fire off those those questions asking them like if they're sure about this forecast because it seems unlikely due to these reasons. Maybe that's an overkill though. I don't know like that that would work if if everyone is really really very adherent to their SOPs and really know know what's up because most of the time you know people just put in whatever just to kind of move the deal along but that's just more I guess without without making it um more like unnecessary happen I
+ 
+ 
+00:11:16
+ 
+William Ross: Yeah, it's true. No, that's a good point. It's a really interesting race. Yeah. Yeah. Yeah. And the same with all these things. It's what we found is solving for the hygiene problem and in general data cleanliness will open up a lot of doors. So it's and ironically to address a data problem, it's often a cultural problem like an adoption problem.
+Venkat I: Yes.
+William Ross: So part of the reason why the approach of funnel vision is like meant to be very very frictionless. So reps don't have reps don't have to touch funnel vision. They never even have to see see it or know it exists technically. And they don't they don't have to go into their into their CRM either.
+Venkat I: Yeah. Got it. Nice. Is it I've never used a tool called super, but is is that part of what they're trying to achieve? Like from what I've understood, they Yeah.
+William Ross: stupid. Yeah. I Is this the one with like the comic book kind of like branding?
+ 
+ 
+00:12:10
+ 
+Venkat I: Yeah. Yeah. Yeah. Yeah.
+William Ross: Um, yeah, I've come across some I can't remember what they are doing exactly, but um
+Venkat I: I think they they it's it's I don't know. I don't think it's exactly the same, but what they do is they from my understanding, I've never used it, but I think they plug into Hopspot and basically um help people walk through everything that they need to do. So for example, you can set like custom notifications, custom messages at different stages just to make sure that people are doing what they need to at every stage rather than only email alerts for example.
+William Ross: Mhm.
+Venkat I: So just sort of promoting um adoption and I think they do that really well because I don't know I only read positive things about them. Never.
+William Ross: Yeah.
+Venkat I: No one's ever hit it on a nail.
+William Ross: Yeah. We have um I have a few contacts that like the pretty very good HubSpot partners and the the two apps they always recommend is like qualify and super and that's probably that's how I came across them.
+ 
+ 
+00:13:02
+ 
+William Ross: So yeah.
+Venkat I: Yeah, I think I might have mentioned both on this call already.
+William Ross: Yeah.
+Venkat I: Yeah.
+William Ross: Exactly.
+Venkat I: Interesting. Nice. Yeah. I think uh Cool. Yeah. The I guess the the only question from a buyer's perspective of let's say if I was trying to upsell this to a client is why can't we manually do it and you can like I I understand it's a
+William Ross: as in light.
+Venkat I: very painful thing to do but technically you kind of kind of could. I'm just trying to think what would be the the pitch to a client.
+William Ross: Greg, would you like to take a pitch on the sales?
+Greg Petherbridge: Yeah, I would say to be honest it's it comes down to maintenance. Like we we've spent what over half a year building this product. Um so for you to achieve the same thing with an in-house build will require a lot of time and resource to build it in the first place and then it's the maintenance that comes with that.
+ 
+ 
+00:13:49
+ 
+Venkat I: Yeah.
+Greg Petherbridge: So, you know, trying to handle bugs and and different things going wrong in the platform, I suppose.
+Venkat I: Yeah.
+Greg Petherbridge: Um, you know, the bright side is of getting it right now. We do have kind of an early adopter discount and that's what we're looking to do. We have a free trial as well. So, I mean, the value would be clear if you were to to really move forward with it. Um but yeah I I think you know you can say that about a lot of thing like we've sold a lot of office of the CFO stuff and um a lot of data analytics platforms and and I think we get you get the same push back where it could be an in-house build but I suppose what you're getting from a devoted tool is you know customer support um you know ensuring that it's been tried and tested elsewhere and you know alleviating that having that headache of oh god it's broken down again.
+Venkat I: Yeah.
+Greg Petherbridge: I just think uh an in-house build is always a big challenge and there's a lot of maintenance that comes with it.
+ 
+ 
+00:14:49
+ 
+Venkat I: Yeah. I mean if if you find replicate this exactly notifications for sure.
+Greg Petherbridge: Yeah.
+Venkat I: Yeah.
+Greg Petherbridge: Yeah. I mean, William, you can probably speak to the technical side of it a bit better, but I think that was probably uh the thing that that took a while was that kind of instant right reading right back going both ways.
+William Ross: Yeah, it's actually we've spoken to a few people and they didn't even know it was possible to do Slack right back into into HubSpot.
+Venkat I: Yeah.
+William Ross: Um, actually very tangential, one of the clients I worked with, I had a really funky workaround on this where I use Zapier as a middleman and you're able to do Slack reactions to very specific HubSpot things. So like if you reacted with a specific custom emoji in Slack, then you could populate a very specific property in HubSpot, but it was like very clunky.
+Venkat I: Oh, okay.
+William Ross: And then and then the problem is what we found is I go back to Greg's point is sales people will not touch anything if it's not either got a got a direct relation to their quotota or it's completely
+ 
+ 
+00:15:37
+ 
+Venkat I: Yeah.
+William Ross: frictionless because they're inherently like being blunt. I I I I'm a data guy. I love data. But I have you have to understand the perspective of like these guys.
+Venkat I: Yeah.
+William Ross: Greg doesn't care if his hubspot's up to date. he will hit his target and get his big bonus regardless if he has clean hygiene or not.
+Venkat I: Yeah.
+William Ross: But there is but there is consequences down the line.
+Venkat I: Oh, yeah.
+William Ross: Um obviously so it's really it's really addressing an adoption problem and addressing a surfacing problem as well because it's quite manual and clunky to even surface every hub every hygiene issue you could ever want in one place visibility
+Venkat I: Yeah.
+William Ross: of it and then also knowing the how how often they occur that again is like one of those it's technically possible but in this like but it's hard to get visibility Huh?
+Venkat I: Yeah. Yeah. I think like um for deals I'm just thinking because you have of course the the enforced properties right and then you have like your pipeline rules so you can ensure that um deal always starts in the first stage never moves backwards never skips a stage.
+ 
+ 
+00:16:51
+ 
+Venkat I: So every time um a deal moves from stage one you know to just across the pipeline you can enforce new properties so that you have everything populated. I guess the challenge there is make sure that it's updated because you could fill in an amount in stage two but maybe that changes in stage five and then well I guess you would want to update it because
+William Ross: Yeah.
+Venkat I: you want your commissions. Um but that part I think for deals um at least my experience between like contact companies leads deals I think deals is the easier part to enforce because you have the pipeline rules and the required properties which you don't have for company contacts.
+William Ross: Mhm. Absolutely.
+Venkat I: Um, yeah.
+William Ross: Yeah. And it's also where more of the value is obviously is in the pipeline and in deals which is one of the reason why I wanted to focus there. But even within enforcing properties, what I found was for example, let's say you're moving between deal stages and you need the next steps field to be filled in. I work with those people and you know for the next step they would just put TBD or TBC which is not really filling in the next step but it's technically meeting requirement.
+ 
+ 
+00:17:54
+ 
+Venkat I: Yeah.
+William Ross: Whereas for example in funnel vision you could do if the next steps includes specific words or phrases to flag that as a high unit which is so you could put like if the next step has the word TBD or TBC flag.
+Venkat I: Yeah, like a minimum character something like that. Yeah.
+William Ross: Yeah.
+Venkat I: Well, that that's Yeah. Yeah, that makes sense. Cool. Yeah, I think if this if it was a similar case for contacts and companies um I think that overall would be quite useful because like a lot big part of the challenge is um generally with with those two objects and the the duplicates and then the lease is like a whole other ball game. Um because you don't have any way of enforcing those properties across because they don't they just don't move.
+William Ross: Yeah. No, absolutely. So, that's high high up on the road map. It might be pushed even a little bit further.
+Venkat I: Yeah. No, but otherwise really cool.
+ 
+ 
+00:18:51
+ 
+Venkat I: Nice.
+William Ross: No, of course. Thank you. Appreciate honestly. Just thank you genuinely for the honesty, the feedback, uh the time. It's it's at this stage is one of the most valuable things we can get.
+Venkat I: No, sure.
+Greg Petherbridge: Yeah.
+Venkat I: If you if you like I can um I can connect it to like our demo just mess around with it and just write if I have any other feedback.
+Greg Petherbridge: Yeah. I I mean that was that was maybe where my mind was going next.
+Venkat I: Yeah.
+William Ross: Yeah.
+Greg Petherbridge: I know you have a bit of a mix of clients there. So um kind of a lot of our early conversations right now are speaking to people like you kind of those RevOps adviserss working with HubSpot working with different clients and generally what we're doing with the others right now
+Venkat I: Yeah.
+Greg Petherbridge: is just finding one and not really making them go to all their clients and and shy bash the door down with this idea. We are offering um kind of a sandbox environment.
+ 
+ 
+00:19:34
+ 
+Venkat I: Yeah.
+Greg Petherbridge: uh play around with it, see see how you feel. And then we do have for the How many spots do we have left, William, for the kind of early pricing?
+William Ross: I've got a few left. I think it's between five five to six seven around that.
+Greg Petherbridge: Okay. So, yeah, we our our early adopters we really do want to take care of. So, I suppose that's that would be the added bonus if um any of your clients were to sign up would be that they'd be locked into to that price for for the the foreseeable reading.
+Venkat I: Yeah, cool. Sounds good. Nice. Yeah, I'll play around with it. I'm always check out what's what's new.
+Greg Petherbridge: Good.
+William Ross: Perfect. Really appreciate that. Um, any other questions, thoughts from yourself then cat or or Greg? I mean, happy to give you a few quite a few minutes back. You can go and uh enjoy hopefully some Spanish sunshine.
+Venkat I: Oh, yeah.
+ 
+ 
+00:20:27
+ 
+Venkat I: It's funny.
+William Ross: A don't even I'm looking my my entire sky just is so bright because it's just one white cloud over this
+Venkat I: I'm sorry. No, because because my company is based in the UK as well, right? Like almost every country with the weather. Oh.
+Greg Petherbridge: Um yeah, Vancat, something we have discussed as well is for for um consultants like you. um if you like it and and you feel confident in it um for for just that one client and and it and it feels proved out um one we we we'd we'd be happy to give you 20% on the referral fee um for for whatever that discounted payment is and then we'd be happy to give you 20% for for any future future clients whether that's at the early early stage price at 3,000 or whether that's at
+Venkat I: Okay.
+Greg Petherbridge: the the kind of long-term price of 5,000. It's a 20% referral fee we're working with. So, um yeah, just just because we know you might not get any incentive for this if if your clients are the only ones really benefiting.
+ 
+ 
+00:21:27
+ 
+Greg Petherbridge: So, um yeah, we just want to to stay close to people like yourself and people who really understand HubSpot and and um yeah, that that's that's really where we want to sit.
+Venkat I: Yeah.
+William Ross: Yeah.
+Greg Petherbridge: So, uh really want to build those relationships early.
+William Ross: And obviously the closer we are with yourself, the the better feedback we can get built into the road map and then you our job's easier because we know what to build.
+Venkat I: Yeah. Yeah. Yeah.
+William Ross: Your jobs even easier because you're getting the product that fits your needs even more.
+Venkat I: Yeah. Exactly.
+William Ross: Exactly.
+Venkat I: Just just one quick question.
+Greg Petherbridge: But yeah, yeah, I I think Yeah, of course.
+William Ross: That was Yeah.
+Venkat I: Um what size of sales team do you think it it becomes really beneficial for like at what point because obviously if it's like one or two that's you know you could basically slip them yourself at what like what
+William Ross: Yeah.
+Venkat I: would you say is the threshold?
+Greg Petherbridge: size matters.
+ 
+ 
+00:22:13
+ 
+Greg Petherbridge: I think it's scale and expectation that I really see as where the need is. So even if you have a selling team of three or four, if there's an expectation to be as accurate as possible and there's VC pressure coming down and and they need to really trust the numbers that CRO, even
+Venkat I: Yes.
+Greg Petherbridge: still if there's only three, four people, it's still quite hard to manually go in and identify these things without having a tool like this that can just kind of give you the bird's eye view.
+William Ross: Yeah.
+Greg Petherbridge: Yes, in theory if you clicked into all them you you'd save some time. But um yeah, one of our customers only has three, four sellers. So, um obviously I think it gets more and more beneficial as you go up.
+William Ross: Yeah.
+Greg Petherbridge: Um but I I do think it's a combination of expectations within the company and where they're at in terms of their scale.
+William Ross: Yeah. Yeah. It's a really good way to put it in general. about who's who's keeping on top of their hygiene.
+ 
+ 
+00:22:59
+ 
+William Ross: We spoke to another person and they they love funnel vision but it was really funny. They had their client had two sales people but also two revops people. So like there was like there's they're fully on top of all related hygiene issues.
+Venkat I: Yeah.
+William Ross: We've also as spoken to people with three or four sales people and they're they just can't deal with any of it. They can't touch it. So it's it's it's a yeah could be it could be a problem depending on the organiz but you in general obviously because we're looking at deals if you've if you're a company with like two deals coming in a
+Venkat I: Yeah.
+William Ross: year probably don't really need yeah yeah of course I think there's probably wider problems if you can't keep on top of that one
+Venkat I: That was my next question, right? I think like one is one is your your your scale in terms of just the size of your team and then the other thing is deal volume. Like if you're doing super niche B2B and you literally have like one deal a month then Yeah, exactly.
+ 
+ 
+00:23:39
+ 
+Greg Petherbridge: Yeah, of course.
+Venkat I: then it's you. Yeah. Cool. Nice. Very cool. Yeah.
+Greg Petherbridge: Okay.
+Venkat I: Thanks guys.
+Greg Petherbridge: Um, so William, William, what do you suggest maybe maybe in terms of next steps?
+Venkat I: Appreciate it.
+Greg Petherbridge: Should we um to send the followup to to Vancouver with the website, things like that, and maybe just book in a catch up next week to to see if there's any feasibility or any curiosity to move forward?
+William Ross: Yeah, absolutely. I was going to say there's a couple options. We can send you the website. can check it out and you could sign up yourself for free if you have like your own internal or sandbox environment or we could also just take a rescheduled if you want to join us on a call and we can on board together as well depending on your preferences.
+Venkat I: Yeah, I could just sign up um and click up. I think it would be more more useful for you guys as well if I actually have a walk through myself before.
+ 
+ 
+00:24:34
+ 
+William Ross: Yeah, absolutely. Okay, let's do that.
+Venkat I: Yeah.
+William Ross: Well, let's um we'll follow up with send you the website and things um any information you need and then we can schedule and we check in next week or or actually a week after because you're off next week, right?
+Venkat I: Yeah. Cool.
+William Ross: There we go. Perfect. Anything else from yourself in Greg? I feel pretty happy.
+Venkat I: I guess me.
+Greg Petherbridge: No, great chat. Really appreciate the time, man. And um yeah, let's stay in touch and um enjoy your time off. Hopefully, we'll uh we'll organize a catch up when when you're back. If if you want, we could put that in the calendar now just to to have it there.
+Venkat I: Let's see.
+William Ross: That's we commencing the eighth, right?
+Greg Petherbridge: Yeah.
+Venkat I: Do you think we could do it uh sometime in January? That's right.
+Greg Petherbridge: Yeah, of course.
+William Ross: Yeah.
+Venkat I: Just to have that week and then have the week after off again and then just a lot of Yeah.
+Greg Petherbridge: Yeah, it's unraveling a lot this time of year for sales teams.
+Venkat I: A lot of things going on. Yeah.
+Greg Petherbridge: Yeah. Um Okay. Yeah, maybe like the Tuesday the 6th.
+Venkat I: Yeah. Should be fine. Um January still open.
+Greg Petherbridge: Cool. And um cool. All right, I'll send that over.
+ 
+ 
+Transcription ended after 00:26:04
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

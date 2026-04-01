@@ -1,0 +1,308 @@
+﻿Jan 13, 2026
+Nikola / FunnelVision - Transcript
+00:00:00
+ 
+Greg Petherbridge: Vision came to be. Um, and you know, we we'll kind of pass it over to you after and we'd love to just hear a little bit about how you've settled in at Mont and kind of what you've seen uh since joining and and kind of why you you know, you think funnel vision could could potentially be of use. But um on my part anyway, I'm Greg. I've I've worked in kind of enterprise to to whatever sales, you know, working with early stage startups for about five years now. So um I used to work for a company called Pigment where I met kind of two of our other co-founders here. Uh and for the last maybe year and a half we've been working with early stage startups on um kind of building GTM from scratch. So, uh, that's kind of just been working with with founders who have some money at, you know, seed or series A stage and, you know, we basically bridge that gap and try to skip a few of the growing pains that we've seen in other companies um to kind of help build um, GTM foundations from the ground up.
+ 
+ 
+00:00:55
+ 
+Greg Petherbridge: So that's kind of everything from uh working side by side with for for founder le sales building out their revops function building out their BDR function kind of acting as whatever uh you know shadow BDRs AES revops people over over our engagements with our clients um and and basically that's kind of how funnel v funnel vision came to be was that we noticed that pretty much in every company we worked for and worked with as a consultancy that pipeline confidence was always a bit shaky. Um, and that can come down to a few things. Ultimately, what what we saw, I don't mind saying this because I was a salesperson myself, but we we saw it as quite a behavioral issue of of sales people and how, you know, if there's not any any kind of critical eye over over your deals. It's it's hard to to really see where your forecast is falling down. We we kind of see that a lot of sales people will either project inflate their numbers to uh you know make make it seem like everything's okay. They might kind of sandbag their numbers so that their target isn't so bad.
+ 
+ 
+00:02:00
+ 
+Greg Petherbridge: Um you know they might just be lazy with how they fill out the CRM and and you know if the knowledge sits in their head they're all good but if their kind of deals aren't getting really scrutinized there's no real downside to not having discipline CRM hygiene. So the knock-on effect we kind of saw was from a bird's eye view from a founder or CRO or manager whoever cares about what the forecast is doing for them. They're ultimately they they don't have trust in their numbers.
+Nikki Mikolaskova: Mhm.
+Greg Petherbridge: So ultimately what what funnel vision is there to do is to give confidence to the people who care about the forecast to um so whether that's CRO whoever it is CEO help for the people who are chasing reps to update their deals whether that's revops or the managers or whoever make it a lot easier on them and and make it a lot more automated and clear. And then finally for the people who actually have to fix it, the reps being the AEES or the SDRs, BDRs, um how do they how do you make it as easy as possible for them to get clarity on what needs to be fixed and kind of let them fix it within their own world.
+ 
+ 
+00:02:59
+ 
+Greg Petherbridge: Um so yeah, I I kind of did a me intro and a funnel vision intro there, but uh I hope that gives clarity. Um William, I might just pass it over to you to give uh give give a quick intro of yourself as well.
+William Ross: Yeah. Yeah. Very very very brief one. I know we probably a little bit short on time. I've got a a little more varied background. So I started off as an economist for the UK government on their factory streaming program.
+Greg Petherbridge: 6.
+William Ross: So I worked in government for a few years and that was quite the tail. I worked there over particularly over over COVID at the Department of Education and uh during a period where we had about three secretary of states, a few prime ministers all in in a very funky period. So um yeah so that was really interesting and then I moved into technology consulting after that basically you know more fast-paced environment more fun realized as cool as government is um I wanted to work a bit more at the cutting edge tech scene and better I was I'm a bit of a data purist and government is not the place for a data purist.
+ 
+ 
+00:03:49
+ 
+Nikki Mikolaskova: Mhm.
+William Ross: Um so that's kind of how I I ended up a bit more on the on the consulting side here and um background a bit more in process mining technology consulting bit of generative AI and um on the consulting side of our services business I do a lot more on the revop side so very aware of this of this of this um yeah that's basically my my
+Nikki Mikolaskova: Mhm.
+William Ross: my background um but yeah I' love to know as well bit a little bit about yourself Nicola and like kind of
+Nikki Mikolaskova: Yeah.
+William Ross: what if anything like piqu your interest on on funnel vision or if there's anything specific you'd like to see or if any of the pains we've chatted kind of resonate with
+Nikki Mikolaskova: Yeah,
+William Ross: yourself.
+Nikki Mikolaskova: thank you guys for the intro. Um, I definitely relate to what you were saying about just kind of the general um, mess um that as a Revox person you kind of deal with all the time. Um for for my background um I just joined Mont um about three months ago.
+ 
+ 
+00:04:34
+ 
+William Ross: Right.
+Nikki Mikolaskova: Um so still still very new um and and yeah just I think when you when you join in um
+Greg Petherbridge: Amen.
+Nikki Mikolaskova: newly you kind of notice a lot of these things and one of the first things that I noticed um that was kind
+Greg Petherbridge: Amen.
+Nikki Mikolaskova: of yeah the the the CRM hygiene is not where I would like it to be. Um and and the forecast specifically yeah it doesn't seem it doesn't seem like
+William Ross: Heat.
+Nikki Mikolaskova: um like we are really forecasting. I think it seems like we're kind of throwing numbers um out there and just just hoping for the best. Um so yeah, the forecast accuracy definitely something that I've noticed kind of very early on that it's it's not um it's not where it should be. Uh previously before I joined Mont, I worked at a different startup called humans um where I I was also the revenue operations manager and I built out the revenue operations function from ground up like there was nothing in place where I joined. It was very very early stage at that time.
+ 
+ 
+00:05:29
+ 
+Nikki Mikolaskova: So I I had kind of the the advantage of being able to build out processes kind of how I wanted them. So I'm also very particular about how I think should things should be done. Um and that was something that I I kind of didn't really appreciate enough when I was in that role because I kind of just took it for granted. But now joining a company that's more established that already has processes, I can see the gaps there and I can see that it's it's um like you said there there's a definitely behavioral part of that where the team is used to doing things a certain way and it's quite hard to try to get them to change their ways particularly as well. Mont is a a global company so we have different offices people um some people here with me in London but lots of people also in different offices around the world so it's kind of harder to um keep an eye out on them uh in that sense. So, so what you mentioned definitely resonates with me.
+ 
+ 
+00:06:17
+ 
+Nikki Mikolaskova: If I'm being really honest with you, I haven't looked into final vision specifically when you reached out to me. I just I liked the um the idea. It was at the time when I was working on this forecast um accuracy um piece for my for my manager um and at the time I noticed that yeah, the forecast accuracy is is is very very bad actually um to be quite quite honest with you. Um so it was definitely something that that spoke to me. Um and then I haven't really gotten a chance to pick it back up until just now being back in January. Um but yeah, going forward as well um actually I will be taking more of an active role at Mont in both the the forecast planning um and and just general um bigger bigger role in Revop. So I just figured that it would be really good to kind of look at what's out there and if if there is a good system that we can use that could help us, I would be very happy to kind of um explore and then implement it hopefully.
+ 
+ 
+00:07:10
+ 
+Greg Petherbridge: Brilliant. That's a that's a great background. Uh and yeah, don't worry. We didn't expect you to do too much homework on us beforehand. I suppose we're just we're just thankful that you took the call. I think we can definitely jump into to a quick demo. It should should only take five 10 minutes. Do you have a hard stop at 11?
+Nikki Mikolaskova: I don't Yeah, I can I can do if you guys are free, I can do 10 more minutes because I know I I was
+Greg Petherbridge: Okay.
+William Ross: I have messed up at 11,
+Nikki Mikolaskova: lying.
+Greg Petherbridge: Perfect.
+William Ross: but Greg, you might want to take on afterwards if if I have to
+Greg Petherbridge: Yeah. Okay. Well, well then we might just Well,
+William Ross: jump.
+Greg Petherbridge: then in that case, William, do you want to just jump straight into the demo and Nichol can have a quick chat after after if
+William Ross: Yeah, let me let me share my screen and we can get to the really fun stuff and uh let me know if that pops
+ 
+ 
+00:07:42
+ 
+Greg Petherbridge: needed?
+William Ross: up for yourself. Okay.
+Nikki Mikolaskova: Yes, I can see
+William Ross: Perfect. Actually, let me make it bigger so it's cleaner.
+Nikki Mikolaskova: that.
+William Ross: Um, so yeah, before I start, basically the the premise of funnel vision is really um three three trenches, three-fold. First is uh surface all of the all of your pipeline hygiene issues in in one place. Second is configure them and tailor tailor all of hygiene issues specific to your own sales
+Nikki Mikolaskova: Mhm.
+William Ross: and go to market motion. And the third one is make the updates in Slack or teams where the reps already work. So there's no friction regarding getting the data up to date. So so that's the the three the three main pillars. And so the way to get set up on Funnel Vision, the way it works is really simple.
+Greg Petherbridge: What's
+William Ross: All you do is connect into into your HubSpot environment. And this usually takes about five minutes depending on how much data is in your environment.
+ 
+ 
+00:08:33
+ 
+Greg Petherbridge: this?
+William Ross: And then you're immediately presented with basically like a a snapshot audit of your pipeline health. So, how many deals in your pipeline um are stale or are past their close date or have missing close dates or missing next steps? And these are just pre-built really common hygiene issues that will exist across your pipeline. And then at the bottom, you've got your hygiene leaderboard. So, which of the deal owners are more on top of their hygiene compared to others? And it's ranked by how many issues they have across how many deals they own. So, for example, I have like on average about two issues across each deal. And poor Greg down at the bottom is not very on top of his hygiene, true to his nature, does not like up making any any updates. So, this is just a really good visibility scene to to get um the deal owners on on on board because what we found was sales people love leaderboards so they can track their competitiveness against each other. But obviously these are just these are just your common pre-built issues,
+ 
+ 
+00:09:35
+ 
+Nikki Mikolaskova: Yeah.
+William Ross: but every sales go to market motion has their own specificities. So, what we let you do is create your own rules. And here the best way to describe it is genuinely that the the limit is your imagination because we pull
+Nikki Mikolaskova: Perfect.
+William Ross: in every field in HubSpot whether it's a custom property associated contact associated company. So if you're using like medic medicam whatever your sales methodology is we'll pull that in and you can build any hygiene issue to be flagged that you that you want. So, just as like um I know as an example here of something I made up, I wanted to know if a deal has a is a big amount. It's in its late stage and there's no close date. So, all you have to do is figure out okay the find your HubSpot field. So, amount um is greater than could be whatever you want 20,000 and the deal stage is in late stage. So, whatever your specific deal stage or pipeline is, it'll it'll appear here.
+ 
+ 
+00:10:31
+ 
+William Ross: And the close date is is empty. And there's two features to building your own rules that are really powerful. The first one is telling the receiver of the notification what you want them to do because what what you don't want is to say to people, hey, this is a hygiene issue and then they have to figure out what what you want them to do with it. So, what we let you do here is specifically tell the the receiver of the notification what it is you want them to update. So in this case, it might be you want them to update the close date and the next step, but you could also have update the amount or whatever it is you want the person doing to action. So it's so the salesperson doesn't have to think about anything. They just have to action what it is you tell them to do. And the second feature that's really powerful is to automatically request updates from deal owners because the other thing
+Nikki Mikolaskova: Is
+William Ross: you don't want is your salespeople to be bombarded with notifications whenever a
+ 
+ 
+00:11:18
+ 
+Nikki Mikolaskova: it
+William Ross: hygiene issue is triggered because they're not going to get bought into it. They're just going to ignore all the notifications. So when you turn this on, what happens is it will be scheduled on a daily digest format so that every day at 10 a.m.
+Nikki Mikolaskova: Mhm.
+William Ross: they get one message in Slack or Teams that goes, "Hey, here are all the deals that have hygiene issues that have been triggered in the last 24 hours." And they can work through them one by one. And I can show you how that would look in in practice. So it's a really clean way for them to say in their own time. They can work through all of their hygiene issues whenever they want. But you'll always have as the owner of Fundle Vision manual control as well to be able to request the updates and not have to wait for the daily digest.
+Nikki Mikolaskova: Mhm.
+William Ross: So once you've surfaced all the hygiene issues and you've configured them exactly to what it is you care about in order to determine whether your pipeline's healthy, the question is what do you do about it?
+ 
+ 
+00:12:10
+ 
+William Ross: How do you actually action any of this? And so that's why we have this fix issues page. And what you see here is every deal in your pipeline that has some type of hygiene issue. And you can filter this by deal owner or any specific issues that you're looking for or stages.
+Nikki Mikolaskova: Mhm.
+William Ross: You can also look at your pending requests. So these are updates that have been requested in the past that haven't been action. So you could literally just log into Funnel Vision and go, okay, I want to see this one's not been action for six days. I want to request it again or I can send a message or I can escalate this issue. And so just to show you how we look uh through manually because we I don't want to wait till tomorrow 9:00 a.m. to show the daily digest. Here are my deals that have hygiene issues. And we can look at for example uh this one. You click on the deal to get more information about it.
+ 
+ 
+00:12:55
+ 
+William Ross: So what the what the specific hygiene issues are. All you have to do is click request update and then instantly I as the deal owner get a notification in Slack. So you can imagine the salesperson could be on their phone and it works really well on mobile but they could be on a train airport, wherever it is that they're working. They don't need to know about Funnel Vision. They don't even need to know about HubSpot. they just get a Slack notification that goes the the person's asked for an update on this deal. They just click it and then they get asked to fill in this information. So, right now we don't have any companies in our in our dummy data because it's it's dummy data. Um, but what's the amount? Right now there's been no amount and you can say, "Oh, it's meant to be 10,000 for this deal.
+Nikki Mikolaskova: Mhm.
+William Ross: Uh, and what's the next step?" And what would happen is right now it tells you the current value that's not been set.
+ 
+ 
+00:13:38
+ 
+William Ross: But if there was a next step, it would tell you what's currently in that field. But it could be schedule meeting with the buyer. The close date is set for January 1st.
+Nikki Mikolaskova: Mhm.
+William Ross: So it's in the past. So maybe it's meant to be in March. And then the deal owner just has to click update the deal. And that's it. And then this is kind of part of the daily dice I was referring to where they get a queuing system to say, "Hey, there's also other deals that have hygiene issues as well." So tomorrow at 9:00 a.m. I'll get a message if I don't action anything else that says, "Here are your deals." And that's it.
+Nikki Mikolaskova: Mhm.
+William Ross: the the the hygiene issue has been fixed. The sales person doesn't need to log into funnel vision, doesn't need to log into HubSpot. They just go within Slack and then you can also monitor it through HubSpot or through funnel vision that things are being being action. But that's you surfacing the hygiene issues, configuring them um and actioning them in in Slack.
+ 
+ 
+00:14:26
+ 
+William Ross: And that's the the premise of funnel
+Nikki Mikolaskova: Mhm.
+William Ross: vision.
+Nikki Mikolaskova: Yeah, thank you for that. Um, yeah, I definitely like that um working from Slack um idea. Um I think yeah it's it's it's not um yeah it's it's not not news for anyone here on the call that yeah like try I I have tried to build out workflows um via HubSpot directly um doing things like yeah this is missing and sending a notification to the person but it's um it often falls off um at that exactly that stage when you have to go log into HubSpot and do something there. Um, and I would like to think that it's not um, you know, it's not that complicated to click on the link and do it in HubSpot. But I know that, you know, the more steps we can take out, the the better um, it normally is. So, I I definitely like that idea of the the the reps working directly in Slack and being able to update it there without kind of having to go through this different system.
+ 
+ 
+00:15:20
+ 
+Nikki Mikolaskova: um in terms of the the kind of final vision um UI is that that would be for me as the RevOps uh manager but also maybe for the sales managers they would have access to
+William Ross: Yep. Exactly.
+Nikki Mikolaskova: that.
+William Ross: So any as many people as you want can can have access to really simple. We don't have like a seat based or anything like
+Nikki Mikolaskova: Yeah, I was going to ask about that. Yeah.
+William Ross: that.
+Nikki Mikolaskova: So there there's um there's no kind of um yeah seedbased logic. It's just um you can access it.
+William Ross: Exactly. Exactly. But ideally,
+Nikki Mikolaskova: Okay.
+William Ross: I mean, you can have all the sales people knowing about Funnel Vision, but I mean, that's a waste. You don't really need them
+Nikki Mikolaskova: Yeah. Yeah. No, it's um the the logic there,
+William Ross: to
+Nikki Mikolaskova: like I said, the Slack logic there, I think, is very powerful. Um so, yeah, I would ideally probably want them to be working from there directly.
+ 
+ 
+00:16:04
+ 
+Nikki Mikolaskova: Um
+William Ross: And the other thing cool is the more if you do a bit of uplift effort to creating your rules,
+Nikki Mikolaskova: Mhm.
+William Ross: you can almost set funnel vision to work autonomously in the background so that you only need to check are the rules being executed? are things being t you don't really need to it's not going to be like you're spending hours in funnel vision. That's not the idea. The idea is it really runs in the in the
+Nikki Mikolaskova: Yeah. Yeah. And then if if there is um this this um Slack
+William Ross: background.
+Nikki Mikolaskova: notification about you have to update a deal and then the person updates the deal, is there a sort of um kind of confirmation I can see in Funnel Vision that they've done it or is it mostly just that I don't see that it's outstanding anymore?
+William Ross: So right now it's really it will just disappear from funnel vision but what we're working on now is kind of like an email integration that will like maybe weekly email to say hey here are all the things that have been actioned and we've actually had quite a lot of requests for
+ 
+ 
+00:16:49
+ 
+Nikki Mikolaskova: Mhm.
+William Ross: some basic hygiene reporting. So as you say things like how many have been actioned,
+Nikki Mikolaskova: Mhm.
+William Ross: how many have been requested. So that's really early in our road map for one thing but right now it really just mean it just disappears from funnel
+Nikki Mikolaskova: Yeah. Yeah.
+William Ross: vision.
+Nikki Mikolaskova: No, that makes sense. I think I mean ideally um that it's like you mentioned it would work kind of almost independently from what I can see. It's um but but yeah in in general there might be some some reporting needed but that's um yeah it's good to good to hear that that's I mean you're I think quite early right so I imagine that the product is evolving a lot
+William Ross: Oh yeah. Yeah. Even prior to to Christmas,
+Nikki Mikolaskova: yeah nice yeah now I understand I've worked at some
+William Ross: it was quite different.
+Nikki Mikolaskova: early stages startups before so yeah I know that um normally there's the pace of updates is it's much faster than with kind of like large um established um software
+ 
+ 
+00:17:39
+ 
+William Ross: Yeah. Yeah. And and part of the beauty is um our early users and design partners, they really help shape the product as well.
+Nikki Mikolaskova: Goodness. No worries. Uh I I don't mind, but Nikki is preferable. So yeah. No worries at all. No switches.
+Greg Petherbridge: No,
+Nikki Mikolaskova: Bye.
+Greg Petherbridge: thanks Nikki. Um, and yeah, really appreciate the feedback particularly. Um, and sorry, just to check, do you guys work with with HubSpot and Slack? Is it?
+Nikki Mikolaskova: Yes. Yeah. Yeah.
+Greg Petherbridge: Okay.
+Nikki Mikolaskova: Exactly that. So,
+Greg Petherbridge: Yeah.
+Nikki Mikolaskova: it was um it was a good uh demo.
+Greg Petherbridge: Yeah. Because we we actually started with HubSpot and Slack.
+Nikki Mikolaskova: Yeah.
+Greg Petherbridge: Um just because like from what we've seen of the people who care about this most of like company teams who are like targeting growth and you know have investors to please and things like that those that kind of early stage startup kind of
+ 
+ 
+00:18:39
+ 
+Nikki Mikolaskova: Mhm.
+Greg Petherbridge: niche tend to be HubSpot and Slack. So we started there but then we saw a lot of Microsoft teams as well. So over Christmas we we built the teams version.
+Nikki Mikolaskova: Mhm.
+Greg Petherbridge: Um but but yeah I suppose you said you mentioned a few conversations around forecast and like a bit of a focus for you. Is that kind of a new shift where like sales leaders are redoubling down on having to fix that forecast? Is that an a focus for them to to get more accurate
+Nikki Mikolaskova: It's a good question. I would say so.
+Greg Petherbridge: there?
+Nikki Mikolaskova: It's like I said, I still have kind of um fairly limited um Mont specific context just because yeah, I mean it's been three months, but it's passed very quickly. It seems like there's still lots to um lots to learn.
+Greg Petherbridge: Yeah.
+Nikki Mikolaskova: Um but yeah, I think I think that u we're kind of doubling down on that. It's it's also from what I understand um that the team kind of used to do a more of a almost like an offline forecast in like a Google sheet or in in in um maybe even slides if I believe if I get it right and then um now they're focused more on actually bringing that into HubSpot and using that HubSpot forecast um section for that.
+ 
+ 
+00:19:50
+ 
+Nikki Mikolaskova: Um, so I think that that's just um that's yeah brought up um that idea of like we need to really make sure that um that the deals are clean and that we're working with um if we're working directly in HubSpot it just brings more spotlight onto HubSpot. Um and I think that yeah just generally the HubSpot hygiene maybe even less so with deals but um I mean I've seen it um just across um the CRM in general that it's um there's there's a lot to clean up. So, um I think that that's um just to be like very honest with you, it's it's probably not like a huge priority um for for the for the team, for the higherups,
+Greg Petherbridge: Huh?
+Nikki Mikolaskova: but it is a kind of a priority for me. So, um it it's definitely um like I think that there will probably be some kind of internal discussions that I need to have and I need to like build a case for this. Um but um like for me like I said like coming from from a background where um I was I was quite in charge of like how I wanted things to look and now coming into and seeing how it's how it's now I feel quite strongly that there's there's a lot that we could do and that we could improve there.
+ 
+ 
+00:20:55
+ 
+Nikki Mikolaskova: Um so so I think it's um this going to be like I said a priority for me personally but I think that um if we can if we can um kind of link that to to the forecast accuracy that was something that was that was specific from um coming up from from the team from the higherups. So I think it's just there's there's kind of um a bit of a yeah a bit of a a gap between the idea of like you know having the the the CRM clean uh where yeah I mean you've you've you are a sales person yourself so you know how it is that people don't really care about that when you when you talk about keeping the hygiene um that's not really a thing that that resonates but you know thinking things like you know helping you close deals that resonates more so I think that there's just some internal uh thinking that we need to do about that. Um, but I do I do think that there's space for this. Um, I think that also just to be very very uh direct and like honest with you, it will depend on um like the pricing of the tool just because um as I've said there's already kind of a lot that we've been trying to do with um workflows directly in HubSpot um and then we we use other tools like like Zapier or Clay where you kind of can get some of this functionality but it's just more of work.
+ 
+ 
+00:22:08
+ 
+Nikki Mikolaskova: So, if it's something that we can kind of plug in, um it might still save us time to have this. And especially, like I said, the the ability to kind of update directly from Slack is like the the main um the main kind of goal that I see there. Um because if it's kind of just about notifying people, I think that we can kind of do that directly without really needing any any external tool. Sorry, I think you're it. Yeah.
+Greg Petherbridge: Yeah, I just have some background noise, so while you were talking, I was muted. But, um, no, I really appreciate the transparency there.
+Nikki Mikolaskova: Nice.
+Greg Petherbridge: Um, it's always nice. I'm used to selling finance tools, so it's nice selling this where like you're talking to people who are just familiar with the sales game and they're just like, "Listen, this is what you need to know." Um, but yeah, really appreciate it.
+Nikki Mikolaskova: Yeah.
+Greg Petherbridge: Um, on the pricing side, we are at the moment just running like free trials with any early adopters just to kind of at least get them fit to their world and just just like play around with the tool and see if it'd be worth worth the money.
+ 
+ 
+00:23:04
+ 
+Greg Petherbridge: With regards to pricing, we we will be like a 5k type tool pounds, but for our early adopters, we're setting that to £3,000. So, well, in Euro, it's like 3.6, 3.8, whatever. Um but yeah, I suppose that that value I suppose it's not you who needs to be convinced on that value.
+Nikki Mikolaskova: Mhm.
+Greg Petherbridge: It's it's obviously the higherups. Um so obviously you mentioned you know it's a priority for you if you were to let's say take a trial and and play around with the tool. Who who would you need to convince? Is it the CRO or is there kind of someone else on the tech side
+Nikki Mikolaskova: Um,
+Greg Petherbridge: involved?
+Nikki Mikolaskova: it's a good question because actually there's there's some questions now about about the team just because uh my my direct manager is going to be leaving uh the company at the end of the month. So I think that we're kind of figuring out what the structure is going to look like. Um, but I I um I will most likely be reporting into um the VP um of revenue and customer operations.
+ 
+ 
+00:24:02
+ 
+Nikki Mikolaskova: Um so I would think that um we definitely will need him, but he might even refer into the CRO for for kind of um yeah, their their
+Greg Petherbridge: Okay. So,
+Nikki Mikolaskova: buying.
+Greg Petherbridge: so do you think there'd be any value in in setting you up on a on a trial and and you know giving you the chance to play around and if if you know potentially showing the VP what what it can
+Nikki Mikolaskova: Yeah, I think that um there would absolutely be um be value in that.
+Greg Petherbridge: do.
+Nikki Mikolaskova: I am just kind of conscious of the fact that it's busy periods because of what I said, particularly the handover with my manager. So if if this is a sort of um yeah, like as you said, kind of playing around with it, I might not actually have the most time within the next two weeks or so. Um because like I said, there's there's kind of a lot going on that we need to figure out before before my manager leaves. Um, so I think that I would love to uh spend some time with the tool and yeah, like just just just roll it out and see see if people have feedback on it and like actually you know the salespeople, the users.
+ 
+ 
+00:25:01
+ 
+Nikki Mikolaskova: Um, but it's it's probably just to be just to be quite clear. I don't know if you have a sort of like time frame for the for the for the trial, but for me, I wouldn't really want to start it until I think
+Greg Petherbridge: Okay.
+Nikki Mikolaskova: February.
+Greg Petherbridge: Um, I mean, we're pretty we say it's a week trial, but we're pretty loose with it. Um, I mean, we could give we could set you up on access for next week, but if you don't think there's there's going to be really any scope to use in the next two weeks, we're happy to maybe just save the time of of doing the implementation. Um, if you think, you know, you need some time to get clarity on who your direct report will be and and maybe the whole team will have a bit more time to to to see the value in it, maybe it's it's worth putting in a call for like first week of Feb and and getting you you set up then. Um, but happy to we're happy to extend the trial period so that you can have it for three weeks and set you up next week.
+ 
+ 
+00:25:50
+ 
+Greg Petherbridge: But I'm I'm happy to do whatever you think's
+Nikki Mikolaskova: Yeah,
+Greg Petherbridge: best.
+Nikki Mikolaskova: I think um again just to be like very clear, I think I'm not going to prioritize it in the next two weeks just because what I said there's already lots going on. So it would be I think a bit of a waste of yours as well to set it up.
+Greg Petherbridge: Okay.
+Nikki Mikolaskova: So I think I like the plan of let's catch up in first week on Feb and then hopefully by then I'll have some time to also just um do a little bit of you know soft selling internally um to understand um what's what's the um what's the sentiment on this um and then hopefully if it's if it's positive we can then actually start um getting that trial up and running in FE.
+Greg Petherbridge: Perfect. Okay, that sounds great. Um, will we maybe put in some time for similar time? Maybe maybe 11 a.m. on on Monday the 2nd. Would that suit?
+Nikki Mikolaskova: Um, let me see my calendar.
+ 
+ 
+00:26:40
+ 
+Nikki Mikolaskova: Um, yeah, 11:00 a.m. Yeah, that should be fine.
+Greg Petherbridge: Okay, perfect. Well, Nikki, I'll send over the invite now. Um, and yeah, of course, um, if you have any questions or anything in the meantime, I'd imagine you won't as as you mentioned, you're quite busy, but obviously feel free to reach out if if any
+Nikki Mikolaskova: Yeah, if anything comes up though,
+Greg Petherbridge: curiosity
+Nikki Mikolaskova: I will let you know or if also um just to be again I'm that direct person. So if if I haven't had any chance to do it in two weeks and I know that we want to be done with the handover definitely by the end of month but I know that there might be some things that slip over so maybe we'll need to push it but I'll I'll be you know I'll be in touch in case that is the
+Greg Petherbridge: Yeah,
+Nikki Mikolaskova: case.
+Greg Petherbridge: no worries. Um, yeah, that that's perfect. Just just keep in touch and we'll be happy to to move it around if if you need.
+Nikki Mikolaskova: Nice.
+Greg Petherbridge: But um, yeah, Nikki, really appreciate this call. It was it was really great feedback first of all and just interesting to hear about your about your new role.
+ 
+ 
+Transcription ended after 00:27:58
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

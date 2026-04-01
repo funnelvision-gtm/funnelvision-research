@@ -1,0 +1,118 @@
+﻿Jan 7, 2026
+Chintan <> FunnelVision - Transcript
+00:00:00
+ 
+Chintan Jain: this uh I don't remember exactly uh maybe you sent me an email or maybe you sent me some LinkedIn I I have absolutely no idea uh because I I think it's been some time since uh I put this on the calendar right so uh meaning I don't know what funnel vision is all about so I am just here to know and understand about funnel vision I think you guys have sent me some email or maybe LinkedIn chat with some problems that you can solve for us and that is what got me excited. So you have to tell me how are you going to solve the problem and what is that you going to be
+William Ross: Yeah, no, of course. Super, super. I'll give you I'll give you a bit of a refresher.
+Chintan Jain: solving
+William Ross: I do believe it was Greg reaching out to you on on LinkedIn, but um so basically what Funnel Vision seeks to do is essentially in a in a nutshell solve pipeline hygiene. So infunnel hygiene problems um to ensure that people's forecasting decisions are made on timely accurate data.
+ 
+ 
+00:00:55
+ 
+William Ross: So um kind of a bit of a backstory is we set up a consultancy a couple years ago working generally with seed series A companies um various industries various market sizes and the kind of consensus we found was pipeline hygiene was a big problem and a big problem for two reasons. It was either causing a lot of manual chasing for people to update their their CRM or sales directors were getting in the firing line because the decisions they were making were b were based on bad data and the people responsible for those data that data your your sales reps your AES didn't want to touch a CRM they didn't want to break their workflow understandably right because they want to sell they want to do what they do best and so what Final Vision seeks to do is make sure that they can update their their CRM natively wherever is they work. So whether that's in Slack or Teams, they can make updates within Slack or Teams and then the the RevOps team, the sales directors can configure the hygiene issues to whatever is that's specific to your own go to market motion.
+ 
+ 
+00:01:57
+ 
+Chintan Jain: Okay.
+William Ross: Does that kind of resonate a little bit
+Chintan Jain: Yeah. Yeah. Yeah. That that's Yes. Yes. I I remember now.
+William Ross: point?
+Chintan Jain: Yes. That that is again a problem that that is I think we are trying to solve. So yes, we should talk
+William Ross: Perfect. Amazing.
+Chintan Jain: more.
+William Ross: So if you want I can give you a very a very quick uh demo and then we you can let me know your thoughts, general opinions and be um just love to get your your your overall perspective on this.
+Chintan Jain: Sure.
+William Ross: So uh let me know if my screen pops up for you.
+Chintan Jain: Yes, I can see your
+William Ross: Okay, awesome. So the way funnel vision works is really it's it's designed to be lightweight,
+Chintan Jain: screen.
+William Ross: really easy to adopt, really easy to use. So all you do is you sync up to HubSpot and this usually takes about 5 minutes depending on how much data is in your environment.
+ 
+ 
+00:02:42
+ 
+William Ross: And what you're immediately presented with is this. It's an internal snapshot audit of your pipeline hygiene. So how many of your deals are missing their company or have stale activity or are past their close date or have missing close dates? And the premise of funnel vision is really simple. It's three-fold. It's surface all the hygiene issues in one place, configure them and tailor them to exactly what you need to know in order to make the right decisions. And then the third one is get reps to fix them where they work without breaking their workflow. So it eases their capacity as well. So this is part of that first track. We're surfacing all of the hygiene issues. And then along the bottom, what you get is something really cool is a hygiene leaderboard. So you can see which of your sales reps are more on top of their hygiene compared to others. So you can see um so you can track this over time to see who's performed better or worse.
+ 
+ 
+00:03:30
+ 
+Chintan Jain: Mhm.
+William Ross: Now these are just pre-built hygiene issues and you'll know this better than myself. Your go to market, your sales motion will be different to almost every other company on the planet. So you want to configure your own hygiene issues rather than just use pre-built set of defaults. And so that's why we have this rules page and this is this is allowing you on that second step of funnel vision to configure the hygiene issues. So we funnel vision pulls in every single property that HubSpot could offer including associated contact associated companies and any custom property as well. So if you think Medic or if you're doing a med pick or anom whatever it is that you're using for your sales criteria we pull that in. So here you can really simply just pick your property um choose your condition types. You can make this as complex as you want. So, just to run you through a very simple one I had, which was let's say you wanted to know if a deal is in its late stage um and it's got a big amount, you know, with a big deal, but there's no close date.
+ 
+ 
+00:04:37
+ 
+William Ross: So, obviously that would be a problem you'd want to know. So all you have to do is go if the amount is greater than 20,000 you just simply choose your condition types and the deal stage is you know maybe it's the the part of the contract set or and decision maker brought in or whatever it is that your deal stages are and the close date is empty then I want to notify the person and and solve this and create a hygiene issue here and this button here is really cool because what you don't want is your rep in Slack hacker teams to be bombarded 24/7 all through the day with constant hygiene issues being flagged that they have to solve, right? That's that that would be really annoying and it wouldn't it wouldn't drive great adoption. So, this button is really clever. What it does is it whenever the condition of the rule is met, it will automatically send a hygiene notification, but it will do it in a daily batch. So, every morning at like 9:00 a.m., whoever is responsible for the hygiene issue will get one message, one single message with every hygiene issue that's been met over the last 24 hours.
+ 
+ 
+00:05:44
+ 
+William Ross: And I'll show you how that looks, but you can imagine. So, rather than having, you know, 15 20 individual messages, they just get one clean message and they can work through the hygiene issues one by one. So once you've done that, once you've surfaced all the hygiene issues and you've configured them all to be exactly what it is that you're looking to solve for, the question is what do you what do you do about it? How do you actually action it? How do you fix anything? And so that's why we have this fix issues page here. And so what you would see here is every deal in your pipeline that has some type of hygiene issue. And you can filter this by deal owners. um any specific issues you're looking for, whether it's custom ones or the or the inbuilt ones. Um any specific stage you're looking for. And so just to show you kind of what would look like in practice, let's look at my deals. So these are all my deals that have hygiene issues.
+ 
+ 
+00:06:33
+ 
+William Ross: And you can see let's take uh and what you can also see is you can manually request an update whenever you want or you can also wait for the daily batch. And if you and if you've manually requested one or it's already been requested through the daily batch, you can actually monitor which deals have pending requests. So you can also monitor, you know, what has already been asked three days ago and hasn't been actioned. So let's just take this one that's got um past close date sale activity. I'll just request that update again. So you can imagine if you were the person requesting this update and I was the salesperson, I as the saleserson could be on my phone, on a train, at the airport, wherever it is that I'm working without breaking my workflow. I go, "Oh, William or Chintan has asked for an update on this deal." One, two, three. Provide an update. I'll be like, "Cool." Um, SAS update on deal 123. What's the next step? Oh, the next step is uh schedule if I can spell meeting with the CFO.
+ 
+ 
+00:07:36
+ 
+William Ross: Um, what's the amount for this deal? Oh, um, 20,000. Um, and we can't do missing company because I'm using a lot of dummy data. We don't have any companies in our system, but obviously you would be able to just drop drop select your own company. And what's the close date? Uh oh, because the close dates passed. Oh, it's meant to be February. The sales rep would then just update the deal. And that's it. The sales rep doesn't need to touch funnel vision. They don't need to touch HubSpot. They just work within Slack and they've already ensure that the deal is up to date with its hygiene that you have specifically asked for. And then what you're seeing here is the other pending deals. So these are other deals I have that have some type of hygiene issues. And then they can just go through them one by one. And you can see I am very creative with my dummy data when it comes to deal names.
+ 
+ 
+00:08:20
+ 
+William Ross: I was going through the alphabet and numbers. But they can go okay now I want to update deal and it' be the same idea.
+Chintan Jain: Okay,
+William Ross: They just walk through that and that's the basic premise of Funnel Vision.
+Chintan Jain: got it.
+William Ross: Surface hygiene issues configure them to what you care about fix them in Slack and that's
+Chintan Jain: Mhm. Got it.
+William Ross: it.
+Chintan Jain: Uh, do you guys also uh have connectors with Google Meet?
+William Ross: We're working. So that's looking for Q1 this year. We're looking to get into connection to Google Meet and emails as
+Chintan Jain: Okay. So,
+William Ross: well.
+Chintan Jain: we are on Google Meet at the moment. Um, we don't use
+William Ross: So is that your as like your IM system? Okay. Interesting.
+Chintan Jain: Yeah.
+William Ross: Okay. So that's something we could absolutely work towards if that was something you'd be interested in. We could, you know, design partnership that out and see how that would work for yourself.
+ 
+ 
+00:09:05
+ 
+Chintan Jain: Okay. Sure. Uh, what else?
+William Ross: So that's the basic management. I'd love to know is this something that your team could you could see yourself adopting
+Chintan Jain: Uh, yeah,
+William Ross: using?
+Chintan Jain: definitely I think we can definitely use it. Um, see I would like the I I I don't know if we can like you showed me the interface, right? Where you can see the details, filter and do all kinds of stuff. I don't know if individuals are going to be using something like that, right?
+William Ross: Mhm.
+Chintan Jain: because mean you can just sort of replace this let's assume with a BI dashboard and you can tell them that hey these are the places where you have misses so the problem that most companies would face is people just don't even go to
+William Ross: Yeah.
+Chintan Jain: these views to even check right so I like the idea of sending
+William Ross: Yeah.
+Chintan Jain: it to their chat which is good right uh if if that is happening in in for Google meet then of course We can definitely talk about it.
+ 
+ 
+00:10:12
+ 
+Chintan Jain: So, how does the pricing and all looks
+William Ross: Yeah, good good question.
+Chintan Jain: like?
+William Ross: So, right now we've got an early adopter pricing up and we've got about a few a handful of spaces left at that and that's looking at £3,000 for a year flat rate and that's unlimited users unlimited usage.
+Chintan Jain: Mhm.
+William Ross: So, it's not a seatbased pricing. It's just a flat £3,000 um for a full year.
+Chintan Jain: Okay. Sure. So, why don't you give me an update once you have the my Google Meet connector done? Then we can probably touch upon this
+William Ross: Absolutely. And is that and is that pricing point in line with with your expectations?
+Chintan Jain: again.
+William Ross: Is that something that's going to you could work through?
+Chintan Jain: Uh yeah, I think we can work through this. Uh yeah.
+William Ross: Perfect. Yeah, that sounds great. Well, absolutely. We've got our our super genius CTO and uh we'll get the we just just for you. We will even put it as a P 0 priority. It was right now it was P1 for Google Meet, but we can put up a little bit and uh I'll get back in touch as soon as possible. Perfect. Really appreciate the chat, Chintan.
+ 
+ 
+Transcription ended after 00:11:26
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

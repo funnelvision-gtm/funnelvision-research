@@ -1,0 +1,394 @@
+﻿Jan 19, 2026
+Nana / FunnelVision catch-up - Transcript
+00:00:00
+ 
+William Ross: Is it time to start hiring? You going to start expanding the the
+Nana Grace Kwapong: I think to so yeah if we keep on track in
+William Ross: force.
+Nana Grace Kwapong: the same way I think I'll be probably hire starting to look for people next month rather
+William Ross: Yeah.
+Nana Grace Kwapong: than April I think is what I had budgeted for
+William Ross: Yeah. You know what?
+Nana Grace Kwapong: so
+William Ross: Incredible job getting all that done over Christmas because that's usually kind of the slow period. I mean, geez.
+Nana Grace Kwapong: yeah because a lot of it was sort of squared away like verbally um right before Christmas. And so then when we came back, it was just kind of picking up the conversation again and getting them signed within that first week. So it was pretty
+William Ross: Well, fantastic job.
+Nana Grace Kwapong: nice.
+William Ross: And if you ask us, how how are how are you finding these engagements? Is it just through word of mouth referrals or
+Nana Grace Kwapong: Um we have some really good ads out um sort of geared towards people who
+ 
+ 
+00:00:45
+ 
+William Ross: you
+Nana Grace Kwapong: have been using Hopspot for a while. And um you know last year there was a lot of like um layoffs and stuff within Norway. Um so I think there's like a lot of pe uh companies who have
+William Ross: Interesting.
+Nana Grace Kwapong: um been using HubSpot. Maybe they've lost like their champion internally or um then there's just like people who are like okay we have this system we've been paying for it but we just have like no idea um what we're doing with it. So, it's a lot of like those conversations we've been having and our ads have been like get more out of HubSpot basically. So, it feels like just right in that painoint um that they have.
+William Ross: Yeah.
+Nana Grace Kwapong: So,
+William Ross: Yeah. It's is fascinating. Sorry slight tangent,
+Nana Grace Kwapong: yeah.
+William Ross: but I do find and it's not HubSpot um specific. It's just a general thing which is when you come up with a tool like HubSpot, one that's kind of flexible, reasonably complex, very powerful.
+ 
+ 
+00:01:45
+ 
+William Ross: You find there's so much room for, as you say, getting the most out of which is kind of counterintuitive, right? because you'd think part of the tool is getting the value from it.
+Nana Grace Kwapong: Right.
+William Ross: But I I don't know that there's a there's a technology at a company called Salonus who I did a lot of work for.
+Nana Grace Kwapong: Mhm.
+William Ross: They are their process mining company and so much of their business came from partners who paid for the license to use Salonus who then went out to implement Selonus
+Nana Grace Kwapong: Right.
+William Ross: like it's so difficult to get the most out of it. And I just is a really interesting space especially nowadays with I I mean I personally found there being a a big shift towards QA data quality. It's not just it's no longer just about you know building in HubSpot.
+Nana Grace Kwapong: Yeah.
+William Ross: It's like is the data correct?
+Nana Grace Kwapong: No,
+William Ross: Is this correct? The practices, the culture,
+Nana Grace Kwapong: that's exactly it.
+William Ross: the adoption because I found you know people are now making decisions and it's it's like it's like HubSpot's grown it's no sorry the complexities of like sales go to markets marketing has grown faster than HubSpot.
+ 
+ 
+00:02:45
+ 
+William Ross: So then there's there's like that disconnect.
+Nana Grace Kwapong: Yeah,
+William Ross: So people like yourself need to know how do you bridge this gap so that the marketers and sales directors are making decisions
+Nana Grace Kwapong: exactly.
+William Ross: on not just correct data but the right data in the right place.
+Nana Grace Kwapong: Exactly.
+William Ross: all. So, um, yeah, I just find it a little better than me,
+Nana Grace Kwapong: Yeah.
+William Ross: but is that kind of similar to you your your thoughts as
+Nana Grace Kwapong: Yeah. For sure. And I think it's like so what I usually always say to folks is like
+William Ross: well?
+Nana Grace Kwapong: unless they have like I I look at their portal and it's like they have very good systems set up and it's more just maybe they need a little bit of help with like just that little bit to be able
+William Ross: Yeah.
+Nana Grace Kwapong: to you know do reporting better or stuff like that. But if they're just like we have no idea how we're using this, nobody's using it anymore.
+ 
+ 
+00:03:29
+ 
+Nana Grace Kwapong: I'm like, "Okay, let's just start from scratch." Cuz usually then the what caused the rift is that they started using it. They probably had someone do like an implementation with them right in the beginning and then like that was it. So there wasn't really anyone to sort of like make sure that adoption was still happening. They don't have like a champion internally either. So there's no one who like owns HubSpot um to sort of help them keep moving things forward. Um so then it's like okay let's just like reset completely.
+William Ross: Otherwise,
+Nana Grace Kwapong: Um we're starting from like basically day one like what data do you guys need to collect? What are you using for qualification? What do your pipelines need to look like? Um how many of these 300 plus stalled deals should just be put to close last reason unknown? and then let's just kind of pick up
+William Ross: they're going to make a forecasting decision like,
+ 
+ 
+00:04:24
+ 
+Nana Grace Kwapong: um
+William Ross: "Hey, we've got 2 million in pipelines." Yeah. Well, 95% of that is
+Nana Grace Kwapong: Yep.
+William Ross: nonsense.
+Nana Grace Kwapong: And that was the the full day workshop I had last week was like a sales workshop. And so then I was like, "Okay, I hope you don't mind. It's not that I'm like nitpicking at anything that you guys are doing, but you know, I was clicking into like their sales workspace and just seeing like, okay, um, you seem to be doing really well with like the people that you aren't connected with, but then you have deals that have fallen to the wayside. And one of them was like, oh, I didn't even know there was a deal for this person here, so I just made a new one. So then it's like duplicate deals as well.
+William Ross: my
+Nana Grace Kwapong: um because they were working on the company level and didn't realize that they had like a
+William Ross: favorite.
+Nana Grace Kwapong: whole new person who had come in.
+William Ross: So they were they were they were looking at their deals at a company
+ 
+ 
+00:05:13
+ 
+Nana Grace Kwapong: Um yeah.
+William Ross: level.
+Nana Grace Kwapong: So that's why I was like the first thing I was like make the deal from the contact level because then it takes the company with it. Um and then you don't have to have the situation where it's like cuz then if you click into the company you'll see how many deals because everything comes with the company. they're like, "Whoa, we didn't think of that." So, it's just like little things like that, like just even the shortcuts of like what makes sense and when you're using HubSpot. I think there are a lot of people who don't know that or like small things like make sure
+William Ross: Mhm.
+Nana Grace Kwapong: that a property comes up like when they move from one stage to another. It doesn't have to be required, but just pop it up so that people think about it.
+William Ross: Mhm. Yeah.
+Nana Grace Kwapong: Um or like you know if there's like a different qualification playbook from one step to another like maybe do a property that just says have you remembered to use this playbook like just different things like that where they're like okay this is making like a huge difference for us but it takes me what like two minutes to set up the celebrity and add it to the pipeline.
+ 
+ 
+00:06:19
+ 
+Nana Grace Kwapong: So yeah,
+William Ross: That
+Nana Grace Kwapong: I feel like those are the things that are kind of Yeah.
+William Ross: is
+Nana Grace Kwapong: make giving people the most benefit right
+William Ross: well I'm very glad to hear things are going so swimmingly.
+Nana Grace Kwapong: now.
+William Ross: I mean that's amazing news.
+Nana Grace Kwapong: Yeah.
+William Ross: We'll get the whole a whole Do you have anyone else working with with with in the company or do you do
+Nana Grace Kwapong: Um so the thing is, um so I'm like doing the HubSpot.
+William Ross: any
+Nana Grace Kwapong: We do have like a sister company that does like ads, SEO um and stuff like that. And then there's um another company that does um web design um visual design and stuff like that. So it's the three of us together kind of us like a digital marketing powerhouse in a sense to like help our clients. Um, so there are people who are like dangerous enough with HubSpot where if I need like express help, I can be like, can you please set up this like just the basics of this workflow and then I can like do the rest.
+ 
+ 
+00:07:16
+ 
+Nana Grace Kwapong: Um, so I do have like express help in house if I need it.
+William Ross: Awesome.
+Nana Grace Kwapong: And then I've also been um talking to some solar entrepreneurs um and just seeing like how can we partner um with each other moving forward as well. So, I do have some folks I can lean on sort of immediately if I need
+William Ross: No,
+Nana Grace Kwapong: to.
+William Ross: that's fantastic because I imagine if if things keep going this way, there's going to be a lot more nanas needed to fill fill out the the work requirement.
+Nana Grace Kwapong: Yeah.
+William Ross: Clearly the marketing is going too well. Tell the team guys, can you just like pause pause the for a
+Nana Grace Kwapong: Yeah. Oh, lord.
+William Ross: bit?
+Nana Grace Kwapong: I feel like it's because this weekend I got like two um leads that came in like during the weekend like at night and I talked to both of them today and they're very keen to like get a demo and stuff. So it's like all hours of the day
+ 
+ 
+00:08:09
+ 
+William Ross: Is this um what's the word? Is this international as well or is there like specific regions you're
+Nana Grace Kwapong: right now.
+William Ross: targeting?
+Nana Grace Kwapong: It's primarily Norwegian clients because everything we do is in Norwegian.
+William Ross: That's crazy. You're
+Nana Grace Kwapong: Yeah,
+William Ross: just
+Nana Grace Kwapong: we haven't even we haven't translated the website into English or anything like that yet.
+William Ross: holy
+Nana Grace Kwapong: Um,
+William Ross: bananas.
+Nana Grace Kwapong: so I can only imagine if we did like that it would just take off even more. So
+William Ross: Crazy.
+Nana Grace Kwapong: yeah,
+William Ross: few a few levers to pull then if you decide I want to work some weekends and evening shifts.
+Nana Grace Kwapong: which I feel like I've already been having to do that. So this weekend I was like, "Oh, maybe I just want to like lightly start planning the week." And every time I open my laptop, my brain was like, "No, we're not doing this."
+William Ross: I have that as well because I try and create I don't know I try and create like separations from where I work and like where I relax and every so often I'm like oh I've got a bit more of like a relaxed Friday afternoon I'll go work in my kitchen then I'm like no I can't no bad
+ 
+ 
+00:09:07
+ 
+Nana Grace Kwapong: Yeah.
+William Ross: juju bad juju just no it's not healthy for
+Nana Grace Kwapong: Oh my gosh. Yeah.
+William Ross: Oh,
+Nana Grace Kwapong: But yeah, I think I don't know. I mean trying to like think as well through like what um cuz I feel like the kind of tool that you guys have as well is sort of like important um for the again it's like the information that keeps like dropping off and like yeah why do deals stall like that sort of thing I think is there's definitely a market for Um, and I think the people I've been working with so far have been quite small. Um, so I don't think they're like fully the ideal customers yet for um, a tool like Funnel Vision, but I do see the potential sort of coming in more and more to where um, it might be something I can pitch. But it's also like the I don't know I feel like people have also been again because it's because of the layoffs and because of like how our economy was last year.
+ 
+ 
+00:10:28
+ 
+Nana Grace Kwapong: I feel like people are still a little price sensitive even with HubSpot. Like that's also the other thing that people are like I'm paying up the ass with HubSpot. Our people are very straightforward and crude in language, but um also because I'm dealing with like 40, 50 year olds,
+William Ross: Yeah. Yeah, of course.
+Nana Grace Kwapong: so they don't Yeah.
+William Ross: And I imagine they're like very senior people. They're like, I'm done with this
+Nana Grace Kwapong: They're like, "We're paying too much,
+William Ross: BS.
+Nana Grace Kwapong: so we've got to find a way to make this work." Because they also don't want to not have HubSpot. But I think it's just like Yeah.
+William Ross: Because HubSpot increased their prices as well, did they not things?
+Nana Grace Kwapong: And it's a bit weird as well with like the seats. like I get why um for their benefit they've sort of like gone
+William Ross: So
+Nana Grace Kwapong: to the seats model but I feel like that was one of the things that was so fun to like sell HubSpot was like oh you can have like unlimited um seats um
+ 
+ 
+00:11:18
+ 
+William Ross: yeah, which funnel vision goes down.
+Nana Grace Kwapong: especially yeah
+William Ross: which is the Yeah. But so how small are these companies?
+Nana Grace Kwapong: so
+William Ross: Are we talking like one salesperson or like five
+Nana Grace Kwapong: Um,
+William Ross: or
+Nana Grace Kwapong: a lot of So, a lot of folks have like I would say anywhere between 3 to 10 salespeople maybe. Um,
+William Ross: Okay.
+Nana Grace Kwapong: for now um haven't really like gotten to any of the sort of fully enterprise um clients yet. But I do also know that a lot of those like they are with like our sort of bigname agencies here in Norway um that like happen to have a HubSpot division. So it's not like fully specialized with HubSpot but it's just like oh well we do everything else with this company so why not like work with their HubSpot person.
+William Ross: Yeah.
+Nana Grace Kwapong: Um, but a couple of them have been taking our calls and being like,
+William Ross: Yeah.
+Nana Grace Kwapong: I just want to see what you guys are about and you know, keep you in the back of my mind in case there's something.
+ 
+ 
+00:12:28
+ 
+Nana Grace Kwapong: So, there is the potential there.
+William Ross: Yeah,
+Nana Grace Kwapong: Um,
+William Ross: I mean that that that number also works with with and just to to to clarif be clear,
+Nana Grace Kwapong: yeah.
+William Ross: we because we're quite early, we're quite flexible on free trial. So even if it's something there, we we get an intro to the a company that might be interested shot in the dark type thing. They can just go on it for a couple weeks, see if see if it if it fits,
+Nana Grace Kwapong: Yeah.
+William Ross: if it works. uh our I mean you can imagine our our one of our big premises here is we don't really want
+Nana Grace Kwapong: Mhm.
+William Ross: cost to be the problem. We want we want people to get value from it.
+Nana Grace Kwapong: Yeah.
+William Ross: The the best thing we can get right now is usage feedback and obviously if people can pay that's amazing but um that's
+Nana Grace Kwapong: Mhm.
+William Ross: not really a blocker for us and and as as wonderfully been I mean you were one of our first intros we really had on Funnel Vision.
+ 
+ 
+00:13:20
+ 
+William Ross: So, we've got a nice referral program for if if if it does work out and if they do end up putting a credit card behind it, then you would get I think we're going to we're doing like a 50% kickback on like first year and then from there on it'll be like 25 20%.
+Nana Grace Kwapong: Yeah,
+William Ross: So,
+Nana Grace Kwapong: I think that sounds awesome.
+William Ross: just like I said,
+Nana Grace Kwapong: Really?
+William Ross: so really it's really a case of if you know anyone that has obviously is on hubs.
+Nana Grace Kwapong: Um,
+William Ross: We actually I don't know if I Yeah, because it we wouldn't have chated before. We've just rolled out our teams integration as well. So now work with Slack or Teams.
+Nana Grace Kwapong: Nice. That that's a big selling
+William Ross: So yeah,
+Nana Grace Kwapong: point.
+William Ross: so we've just we've just rolled that out and have a few demo a few demos a few design partners um testing that out just now. So basically, if you know, obviously they'll be on HubSpot if they're working with you,
+ 
+ 
+00:14:00
+ 
+Nana Grace Kwapong: Yeah.
+William Ross: but if they're on Teams or Slack and you think they could benefit from something on like pipeline hygiene, pipeline visibility, or forecasting, anything along those lines or if you're just like wanting to see if Funnel Vision's a vibe with them, you can um I'm always happy to take a chitchat call and explore if it makes your
+Nana Grace Kwapong: For sure. Yeah.
+William Ross: life easier as well. It's going to be try and make it a win-win.
+Nana Grace Kwapong: Yeah. I have one client that I'm working with now. We're just like in the beginning phases of starting um an ABM project with them. Um, and they use Slack um,
+William Ross: Oh,
+Nana Grace Kwapong: for like all their notifications internally like from HubSpot and stuff like that. Um, and they also have enterprise within HubSpot. So, I wonder if like they would be a good team to test with cuz they also have quite a few salespeople like Norway, Finland, and Sweden. So,
+ 
+ 
+00:14:59
+ 
+William Ross: Mhm.
+Nana Grace Kwapong: I think they would be good. I'll put that in the plan um as I'm talking to him with the AB and stuff and just be like if you want to try it out like I have a a good connection with them and we can see
+William Ross: Yeah, just just have a little chitchat and see.
+Nana Grace Kwapong: um
+William Ross: I'm I'm never going to force Funnel Vision down anyone. Like it's the worst thing we could get actually is deploy funnel vision and it's the completely wrong. They're looking for like dduplication data and they get funnel vision. I'm like no no no sorry
+Nana Grace Kwapong: right for Sure.
+William Ross: that's
+Nana Grace Kwapong: So, yeah, I think that would be a definitely like a really good one. Um, but yeah, there definitely is a market for it because I do think a lot of people are Yeah, like I said, there's so many folks with so many stale deals and I think it's again if someone was even getting like a notification about like,
+ 
+ 
+00:15:49
+ 
+William Ross: Yeah.
+Nana Grace Kwapong: hey, like there's this deal over here. um which you do in Hopspot like you send people tasks and stuff like that but I think if it was more
+William Ross: Yeah.
+Nana Grace Kwapong: visible like in a Slack channel where everyone is seeing it as
+William Ross: And actually, yeah, and they can actually slack as well rather than having to then So
+Nana Grace Kwapong: well. Yeah, I think peer pressure works
+William Ross: that's Yeah, it's funny. I I'm not going to say like a lightning moment,
+Nana Grace Kwapong: well.
+William Ross: but I was thinking of this a lot. I was like fundamentally, right, it's it's like a behavioral problem because if everyone did everything perfectly, it's fine. What I find is sometimes the problem is you try and layer tooling to solve everything but the but that doesn't always work because what often like even have like auto population tools for example that like auto CRM data entries that misses contextual data that
+Nana Grace Kwapong: Right.
+William Ross: like the sales guys knows.
+Nana Grace Kwapong: Mhm.
+ 
+ 
+00:16:45
+ 
+William Ross: So what we've tried to do with fun and I imagine you'll agree with this approach is you're trying to solve a behavioral problem using tooling but for the purpose of solving the the behavioral problem not to solve a tooling problem. You're solving a um but I don't know because if that's similar to you and I I find sometimes
+Nana Grace Kwapong: Great.
+William Ross: with when I worked in HubSpot the hardest thing was getting people to work inside of HubSpot you know.
+Nana Grace Kwapong: Mhm. Yeah, that's definitely like the issue that we were having like last week with the workshop that I had. I just had to like slowly take them through like, okay, step one, you log into HubSpot and then I was like, make sure you go into your settings and um pick the sales workspace so that when you click on the hotspot icon, like that was how step by step it needed to be because they were just like, oh, like I love that it automatically logs my emails, but anything else I'm just like it's too much.
+ 
+ 
+00:17:49
+ 
+Nana Grace Kwapong: Um, so then I was like, as a salesperson, you go into the sales workspace and you don't go anywhere else. Let's just keep it there.
+William Ross: Let's just strip it all back.
+Nana Grace Kwapong: Exactly. I'm like, you have no business anywhere else in
+William Ross: What is this though? You don't need to know that.
+Nana Grace Kwapong: HubSpot.
+William Ross: You don't need to touch this. just No,
+Nana Grace Kwapong: I was like, you have templates,
+William Ross: it's
+Nana Grace Kwapong: you send them to me, I'll put them in there for you. Like, you don't even have to worry about how that works.
+William Ross: and you know I I had this a few times where um for example when I was I was doing some some revelop work for a client a couple years ago and uh and and so this was like a a scale up. So they were like uh they're actually based out in Copenhagen big they raised like a 50 million series beef round really big but um so they had this process you know you'd create a deal it'd
+ 
+ 
+00:18:31
+ 
+Nana Grace Kwapong: Yeah.
+William Ross: go into a certain stage in when it when it was like qualified into the pipeline all their stages required fields it was all great blah blah perfect and then obviously what you'd expect is the deals will go through their stages except when the CEO just decided to start ploning some deals into like really late stage cuz he like knew the owner ers or new day founders and I was like I mean I can't like argue because you're the founder of this company but you're really messing with all of my data because like I don't know where these deals are coming from and suddenly they're in like demo stage or like the contract contract agreement and it just came from
+Nana Grace Kwapong: All Right.
+William Ross: nowhere like it's skewing all my like average time and stage and like the the the funnels and the sales cycles. I was like, "What the
+Nana Grace Kwapong: That's what I I I think we spent at least two
+William Ross: heck?
+Nana Grace Kwapong: hours going back and forth on like why should they use um the new leads pipeline and HubSpot because they were like okay but like why can't I just put the deal in the pipeline and I was like well because if it's not qualified or if you haven't even connected with them, then at some point you're going to just have to send it to clothes lost.
+ 
+ 
+00:19:49
+ 
+Nana Grace Kwapong: And I think if you keep seeing clothes lost over and over again when it wasn't a real deal to begin with, like that's also going to be bad for morale and it's going to look bad to your boss because it looks like you're wasting time like not qualifying the right kind of deals.
+William Ross: Yeah,
+Nana Grace Kwapong: And they're like, "Oh, I didn't think about it that way." I'm like,
+William Ross: but
+Nana Grace Kwapong: you still see that you're doing work because we can still report on the pi the leads pipeline,
+William Ross: yeah,
+Nana Grace Kwapong: but it doesn't have to.
+William Ross: but it also skews it the other way because it means forecasting because they'll think, oh, we've got all this opportunity and qualified pipe. Oh, we're going to smash target.
+Nana Grace Kwapong: Exactly.
+William Ross: It's like, well, well, yeah, but those are we've not even connected. It's like, well, no, like qualified pipe is I I totally agree.
+Nana Grace Kwapong: Yeah.
+William Ross: Yeah, it makes it like Yeah.
+Nana Grace Kwapong: So, so yeah, I think there's there's so much like great potential for um for that,
+ 
+ 
+00:20:35
+ 
+William Ross: Yeah.
+Nana Grace Kwapong: but also like um I noticed um not every portal seems to be reacting the same way to the close date, like automatically updating. Um, so with this client, even though we have the setting on that it should automatically set the close date to the day it goes to one or lost like it wasn't happening. So in the end I just had to create a workflow in the back end to set the date and I was like Hopspot now you're just
+William Ross: Everything's a workflow.
+Nana Grace Kwapong: like
+William Ross: It gets to the point everything's just a weird
+Nana Grace Kwapong: but yeah I feel like again like if there's a tool like this then it will just make sure that people are also remembering um either that or it helps us like find out like okay this part of Hopspot's not working maybe we need to set some other system in case. So, yeah, I think there's like lots of really great use cases.
+William Ross: Yeah. Well, let's hope so. I know we're running out of time, but yeah,
+ 
+ 
+00:21:44
+ 
+Nana Grace Kwapong: Um,
+William Ross: that that'd be wonderful if you want to chat to the to the client you think is interesting or anyone else. Um, happy to get an intro and obviously we can we can chat any questions you have on Funnel Vision or any more
+Nana Grace Kwapong: for sure.
+William Ross: info.
+Nana Grace Kwapong: And I also um I know I tried to connect with my ex co-workers at Avidly as well like just to see if this could be a tool because I do remember a couple of clients where I was like oh I think this would be a good extension for them to have and they have such huge budgets that it wouldn't like be a dent for them but at least it would be like a good tool um that we could propose to them. So yeah, I I have a coffee coming up with them again.
+William Ross: Oh, that'd be amazing.
+Nana Grace Kwapong: Um yeah,
+William Ross: That' be wonderful. Really appreciate that.
+Nana Grace Kwapong: so that we can get that
+William Ross: And obviously,
+ 
+ 
+00:22:34
+ 
+Nana Grace Kwapong: back.
+William Ross: you know, it doesn't have to be a hard sell. Obviously, if they just want to chitchat, if they can see it, demo it,
+Nana Grace Kwapong: For sure.
+William Ross: free trial, like it's Yeah.
+Nana Grace Kwapong: Yeah.
+William Ross: No.
+Nana Grace Kwapong: And I I think even just again getting feedback from them as well because now like my all my clients are pretty small scale so I'm almost having to like rely on like the my memory to be like yeah I remember this client and it would have been good for them. Um, but yeah, I think uh I think it would be a good idea to loop them in because then they also have connections to other agencies and yeah,
+William Ross: Yeah, exactly.
+Nana Grace Kwapong: we could just build it from there.
+William Ross: That'd be amazing. That would be the most wonderful. Yeah. Fantastic.
+Nana Grace Kwapong: Yeah,
+William Ross: And hopefully my our year can kick off almost as well as yours is doing.
+Nana Grace Kwapong: I know. I hope so.
+ 
+ 
+00:23:22
+ 
+William Ross: Yeah. Great. Great to see you. I mean, Craig Key. Well,
+Nana Grace Kwapong: Yeah.
+William Ross: I can't believe you did four contracts recently. Jesus absolutely smashed
+Nana Grace Kwapong: I know. My my boss came on and was like,
+William Ross: it.
+Nana Grace Kwapong: "What the hell are you doing?" He's like,
+William Ross: What?
+Nana Grace Kwapong: "Not in a bad way, but
+William Ross: Oh my gosh.
+Nana Grace Kwapong: jeez."
+William Ross: Literally when you was like like I mean again like standalone that is in sensational over
+Nana Grace Kwapong: Yeah.
+William Ross: Christmas.
+Nana Grace Kwapong: Over Christmas. Like I was like, "Wow." Okay.
+William Ross: I mean, she sent Santa early to
+Nana Grace Kwapong: I know. So,
+William Ross: CR.
+Nana Grace Kwapong: no, I'm I'm excited and I hope it'll keep going that way. Even if it's like one deal a week,
+William Ross: Oh, I mean huge.
+Nana Grace Kwapong: um it'll be great progress.
+William Ross: Absolutely. Absolutely. And I'm always trolling through things.
+Nana Grace Kwapong: So,
+William Ross: If I if I see any anyone looking for HubSpot work, I will hang it your way ASAP.
+Nana Grace Kwapong: yes, for sure. And same here, like if I see anyone like I I tend to see people ask like, "Oh, we're having like this issue. Does anyone know of a tool or a process? Um, so I'll keep you guys in mind and keep sending folks your way whenever sounds good. Then I I'll get us booked in with a new call as soon as they're ready for it. Awesome. Thank you.
+ 
+ 
+Transcription ended after 00:25:08
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

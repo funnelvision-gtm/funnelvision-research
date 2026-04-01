@@ -1,0 +1,307 @@
+﻿Jan 28, 2026
+Brian Phelan and FunnelVision - Transcript
+00:00:00
+ 
+Greg Petherbridge: but yeah, Brian, I we can maybe sorry um we'd love to maybe just start off some intros. Um we can maybe maybe start with you and then um by the time it comes back to us, we can maybe give you a bit of a a background as to how we got to where we are. Um and yeah, we can we can take the conversation from there and get into the platform a little bit later.
+brian phelan: Yeah, look, uh, fully fully transparent, right? I I'm going to be moving roles there in the next week or two. So, um, I won't be any good to you from a a sales or buying point of view. Um, but, you know, if you if you really want like unbiased feedback on like products and and platform, hap happy to to give you my point of view on it, you know. Um, so I just wasn't sure what the expectation was in terms of the call, you
+Greg Petherbridge: Yeah. No, completely understandable. Appreciate the the transparency.
+brian phelan: know.
+Greg Petherbridge: We're um we're we're kind of in this information gathering phase anyway and triing it.
+ 
+ 
+00:00:56
+ 
+Greg Petherbridge: So, um you know, we've have we have a couple of people on trial. We have one or two paid customers now. Um, and we've kind of only even made the LinkedIn page in the last couple of weeks. So, um, still very early on in any kind of product feedback is is probably more important at this stage while we still have the kind of scope to to make the the products that exactly the product that we want and kind of poke any holes in it before we really really really launch further on it. Um, sorry, William, do you want to make a quick intro to yourself maybe?
+William Ross: Yeah. Yeah. H happy to. Yeah. I mean, I don't know what what was interesting for Brian to hear. I mean, I always like to talk about I was I'm a recovering government economist from way back in the day from many many years ago as my job out of uni and uh really took on the uh technology consulting room. I mean, three and a half years in government was was long enough.
+ 
+ 
+00:01:45
+ 
+brian phelan: One off.
+William Ross: Yeah. Was long long long enough.
+brian phelan: Yeah.
+William Ross: um especially because it was like over um co I don't if you remember that time where there was about like we had like four prime ministers and like three secretary of state all afternoon I was crazy um so yeah moved into um technology consulting from there technological process mining was what I specialized in and then kind of went through a revops route and then uh eventually started our own thing I've always wanted to to work for myself so that's how we co-ounded this this gig and fell a bit of revops because I um because of my economics background I'm a bit of a data purist So, uh, I quite enjoyed the the revop site. That's my boring my boring self,
+brian phelan: Okay, very good. Very good. Yeah, bring back Theresa May.
+William Ross: Brian.
+brian phelan: I guess so is is what you're hoping for. You're not a Baris Johnson fan anyway, but I don't know.
+Greg Petherbridge: Yeah. Yeah. I think you're happy enough to to have that world behind you now, William, aren't you?
+ 
+ 
+00:02:38
+ 
+William Ross: Yeah, absolutely. Absolutely.
+Greg Petherbridge: Um yeah, on my side anyway, uh Brian, I maybe collectively how how the whole funnel vision team got to where we are today. Uh we for the last kind of year and a half been working as a consultancy called CG Partners. Um and Alex and Stefan who are our colleagues there, I I would have met on on my journey. Um they they kind of did a few different series A type companies together on on the partnerships and sales side. Um and I joined them at Pigment and did about three years there kind of starting as a BDR and then working up to AE. Um but yeah, kind of for the last year we've we've been working with founders and and kind of seed stage to to series B companies and um it's really just been all about laying the foundations of GTM. So kind of skipping the grown pains that you've seen elsewhere. Uh so our scope kind of varied based on project. It could be completely nothing there. and we're setting up kind of the early processes and running sales cycles with the founders and um ultimately our stepping off point is usually like making their first hires and and kind of leaving leaving with the foundations built.
+ 
+ 
+00:03:46
+ 
+Greg Petherbridge: Um and kind of throughout the companies we worked for the the companies we we we advised on kind of saw the same problem of of pipeline hygiene and and forecasting. um whether it was the VCs, whether it was the CRO, whether it was the founder kind of pressing on on the on the forecast, it was never really trustworthy. And I kind of saw that from the bottom up as well where, you know, I don't mind saying it because I was I'm a salesperson myself, but we're inherently selfish and and in our own world.
+brian phelan: your 80s.
+Greg Petherbridge: And uh yeah.
+brian phelan: You're you're you're assholes like to be honest. Yeah.
+Greg Petherbridge: Yeah.
+brian phelan: Yeah.
+Greg Petherbridge: Yeah. That's that's exactly what we are. I think that's probably why they're good at what they do is because they just uh sit in their own world and and don't feel the need to
+brian phelan: Yeah.
+Greg Petherbridge: communicate everything to everyone else. Um so ultimately we kind of saw pipeline hygiene as two things. It one kind of a tech problem, you know, putting the right tools in place to be able to identify this stuff and read it to the right people and secondly a behavioral problem.
+ 
+ 
+00:04:41
+ 
+Greg Petherbridge: So how do we get reps to, you know, do we kick them up the ass and just get them to to kind of um adhere to to the pipeline standards of the company? So, um, yeah, re really that's what we did was try to develop a tool that one gives visibility to to leadership on what's missing and what they might maybe what they shouldn't trust. Um, secondly, we want to help whoever's chasing these reps dayto-day, whether that's yourself and revops, whether that's a sales manager, whoever's, you know, in the middle trying to to to poke them with a stick and just get them to to to fill out their deals. We're looking for we're providing a solution for those people to kind of set up automated rules and and nudging so that in Slack in they kind of get a notification what you need to fix. And then finally for the for the refs themselves it's not about having a really clear kind of um log of what they need to do and being able to just update the CRM straight from chatting with with the with the funnel vision within within your your teams or or your Slack.
+ 
+ 
+00:05:40
+ 
+Greg Petherbridge: So really that's that's how how we got to to where it is today. Is that kind of based on your experience something that that you think
+brian phelan: Yeah. Um, but be really candid with you guys, right?
+Greg Petherbridge: uh
+brian phelan: Um, I've I've worked in a few organizations now with a lot of different sales reps and a lot of different personalities from SMB, mid-market, enterprise. Worked with more early stage sales reps, you know, that were trained in a certain way and like one identity is like very legacy sales reps like almost like they they still like act like they're selling DVDs out of the boot of a car or something in a car park, you know. Um the prevailing problem I've seen across both or all my experience has been behavioral not technical. Um so I've rolled out tools like exactly that. Hey you get a nudge in Slack. Hey close date on deal X is closing today. Will deal close today? Yes. No. No. Please enter new date and they just put in f****** tomorrow or something you know.
+ 
+ 
+00:06:43
+ 
+brian phelan: Um, so like solving that is like your hard piece. I I like if you if you saw that it's a billion dollar idea, right? Um, I don't want to like maybe I'm very negative, but uh, you know, I've done a lot of technical solutions, you know, in Salesforce. You can't move to stage two from from stage two to stage three unless you have this document, that document, and then all the sales rep just get pissed off at you, right? And then they just fill out anything to get it to move from stage two to stage three. And then the VP of sales, they just want their numbers and their deals. And if the deal is getting delayed because of something, Rev ops put in and the VP of sales is on my back giving me f****** grief. When really I'm just like, well, you know, if your sales rep just put in the bloody J ticket like that's stopping them or the closed date is in the past. So that's why it's not letting it move forward, you know, or there's no deal value in the CRM, you know, or they haven't put in the product configurator, right?
+ 
+ 
+00:07:37
+ 
+brian phelan: Um, so how can we issue a contract if we don't know our products? You know, I I don't know, you know, Greg, I'm sure you've being an AE, right? And you've done all these things. And uh, and it's not that I'm unsympathetic, right? Because like a you're getting dragged to legal, you're getting dragged to contract, you know, your f****** deal desk are saying, "No, you can't sell it for that. You need to get your your 10% uplift or whatever it is, right?" And you're getting pulled and dragged all over the place. But predominantly the amount of time I spent removing like friction for AES to enable like better forecasting that we can trust and putting in like propensity models and percentage. Um it came back to like culture in the organization nine times out of 10 was like the prevailing blocker to like solid forecasts and almost like in Stripe we had almost and one identity to be honest and I can say it because I'm leaving but there was this like fear like a pip culture where it's like I don't want to say that I'm going to miss my target because they're going to put me on a pip.
+ 
+ 
+00:08:42
+ 
+brian phelan: So I'm just going to put a load of s*** in my pipeline so they don't put me on a pip. But I know full well none of this is going to close,
+Greg Petherbridge: Yeah. Yeah.
+brian phelan: right? So that's that's the real like challenges and like you're laughing at me.
+William Ross: Yeah.
+Greg Petherbridge: That's not
+brian phelan: I guarantee you you've done that. Or your SDR is like, Greg, I need I need stage two or my manager's going to put me on a pip or I need to get my bonus.
+Greg Petherbridge: 100%.
+brian phelan: Will you flip that to stage two and mark that as qualified? You're like, yeah, qual look, no bother. I had her back, bud. Qualified. Boom. And then like 10 days later, yeah, delete. Just like get it, you know,
+Greg Petherbridge: Yeah.
+brian phelan: or it sits there and it never moves and never progresses, right? and then like the pipeline that that's a cultural thing.
+Greg Petherbridge: Yeah.
+brian phelan: I don't know how you solve
+ 
+ 
+00:09:18
+ 
+Greg Petherbridge: It's it's either either stage. It's either side of the spectrum.
+brian phelan: that.
+Greg Petherbridge: It's either they're underperforming and they're trying to inflate everything and make things look great and as you said kind of avoid the pip or it's the opposite or yeah they're sandbagging and they're like oh gez it would help my bonus if we kind of push this next quarter or
+brian phelan: Sandaging.
+Greg Petherbridge: people are just lazy and don't do it. But generally it's it's one of those three. Um but no I mean it's it's really interesting and kind of validating to us that this is a pain that seems to wreck your your head as well and you've tried to solve.
+brian phelan: What's a nightmare like? You know, and then like I feel like the a******
+Greg Petherbridge: Yeah.
+brian phelan: because you're saying like, you know, Pot with a stick. Like, but I'm just like, "Lad, the gloss today. Like, we just put in a date." And then they put in Friday and you're like,
+Greg Petherbridge: Yeah.
+brian phelan: "Greg, come on, man." Like,
+ 
+ 
+00:09:57
+ 
+brian phelan: I was I was on the call like that ain't closing for like two more
+Greg Petherbridge: Yeah. You're like a teacher trying to trying to get them to do their homework or a parent trying to make them brush their teeth.
+brian phelan: quarters. Yeah.
+Greg Petherbridge: It's just
+brian phelan: Yeah.
+Greg Petherbridge: nonstop.
+brian phelan: So, and then they're just like pissed off at me because they're just like, "What's this f****** guy want?" Like, you know, would he ever just f*** off? Like, you know, I'm in control of the deal. I know the customer. The customer will sign. They've renewed with me for the last five years. You know, it's a done deal. I just it's a matter of when, not if, you know,
+Greg Petherbridge: Yeah,
+brian phelan: leave me alone, you know. Um,
+Greg Petherbridge: 100%.
+brian phelan: so sorry to be like go off a tangent,
+Greg Petherbridge: No, no, it's it's it's good it's good to hear.
+brian phelan: but um
+Greg Petherbridge: Um I mean I mean on that we we can probably just uh give you a quick walk through the platform.
+ 
+ 
+00:10:38
+ 
+Greg Petherbridge: Shouldn't take too long. Any kind of good bad feedback you have, any ideas would be really welcomed. And um yeah, might throw it over to to
+William Ross: Yeah, absolutely. Let me let me share my screen.
+Greg Petherbridge: William.
+William Ross: And um yeah, it's funny the the pen you're describing is really what we're trying to to solve for and uh hopefully we uh get a little bit closer to to to hitting the mark, but we'll but we'll see. So um let me know if that pops up for your screen.
+brian phelan: Yeah,
+William Ross: Okay,
+brian phelan: I can see chat.
+William Ross: awesome. Awesome. So um so yeah,
+brian phelan: Yeah.
+William Ross: so um they're basically the premise of Funnel Vision is really built on on three pillars. It is surfacing all of the hygiene issues uh pipeline hygiene issues in one place. Configure those hygiene issues to whatever your go to market or sales motion deems important or relevant and frictionless updates so that those hygiene issues are fixed natively in Slack or Teams where the sales team's working making that as seamless as possible.
+ 
+ 
+00:11:33
+ 
+William Ross: So to get those started, what you have to do first do is sync up to your HubSpot environment. And this usually takes about 5 minutes depending on how much data there is. And you're immediately presented with like a a snapshot audit of your pipeline. So how many deals in your pipeline are past their close date or or stale or have a missing next step um or missing their close date. And at the bottom is your hygiene leaderboard, which shows you which of your deal owners are more on top of their hygiene relative to others. So across how many deals they own, how many issues do they have? And so that's like a really good way for for sales owners to see, you know, over time, you know, who's who's actually keeping up with their hygiene or who's, you know, who's the the lagards like Greg and Alex poor them lagging behind. Um, and so once once you've done that, obviously this is just your your your snapshot audit your pre-built hygiene issues. Every souls in go to market motion have their own specificities and so we let you create your own rules to be able to to be able to surface any hygiene issue that is important for your own sales motion.
+ 
+ 
+00:12:34
+ 
+William Ross: And genuinely the best way to describe this section is that kind of limits your imagination because we pull in every HubSpot property whether it's a custom property, associated contact or associated company. Um, and so just to like take you through this one that I made, um, which is just a very noncreative way just to illustrate it is I want to know if a deal has a big amount and it's in its late stage and there's no close date assigned to it. All you do is you go, okay, what are my conditions here?
+brian phelan: Mhm.
+William Ross: So you just search in your HubSpot. I want the amount to be greater than 20,000. You can pick any condition you want. Uh, and I want the deal stage to equal decision maker brought in or contract sent. And we pull in all of your pipelines and deal stages. So whatever is configured for your own environment would appear here and if the close date is empty. There are two really powerful features to creating your own rule within funnel vision.
+ 
+ 
+00:13:26
+ 
+William Ross: Um the first is this little button here to automatically request updates from deal owners. So essentially if this is turned off everything will get surfaced in funnel vision. Um and you'll have manual control on whether you want to request an update or not. So you just have to go to funnel vision click request update deal owner gets that update. But you can also turn this on. And what this means is everything will run in the background 24/7 so that whenever the condition of the rule is met, it will automatically send an update to that deal owner to say, "Hey, this this this hygiene issue has been triggered. Here's here's the update." Now, obviously, you don't want your sales reps to be getting, you know, 100 plus notifications all throughout the day because that,
+brian phelan: I don't
+William Ross: yeah, they'll get ignored on all drive adoption.
+brian phelan: know.
+William Ross: So when it's turned on, you get it appears in a daily digest format so that every morning at 9:00 a.m. and and we're working to configure this maybe if you want it weekly or monthly or we've got it right now set for daily at 9:00 a.m. How whatever rules have been triggered in the last 24 hours will appear in that daily digest as a single message and they can work through all the deals one by one in their own time and I can show you how a daily digest would look.
+ 
+ 
+00:14:28
+ 
+William Ross: Um and then whatever is not actioned in that day will just get asked the next day. So it'll always be running. So basically what that means is you can really once you've set up your rules and you've configured everything you can really set fennel vision autonomously in the background 24/7 you very light touch is needed in order to like just make sure that the rules are running if you want to edit the rules. Um you can also just see like the hygiene board. There's not really a lot you need to do if you've configured everything here. Um, and the last thing that's really powerful is is to actually ask exactly what you want them what you want the um the h the receiver of the hygiene issue to do because what you don't want is to go, hey, here's a hygiene issue, you know, fix it. You want them to whatever it is that you want them to do, you can put here. So maybe if it was closed, you could put like, you know, what was the uh the closed loss reason, you know, whatever.
+ 
+ 
+00:15:18
+ 
+William Ross: So whatever it is that you want them to do, that will appear in the in the in the hygiene act in the hygiene request. So once you've done that and you've created all your rules, you're surfacing all of your rules in one place um and you've got all your all your configuration set up to look for exactly what you care about. The question is what do you do about it and how do you actually view all the fixes? So we have this fix issues page which shows you every deal in your pipeline that has some type of hygiene issue whether it's a pre-built one or a custom one. And you can filter this by the owner of the deals um the stages. Um if if you're looking for a specific hygiene issue um as well. And just to show you here, if we had like turned this one on randomly and make it turned on, yeah, turn that active, it would appear here as well. So that you would say, okay, I want to look at this custom rule for if amounts greater than 10,000 for whatever reason.
+ 
+ 
+00:16:07
+ 
+William Ross: Um and then what you also have is look at pending requests. And this is really cool because what you can see here is which rules have been asked for in the past that haven't been actioned. So you can literally just go into funnel vision and go all right I want to know okay what's outstanding and you can see from all the reps okay this one was asked one day ago this one was asked for today and I want to know uh how you know whether it's important I can I can you know do a manual chase if I want to or not. Now obviously I don't want to keep you on the call till 9:00 a.m. tomorrow to look at the daily digress. So, I'll just kind of show you what would look like in practice. So, if we just request an update on this deal, which is one I own. You see, I instantly get a Slack notification. And then you can imagine now I as the deal owner um don't need to know Funnel Vision exists.
+ 
+ 
+00:16:54
+ 
+William Ross: It works really well on mobile. So, you could be on your phone, airport, train, wherever it is that this person is working from. They just get this notification that goes, "Hey, we need an update on this deal." I'll just click on this update. And we don't have So, basically, this deal, this deal has no company associated to it. we don't have any companies in our in our dummy data. So we you know we just so by default it'll just say like we we don't have any companies in our workspace but the close dates in the past and the really good thing is you get contextual information within the hygiene request. So you can understand why it's needed as a hygiene issue and the current value. So this works for like next step for close date. If there's a value already in place it will tell them what that is so they don't have to you know figure out from what it's currently there. And so let's say the the close date is the 31st of March.
+ 
+ 
+00:17:37
+ 
+William Ross: If they just update the deal and that's it. Deal's been updated. They don't have to work on anything. And this is part of the daily digest. So these are all my other deals that are outstanding that I have in action. Then I could just work through those um one by one. And that's really the premise of funnel version is surface the hygiene issues in one place, configure them based on the rules and then get the reps to fix them natively in Slack or Teams. So yeah.
+brian phelan: it. Um, look, really like the UX. Very nice, very slick, very clean. I like the leaderboard piece. That's something different that you can't really do in Salesforce. Um, but in terms of like, you know, like the I I'm not a HubSpot user, right? It was it was always kind of Salesforce. I'm a Salesforce admin. Um, you know, like I' I've built like exception dashboards that are dynamic for reps. They click the dashboard, they can just see their exceptions, you know, and yeah, you know, you can configure your salesforce, right?
+ 
+ 
+00:18:33
+ 
+brian phelan: Deals above X, you know, show me all deals in stage two for greater than 10 days or that are waited at Y value that are sitting with, you know, you, you know, and they like you get your ambulance report or exception report, whichever you want to call it. So, you know, I I not I I got to be really honest with you guys, like I I think it's great. I think you will sell some product. Um, you'd have a hard job convincing me that this is going to solve like my behavioral issues with the reps. And like that's that's like the hard thing. Um I you know I worked in when I worked in Stripe, right? I built this customer service tool, right? I was I was convinced this was going to like cut our costs in half, right? And what it was was like customer would write like this is 15 years ago or 10 years ago, customer writing a query, the system would pull keywords, go okay, password reset, account lockout, whatever. It would type out like a canned response to the customer.
+ 
+ 
+00:19:41
+ 
+brian phelan: all as a customer service have to do and go, "Yeah, that makes sense. That makes sense. Like the response looks right. They might have to add in a little bit of data, customize time bit, send it." I was convinced this was going to revolutionize everything for us, right? Um problem was like nobody updated our support documents. No one updated our workflows in the background, right?
+Greg Petherbridge: Mhm.
+brian phelan: So like we built this super car and we asked it to drive down like a burine with loads of potholes on it, right? Um and uh I don't know that that's where I I challenge you just like in terms of the product like it's like how would you change the behavior like what's in it for the reps? So like Greg's AE, right? He's going to get this thing every every day at 9:00 a.m. right? He's he's going to get pissed off like you know
+William Ross: Yeah.
+Greg Petherbridge: So you kind of mentioned when you were talking about your experience at Stripe and One identity, it seems to be a cultural problem as you said.
+ 
+ 
+00:20:42
+ 
+Greg Petherbridge: Um it's more so leadership kind it's whatever pressure the reps would feel from leadership. So, you're saying like no matter what the tool, if that outside pressure coming down from the top isn't there, it doesn't really matter kind of what tech you put in place.
+brian phelan: basically uh you know um like what I would suggest you know that like where I do like
+Greg Petherbridge: Okay.
+brian phelan: the who's got a nudge and is still waiting still pending I would build in a rule or some sort of dashboard to nudge the leadership to nudge the manager and make it the manager's problem so if I was a manager I'd be like this quick Greg on my
+Greg Petherbridge: Yeah.
+brian phelan: team I keep getting nudged from revops because of Greg maybe then that you can create that behavior
+Greg Petherbridge: Yeah, that's a really good idea.
+brian phelan: change Um,
+Greg Petherbridge: And is is there any like so we get put in like a lot of different buckets sometimes when we intro ourselves like kind of ddup softwares or or other things like that or um different features are requested like maybe being able to parse the the transcripts that are coming into the CRM from your calls and kind of giving you automatic suggestions if yeah if if you were to kind of
+ 
+ 
+00:21:42
+ 
+brian phelan: I don't know. Yeah.
+Greg Petherbridge: maybe outside of that nudge to the leadership think of anything that that we could add or something that would play nicely what we're trying to do. Is that is there anything that comes to
+brian phelan: Yeah, like like suppose looking at other tools out there, right? So like you've got gong,
+Greg Petherbridge: mind?
+brian phelan: right? Which in theory will solve like your next steps piece, right? Because we haven't called Gong will autoop populate that stuff for you. So like you they're saying we'll solve this problem so it doesn't get to an exception for this tool to solve, right? Now gang is great, but I don't think it's ever going to solve everything, right? But um then you've got, you know, something like Clary. I don't know. Have you guys used Clary?
+Greg Petherbridge: Yeah, I've heard of
+brian phelan: No. So like the the forecasting piece like I I don't you know like may maybe like add the actual
+William Ross: Yeah.
+Greg Petherbridge: K
+brian phelan: forecasting piece in here so that I don't have to go and manually do those and have like my propensity models.
+ 
+ 
+00:22:39
+ 
+William Ross: Cool.
+brian phelan: Um you know in Apple we had this concept of like CPFR so it's collaborative planning forecast and replenishment. Um but what it meant was was like Apple would do their forecast the client like O2 or Vodafone or you know Carphone warehouse would do their forecast we would have other kind of different algorithms or whatever you want to call them right forecasting what if there's a 10% uplift or if there's if this deal falls etc right different scenarios and you know you try and get like a like a joint forecast if if if you want for a better word or an agreed one that's somewhere in the middle or maybe it's not in the middle right um so some sort of you know forecasting tool where you can like maybe get the I don't know and Greg you're an AE so you you tell me better than this but like you know you you I'm sure in the past you've been asked to like what's your forecast for the quarter what's right so like may maybe you solve this problem like for the AE and make the AES want to use this tool rather than like RevOps being like, "Hey, you got to use this ClickFunnel tool and we're going to pin you every Monday morning at 9:00 a.m.
+ 
+ 
+00:23:54
+ 
+Greg Petherbridge: Yeah.
+brian phelan: to fill out these exceptions." You know,
+Greg Petherbridge: Yeah. No,
+William Ross: Mhm.
+Greg Petherbridge: it's really useful.
+brian phelan: so
+Greg Petherbridge: William, do do you have any questions off the back of
+William Ross: Yeah. I guess the only question I have is I mean if you're how how have you solved this in the past because you mentioned that you built you
+Greg Petherbridge: that?
+William Ross: built a solution akin to to final vision and that didn't quite quite hit the mark. So what how what is do you think the solution to to pipeline hygiene or
+brian phelan: like it it hit the mark in the sense that like a couple of reps were okay with it.
+William Ross: getting
+brian phelan: Like they were like, "Oh, this is handy. This makes my life a little bit easier." Um, but in the end, like what I ended up doing is like just taking screenshots from the thing, then emailing people and copying in, you know, the whole world and my mother and be like, "Hey guys, please update this." You know?
+ 
+ 
+00:24:41
+ 
+brian phelan: Um, and like I don't want to spend my time doing that. Like I've got to be honest like it's a bit tactical and kind of I don't want to say beneath me but like like no one wants to be doing that stuff like you know especially when you're calling people out um and then like
+William Ross: Mhm.
+brian phelan: reps are getting pissed off at you you know um so like so then you're trying to like okay look I'll ping I'll keep picking on you Greg but I'll ping Greg directly now myself in teams so I don't have to send an email out like calling him out in front of his manager and everybody else but I've got 15 other Gregs to ping as well. So then I spend two hours in Slack just like pinging people going, "Hey bud, heads up. I got to send out this report to 1:00. Make sure you're clean before 1:00 today or you're going on the report." Like, you know? So you're trying to give people a heads up, but like that just sucks up so much my time and energy, you know?
+ 
+ 
+00:25:29
+ 
+brian phelan: Um, so how is it solved? Like it's not solved. That's that's the thing, you know. But like as I said like I I've I have thrown technical solutions at it where like you can update stuff in Slack. Salesforce has an app as well like that you can give to that reps like download the app lads. you can update your deals in the car on the way home from your meeting. Like just it just I don't know. Sales reps are a different different um different breed you know um it's like a different like brain brain activity you know than ops
+Greg Petherbridge: Yeah, they're uh Yeah,
+brian phelan: you don't mean a negative way like you know
+Greg Petherbridge: they're in their own world, aren't they? Um,
+brian phelan: I I just say that there's like left brain and a right brain you know and it's just a different yeah you know so like the key thing here is like how do you make reps care
+Greg Petherbridge: yeah.
+brian phelan: about this So, I do think maybe you're on to something with like the the leaderboard piece um gifying that, right?
+ 
+ 
+00:26:34
+ 
+brian phelan: Personally, I'd love to attach that to like their incentives to a certain extent, you know, um or comp plan, but again, like that's like a business decision and ultimately like if a rep is closing 20 million and their and their hygiene is terrible, like unfortun right, he's ignorant. He's rude. He's impossible to talk to. Really hard to deal with, right? But the man closes deals and he wins business all the time. So, he does whatever he wants. And you know who doesn't get sent out in those email reports? That guy. You know who I don't ping? That guy, right? I just leave him alone because there's no point. and he rings up his SDR or he rings up his ICAM every other day and like hey I cam update the CRM for me and like we literally have like an SDR and they're literally just doing his job in Salesforce for him like that's their full-time job almost is just filling out stuff for him like like complete joke like but um he's there 20
+ 
+ 
+00:27:50
+ 
+Greg Petherbridge: Yeah.
+William Ross: Wow.
+brian phelan: years like I'm not going to be about it you know
+Greg Petherbridge: Yeah, it's kind of like a star player in sports,
+brian phelan: Oh,
+Greg Petherbridge: isn't it? Like Mbappe can throw the toys out of the pram and just act like a prick, but if he's scoring goals, it doesn't matter, I suppose.
+brian phelan: not like Yeah. So, um yeah.
+Greg Petherbridge: Yeah.
+brian phelan: So, look, sorry. I hope I haven't wasted your time or are demotivated uh too much
+Greg Petherbridge: No, this has been absolutely brilliant. No,
+brian phelan: or
+Greg Petherbridge: Brian, we really appreciate the time and um yeah, have you lined up your next move yet? Are you are are you just taking the time
+brian phelan: take a little bit time off. I have um I have a couple of like places,
+Greg Petherbridge: off?
+brian phelan: but um I I you can probably tell I'm a bit burnt out from RevOps to be honest. I'm trying to get out of Rev Ops because I just um I'm I'm tired of sales to be honest.
+ 
+ 
+00:28:35
+ 
+Greg Petherbridge: Yeah.
+brian phelan: Like I'm going to try and get back to like kind of CX or kind of like some sort of platform business. Um you know, and get back to building something. I'm kind of sick of like being in these like big large organizations that are, you know, you're dealing with Jerry, as I said, from France who's there 20 years and can do what he wants and like, you know, you're just Yeah. Just so Yeah. I I'll see what I do.
+Greg Petherbridge: Right.
+brian phelan: Yeah.
+Greg Petherbridge: Well, I hope everything goes well for you. Again,
+brian phelan: Yeah.
+Greg Petherbridge: um really appreciate the time and um yeah, hope you get to disconnect a bit over the time off and and I'm sure the next move you make will be a good one.
+brian phelan: Yeah. Fingers crossed. Look, it's a good product, lads. You know, um, you're on a decent track, you know, and said the UX is good. It's nice. It's easy to use, simple,
+Greg Petherbridge: No.
+brian phelan: all that stuff is good. Leaderboard is good. As I said, do the nudge to like senior leadership, automate those like emails out or something like that. You know, you can sell it to Revops. But yeah, figure out like what's in it for the sales
+Greg Petherbridge: Yeah,
+brian phelan: rep.
+Greg Petherbridge: that's No, that that that feedback alone I think is something we're we're going to carry forward.
+ 
+ 
+Transcription ended after 00:30:08
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

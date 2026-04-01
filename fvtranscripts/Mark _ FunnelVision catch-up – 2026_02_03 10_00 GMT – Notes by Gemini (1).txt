@@ -1,0 +1,171 @@
+﻿Feb 3, 2026
+Mark / FunnelVision catch-up - Transcript
+00:00:00
+ 
+Mark Brown: and then go through what we talked about last time. Apologies for not being in um in touch uh over the last few weeks. Um it's been a bit of a crazy start. We haven't we've had SKO as well. So, um, yeah, I apologize for we're back to normal now, which is, uh, which is good news. So, uh, is it possible to just do to explain again? I think John, I don't know whether you met John or not. I can't remember. No.
+William Ross: I'm not
+Mark Brown: No. Right. Fine. So,
+William Ross: John.
+Mark Brown: is it possible to do the your usual demo to to everybody?
+John Worrel: Yeah.
+Mark Brown: Um, and then um Yeah, and then we can have a follow-up call um in the in the in the next in the next few days.
+John Worrel: Heat.
+William Ross: Yeah, abs. Absolutely. Well, first of pleasure to to be introduced to you to to the team. Yeah, happy to give to give a background some demos and just just to preface look.
+ 
+ 
+00:00:48
+ 
+William Ross: I know you guys are on teams, right? So, so we've been so our teams is still there,
+Mark Brown: Yeah.
+William Ross: but it's not in production just just now. So, I'll show you the slack demo because we're getting some really cool slack updates that we're rolling out to teams. So, teams is finicky just now. So just so just I can show you the team's interface and show you how it would look but it's just it's not functioning right
+Mark Brown: Okay. So, so, so you better start from the because if I'm honest,
+William Ross: now.
+Mark Brown: I haven't really got this group together and talked about um uh funnel vision. So,
+William Ross: Yeah.
+Mark Brown: um so if we can start from the beginning,
+William Ross: Yeah.
+Mark Brown: pretend that knows anything that will be
+William Ross: Yeah.
+Mark Brown: helpful.
+William Ross: Perfect. So uh let me let me share my screen with you guys and then I'll get this
+Mark Brown: And and while William's just doing that, sharing that as a as a setup from me, um uh William contacted me about I don't know two months ago um and said, "Hey, look, I'm doing this uh product creating this product. Um would it be of interest um to to you to view and as a as a possibility to implement within your organization?" Um and
+ 
+ 
+00:01:52
+ 
+Mark Brown: um the the the organization called Funnel Vision and it is essentially a data hygiene um piece of software that allows people to update um records or not record yeah records but but fields within records um from a easier perspective via teams in our perspective. But what William's going to show now is through Slack is what where they developed it in in initially. And so therefore, it's for us then afterwards just to have a quick conversation and say,
+William Ross: Yeah.
+Mark Brown: "Hey, does this make sense? Does this something we want to do? Does this fit in with the strategy of what we're trying to to achieve with, you know, Lego for example and and Zuper, you know, and and and and do you think this will actually be something of value to to the organization?"
+William Ross: Beautiful.
+Mark Brown: And then we could um propose that um forward. But um this is sort of your um your your
+William Ross: Amazing.
+Mark Brown: core user no not core user core base of ops which then really supports being able to get something like this um in. So a lot of people probably have seen anything like this before.
+ 
+ 
+00:03:06
+ 
+William Ross: Really, really appreciate that, Mark. Thank you. And I guess before I start, actually, I should probably ask as well, any uh thoughts or questions before I dive into this? I'm happy to just go straight into it, but any any off the bat questions I can answer beforehand if not.
+Mark Brown: Probably not from
+William Ross: Okay, super. So, so uh so basically the basic premise of funnel vision is kind of three three is built on three pillars.
+Mark Brown: the
+William Ross: Surface all of your pipeline hygiene issues in one place. Configure those hygiene issues that you're looking at exactly what matters to your own sales and go to market motion. and then natively make those fixes in well in Slack or in Teams without breaking any workflow. So, it's completely frictionless and there's no context or tools or tool switching. So, what you're looking at now is the initial look of funnel vision. And the way it's it's set up is you simply just connect into your HubSpot environment and this usually takes about two to five minutes depending on how much data is in your system.
+ 
+ 
+00:04:03
+ 
+William Ross: And you're immediately presented with um a snapshot audit of your of your pipeline hygiene. So, how many of your deals in your pipeline are past or close dates? U, how many are stale? How many have missing next steps or missing amount? And at the bottom is your hygiene leaderboard. So, which of your deal owners are more on top of their hygiene relative to others? So, it's a really good way to see over time, you know, which of your AES or reps are are, you know, the the causing the problems of the hygiene issues or which ones are actually doing pretty well on it. you can see how many issues they have across how many deals they're they they're assigned to. Now, obviously, these are just um template pre-built hygiene issues and every sales and go to market motion has their own specificities. So, we have this rules page on the left hand side and this lets you create any rule that you want in order to surface anything as a hygiene issue. And honestly, the best way to describe this is the the limits your imagination what with with what you can build here.
+ 
+ 
+00:04:59
+ 
+William Ross: um because we pull in every single HubSpot property whether it's a custom property. So you think of your your medic, your anom, your whatever is your your sales methodology is um associated conduct, associated company, we pull in all of these. So you can build any rule that is specific to your own sales and go to market motion. Um so you could so and then what we also have is condition groups as well. So you can you can create pretty complex rules. So um just to show you one that I made uh as like a an example, it's just a made up one. I want to know if when the deal stage is equal to demo or solution confirmation and we pull in all of your pipelines and deal stages. So whatever it is that you've configured will appear here and if the next step is empty or the it was last updated more than 10 days ago or the amount is empty, I want to phrase that as a as a hygiene issue. And there's two really powerful features to creating your own rules.
+ 
+ 
+00:05:53
+ 
+William Ross: The first is this automatic request update from the owners. And what this means is well, if this is turned off, you will have manual control. So you can manually request an update on any hygiene issue and send that notification to the person in Teams or Slack. Now obviously you don't always want manual control and you want things to run autonomously in the background 24/7. So when this is turned on, what it means is that whenever the condition of the rule is triggered, it will automatically send a notification to the deal owner in their place of work. So in Teams, um, without you even needing to to to touch anything. Now, what makes this particularly smart is what you don't want is the deal owner to receive, you know, 50 plus notifications all throughout the day being spammed in their team space because it'll get ignored and it's not good for for behavioral adoption and ultimately fixing your hygiene. So when this is triggered, it actually sends in a daily digest format so that every day at 9:00 a.m. the sales the sales rep or the the deal owner will get one team's message that outlines all of the deals they need to update in the last 24 hours and they can go through it one by one on their own time and anything that's not been action will get asked again the next day.
+ 
+ 
+00:07:03
+ 
+William Ross: So it's just a single message. You'll always have manual control. So even if there's going to daily digress and you're like, I really want this deal to be updated, you can still send a manual request. But what this means is you can really set up Funnel Vision to work predominantly in the background 24/7 with really minimum interference from you. Um, and you can just go in and make sure that the rules are being triggered, okay? If you want to amend or adjust anything or look at the hygiene leaderboard, but you don't actually need to live live and breathe inside funnel vision. And the other thing that's really powerful is this is this a little box here. Because what what you also don't want to happen is that you're you're requesting a hygiene issue from from an AE, but they don't actually know what it is you want them to update. You don't want them to just say, "Hey, here's a hygiene issue on on this deal. Go and fix it." So here you can actually put in whatever it is you want them to update,
+ 
+ 
+00:07:51
+ 
+William Ross: you can put it here. So you could just type in anything like, you know, if it was lead source, okay, I want you to fill in the lead source. so that whenever they get the hygiene issue, they're told exactly what it is they need to they need to fill out. And I'll show you how that looks in a second. So once you've done that, once you've surfaced all of your hygiene issues in one place, you've configured all of the rules that you're looking at what it is that matters most to your sales and go to market motion. The question is what do you what do you do about it? How do you actually fix it? So we have this fix issues page here and this shows you all of the deals in your pipeline that has some type of hygiene issue. And you can filter this by the deal owners, by specific stages, if there's any particular issue you're looking for. And so just to show you because obviously what I won't do is I won't wait till this call till 9:00 a.m. tomorrow to show the the daily digest.
+ 
+ 
+00:08:38
+ 
+William Ross: So I'll uh I'll just show you how it would look in practice with a manual request. So here are all my deals that have hygiene issues, right? Uh and you can see it's got like this one, and you can click on the deal for more information, more context. Um you can see this one's got a missing amount, a missing next step, and it's past its close date. So, let's say you're like, okay, I want I want an update on this deal. All you have to do is click request update. Once you do that, you see I instantly get a Slack notification. And you can see here William has requested an update on DS. So, from the perspective of the person receiving this notification, they don't need to know Funnel Vision exists. They don't need to know HubSpot exists. They are just working wherever it is that they're working. And it could be on the train, on the go, at the airport. It works really well on mobile. So, they could be on their phone and they just go, "Oh, okay. I need to update DS,
+ 
+ 
+00:09:24
+ 
+William Ross: right? What do I need to do? All right, fill in the amount. The amount's not set. Oh, it was meant to be 10,000. And the next step, uh, okay, maybe it was a schedule meeting with CFO. Oops, I can spell. And what's really cool is you'll always have context on what's previously inputed in the field. So, if there was already a next step filled in, it would tell you here what that next step is. So, they can get always get the context on what was in the previous property. And the close date's passed. is currently set for January 5th. So, okay, maybe they need to go, oh, this is meant to be uh end of May. The person here just updates the deal. And that's it. It's completely done. So, you can view this in HubSpot. And you will see here that we have the amount for 10,000. It's set for the 31st of May here. And the next step is schedule meeting with our with the CFO.
+ 
+ 
+00:10:12
+ 
+William Ross: So, the person receiving this doesn't know that funnel vision. They don't need to know funnel vision exists. They don't need to go into HubSpot. They're working natively within Slacker teams. This is our Slack interface. This is our team's interface here. Um, so this is how it would look in teams. Um, it's just currently not got all the functionalities. We've got Slack. We're basically doing a bit of testing in in that in that environment, but it's mostly mostly there. But this is how it would look in in Teams and and that's it. The basic premise of Funnel Vision surface the hygiene issues in one place, configure them, and then the changes will happen in Slack or in or in Teams without without the reps needing to know uh what's going on behind the scenes.
+Mark Brown: questions. John, I've seen you've been writing down something. I suspect you have a question or
+John Worrel: Well, you just answered mine which was the teams if it was connected to teams.
+ 
+ 
+00:10:56
+ 
+Mark Brown: two.
+John Worrel: Um and then um yeah
+William Ross: Yes.
+John Worrel: uh and then the other thought is um the type of so like what kind of sets your your product apart from like the out of the box HubSpot. So we've got full enterprise all the bells and whistles of HubSpot. So, I'm just kind of curious if there's a um you know, what's the selling point here to use funnel vision, which great name, uh over HubSpot's native
+William Ross: Yeah, it's it's a really good question. So, I guess there's there's a few parts to to say.
+John Worrel: functionalities.
+William Ross: One is um with the HubSpot inbuilt native functionality, you still have to go into HubSpot to make the changes. So, the the main selling point here is the reps or the ease don't want you don't want to cause friction when they have to make updates to deals because what we've come across in our experience is the biggest pain point to them is workload friction, tool friction. So, we want them to be able to make the changes wherever it is that they're working.
+ 
+ 
+00:12:01
+ 
+William Ross: otherwise it just it doesn't happen or it causes a lot of dead weight time where they have to go and speak to revops and go walk me through exactly what I need to do in order to get this this pipeline going up to up to scratch. Um and on our because we're quite early stage we've got a lot on the road map as well that hubs want to do.
+John Worrel: Cool.
+William Ross: So the next thing we're looking at getting into is transcriptions and emails so that you can do oneclick updates to say hey based on this call here's what I think your next step was. Here's what I think your close date was. So the rep doesn't even need to fill in everything themselves. They can just go yes or no or edit whatever it is that's suggested based on the transcription.
+John Worrel: Cool. Cool. Thank you. Um and um yeah, so that you're saying that like they're responding in a team's message to say update this deal stage or update purchase order number field to with this purchase order based
+ 
+ 
+00:12:45
+ 
+William Ross: Mhm.
+John Worrel: off of in the team's connection.
+William Ross: Yeah.
+John Worrel: Cool, cool, cool. Uh you said the team's connection is that is that live currently or still in
+William Ross: H still in beta.
+John Worrel: beta?
+William Ross: Um, well, it was live and then we wanted to make it a bit more smart and cool. So,
+John Worrel: Understood.
+William Ross: we got it took out took it out of production and it's out in beta. But,
+John Worrel: Cool,
+William Ross: uh, we'll get that live because we have a couple customers waiting for it as well. So, we'll getting it live probably next
+John Worrel: cool, cool, cool, cool. Awesome.
+William Ross: week.
+John Worrel: I think that's for me. If anybody else has other questions
+Mark Brown: I think the thing for from my perspective really is this is not a question to you and it's for everybody else is because of the nature of what the teams do in the amount of travel. It's quite unusual the amount of travel in today's world that our salespeople do.
+ 
+ 
+00:13:37
+ 
+Mark Brown: Um this is somewhat easier to to keep things up to date. Now is the the advantages or disadvantages of doing that in terms of whether it'll be adopted or whether it'll be seen as more more hassle I I don't know and that's a question you need to ask
+John Worrel: Right.
+Mark Brown: right um but
+John Worrel: Yeah.
+Mark Brown: um but usually anything that you can make a uh rep's life easier then the better it is and the
+William Ross: Thank
+Mark Brown: more accurate the data is right and um And this also Veronica feeds into you know
+William Ross: you.
+Mark Brown: Netswuite um piece as well. You know if we can keep get things up to date as easy as possible. It it also helps with um overdue because overdue can be uh then changed in teams rather than needing to be sit down in front of HubSpot. Um uh yeah. Um, so yeah. So that anyway, that's a bit of a bit of
+William Ross: Yeah. Yeah. I mean, if it's if it's anecdotal, some of our one of our earliest users,
+ 
+ 
+00:14:48
+ 
+Mark Brown: addition.
+William Ross: um, they have a sales team of about 20 people and we spoke to about five or six of them. And the consensus obviously I'm going to slightly biased because it was it was good news but they they they reckon about each each of them save about two hours a week not having to manually go into HubSpot make any changes or not having to be chased by RevOps or not having to to just be to be told exactly what they have to do and then not have to do any friction they
+John Worrel: Cool.
+William Ross: so you're right there there's obvious there's always going to be behavioral adoption problems when it comes to like
+Mark Brown: Sure.
+William Ross: to funnel vision. Um, we do have a free trial if you do want to give it a whirl and you know try it for like a week and see how it works. And obviously because we are you'll be one of our earlier teams users at least. Um, we'll be on hand for as much as possible as well.
+Mark Brown: Okay, cool. Right. So, um if no more questions then then we'll call it a day.
+William Ross: Oh,
+John Worrel: Yeah.
+Mark Brown: Let's as well just jump on the call that I forgot to
+John Worrel: Yeah, sounds great. Yeah, that sounds
+Mark Brown: tell to tell um the Google thing.
+John Worrel: good.
+Mark Brown: I I was meant to put that in there, but I didn't.
+William Ross: perfect. Thank you so much for the for the time, guys.
+John Worrel: Okay, cool.
+ 
+ 
+Transcription ended after 00:16:34
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

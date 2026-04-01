@@ -1,0 +1,232 @@
+﻿Jan 15, 2026
+Justin / FunnelVision catch-up (conditional properties) - Transcript
+00:00:00
+ 
+William Ross: know we you mentioned last time about um um moving deals between stages to have some kind of conditional properties require require fields to be filled out. We do have like a very slight workound around that and so basically I wanted to run it by you see how you how it looked and obviously no no pressure and if it doesn't quite fit the needs for your purpose we could chat about like what what does it need to look like in order to be properly deployed. Does that make sense?
+Justin Powell: Yeah. Yeah, sounds good. Um, happy to to take a look. And I think, you know, the the specific client that I'm thinking about that needs this kind of functionality, um, they are probably the most sophisticated HubSpot users I've ever experienced. Um, and they've done a lot of really interesting stuff. However, it's not like your dayto-day HubSpot portal that has the this the stuff that they have, right? But, um, very very interested in seeing what you've been able to put
+William Ross: Yeah.
+ 
+ 
+00:01:05
+ 
+William Ross: Okay.
+Justin Powell: together.
+William Ross: Uh, let me share my screen. Um, and Joshua can also help me talk it through because he's the again, like I said, the the biggest brains behind this. So, um, so I don't know how much you ever follow. I'm happy to go through it again quickly or if you want me just to show you the more the rules
+Justin Powell: Yeah,
+William Ross: page.
+Justin Powell: I think I've got a pretty good um memory of of uh what you guys have
+William Ross: Awesome.
+Justin Powell: built.
+William Ross: So, so one of the things we have in practice is because we pull in all of the properties, what you can do is um make a rule so that if a deal's in a specific stage, so like demo or whatever pipeline you're pulling in deal stages and then you want to pull in like any custom property like okay, if it's in this stage, the lead source needs to be filled out and you know can equal uh is empty You can then make a rule about this and go so if it's not if it's not done then then it'll be triggered as a hygiene ship.
+ 
+ 
+00:02:05
+ 
+William Ross: But the really cool thing here is we have we what we did we we incorporated two other features into our rule creation to make it a little more lot a lot less manual a lot less tedious. Um the first one is to automatically request updates. So when this is clicked what happens is the rule will run in the background autonomously 24/7. So there's no there's no manual triggering needing to happen. Uh, but then also what happens is the the deal owner doesn't get spammed with notifications 24/7, like 15 times throughout the day. What they get is a daily digest every morning at 9:00 a.m. So when they wake up, they will get a a single Slack message that goes, "Hey, here are all the deals that have been triggered in the last 24 hours." And if anything doesn't get actioned that day, it'll get actioned the next day as well. And then the second thing which is really cool is being able to tell the person what you want them to do. So here you go right I want them to fill in the lead source because you don't want to give them a hygiene issue and go this is a hygiene issue they can't actually do anything about it or they have to do something about it.
+ 
+ 
+00:03:06
+ 
+William Ross: So, so here what you get is when they get this notification, it'll just go when the deal stage is in demo and the lead source is empty and this is turned on in the morning they'll get one message. They'll get a message say hey this needs to be filled out and then the really cool thing is name source empty in demo. Uh and the last last thing we built in as well is being able to look at your pending requests. So then you can see which requests have been triggered but not actions. So you could say like okay this this this rule that I made um let's say this one has been asked six days ago and hasn't been actioned or 3 days ago and hasn't been actioned. So you can also get visibility on on on what's not being um on action there as well. So that's really the kind of current workound we we have to that.
+Justin Powell: Sure.
+William Ross: Again, like I said, I would love to get your thoughts, comments, feedback, and if anything, what what what you would like to see in there in order to make it like a bit more fit for
+ 
+ 
+00:04:09
+ 
+Justin Powell: So, let me let me maybe explain the specific scenario
+William Ross: her.
+Justin Powell: that my client has and then maybe you can explain to me how you would set that up within funnel vision.
+William Ross: Mhm.
+Justin Powell: So the the specific scenario is that this client has they sell cyber security software. Um they have a very uh robust sales process. Um they're using Gong to collect a bunch of like automated information from the calls that's getting automatically filled into fields etc. So they've got like this is like one of those teams where the sales person has to fill out like 30 fields to move from like the first stage to the second stage, right?
+William Ross: Yeah.
+Justin Powell: And um I could see something like this being really interesting for them because they do have so many things that they want to collect from their sales team. And what I've helped them build is uh I don't know like I'm sure you both are probably pretty well informed about how like the conditional formatting works within HubSpot but or not conitional formatting conditional fields work with stages.
+ 
+ 
+00:05:23
+ 
+William Ross: Mhm.
+Justin Powell: You can you can require specific fields for a specific stage but you can't have variety within that. So they've they've got like the same sales process for their entire sales team, but then they have like different fields that are required for enterprise compared to the mid-market compared to, you know, the self-service or whatever, right? And so what we've built is kind of a workaround to say, okay, if it's an enterprise deal and that that's kind of filled out automatically, it shows these are the fields that need to be filled out within this specific stage, right? And each stage, each stage segment combo has its own fields that need to be filled out. Um, so I can imagine a scenario where um, maybe they've got a rule set up in funnel vision where they say, "Okay, we can tell that the discovery call has happened and this deal hasn't moved forward yet, right? Because we require all these fields. It has to be moved forward manually, but you know that that discovery call has happened." So the sales rep gets pinged and says,
+ 
+ 
+00:06:33
+ 
+Justin Powell: "Hey, you've you've done the thing that you need to do to move it forward. Now you just need to fill in all the things in HubSpot. here's in Slack like the stage that it should be in. Okay, go ahead and change that stage.
+Joshua Graham: Okay.
+Justin Powell: But then here's all of the fields that still need to be filled out, right? And that's the thing. That's the key part like being able to make sure that the required fields are being are able to be filled out based on the criteria of the deal, right? What what uh segment is it in and what stage is it being moved to? So in that case, would they have to recreate that logic within funnel vision or does funnel is funnel vision able to read the settings that are already set up for those stages in HubSpot?
+Joshua Graham: So, at the moment,
+Justin Powell: Right.
+Joshua Graham: it would definitely be something they'd have to recreate in funnel vision. We're not reading that. That doesn't mean that we couldn't treat that.
+ 
+ 
+00:07:29
+ 
+Joshua Graham: That's certainly something we could put on the backlog as a capability. We haven't run into that before, though. So, that may be unique to them or special to them or maybe not unique,
+Justin Powell: Sure.
+Joshua Graham: but not as frequent as other things. The other side is I'm already seeing where our rules are set up. We've tried to keep them really simple because the more complex your rules get, the harder it is to explain to people exactly how to create rules. So, at the moment, it's very much an and and and or an or or or or thing instead of and this or this this this and this and this sort of thing where you start to get complex rule trees.
+Justin Powell: Mhm. Okay.
+Joshua Graham: looking into ways that we can do that so that it's first off still easy to use because that's our big thing here is we don't
+Justin Powell: Yeah.
+Joshua Graham: want it so complex that people can't figure out how to use it or they have to pay somebody like William or yourself to come in and set all the rules up for them because that's what they're doing in HubSpot already anyway but we do
+ 
+ 
+00:08:21
+ 
+Justin Powell: Right.
+Joshua Graham: want that sort of functionality in this particular case I am thinking of some possible halfway houses we could have specifically around this idea of these items are required when these other things are true. Um, that's a much more simple concept for us to put into the rules logically. So, you could say if you're in this deal stage,
+Justin Powell: Mhm.
+Joshua Graham: then all of these things must not be empty.
+Justin Powell: Mhm.
+Joshua Graham: And that's actually much piece of logic that would then help you be at a position where if they're in that deal
+Justin Powell: Yeah.
+Joshua Graham: stage and any of those things are empty, you could then send them a message saying, "These things are empty. You need to make sure they're filled in." And it's automated.
+Justin Powell: M
+Joshua Graham: It's getting flagging.
+Justin Powell: yeah
+Joshua Graham: They can see that Visibly.
+Justin Powell: I guess the I I that scenario would be impossible because those fields would all be required to move into the stage. The only case where it would be possible to use something like this would be the stage hasn't yet been changed.
+ 
+ 
+00:09:21
+ 
+Justin Powell: We know the stage needs to be changed but we have all of these requirements that have to be filled out for that stage change to happen. Um and some of the requirements are like like multi-level. So like within the fields that are required for this stage for enterprise if one of those fields gets picked to to you know let's say they they want are interested in a specific product they'll have more questions related to that specific product right so there's like multiple levels of of like logic and requirement there
+Joshua Graham: Yeah. Your traditional validation
+Justin Powell: um yeah exactly which you know,
+Joshua Graham: system
+Justin Powell: I think in Salesforce is a little bit easier to do. Uh, this is one thing that HubSpot has a little bit of a harder time doing, which which is one of the reasons why I thought funnel vision would be a really interesting solution for that if we can get it to work. Um, because right now the user experience isn't like isn't the best experience um possible for that for that team based on what they're trying to do.
+ 
+ 
+00:10:28
+ 
+Justin Powell: Um, but it it's such an important part of the workflow where even if they could get even if they could find funnel vision useful for other things, I think they without this functionality specifically for the stages and all those required fields, I could see them being less inclined to be interested.
+Joshua Graham: Okay, my brain is spinning with different ideas of ways we could implement something like that, but it is a very complex problem. Probably why HubSpot hasn't tacked it either. Validation has been one of these things that's since the 70s has always been a problem. Making sure that if you've ticked this box that these three things are filled in and if you filled that one in with this value, then these three need to be filled in. It's it feels like it's really simple when you're looking at the form,
+Justin Powell: Yeah.
+Joshua Graham: but actually the complex logic behind validating that to make sure all the right things are filled in is complex. And again, one of the things we don't want to do is create a bad user experience trying to set up the rules for normal rules when we're trying
+ 
+ 
+00:11:27
+ 
+Justin Powell: Yeah.
+Joshua Graham: to add this functionality in. I do think though that there's still some possibility that that could work because it doesn't necessarily need to be that if you're in this deal stage, these things are required. You've got that ability to filter if this, this, this, and this, then these five things are required and that could potentially start to fill in those gaps.
+Justin Powell: Mhm. Mhm. But then can you can
+Joshua Graham: I intern that could turn into a lot of rules and it would be difficult to manage for
+Justin Powell: you I'm just trying to imagine how that would work though because these fields are required upon stage change,
+Joshua Graham: them
+Justin Powell: right? So like the way that the HubSpot does it is like as they try to move the stage from one to the next then it requires these fields rather than having the stage be true and then needing those you
+Joshua Graham: and we wouldn't be able to pick that up.
+Justin Powell: know
+Joshua Graham: But in your case where you're talking about, you know that they're able to move to the next stage, but they haven't filled in the blanks.
+ 
+ 
+00:12:20
+ 
+Joshua Graham: Whatever it is, we're looking at to know that they're able to move into that stage.
+Justin Powell: yeah got
+Joshua Graham: Those could be our initial conditions. If you've had the call, you're in this state, you've got this value filled in, you could be in the next stage now, but you need to fill in these five things first.
+Justin Powell: Okay, got
+Joshua Graham: When you pick those sorts of things up, send them a little notification saying,
+Justin Powell: it.
+Joshua Graham: "Hey, you're ready to change stage. Fill in these five things and change the stage.
+Justin Powell: Mhm. Cool. Okay. Yeah, it could it could potentially work. Um,
+Joshua Graham: What would be helpful for me if it's something that you can send us is just a couple bullet point lists of a few different situations that you're thinking of specifically. If these things are true, they could move stage, but they need to fill in these five things in order for that to happen.
+Justin Powell: Sure.
+Joshua Graham: And if they fill in this one particular one with this value, then it also needs these other two items.
+ 
+ 
+00:13:09
+ 
+Joshua Graham: that would start to give me some test scenarios I could play around with and see if there's anything we could build that is easy
+Justin Powell: Mhm.
+Joshua Graham: to use but would still give you that sort of capability to filter for.
+William Ross: Yeah.
+Justin Powell: Sure.
+William Ross: the the the other area of funnel vision could help with if if it's an issue on on their end is even if because I had this one of my problems because I I liked required fields when I when I was on revs for a client was what I found was even if they were populating the fields sometimes the fields would be wrong.
+Justin Powell: Sure.
+William Ross: So like the close date could still be passed or the their next step could be TBD and I'm like well that's not really a next step is it that's or um or maybe it's stale so maybe the deal's not had any activity on it that doesn't often get picked up. So those are things funnel can can still pick up. So we you could put in like if the next steps contain anything like TBC, TBD or unknown or whatever.
+ 
+ 
+00:14:00
+ 
+William Ross: We can also still track things like close dates and we can also track if it's stale.
+Justin Powell: Mhm.
+William Ross: just in case of I would might not be an issue if these guys are like all in on HubSpot. But um it's just just other things outside of just purely flagging
+Justin Powell: Yeah. Yeah. I mean,
+William Ross: hygiene.
+Justin Powell: what I' what I'd be happy to do too is um even even if we don't exactly figure out how to solve the specific issues with this stage thing, um the the company that I'm thinking of, they are about to go on like a beginning of the year all hands, you know, all company um kickoff type of thing uh at the end of January. uary. They're going to Vietnam, the entire company. So, um they're crazy busy right now,
+William Ross: Ch.
+Justin Powell: but getting ready for that. As you can imagine, the RevOps team is very involved in this. um that when they get back at the beginning of February, um I'd be happy to do like an introduction to their VP of revenue operations, the guy who I'm using as my point of contact for my services.
+ 
+ 
+00:15:17
+ 
+Justin Powell: And I'll just let him kind of tell you what problems he would be interested in solving for this, too. I can give him like a warm introduction to what Funnel Vision is, what it does based on the things that you've shown me, William. Um because I've got a followup with him. I'm trying to get some more work from them as well, right now. Um so I'm going to be following up with him at the beginning of February anyways. Um and then yeah, be happy to to make that introduction if he says it sounds interesting to him. I think it would be interesting for them. Um I think they have budget. I don't know. But, uh,
+William Ross: I was going to
+Justin Powell: I'm hoping they have budget, at least for me. Um, so it could be it could be an interesting,
+William Ross: say
+Justin Powell: um, introduction for you guys,
+Joshua Graham: Yeah, obviously We would love to have customers,
+Justin Powell: too.
+Joshua Graham: but we're also early stages. We are looking for this sort of feedback, ideas like this that can help us make the product better.
+ 
+ 
+00:16:13
+ 
+Joshua Graham: So, even if it's not a customer, an introduction is great because they can help share what their pain is so we can make sure it's a better product and fits
+Justin Powell: Yeah,
+Joshua Graham: more.
+Justin Powell: he's he's really sharp. Like he's and he's got a really big RevOps team, too. They've got like quite a few people on the team and they're growing it out with like, you know, go to market engineers who are like custom coding all this stuff. So they're they're quite an interesting like they will find problems that your future customers uh way down the line would maybe figure out, but they're they're quite interesting to work with.
+William Ross: Where who who is the company?
+Justin Powell: Um let me talk to him first and then I'll tell
+William Ross: Okay. I was going to say perfect.
+Justin Powell: you.
+William Ross: Yeah, but that would be that'd be wonderful, Justin. Really really appreciate
+Justin Powell: Cool.
+William Ross: that.
+Justin Powell: Happy to. Um assuming he he has no problem with it, but I think he'd be happy to as well as long as we can find
+ 
+ 
+00:17:10
+ 
+Joshua Graham: Does that make sense?
+William Ross: Perfect.
+Justin Powell: time.
+Joshua Graham: Okay. Yeah. If you can send me a list of some examples, then we can start to in the background also start to think of ways that we could solve this that's going to be easy to use but
+Justin Powell: Sure.
+Joshua Graham: also be helpful in that sort of area. And we might have some ideas by the time we're meeting them.
+William Ross: Awesome.
+Justin Powell: Sounds great.
+William Ross: Thank you so much for the time. Unless you have any other thoughts, questions. Um, nothing else for me.
+Justin Powell: Um, no. At the moment, um, not really. All my other customers, I think, probably aren't at the like I've got a couple of weird ones right now. They're not like actual traditional like sales and marketing teams. They're like weird government stuff where they're just doing like using really weird
+William Ross: You like the high profile work.
+Justin Powell: ways.
+William Ross: You like the high profile.
+Justin Powell: Sorry.
+William Ross: You like the high profile works.
+ 
+ 
+00:17:55
+ 
+Justin Powell: It's not very high-profile.
+William Ross: Justin
+Justin Powell: It's like little local government stuff. So, um, but that's fine. Um, but yeah, these guys are the only ones at the moment that I could think of a good use case for you. Um, but I'll keep my, you know, I'm always looking for new customers, too. So, if I get another one that um that seems like it would be interesting for for you guys, I'll let you know. And yeah, I'll send you the stuff and and um and then we'll be in touch as well beginning of February. Um, if I forget, just message me, William, and I'll I'll do it
+William Ross: Well, don't don't worry. I don't mind annoying people,
+Justin Powell: again.
+William Ross: but you know, pleasure. Enjoy your your your evening now, I guess. Hopefully, you're lo you're switching off
+Justin Powell: Oh, no. I've got meetings until midnight tonight.
+William Ross: soon.
+Justin Powell: So,
+Joshua Graham: Oh,
+Justin Powell: um,
+Joshua Graham: wow.
+Justin Powell: that's all right.
+Joshua Graham: I don't have a year.
+Justin Powell: I shouldn't have customers in Europe.
+Joshua Graham: I know.
+Justin Powell: I don't know what I'm thinking.
+Joshua Graham: That's what I told William.
+ 
+ 
+Transcription ended after 00:19:17
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

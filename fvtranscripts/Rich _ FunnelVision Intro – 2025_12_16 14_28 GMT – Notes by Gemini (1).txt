@@ -1,0 +1,558 @@
+﻿Dec 16, 2025
+Rich / FunnelVision Intro - Transcript
+00:00:00
+ 
+Richard Caproni: is is map mapping the buyer journey, right? And and I love the way you guys kind of express it from the buyer side, not from mapping your sales process, but but mapping the buyer journey. Um, which, you know, is a principle I adhere to and, um, it's a lot of work. So, uh, you know, I'm always interested in in the latest tools coming out that that can help, you know, do that. um in a way that at the same time can be simult simultaneously digitizing it or operationalizing it in the systems is is the terminology I usually use right um so yeah so you're I mean your your guys key value drivers are like hey this is this is central to revops this is central to you know um and the thing I love about it is uh you know thing that's challenge Like one thing is is the sales ops element, right? But then being able to uh widen it to to cover,
+William Ross: Yeah.
+Richard Caproni: you know, the the full the full buyer journey. Um so, you know, through through marketing, sales, and um then customer success or or account management, whatever whatever you're calling
+ 
+ 
+00:01:15
+ 
+William Ross: Yeah. No, absolutely. Yeah,
+Richard Caproni: it.
+William Ross: I mean completely understand now why why you were like yeah this this these guys sound like no they know what they're talking about these guys are on to something so sorry I'm obviously happy to give you a product walk through but I'd love Greg if you want to give some kind of context on Funnel Vision what we're building why we're doing it and then uh I can uh give them the little uh the little product walkthrough and we can see get rich to roast us on our
+Greg Petherbridge: Yeah, of course. Yeah. Hi, Rich. Um, really appreciate you joining. Um, maybe just to give a bit of background on kind of gotten to this point.
+Richard Caproni: That'd be
+Greg Petherbridge: So, um, myself,
+Richard Caproni: great.
+Greg Petherbridge: William and and three other guys have come from, uh, a go to market consultancy. So all of our backgrounds are in B2B SAS. Um all various parts of the GTM work from partnerships to BD to being account executives, RevOps.
+ 
+ 
+00:02:04
+ 
+Greg Petherbridge: Uh and collectively we kind of saw that particularly in this these kind of high growth companies VCbacked um you know wherever there's a big demand and a big a big focus on on a on a on a sales forecast. We've seen kind of a lot slipping through the cracks in terms of pipeline and how it's been defined by the
+Richard Caproni: Mhm.
+Greg Petherbridge: reps and we saw a behavior problem.
+Richard Caproni: Mhm.
+Greg Petherbridge: Um you know the disconnect between the sales leaders who wants to trust the sales forecast and the individual rep is quite large. You know there's a lot of people in between that there's sales managers, leaders, revops. Um so ultimately I think we've seen founders or uh CRO look at a number and just trust it. And if you actually go and dig into that, there's not much trust there or there's a lot of information missing or, you know, it's just reps kind of looking after their own bacon and trying to maybe fluff up their numbers or hide things that are bad or, you know, I'm a saleserson.
+ 
+ 
+00:03:00
+ 
+Richard Caproni: Tell the organization what they want to hear.
+Greg Petherbridge: Yeah, exactly. Like I'm a salesp person myself, so I have no shame in saying sales people can be a bit selfish and a bit kind of in their own world when it comes to uh, you know, defining their pipeline. So ultimately we saw this as a problem that hasn't really been fully solved yet. Um you know you can create workflows and alerts and dashboards to get visibility on this but we've really thought about how we close the loop. So how do we first of all give leadership or whoever's owning this visibility on what's missing and and how do we route that to the right people? How do the right people in terms of reps actually make these fixes from where they're used to being i.e.
+Richard Caproni: Okay.
+Greg Petherbridge: Slack, Teams, wherever you're using it. Um, and that that's what we want to do is is kind of close that full loop, get visibility on what's missing, and and make it as easy as possible to really have pipeline hygiene and pipeline numbers that we can
+ 
+ 
+00:03:53
+ 
+Richard Caproni: Gotcha. Um okay.
+Greg Petherbridge: trust.
+Richard Caproni: So and would you say that really that was that was the the top driving factor was was providing leadership visibility right to try providing executive visibility. So the executive uh and I guess I don't know we'll go over how you do that. Um but yeah interesting it's uh that is yeah I'll just I'll just share I think that is that is the hardest challenge. That's something that nobody has really been able to do. Um,
+Greg Petherbridge: Yeah.
+Richard Caproni: I've got another friend who spent two years kind of, you know, having started, they they almost went like the full CRM route and then they backed off to be like, okay, how about just everything, you know, you wish the CRM had, you know, on top of Salesforce. Um, and then, you know, that that really did that didn't take. And that was, you know, four or five years ago. And you know now he he he dusted it off again this year. And that's exactly the thing he was he and his partner were trying to say can can we just give that executive view and visibility into you know um a number of things.
+ 
+ 
+00:05:10
+ 
+Richard Caproni: Um yeah, one one being and I've kind of yet I've been doing some rev ops for like fractional rev rev ops advisory work while I look for my new head of revops role and um you know a good I use the word operationalizing go to market strategy or you know he uses the word digitizing go to market strategy um and doing it through that lens. So I will uh I'll give you guys feedback from that perspective as we go through this.
+Greg Petherbridge: Yeah, that'd be great. Yeah. So, we might as well jump straight into it and let him I might give you the keys and uh take take it for a
+Richard Caproni: Okay.
+William Ross: Let's do it.
+Greg Petherbridge: ride.
+William Ross: Um, share my screen. Let me know if that pops up for you guys. Okay,
+Greg Petherbridge: Yep.
+William Ross: awesome.
+Richard Caproni: Yep.
+William Ross: So the way way the way funnel vision works um really simplistically is you you sync into into your HubSpot environment. And this usually takes between two to fiveish minutes depending on how much data is in your system.
+ 
+ 
+00:06:12
+ 
+William Ross: And then what you're immediately presented with is what I like to refer to as like a a snapshot audit of your of your
+Richard Caproni: Okay.
+William Ross: sales pipeline. So you're seeing here some really common pre-built valuable hygiene issues that could exist across your
+Richard Caproni: Okay.
+William Ross: pipeline. So how many deals are past their closed date? have missing next steps, um are missing their close date, and at the bottom is which of your reps,
+Richard Caproni: Okay.
+William Ross: which of your which your deal owners more generally are more on top of their hygiene compared to others. And this is a ranking based system. So number one is the the best. So for example, I I average like 1.4 issues across my deals. Poor Greg at the bottom is down at 3.2.
+Richard Caproni: Okay.
+William Ross: And the whole idea there is you can then track to see who's who's performing better on from a hygiene perspective.
+Richard Caproni: Okay.
+William Ross: And obviously these are just these are pre-built um hygiene issues but obviously you'll probably know us better than anyone that every go to market or sales motion has their own specificities.
+ 
+ 
+00:07:08
+ 
+William Ross: So we have a rulesbased system as well.
+Richard Caproni: Right.
+William Ross: So what we do here is we let you create any rule that is that would be specific for your own go to market motion in order to determine whether your pipeline's healthy. So by that I mean we pull in every HubSpot property whether it's a custom property um associated contact or associated company any rule you want.
+Richard Caproni: Okay.
+William Ross: So uh just as a just an example of one I built Yeah.
+Richard Caproni: Yeah. Examples. This is
+William Ross: So here's one the one I had at the top of my head was like let's say you wanted to know if the next step field um
+Richard Caproni: great.
+William Ross: wasn't updated um over X days ago and the deal's in late stage. So you've got a deal in late stage, but there's not much the next step's not really being been active. All you do is go right,
+Richard Caproni: Got it.
+William Ross: if the next step has last been updated in more than 10 days, and the deal stage is equal to demo and negotiation, then surface that as a hygiene issue, I want to know what the next step is.
+ 
+ 
+00:08:06
+ 
+William Ross: And here you could fill in any whatever property you want them to fill in. And the really nifty thing here is the automatic request updates. So you can imagine whenever a hygiene issue is triggered, you don't want your deal owners to be spammed 24/7 continuously throughout the day with all of their hygiene issues.
+Richard Caproni: Mhm.
+William Ross: The way we work it is a daily digest format. So,
+Richard Caproni: Daily digest.
+William Ross: so once a day, every 24 hours at about 9:00 a.m., however many rules, however many issues have been triggered in the last 24 hours will appear in one message to say, "Hey, here in the last 24 hours are all of your hygiene issues that have happened in the last 24 hours and and they can work through them whenever they want um throughout the day. And any that haven't been actioned will get asked again the next day. So, they don't just get ignored.
+Richard Caproni: Gotcha. And uh any indicators on which ones are rolling over?
+William Ross: Well, you'll be able to see this actually.
+ 
+ 
+00:09:01
+ 
+William Ross: I'll show you this now. So, so basically on that point, so once you've configured Funnel Vision to be really specific to your own sales motion and you're tracking every issue in your pipeline that is really important for you to track in order to make the big decisions. Question is what what how do you action it?
+Richard Caproni: Yeah.
+William Ross: What do you do with all this information? And so that's why we have this fix issues page. And this shows you every deal in your pipeline that has some type of hygiene issue.
+Richard Caproni: Okay.
+William Ross: And you can filter this by deal stages or or if you're if you're pulling in multiple pipelines, you can filter by pipeline um any specific owner you're looking for, any specific issue you're looking for or also by the close date. And so to answer your question is which ones are rolling over,
+Richard Caproni: Okay.
+William Ross: we have pending requests. So pending requests are requests which have been asked but haven't been actioned.
+Richard Caproni: Okay.
+William Ross: So, for example, Alex has been asked for this update 4 days ago and it hasn't been
+ 
+ 
+00:09:55
+ 
+Richard Caproni: All right.
+William Ross: actioned.
+Richard Caproni: When you and and you're saying you're saying asked it was just part of it was it was a flag automatically flagged thing by the system four days ago,
+William Ross: Yeah,
+Richard Caproni: right?
+William Ross: exactly. So, just to show you how this would kind of work in practice,
+Richard Caproni: Okay.
+William Ross: just with obviously with a with a more manual approach, just to give you some look and feel on how this works, let's look at my deals with issues. So, these are all my deals that have some type of hygiene issue. Um, and let's say I only care about my sales pipeline. I only care about my sales pipe,
+Richard Caproni: Mhm.
+William Ross: right? So, okay, I'll filter by I'll sort by the most hygiene issues. And let's look in the here.
+Richard Caproni: Cool.
+William Ross: You can get more information on any specific deal. So, you can see, for example, this deal 45. I'm the owner, the amount, the stage. Um, you can click on the deal to get more information.
+ 
+ 
+00:10:39
+ 
+William Ross: So, oh, this hygiene issue is specifically past its close date and it's it's stale. So it's not an activity for a certain amount of time, but it's got a nice step.
+Richard Caproni: Okay.
+William Ross: All you have to do is click request update if you wanted manual control. And then I as the deal owner could be,
+Richard Caproni: Yeah.
+William Ross: you can imagine, imagine I'm on my phone, on a train, at the airport, wherever it is that I'm working without breaking my workflow. I get asked, hey, oh,
+Richard Caproni: Yeah.
+William Ross: Rich has asked me to fill in this close date because currently it's 10th of December. Oh, sorry, my bad. I meant to push this to to February. And what's the next step?
+Richard Caproni: Yeah.
+William Ross: Oh, but I forgot the context of this deal. Well, the current values meet the economic buyer way back then. Uh, and I kept saying to reschedule the buyer, meet the buyer. Okay, I really need to I really need to chase chase, I don't know, Linda ASAP, update the deal, and that's it.
+ 
+ 
+00:11:30
+ 
+William Ross: They don't have to touch funnel vision. They don't have to touch HubSpot.
+Richard Caproni: Okay.
+William Ross: This information gets instantly synced back into HubSpot, back into Funnel Vision. And you can imagine if they had like six more deals with hygiene issues, they would just appear one by one. But right now there's I've got no other pending requests. So I'm I'm done.
+Richard Caproni: Awesome.
+William Ross: And uh and that's really the premise of Final Vision. Surface your hygiene issues, configure them to your own needs, reps fix them in Slack or or we're also compatible with Teams as well.
+Greg Petherbridge: Come
+William Ross: So we could just slack our
+Greg Petherbridge: on.
+Richard Caproni: Okay. Um, very cool.
+William Ross: teams.
+Richard Caproni: And then that, you know, that whole dashboard like so obviously the, you know, reps and and their managers probably probably have access like have access to pretty much the same same view there,
+William Ross: Yeah. So we can all Yeah.
+Richard Caproni: right?
+William Ross: So we're actually working on whether you want custom views as well, but right now basically anyone with the link could could access it.
+ 
+ 
+00:12:21
+ 
+Richard Caproni: Okay. Um, got it. All right. And yeah, I mean in terms of like best practice and how you guys are are pushing things. Um, yeah, like what's what's kind of the reaction you guys are getting from sales leaders, right? Is I mean, I can see sales leaders like just being pretty darn excited about, oh my god, this makes it so much easier to manage my
+William Ross: Yeah, you're absolutely right. So I would say we probably get bucketed into two fields.
+Richard Caproni: team.
+William Ross: You have your um your sales leaders that are really struggling with visibility like because their their processes are getting you can imagine they grow exponentially, things get bad behaviors get perpet per perpetuated. They love fun illusion. And on the flip side, it's generally also people that don't have a lot of ops backgrounds. Maybe they've not hired RevOps yet and they're looking for a lightweight solution. They go or maybe they've got one RevOps person between like 20 sales people and they're going,
+Richard Caproni: Right.
+ 
+ 
+00:13:13
+ 
+William Ross: I'm I'm spending all of my day chasing because I can't I can't do my job because we don't have the operational capacity to deal with
+Richard Caproni: Yeah.
+William Ross: this. So, it's those kind of two buckets I would say we kind of fit into
+Richard Caproni: Yep.
+William Ross: nicely.
+Richard Caproni: Okay. Excellent.
+William Ross: Uh but yeah, we'd love honestly what genuinely what's impressions rip into it as much as you want
+Richard Caproni: So, I love the rules. I mean,
+William Ross: obviously.
+Richard Caproni: there's thinking that, you know, the exercise of of establishing what what rules to put in um you know, for your for your customers will be big. Um you know, I think uh yeah,
+William Ross: Mhm.
+Richard Caproni: having a really strong onboarding handholding process to
+William Ross: Yeah.
+Richard Caproni: like
+William Ross: So interesting you actually bring that up. It's something we've literally just come across because we initially when we first come up with this idea was thinking PLG motion because it's very self-s serve and then through that process what we discovered was part of the actual selling point is telling people the rules they need to be making based on their sales cycles to to make get a funnel vision.
+ 
+ 
+00:14:13
+ 
+Richard Caproni: Yeah.
+William Ross: So we've actually now converting a lot more into an SLG motion because literally exactly what you've said is
+Richard Caproni: Yeah.
+William Ross: handholding them to say hey based on your sales cycle based on the information these are the rules you need. And so that's why we've kind of got two avenues on how we're planning our go to market which is largely SLG and partnerships. So we've got a few um um HubSpot partners and also RevOps partners that are saying we love this. This work great with our clients and then obviously you can they can then do some of the onboarding. They get a really generous kickback and uh it's one of those one of those we love partnerships. It's one of our couple of our co-founders their their 20 plus years background is in partnerships.
+Richard Caproni: Gotcha.
+William Ross: So uh that's their bread and butter.
+Richard Caproni: Yeah. And then uh then the other side is Yeah. your your guys go to market consultancy background like you I mean you you guys have been through the walk through plenty of companies through the this process, right?
+ 
+ 
+00:15:03
+ 
+Richard Caproni: you know of of creating what are the rules how are you you know you know um so
+William Ross: Exactly.
+Richard Caproni: um very cool um so let's stay on that part first is kind of and you know I think we talked about the kind of that customer journey mapping um and when you talk about like that on your your website and stuff right is that the rules creation is that what you're referring to there or is there more?
+William Ross: uh mostly the rules creation. Yeah. So that's a large part of the value
+Richard Caproni: Okay, great. Um,
+William Ross: impact.
+Richard Caproni: all right, great. Uh, and then yeah, I'm trying to I mean, is there I mean it is this product really on this operational dayto-day? Do you guys have an analytics element uh to help drive that rule creation like you know seeing where where stuff is um you know what you know helping customers figure out what their pain points are right in order to figure out which rules to to are are going to have the are going to move the needle the most right um I think that's that's always the challenge right you come up you can onboard a customer they're going to have 1 1500
+ 
+ 
+00:16:24
+ 
+William Ross: Yeah.
+Richard Caproni: issues Right? Like, oh, we put in too many things. Right? All right. Let's scale that. Let's f focus on the most important two.
+William Ross: Yeah.
+Richard Caproni: Get get some good team discipline around those rules. People get used to it and add another two. Add another two. Add another two. You know that those types of
+William Ross: Yeah, you know,
+Richard Caproni: approaches.
+William Ross: abs absolutely right and it's yeah, again very very timely question because we actually have a client we we were walking them through um earlier today on this exact topic. So, so that's part of the reason we wanted that snapshot audit initially. So without even creating a rule you get a very quick sense on like you know how many deals are missing their next steps missing their close day just to give a sense on general hygiene because if you've got if you go and sync into that within five minutes you're saying crap I've got thousand deals that are missing their next step there's something wrong here.
+ 
+ 
+00:17:18
+ 
+William Ross: Um so the two ways we look at that is part of the is part of that SLG motion of saying
+Richard Caproni: right?
+William Ross: what asking the questions you know what's important to them how long are their sales. If their sales cycles are 100 days then it might be normal for a for a deal to not not have activity for five days for a week but if it gets 20 days then you go right that's maybe you want to flag that as a hygiene issue you guys not activity
+Richard Caproni: Right.
+William Ross: for 20 days in a deal that's really important. The next step from the product on the road map is analytics.
+Richard Caproni: Mhm.
+William Ross: So what we'd love to do is once we've the problem with analytics is and this is actually how we started this product. We started as much more AI centered but the actual problem with the AI centered approaches is it relies on
+Richard Caproni: You're right.
+William Ross: having clean data as an infrastructure. So you layer AI onto bad data.
+Richard Caproni: Yeah,
+ 
+ 
+00:18:01
+ 
+William Ross: You just got really sexy fancy AI that's not actually useful. So our whole approach here is right we're going to get the foundations absolutely clean.
+Richard Caproni: exactly.
+William Ross: Clean as a whistle then layer on your analytics on top. And once you get that adoption in place then you can start doing things. Okay, based on all all the information we're getting, you know, you think your ICP is this, but based on data, your ICP is actually over here. This is these deals are moving much faster than over
+Richard Caproni: Okay.
+William Ross: here.
+Richard Caproni: All right. Great. Um, and you can have as many views, right? You can different users. Well,
+William Ross: Exactly.
+Richard Caproni: can can have different rules and different views and that kind of stuff,
+William Ross: Yep.
+Richard Caproni: right?
+William Ross: We wanted to make this as easy as possible. There's no usage based pricing,
+Richard Caproni: So,
+William Ross: no seat based pricing. It's really all you need. All you need is an admin to download the app, admin to get it into Slack or Teams,
+ 
+ 
+00:18:51
+ 
+Richard Caproni: yep.
+William Ross: and that's
+Richard Caproni: Yep. Okay. And then it's sourcing.
+William Ross: it.
+Richard Caproni: So, you know, one of the, you know, back to some of the stuff I was talking about before, a big element and and value driver that I think I think the solution would already provide is also making, you know, helping customers ensure their go to market strategy is, you know, like I talked about digitized or operationalized, right? So all that really means is clear ICP definition in the form of CRM fields right it's like you know ICB definition is not a beautiful paragraph it is you know CRM fields like and do we do we know across you know you start by being able to analyze your existing
+William Ross: Yeah.
+Richard Caproni: customers right um you know where who are the super users why are the super users how did they go through the process um you know map the their buyer journey um through there um is there right so you can do any field you can
+William Ross: Yeah. So if you if you hold a field spot absolutely that's
+ 
+ 
+00:19:58
+ 
+Richard Caproni: create so so the marketing department you know you could
+William Ross: it.
+Richard Caproni: say hey we've got marketing ops is going to be responsible for ensuring you know and however you do it whether it's a clay workflow or a you know um other other data scraping to get in like some examples of some real breakthrough indicators. Um I've done with some clients and and and well some other partners and clients recently where like just growth rate, right? So that's kind of a tough data point to get across. Um but not anymore, right? What they work with was you really can pull together.
+William Ross: Mhm.
+Richard Caproni: you can you know for um you know you can take 10,000 accounts you have in your CRM um and you know we did it first by analyzing you know existing customer last five years and we just saw that you know any companies you know that had um and it was different ICP in different segments but it was anywhere between 10 to 15% really grow you know annual revenue growth rate of those companies And every indicator like not only conversion rate but deal size and deal cycle were all just so much better than anything below that, you know, and obviously it was a curve, but you could, you know, you could find that that data element.
+ 
+ 
+00:21:27
+ 
+Richard Caproni: Um so being able to just say hey you know stuff like that you and and then assess either your pipeline or your whole your whole CRM right they're saying like hey we are going to focus the next six
+William Ross: Yeah.
+Richard Caproni: months on high growth rate companies because we now we know this we've proven this with with our existing customers you can can I mean you could pretty much go and create a a view right
+William Ross: Heat.
+Richard Caproni: uh by team by product by whatever. Okay. How you know how many how many accounts have this field filled out and and
+William Ross: No.
+Richard Caproni: and how many don't,
+William Ross: Yeah, you're absolutely the thing we haven't even touched on even which is also important is even forecasting as well.
+Richard Caproni: right?
+William Ross: How do you forecast when you don't know or or the data is wrong or there's the underly so I mean I actually spoke to a few um Revups partners within about the space of a It was very I don't know if it was just
+Richard Caproni: Yeah.
+ 
+ 
+00:22:22
+ 
+William Ross: a coincidence who all had a story about a sales director who got fired for misforcasting frequently and I was like this is crazy and it was all because the data was bad. So they were forecasting on on on deal like on deals being closed in a certain quarter but none of the closed dates had been updated in about six months. They were expecting to get all this money in in like Q1,
+Richard Caproni: Yep.
+William Ross: but when they actually evaluated each of the deals individually, it was like, "Oh, no, that needs to get pushed to Q3, that's Q2, that's Q2, that's Q4." You know, and it's one of those things.
+Richard Caproni: Yeah.
+William Ross: It's often, and this is one of the reasons we brought well built funnel vision, which was there is a huge deficit between those who who are responsible for the data versus responsible for inputting the data. It's a big discrepancy.
+Richard Caproni: Yep.
+William Ross: So you have salespeople, they're respons like responsible for inputting data, but they're not responsible for what happens after that. That's not their whereas the the directors, they're going, we need this data to be accurate, but I can't do it.
+ 
+ 
+00:23:18
+ 
+William Ross: I can't control that scenario. And so Final Vision is really there to fill
+Richard Caproni: And that's, you know,
+William Ross: that.
+Richard Caproni: that's the whole reason why so many companies make their salespeople do their own, you know, submit their own forecast, right? Uh,
+William Ross: Yeah.
+Richard Caproni: you know, freaking weekly forecast call, you know, okay, this is my numbers. I'm going to hit. So, you know, they're spending hours per week just working on that rather than t talking to
+William Ross: Yeah.
+Richard Caproni: customers. Um, where it's,
+William Ross: No,
+Richard Caproni: you're right, where it's, oh, hey, you know, you wouldn't have to do this if you just input your
+William Ross: another funny I mean you might relate to the story.
+Richard Caproni: data.
+William Ross: So one of our actual other founders he was telling me a story and he was saying that um he when he was a salesperson he hated going to the CRM. He was like, "I just don't have the bandwidth to to to swap into the CRM and whatever." So his
+ 
+ 
+00:24:04
+ 
+William Ross: resolution was he got he had a good relationship with the RevOps department. So he said, "You come and sit down with me for like one or two hours every week and then you will tell me what I need to fill in every single time." And it worked. But at the same time, I'm going that's like two hours every week for one rep to on one.
+Richard Caproni: for two people.
+William Ross: And I'm going, if you scaled that, if you scaled that to dozens, that's such a waste of time.
+Richard Caproni: Yeah. Yeah.
+William Ross: Like it works. It works.
+Richard Caproni: Yeah.
+William Ross: It's not scalable, but it works maybe on a one-off, but it's not the
+Richard Caproni: Yeah. Yeah. Um Yeah. No, and I think it's Yeah.
+William Ross: right.
+Richard Caproni: again that you know that this the Slack integration's great right because yeah I mean obviously I've you know done a hundred things or you know send sending a sales you
+William Ross: Mhm.
+Richard Caproni: know autogenerated Salesforce report goes to you know each team member each you know go and like all right here's your here's your missing fields et you know it's um again it had mi mixed results because of
+ 
+ 
+00:25:07
+ 
+William Ross: Yeah.
+Richard Caproni: the of what you just mentioned was an
+William Ross: And I was going to I know you mean you're looking for your new head and you're getting some fractional work.
+Richard Caproni: Yeah.
+William Ross: Is this something is funnel hypothetically something you could see yourself embedding into a new engagement?
+Richard Caproni: Um Yeah, I think so. Um I'm trying to think of right who who's going to be ICP um you know who's who's it going to be most useful and I think yeah one is going to be companies with small revops groups um where yeah definitely teams where um aes are responsible for a lot right um you know particularly you know if if they have to do their own prospecting and all that kind of right then they're they're totally overburdened so anything to really help them be more efficient in that process is is huge high value right um because yeah I mean I know so many sales people that work in organizations like that where they're you know their proc they're doing an entire sales cycle and it's like I that's that's a lot of admin work.
+ 
+ 
+00:26:21
+ 
+Richard Caproni: Um when you have to do
+William Ross: That's brutal. And obviously their their whole point is, well,
+Richard Caproni: that,
+William Ross: what's what's my t what's my quota? How am I how am I being measured for success? And it's always, well, how much money you bring in? And they're going, well, why are you asking then to do all this other stuff?
+Richard Caproni: right,
+William Ross: Um Greg on the call actually he he coined a term I love which is sales people are the laziest hard workers
+Richard Caproni: right?
+William Ross: on the planet. You know they will work tw 20 20our days to close a deal two minutes to in
+Richard Caproni: Yeah. Yeah.
+William Ross: No
+Richard Caproni: because they've been incented their entire careers on one thing. On one
+William Ross: one lovely.
+Richard Caproni: thing,
+William Ross: So last question I was like then on who else do you know that you think could be benefiting panel is there anyone you can maybe connect us into that even just find it interesting for for feedback or
+ 
+ 
+00:27:10
+ 
+Richard Caproni: yeah, let me think. It's a good question.
+William Ross: anything
+Richard Caproni: Um yeah, it's uh it kind of goes back to a lot of the companies I'm talking to. Um yeah, I mean I'm I'm focused more on just the the overall data architecture um for them. Um so like you know the things I mentioned which is you know why I mentioned them um that whole you
+William Ross: Mhm.
+Richard Caproni: know making sure your your ICP is as digitized as possible you know not just your demographics but also behavioral characteristics and um you know the other stuff you know the activity stuff you can track now that that you really couldn't two years ago.
+William Ross: Yeah.
+Richard Caproni: Um and uh so from those elements but then you know thinking about those you know, they those co those those companies have the same issues we've been talking about, you know, with their sales teams. Um, so yeah, I mean, it's going through the wheel now between of of cause and effect,
+William Ross: Yeah,
+Richard Caproni: right?
+William Ross: absolutely. Absolutely.
+ 
+ 
+00:28:26
+ 
+William Ross: Yeah. And also, I just actually realized we've gone over time. I'm very sorry about that.
+Richard Caproni: What's that? I'm fine if you guys are.
+William Ross: Yeah. Yeah.
+Richard Caproni: I don't know.
+William Ross: I've got a few more minutes, but yeah, I was going to ask obviously Greg, do you have any questions, thoughts as well? And he's he's got a second brain, probably a bigger brain than me on my
+Greg Petherbridge: No, to be honest, I I I liked just hearing you guys go go back and forth there.
+William Ross: end.
+Greg Petherbridge: I think Rich,
+Richard Caproni: Mhm.
+Greg Petherbridge: had you been currently in a role, I would be interrogating that quite a lot. I think what I've really valued from this call is kind of the perspective you've given us. Um, I think it's it's got us thinking and I mean speaking to people like you who kind of have had your feet in a lot of different camps um really gives us good perspectives on the on the types of teams we're going after.
+ 
+ 
+00:29:06
+ 
+Greg Petherbridge: Um and yeah, I suppose I think you've see I've seen William turn into this qualification genius.
+Richard Caproni: Mhm.
+Greg Petherbridge: So uh you know I I was sitting back there he he was asking the questions that I would have asked. So, um, no, I mean, I suppose just keep us keep us in your mind and,
+Richard Caproni: Absolutely. And uh you know I think a couple question more questions for you guys is
+Greg Petherbridge: um,
+Richard Caproni: um so you know like obviously I'm sure you you guys have seen the challenge everybody's got tech stack fatigue.
+Greg Petherbridge: Yep.
+Richard Caproni: Um so the view you were showing me um remind me again was that in HubSpot or was that it separately in funnel vision?
+William Ross: so separately in funnel vision.
+Richard Caproni: Okay. So they, you know, um they'd need to to do that. Um have you talked through use cases with companies about where this is re would really be a tool just for the managers? Like I mean, you know, obviously everything's connected connected up and it would just like the reps would just get the slacks.
+ 
+ 
+00:30:21
+ 
+William Ross: hit the nail on the head. So the idea here is the sales people don't even need to know Fun Legend exists.
+Greg Petherbridge: Yeah.
+William Ross: Don't even need to know because even even when they get the Slack notification, it just says it comes from Greg, comes from
+Greg Petherbridge: Yeah. And to go back maybe to your point on like a potential analytics dashboard or something like that like you said
+William Ross: Rich.
+Greg Petherbridge: tool fatigue we want to be that kind of weaving in the middle that connects all this. We don't want as you said to kind of have a whole new tool where we have to have everyone in the company everyone in the sales team looking at our kind of thesis is that by fixing it in this way your dashboards on your CRM are
+Richard Caproni: Especially
+Greg Petherbridge: now much more trustworthy. a lot of those kind of sales that that sales leadership doesn't want to live outside their analytics dashboards. We're just trying to give them more of that confidence. So yeah, RevOps managers, whoever.
+ 
+ 
+00:31:07
+ 
+Richard Caproni: especially if if they've got like a gong or you know or clary or thing like how much overlap do you guys
+Greg Petherbridge: Yeah.
+Richard Caproni: see with that stuff. And I to be honest, I had, you know, it's been a year now since I've really looked looked at what what what either of those companies have rolled out.
+Greg Petherbridge: Yeah, I I think we it kind of goes back to like what William said when we were looking at automation,
+Richard Caproni: Um
+Greg Petherbridge: right? So, Gong and Clary are great at, you know, taking things that they can find on on the call recordings or and populating the CRM with with information that's not there. But we see pipeline as a as a different thing. It's great if you can automate a lot of it, but ultimately it's a rep's job to be to have control over their pipeline. And the more you try to automate on bad data, the more the less trustworthy it becomes. So we don't see it as a process that you can just leave up to AI and and and just let it fix.
+ 
+ 
+00:32:04
+ 
+Greg Petherbridge: It requires a human eye. And yes, you can leverage your your tools like Gong if you already have it or you know different AI interpreter LLMs if you're you know um summarizing your transcript something like that. But ultimately, we still see the final pass being a a rep and a human's eyes to validate what what what they're seeing and, you know, not missing anything because you could miss a gong recording and of a really important call. And if if the rep isn't disciplined in in how they fill out the deal, you're going to miss the details from that
+Richard Caproni: Okay. Um,
+Greg Petherbridge: call.
+Richard Caproni: another example that to validate a little bit, you know, what we were just talking about. Um, do you guys know the company Funnelcast?
+William Ross: I haven't
+Richard Caproni: It's funny because you know the whole name and everything. Um,
+William Ross: actually
+Richard Caproni: so there's a guy Bill Caner. He's, uh, here in the Boston area as well. Um, and you know, young young small um, gun recommended.
+ 
+ 
+00:33:02
+ 
+Richard Caproni: They're all about forecasting. Um, and it's really their main value driver is it's really just it's simplicity um of a fully mathematical approach to forecasting, right? Take take the reps out of the equation entirely, right? And um what it does it, you know, it focuses there's really only like four fields that it's using and it's just it's just doing a B math-based analysis, right? You know, kind of came out like guy with the the technical creator, you know, used to do um health healthc care predates and stuff like that on people, right? Um and he essentially used that mathematical modeling um to and it's remarkably accurate relative to what companies do themselves. Like he can go in and go and and load the thing and say, "All right, here's what here's what we would have predicted." you know, just connect us in in your CRM and and go and you just see how much better it was than what you
+William Ross: Mhm.
+Richard Caproni: know, the their manual rep forecasting and all that, you know, with all its subjective stuff and and it was just close date.
+ 
+ 
+00:34:26
+ 
+Richard Caproni: Um, and you know, it it focuses on the time element, right? Um, and that's what most forecasts are missing, right? how much what is the average time and stage and you know and then it also gives views like hey all right for this rep for this team here's the three or four deals that if you can beat the usual stage timing by a certain amount this is how it'll change your number so it's it's all that thing um yeah I urge you guys to to take a look um and they went about the same same thing it ended up being where like the last they just sold to a big company um that um it's just sales leaders that that will have it, right? And so they're using it to drive and and it's visibility into their teams for a so it's for those four or five fields, right? So it's you know it's it's a very it's not really pipeline management. It's just the forecasting elements. So it's uh it might be something that's really complimentary uh for you
+ 
+ 
+00:35:35
+ 
+Greg Petherbridge: Yeah.
+Richard Caproni: guys. Um yeah.
+William Ross: That's actually really really useful. I like that approach. That's really clever.
+Richard Caproni: Yeah. But just to give you, you know, an idea how that can work, you know, just the a tool where it's it's just for the the managers, it's kind of the same idea, right? It's all about being able to forecast accurately. Um is is you know, their real focus. you know, for for you guys it's it's wider than that, right? It's just what that's one one one of the value drivers, right? Is being able to forecast, but it's also just proper pipeline um management. Um and which they push they push too like that it's that's a a factor, but one thing is being able to do, you know, focusing on five fields versus focusing on whatever rules you want to set up, which is very cool. like the way you guys have that that that rule setup thing and you know how you know and it could be multivariable that's real that's really hard for I mean I've done that manually it sucks um so yeah that yeah that efficiency is big
+ 
+ 
+00:36:48
+ 
+William Ross: amazing.
+Richard Caproni: so
+William Ross: That is honestly I mean early days in the week but probably going to be our most valuable call we've had all week. This is amazing. Thank you, Rich.
+Richard Caproni: good appreciate appreciate it. Um, glad I could help. So, yeah. And then, uh, cool. Yeah. No, I'll keep following. Um, and, uh, yeah, feel free to reach out if there's, you know, ever anything, you know, you guys are working on a feature and just want some feedback. Happy to happy to do it. It's, uh,
+William Ross: Yeah, absolutely.
+Greg Petherbridge: Yeah.
+William Ross: The first first one I annoy when I when it
+Richard Caproni: good.
+Greg Petherbridge: Yeah. Rich, you'll see um you'll probably see I know I'll connect with you after this one,
+William Ross: comes
+Greg Petherbridge: but uh whoever you are connected with, you'll see in the coming weeks there'll be a lot of noise being made on LinkedIn about kind of the funnel vision page being launched. So, uh yeah, you'll probably you'll probably see a bit of us there.
+ 
+ 
+00:37:33
+ 
+Richard Caproni: Awesome.
+Greg Petherbridge: And yeah, feel free to hype us up there if if uh if if you come across it.
+Richard Caproni: Thanks. Fantastic. I guess maybe one last question. So, if I get, you know, if I talk to somebody about this like, "Oh, yeah. I'd love to check that out." uh what is what's what's kind of like the trial process? What's the the proof of value um approach that you're able to do with with potential
+Greg Petherbridge: Mhm.
+Richard Caproni: customers?
+William Ross: Yeah. So, basically the way it works is we can take an intro call with them to understand their sales cycles. We'll get them on boarded on the call.
+Richard Caproni: Yep.
+William Ross: Like I said, it literally takes like four or five minutes. We can build rules with them on that call and then it's really up to them how we can take
+Richard Caproni: You can set up right you can set up right in their environment in a few hours
+William Ross: right there in the environment right there. Nice and easy as long as I got the admin permissions to then load it.
+ 
+ 
+00:38:16
+ 
+Richard Caproni: and set set up a sandbox and a view and they can say all
+William Ross: Super easy. And then we can take Yeah.
+Richard Caproni: right you know let's take a look at next loops and stuff like that.
+William Ross: Yeah. Absolutely. And they say just as you said,
+Richard Caproni: Okay cool.
+William Ross: we'll give them that white white glove service of making sure they're all set up correctly. Any issues they've got,
+Richard Caproni: Yeah.
+William Ross: they got us, we can get a Slack channel with them,
+Richard Caproni: Okay.
+William Ross: WhatsApp,
+Richard Caproni: All right.
+William Ross: and then they can just Yeah.
+Richard Caproni: Excellent. Excellent. And then I'll never end if I don't just end. Um, um, like next step is another good one. Is is there um I mean right now it's just like just general if if then stuff, right? So uh you know one of the biggest problems particularly in next steps is you know people just copy they just change the date and you know it's follow follow up with John and say push the just push the date push the date push the date um is there ways to identify
+ 
+ 
+00:39:15
+ 
+William Ross: Yeah. So we can look at deals pushed as well for their close dates. Um another clever feature we have is like um use the words includes.
+Richard Caproni: that.
+William Ross: So what we've often found is lazy sales people will put like TBD or TBC as a next step. So you can make a rule to say hey if a next step includes like TBC TBD or anything that you don't deem as a real you can flag it as a hygiene and go back to them and be hey this is not a next step. You're just dead
+Richard Caproni: Yeah.
+William Ross: center.
+Richard Caproni: Yeah. Yeah. or just Yeah, because I like that is just one of the biggest behavioral things in pushing and and a number of company
+William Ross: Oh, also should I say the beauty of function is when
+Richard Caproni: like follow up or chase or just talk
+William Ross: you
+Richard Caproni: with well talk to to them about what like right unless that's in there you know you want
+William Ross: Yeah. Yeah.
+ 
+ 
+00:40:01
+ 
+Richard Caproni: to say that's that's not doesn't
+William Ross: Yeah. Yeah, absolutely. And actually relevant here is another feature we have that some of our onboarder clients really like is when you make the rule, you can ask for whatever it is you want that person to update. So make it up. If the close date's passed, you can ask for the next step and the close. You can ask for whatever you want. So they don't just the rep's not just getting a hygiene issue. They're being told what it is they need to be doing and it's very easy for them to to fill out.
+Richard Caproni: All right.
+William Ross: So
+Richard Caproni: And that's so and the manager can just yeah set it up and and just go through a rep and just and so you're clicking and you're saying update this field regardless of what it says,
+William Ross: Yeah,
+Richard Caproni: right? Okay. Okay.
+William Ross: exactly.
+Richard Caproni: Yeah. Yeah, that's kind of even, hey, you can have the the Salesforce thing next to them if they need to.
+ 
+ 
+00:40:48
+ 
+Richard Caproni: Like even if if it's not showing an issue, right? You know, you can create a report for the the sales manager. They they've got a list of, okay, here's here's all of John's next steps. You know, you see, all right, here's freaking 10 of them that just suck, right?
+William Ross: Yeah.
+Richard Caproni: You can go pull just pull up each deal and um then it goes to them in Slack, right? Yeah,
+William Ross: Yeah.
+Richard Caproni: which I think is cool that the ability to update it's just just efficient.
+William Ross: We love efficiency. Love it.
+Richard Caproni: All right, cool.
+William Ross: I mean,
+Richard Caproni: All right,
+William Ross: yeah. Well, most importantly actually before all this is I hope you have a wonderful festive period and time off and you got a nice lengthy break.
+Richard Caproni: guys.
+William Ross: I hope your house is as festive as is the background. I hope it's amazing.
+Richard Caproni: It kind of is.
+William Ross: Very envious. Very envious. I feel like that's literally from like a Hallmark movie right
+Richard Caproni: It is.
+William Ross: now. I don't know what you're talking I I'm a big Christmas person.
+Greg Petherbridge: Hello.
+William Ross: I love it. Yeah, absolute pleasure chatting. Honestly, absolute pleasure.
+ 
+ 
+Transcription ended after 00:42:19
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

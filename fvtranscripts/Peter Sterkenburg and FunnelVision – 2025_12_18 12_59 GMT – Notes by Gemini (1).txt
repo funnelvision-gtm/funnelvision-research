@@ -1,0 +1,373 @@
+﻿Peter Sterkenburg and FunnelVision - Transcript
+00:00:00
+ 
+Greg Petherbridge: we've really all come from like the B2B SAS world um predominantly somewhere in go to market whether that's partnerships, revops,
+Peter Sterkenburg: Mhm.
+Greg Petherbridge: um business development, you know, being an a we've we've all kind of seen it from that lens of a of a VCbacked um you know z that looking at that journey from zero to 10 million kind of journey.
+Peter Sterkenburg: Yeah. Yeah.
+Greg Petherbridge: So we really turned that into a consultancy about a year and a half ago. So, one of our the the founders, Stefan, uh he had a really good VC network and we kind of really got ourselves in with this particular niche that we're so used to working for. Um and yeah really it was about six months ago we we kinDec 18, 2025d of decided that we really would love
+Peter Sterkenburg: H
+Greg Petherbridge: to build a software or a product from our experiences from from what we're seeing and thing that all
+Peter Sterkenburg: makes sense.
+Greg Petherbridge: of us came back to was like every single founder or CRO or sales leader whoever cares about the forecast never trusts a thing.
+ 
+ 
+00:00:57
+ 
+Greg Petherbridge: It's like, okay, we're doing this as a bit of a tickbox exercise.
+Peter Sterkenburg: Yeah.
+Greg Petherbridge: And then even from what we've seen with reps like we worked with in the past, reps we we worked with on the consultancy um on the consultancy work is that reps are I don't I don't mind saying this because I'm I'm a former rep myself, but they can be quite selfish and in their own world and know self-preservative in the sense that if their pipeline isn't looking that good, they will fluff it up and they will uh make it look like there's there's better things there than than than that.
+Peter Sterkenburg: It looks amazing. Yeah. Yeah,
+Greg Petherbridge: Or they could just be lazy.
+Peter Sterkenburg: exactly.
+Greg Petherbridge: They could just be, you know, all right, here's the close date. Here's the amount. You know, we've got a 200k deal here, but nothing else could be filled in. It could be a lot of red flags on the deal. And ultimately,
+Peter Sterkenburg: Yeah.
+Greg Petherbridge: sales leadership are taking that as 200k added to their forecast that just won't be there.
+ 
+ 
+00:01:49
+ 
+Greg Petherbridge: So, ultimately,
+Peter Sterkenburg: Yeah.
+Greg Petherbridge: the way we looked at this was it's a behavioral problem. Um it it's very hard to kind of treat people like kids doing homework and say come on we need you to do it we need you to do it. So ultimately we kind of it's different by by organization but we saw it as firstly whoever cares about the forecast whether that's a CRO a founder sales director whoever it is we want to give them visibility on what's not work what's not being filled in and what looks accurate what doesn't. Secondly,
+Peter Sterkenburg: Yeah.
+Greg Petherbridge: whoever's doing that chasing and telling people, can you please update your deals? Whether that's the sales manager, whether that's RevOps, whoever's in the middle,
+Peter Sterkenburg: H.
+Greg Petherbridge: we want to make their lives a lot easier by automating a lot of this and and giving them the tools to kind of do this from a high level out of side of like HubSpot dashboards and and doing it manually.
+Peter Sterkenburg: Yeah.
+Greg Petherbridge: And then finally, for the reps themselves, how do we make it as easy for them to update the deals from where they sit, whether it's Slack, Teams?
+ 
+ 
+00:02:45
+ 
+Greg Petherbridge: Um, that's kind of what we're looking at. So we really want to close the loop on first of all how do we get visibility? How do we root root these problems to the right people and how do they fix it as easy as possible and ultimately the kind of comeback effect of that is that you trust your forecast a lot more. Um and for those kind of companies that have a lot of eyes on their forecast and a lot of revenue demand whether that's from VC backing or or elsewhere.
+Peter Sterkenburg: Yeah.
+Greg Petherbridge: That's really what we're looking to do is just go down and up give give everyone a lot a lot more confidence in what's happening.
+Peter Sterkenburg: Yeah. Makes sense. Makes sense. Yeah. I uh I've dealt with sales teams for the last what 20 odd years. So it's it's the same story again and again.
+Greg Petherbridge: Yeah.
+Peter Sterkenburg: Uh but I do also see that that there is some I mean I I guess we're humans right? I mean there wouldn't be innovation unless we would be wanted to be lazy.
+ 
+ 
+00:03:30
+ 
+Greg Petherbridge: Yeah.
+Peter Sterkenburg: I mean you know we do stuff because we want to be lazy and then we automate ourselves away from that. Uh but at the same time I do also notice that there's definitely uh you're you're you're mentioning it yourself as well a little bit to their own world maybe call it funnel vision in that sense or uh tunnel vision rather uh that that people they don't really understand necessarily the broader aspect of the consequences of not doing what they are supposed to be doing. Um and uh like I I I mean just to to give an example, I mean I worked in the post sales organizations mostly and I I was running a customer success team and managing remotely. I was managing a guy who was sitting in Oklahoma and really great guy, amazing spirit and really knew what he was talking about. But I did I had no clue what he was doing on a daily basis like as in there was no trace of it. So like in the end it's just like okay I don't know in my world it could be that you're just like sleeping on the couch half the day right probably could be maybe I don't know.
+ 
+ 
+00:04:44
+ 
+Peter Sterkenburg: So like the the pain of not having it down written down it it's real. uh and it just whe whether it's updating a deal or just you know writing meeting notes or or any of these things I think it's it's absolutely crucial to have if if
+Greg Petherbridge: Yeah.
+Peter Sterkenburg: if it's not written down it hasn't happened you know in the end that's what it is right uh and I know it's
+Greg Petherbridge: Yeah.
+Peter Sterkenburg: painful but you you have you have to build that in into your dayto-day uh but at the same time I think that's also where I think tools like yours come in um that there are so many options to make that just a little bit easier, right? I mean, let's say maybe before you have 100% of your day, maybe before it was 20% that you could automate away and then now maybe it's 30%. But in the end, it adds up, right? It adds up to pure okay, if I'm a salesperson, I have more time to call or as a CSM, I have a time to do another meeting with another customer and that might be the exactly the meeting they needed to not churn.
+ 
+ 
+00:05:47
+ 
+Peter Sterkenburg: Right? So it's in the end it it's a compounding factor by giving people more time to do what brings the most impact. But
+Greg Petherbridge: 100%. Now, Peter, even just the what you've said in the last minute or two there is the reason why a lot of these conversations that
+Peter Sterkenburg: yeah
+Greg Petherbridge: we're having are why you've been reached out to because you've been living this life for so long. just the insight and and kind of the different ideas that might come from you just taking a look at the platform. That's that's really why we're here to to why we're so appreciative for you joining is because uh you're exactly the people who've kind of lived this and seen it firsthand. So uh yeah,
+Peter Sterkenburg: H
+Greg Petherbridge: I I just um I might hand off to William just to show you around. Um any positive,
+Peter Sterkenburg: absolutely for sure.
+Greg Petherbridge: negative feedback, we want it all. So uh yeah,
+Peter Sterkenburg: Yeah,
+Greg Petherbridge: feel feel free to to rip it apart at the end.
+ 
+ 
+00:06:34
+ 
+William Ross: All right.
+Peter Sterkenburg: I'll be gentle.
+William Ross: Right. Let me know if that's sharing my screen. Okay. So really simply the way funnel vision works is you you sync up into your HubSpot
+Peter Sterkenburg: Yeah.
+William Ross: environment and this usually takes two to five minutes depending on how much data is is in the system and you're immediately presented with this dashboard.
+Peter Sterkenburg: Mhm.
+William Ross: Uh and you can think of this initial look as like your quick snapshot audit of the health of your pipeline. So you'll see how many deals have got are past their close date or have stale activity or they are missing their close date or missing next steps or a really snapshot audit on on on the health of your pipeline. And at the bottom you got your hygiene leaderboard. So which of your deal owners are more on top of their hygiene compared to others? And this is ranked by how many issues they have across how many deals they own. And so this just gives you a sense check on, you know, which of your reps are are maintaining their hygiene or which ones are like pure Greg falling through the cracks and just not keeping up with anything.
+ 
+ 
+00:07:37
+ 
+William Ross: But obviously this is just pre-built stuff. Um, so these are just your your your common high value issues that exist in your deal. So as you'll know, every go to market or sales motion has their own specificities.
+Peter Sterkenburg: H.
+William Ross: So we let people create their own hygiene rule. So they can flag any hygiene issue that is specific to their own sales motion. So because we pull in every single HubSpot property whether it's a custom
+Peter Sterkenburg: Yeah.
+William Ross: one associated contact associated company really the limit is your imagination with how how complex or creative you want to get with with your hygiene. So just to take you through a quick example I made was I wanted to know um if the next step field hasn't been updated in more than 10 days and the deals in late stage I want that to be flagged as a hygiene issue.
+Peter Sterkenburg: Mhm.
+William Ross: So all you have to do is because we pull in every HubSpot field, you just go, "All right, well, if the next step has not been updated in more than 10 days and the deal stage is in the late stage, so it could be demo and negotiation, I want that flagged as a hygiene issue." And you can get creative.
+ 
+ 
+00:08:40
+ 
+Peter Sterkenburg: Yeah.
+William Ross: You could add in amount as a field, you could if you if you're filling in medic or anom criteria, you could add in those if they're missing. Really, again, it's as creative as you want to get with this. And then this is a really clever button when you create your own rules, which is to automatically request an update because I can you can imagine what you don't want for cultural and behavioral adoption is for a salesperson like Greg to be spammed 247 all day with constant hygiene issues that he's having to update.
+Peter Sterkenburg: May maybe you should do a bit more hygiene then if to avoid getting spammed.
+William Ross: So,
+Greg Petherbridge: This data me data.
+Peter Sterkenburg: Yeah.
+Greg Petherbridge: I'm not that bad.
+William Ross: it's all day. It's all test.
+Peter Sterkenburg: Yeah.
+William Ross: So,
+Peter Sterkenburg: Yeah.
+William Ross: so the way we work this is we create a daily digest format that's automatically sent out. So once a day at around 9:00 a.m. and that'll be configurable later as well. What they'll get is one message in Slack that says, "Hey, here are all the deals that have hygiene issues that have been triggered in the last 24 hours." And they can work through them one by one in a daily digest format so that they're not getting spammed throughout the day.
+ 
+ 
+00:09:45
+ 
+Peter Sterkenburg: Yeah.
+William Ross: It's just once a day. And that's what we found with some of our clients is that's really important for the sales guys to basically embed that into their into their way of working. And then the other clever thing we do is well once the person gets this the notification, what do you want them to do? So in the example I've made, which is if the next step's not been updated and it's in late stage, you don't want them to just say to a sales rep, hey, this next step's not been updated in ages and it's in late stage, you want to prescribe what it is you want them to do. So maybe you want them to update the next step.
+Peter Sterkenburg: H.
+William Ross: Maybe you want them to, again, if it was the amount, update the amount. And so you can tailor what it is they need to do as an action for their hygiene issue. And then all you have to do is activate that rule and that's it done. So once you've configured funnel vision to look for the the exact hygiene issues that you care about and it's surfacing them all.
+ 
+ 
+00:10:44
+ 
+Peter Sterkenburg: H.
+William Ross: The question becomes what do you do about it and how do you actually action it? So that's why we have this fix issues page.
+Peter Sterkenburg: Yeah.
+William Ross: And what you see here is every issue in your every deal in your pipeline that has some type of hygiene issue.
+Peter Sterkenburg: H
+William Ross: And you can filter this by your stages, your owners, um any specific issues you're looking for, and also by the close date. So just to give you a manual example of so what it looks like in practice, let's look at my deals. And so what you're looking at here are all of my deals that have hygiene issues. Um so let's look at this one. And you can click into this deal to get more information. and you go, okay, this this deal is missing a next step and it's past its close date. All you have to do is click request update and then I as the deal owner instantly get asked in Slack. So you can imagine I could be on my phone uh at the airport, on a train, wherever it is that this person is working.
+ 
+ 
+00:11:32
+ 
+Peter Sterkenburg: Hat.
+William Ross: They go, "Oh, why is the next step needed?" Because it's not been defined. Okay, so what's the next step? Maybe it's uh schedule meeting with
+Peter Sterkenburg: Heat.
+William Ross: Tim the the buyer. And why is the close date? Oh, they're asking for my close date. Why is that? Oh, because it's set in the past. It's for November 13th. Oh crap. It's meant to be January 31st. They just click update deal and that's it. This data gets reflected in HubSpot, gets reflected in Funnel Vision. The person receiving this notification doesn't even need to know that they don't need to go into funnel vision. They don't need to go into the CRM and that's it. And right now there's no other pending requests. But you can imagine if you had to ask for four or five others,
+Peter Sterkenburg: Yeah. Yeah.
+William Ross: they could work through them again one by one. And that's really the basic premise of Funnel Visions.
+ 
+ 
+00:12:26
+ 
+William Ross: Three things. surface all of the hygiene issues,
+Peter Sterkenburg: Nice.
+William Ross: configure them to what's specific to you, make the changes in Slack or
+Peter Sterkenburg: Nice. Yeah, I mean it is about making it as easy as possible,
+William Ross: Teams.
+Peter Sterkenburg: right? Uh you were mentioning earlier it's a behavioral problem. I do also think there's a enablement issue there as in if you're not we I think we haven't been good enough to explain people why it is important that they do this. But I think now also with the push of all these AI tools coming in, the the the fact of the matter is that all this bad data is becoming more painful because you can't run anything on based on that, right? So I think it's a it's a great way to put it front and center of them. Um my first thought was could I because that would be amazing to have sort of a hygiene dashboard but in a HubSpot report. That was my first thinking here because uh in the end you'd want them to you know yeah they will use Slack of course for communications but they will spend a lot of time inside HubSpot as well regardless uh and it would be great to kind of surface it and then also for example you could use it
+ 
+ 
+00:13:38
+ 
+Peter Sterkenburg: for one-to-one meetings uh with your manager or even in team meetings going like okay guys this is the status uh I uh I'm starting to become more a fan more and more a fan of actually calling people out like listen get the s*** done uh uh after a while,
+William Ross: Yeah. Yeah. So,
+Peter Sterkenburg: right?
+William Ross: what we're looking to do now is actually part of the next part of our road map is to embed some of these views into HubSpot themselves.
+Peter Sterkenburg: Yeah.
+William Ross: And what we're trying to figure out now is what's the most useful view.
+Peter Sterkenburg: Nice.
+William Ross: We've had a few people we spoke we've been speaking to that have said that the hygiene leaderboard is the thing they would want to have embedded in HubSpot like a view on that.
+Peter Sterkenburg: Yeah.
+William Ross: Um so yes so that's that is first and foremost on our road
+Peter Sterkenburg: Yeah. Yeah. I think I think I think it's great that there's some another thing that I really like there in the early on where
+ 
+ 
+00:14:18
+ 
+William Ross: map.
+Peter Sterkenburg: you're showing sort of a standard hygiene board without necessarily having to configure very much uh because you you're not necessarily wrong when you say um that everybody has their own uh let's say rules and and uh and things. But I have to say I I've done a lot of consultancy work this this year and talking to a lot of different companies and every time I'm realizing like everybody has the exactly the same issues and they're doing the same stuff and it's really not as they're everybody thinks they're very different but in the end they're doing the same things as everybody else. I was yesterday I was two days ago I was talking to a workplace management tool uh and they were talking about their go to market motions and the challenges that they have and it's exactly exactly the same stuff that I had when I was working for PO which is a fintech unicorn. It's like it's you know so I think if you could even so long story short expanding on that like even make the let's say the standard out of the box stuff even more uh comprehensive I think would catch people even more because they're like
+ 
+ 
+00:15:31
+ 
+William Ross: Okay.
+Peter Sterkenburg: oh yeah of course well everything is there or 80 90% of what we need is there already perfect you know to to help with that kind of low threshold to get something up and
+William Ross: Yeah, that that is really really valuable actually. And yeah, it's that balance we're trying to strike right now of um there's so much there's so many ways we can build this product. We've not even talked about like analytics on things like that and layering and all that all that fun stuff.
+Peter Sterkenburg: Yeah. Yeah.
+William Ross: Um you're right. I think that those views on accountability, let's call it like basically which is is something yeah that's very very easy.
+Peter Sterkenburg: Yeah.
+William Ross: We actually spoke to one person as well that was saying if you could figure out a way to accurately attribute hygiene to commission structures. So then you could you could know hey because rather than just saying to hey to get your commission or your target you need to
+Peter Sterkenburg: Exactly.
+William Ross: do hygiene that's hard to enforce but if we could figure out a way to you
+ 
+ 
+00:16:32
+ 
+Peter Sterkenburg: Yeah. Yeah, for sure. I mean, we actually made it part of the the process at at PO.
+William Ross: know
+Peter Sterkenburg: It was never properly enabled upon and never properly enforced, but it was part of the deal, so to say. Uh, and I think that's it should be I mean it you need to show what's coming in and if you're wrong or if you're embellishing it then you know you you shouldn't get your money either. Um I mean I'm I'm I'm living just a side note I'm living in a camp where I don't think any sales people should get any commission. I think everybody should get paid for me B2B SAS GTM all that stuff it's a team sport. Revenue growth is a team sport. So, but that's my uh that's my my uh I'm I'm I'm I'm a very lonely soul in that one. But uh but that said, uh another thing I was thinking about was also because of course Slack is really great having it there. Um, but I also think you could probably also funnel it back into into Hopspot one way or another with into I don't know web hooks,
+ 
+ 
+00:17:40
+ 
+Greg Petherbridge: Welcome.
+Peter Sterkenburg: something to to help trigger workflows if they need to get, you know, send out emails or tasks, create tasks based on lack of hygiene or something. just something to funnel back so that wherever they are, they're kind of confronted with this, hey guys, you need to do this.
+William Ross: Yeah. No, that really emails is another one we'd love to incorporate especially for like managers to get like a weekly digest say here are
+Peter Sterkenburg: Uh yeah,
+William Ross: all the uncovered here's how many were action here's how many are pending.
+Peter Sterkenburg: exactly.
+William Ross: Um, so you can get like a one-stop view on on the overall health of the pipeline. But you know, this is true to the word, Peter. This is absolutely gold dust for us right now.
+Peter Sterkenburg: Yeah.
+William Ross: This is
+Peter Sterkenburg: Yeah. Yeah. I mean I I also what I was thinking you were telling earlier you were doing consultancy and then you kind of figured out we we need to build
+William Ross: amazing.
+Peter Sterkenburg: a product on that.
+ 
+ 
+00:18:28
+ 
+Peter Sterkenburg: I've seen that a lot actually. Um and I think it's really cool because you in these kind of roles you sit on these really specific business problems that you know need to be solved and everybody again everybody has the same problems in the end, right? So how can you make sure that you can solve it in in an easy way? I've also seen uh HubSpot uh shops kind of building all these sort of low code tools just to fix all the like little random things that that don't happen out of the box and they're great. I mean, you know, it's kind of like this everybody should use these little tools and tool boxes and and have have that have that available. Um then then the question of course is what if they don't use Slack?
+William Ross: So we we use uh Microsoft Teams as well.
+Peter Sterkenburg: Okay.
+William Ross: So as long as you're on Teams or or
+Peter Sterkenburg: Uh, okay. Yeah. Okay.
+William Ross: Slack
+Peter Sterkenburg: Because that's a that's that's a big one as well.
+ 
+ 
+00:19:21
+ 
+Peter Sterkenburg: Um, I I honestly I don't work with teams. Uh, I think it's horrific, but at the same time, a lot of companies use it and it works fine for them. So, it's also about, you know, what what is it they they need. Um, and I have no idea if you can do this kind of same things there and as you can do with Slack, but I I would I would imagine you can more and
+William Ross: Yeah. Yeah.
+Peter Sterkenburg: more.
+William Ross: So, we it's essentially like a form based system on teams that we building.
+Peter Sterkenburg: Yeah.
+William Ross: So, it's nice and not doesn't look as nice.
+Peter Sterkenburg: Okay.
+William Ross: It's not as fun to to experience, but you know, if they're on teams, I'm not here to judge. I've been on I worked in I've worked on I worked in government for three and a half years.
+Peter Sterkenburg: Yeah. Yeah.
+William Ross: We were on we were on Skype for Business when people were using Microsoft Teams.
+Peter Sterkenburg: Well, there you go.
+William Ross: It so when I went on to Microsoft Teams I was like this is great.
+ 
+ 
+00:20:07
+ 
+Peter Sterkenburg: Yeah,
+William Ross: This is so much better.
+Peter Sterkenburg: I I remember people using Yammer. I mean, that was already when it came out. It was awful. But, uh, yeah.
+William Ross: Oh.
+Peter Sterkenburg: Um, another thing I was thinking about is how do you like you you saw the the leaderboard thing there, but could I'm thinking also of the reinforcement loop like how would how would you for example highlight that you that somebody actually did it to go like hey thank you today you uh fixed 10 deals uh things are moving better just to kind of you know for the reinforcement loops or the positive feedback as well. Uh and even even for managers because if the manager got this whole list of hey Peter he has he has like 100 deals that are you know 30 days overdue and all this data is missing the other way around could also be great not just you know slapping them on the face but giving them a pat on the back as well to when they actually do do the the
+ 
+ 
+00:21:06
+ 
+William Ross: Yeah, that's very interesting because often,
+Peter Sterkenburg: work.
+William Ross: especially when it comes to data hygiene, it's one of those things where it works well when you don't know it's a problem,
+Peter Sterkenburg: Exactly.
+William Ross: right? And therefore,
+Peter Sterkenburg: Exactly.
+William Ross: it tends to be a a stick approach rather than a carrot because it's only ever a problem.
+Peter Sterkenburg: Yeah.
+William Ross: Do you actually act on it? So that's easy for us to do actually because yeah because we can just look at who's how many have been so we know how many are
+Peter Sterkenburg: Yeah.
+William Ross: actioned and we can just create a view on who did who created those actions and
+Peter Sterkenburg: H Yeah. Who actually did it? Then you can even see patterns where for example uh let's say in a sales team you agree okay
+William Ross: Okay.
+Peter Sterkenburg: today every Wednesday morning you have to spend an hour to clean up all your deals or something like that and you can see are people actually doing that or are they just standing by the coffee machine or you know if they're working from home like me are they just downstairs in the kitchen chilling looking out the window.
+ 
+ 
+00:21:52
+ 
+Peter Sterkenburg: Yeah. Yeah. Exactly. Exactly right. So it's just kind of like turning it around a little bit as well. Uh not not being completely cynical all the time.
+William Ross: Yeah.
+Peter Sterkenburg: uh just kind of like hey you know we actually did this and because of that uh x amount of deals were closed uh with closed lost or x amount of deals were moving moved or uh the forecast was improved by x% or you know something like that just to kind of
+William Ross: Yeah.
+Peter Sterkenburg: like show the positive sides as well because then you can also as a manager show that to your team like hey because you did the work this is what the other end looks
+William Ross: Yeah. And especially because that's I imagine so useful for the overall adoption of funnel vision and hygiene as well
+Peter Sterkenburg: No,
+William Ross: as you you embed it as part of the the the culture and the
+Greg Petherbridge: Yeah,
+Peter Sterkenburg: exactly.
+Greg Petherbridge: Peter,
+Peter Sterkenburg: Exactly.
+Greg Petherbridge: sorry, I'm conscious of the time.
+ 
+ 
+00:22:37
+ 
+William Ross: environment.
+Greg Petherbridge: I want to make sure you get the rest of your meetings and get off to Christmas on time.
+Peter Sterkenburg: It's okay.
+Greg Petherbridge: Um,
+Peter Sterkenburg: That's all good.
+Greg Petherbridge: I suppose just just uh after you you've had a look from the people you've worked with, from your past in-house roles, do you think people will actually buy it?
+Peter Sterkenburg: Um I I think there's definitely a chance. Uh I think pricing will be probably one thing of course it plays in um uh you're you're you're capturing a very very focused and you area you could also call it narrow and depending on how you want to look at it. Um, and I I think that the the next step would be would there be data that could be found to help automate that like hey we suggest we can see that this is empty uh here's a suggested date to fill in as close date for example to come with these to rather than they have to think they could just like click yes accept accept the changes or something like that or accept the updates uh and I think that's and that's when it will make life even easier.
+ 
+ 
+00:23:56
+ 
+Peter Sterkenburg: Um I think it's a nice it's a nice additional app to have. I think for smaller teams probably it will be uh easier to adopt. I think for example for bigger teams will probably have the bigger problems. I'm thinking of for example the PO sales team which was you know 250 people. I I think the amount of steps it would have to go through before getting accepted. I mean, I I see the value instantly. I mean, there's, you know, no, it's a no-brainer. Uh, but I think the amount of steps that it would have to go through to get accepted if a internal person would use that time to do some automation with Zapier and whatnot, that might actually be sufficient for them, right? So I think it would need to offer more than just this to to get into those kind of companies. But we're talking about a thousand people, right, in total. So that that might not even be what you're looking for right now anyway. You just want people to start start using it,
+ 
+ 
+00:24:58
+ 
+Greg Petherbridge: Yeah,
+Peter Sterkenburg: right?
+Greg Petherbridge: I think our niche at the moment is a little smaller than that. Kind of series A B companies,
+Peter Sterkenburg: Yeah.
+Greg Petherbridge: lot of growth kind of on the on the horizon.
+Peter Sterkenburg: Yeah.
+Greg Petherbridge: Um,
+Peter Sterkenburg: Exactly.
+Greg Petherbridge: but yeah, I I think that is like like pricing wise at the moment we're we put ourselves at £3,000 for the year. So about 36 euro um and for any like consultancies we're working with or individual consultants like yourself where we will offer a 20% uh referral fee.
+Peter Sterkenburg: Yeah.
+Greg Petherbridge: So um yeah I I think you know if there is any curiosity or or you want to take a trial by yourself to maybe see if there's any of your of your current customers who want to try it.
+Peter Sterkenburg: Yeah.
+Greg Petherbridge: um it it will end up at at 5K eventually,
+Peter Sterkenburg: Of
+Greg Petherbridge: but um for now we want to look after our early adopters and and have people using it.
+Peter Sterkenburg: course.
+Greg Petherbridge: So,
+Peter Sterkenburg: Well,
+Greg Petherbridge: um I mean I
+ 
+ 
+00:25:43
+ 
+Peter Sterkenburg: when did you start building?
+William Ross: I've heard August.
+Greg Petherbridge: think but yeah,
+Peter Sterkenburg: Ah. Ah, cool. Very cool.
+Greg Petherbridge: I mean if that suits,
+William Ross: August.
+Peter Sterkenburg: Nice.
+Greg Petherbridge: we could maybe just put in a just a catch up in in early Jan when everyone's back and see if there's um an opportunity to to get you on a trial to play around with the tool and see if uh any anyone's
+Peter Sterkenburg: Yeah.
+Greg Petherbridge: interested.
+Peter Sterkenburg: Uh, I'll be honest. Right now, uh, I'm I'm over Christmas, I'm going to make my final call, but I might actually close down all my business. Um, and and do something entirely different. Um, it's been fun, but it's also exhausting to work in this in this industry. Uh, so I might do something completely different. But yeah, regardless though, um, happy to, you know, be a sounding board and and whatnot. Um, and and I like I said in the beginning also I I love talking to to guys like you who just, hey, let's try and build something cool and new and see where we can help solve actual problems, right?
+ 
+ 
+00:26:46
+ 
+Peter Sterkenburg: And I and I do think this solves an actual problem. Um, and if they can do it from Slack, yeah, why not? That would be just
+Greg Petherbridge: Amazing.
+Peter Sterkenburg: fantastic.
+Greg Petherbridge: Well, I hope you managed to think about a few other things over Christmas other than you.
+Peter Sterkenburg: Yeah, exactly.
+Greg Petherbridge: Either way,
+Peter Sterkenburg: Exactly.
+Greg Petherbridge: I'm sure you're gonna land on your feet and you're you're gonna like you're doing next.
+Peter Sterkenburg: For sure. Yeah.
+Greg Petherbridge: You're not gonna put yourself in the corner.
+Peter Sterkenburg: Exactly. Exactly. No. No.
+Greg Petherbridge: But yeah,
+Peter Sterkenburg: I'm not going to be bored. That's for sure.
+Greg Petherbridge: well, we really appreciate the call anyway.
+Peter Sterkenburg: Absolutely.
+Greg Petherbridge: And we may take you up on that sounding board offer in the future regardless of
+Peter Sterkenburg: Yeah. Absolutely. Absolutely.
+Greg Petherbridge: yeah,
+Peter Sterkenburg: Anytime.
+Greg Petherbridge: it's been a really good call and thank I hope you enjoy your Christmas as well.
+Peter Sterkenburg: Same to you. Same to you. Great. Great to meet and
+William Ross: you'll be on to bigger and better things because you're right.
+Peter Sterkenburg: uh it's
+William Ross: This this this industry and business is noting all the time,
+Peter Sterkenburg: uh Yeah.
+William Ross: but you
+Peter Sterkenburg: Yeah.
+William Ross: know
+ 
+ 
+Transcription ended after 00:28:02
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

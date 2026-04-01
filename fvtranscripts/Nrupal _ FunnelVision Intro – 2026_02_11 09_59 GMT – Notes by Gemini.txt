@@ -1,0 +1,164 @@
+﻿Feb 11, 2026
+Nrupal / FunnelVision Intro - Transcript
+00:00:00
+ 
+William Ross: pretty okay, I have to say. How's how's the week been for yourself? How's you started a new role a few months ago,
+Nrupal: Yeah,
+William Ross: right?
+Nrupal: it's uh just start like in December. So yeah, it's still quite early in the ro.
+William Ross: Amazing. How's How's it going?
+Nrupal: Uh so good so
+William Ross: Good.
+Nrupal: far.
+William Ross: So, you you're integrating quite well. I mean, yeah,
+Nrupal: Yeah. Yeah,
+William Ross: it's
+Nrupal: things have been like going very well. But yeah, just trying to get things.
+William Ross: Amazing.
+Nrupal: Uh,
+William Ross: Well,
+Nrupal: cool.
+William Ross: I just want to say really appreciate taking the chance to have a chat myself. Greg on the call is also one of our co-founders in the company. Um, so I don't know if it's worth we can give some some really brief intros on ourselves kind of why we why we thought you might be interested in in
+Nrupal: Mhm.
+William Ross: the chat and uh but obviously just love to get your your takes, your experiences and if if if the pain point we're addressing relates to you, we can dive a bit deeper.
+ 
+ 
+00:00:49
+ 
+Nrupal: Um,
+William Ross: It's really just a case of just getting your thoughts and seeing seeing seeing how it
+Nrupal: yeah, sure. Uh when yeah just to start off from my side like uh like I just joined this
+William Ross: goes.
+Nrupal: company recently but before that I was working with like a HubSpot partner as a solutions uh architect with them. So quite familiar with the hotspot ecosystem. Um as far as things go for like this particular role I'm still not exactly sure on like how the company is like positioned. and we are like just trying to clean our HubSpot for like the last two months and probably we'll be like spending next two or three months doing the same thing. So yeah, at the moment I'm not quite sure if we are like even ready to look at some of
+William Ross: Mhm.
+Nrupal: the advanced HubSpot tools that we already have. So anything other than that it's just but but to be honest like the product was like really interesting. So I just wanted to have like a quick chat to see what exactly it is and if that's any value in future for
+ 
+ 
+00:01:50
+ 
+William Ross: No, abs. Absolutely. And I mean,
+Nrupal: us.
+William Ross: yeah, I've we've spoken to a few people and cleaning up HubSpot is no no small feat in itself.
+Nrupal: Yeah, I think it I'm trying to like clean up a mess from like last three years and it has been handled by like the hub is handled by like six different people with no strategy in place and so it's a mess at the
+William Ross: breaky. And I was going,
+Nrupal: moment.
+William Ross: if you want me asking like what what got you into that kind of space like managing the CRM and HubSpot? Is this like is it something you've always been technically inclined like you've always been into it or is it just something you did once in a job and you're like, "Oh, this this kind of works. I guess I'll
+Nrupal: I think I was like just thrown into this. So like career-wise when I started like I was just like an started as an intern looking at some basic admin stuff with the company. That's when I first learned about HubSpot.
+ 
+ 
+00:02:44
+ 
+Nrupal: After like couple years the next job that I had was with an upspot agency and that's when I learned about the whole like hotspot ecosystem and how people like are using CRM why is it used and uh like what the use cases are couple years there were like actually like really helpful and got me into this whole CRM there this role again now now this is
+William Ross: Mhm.
+Nrupal: the only expertise I have so to be honest so let's
+William Ross: No, I mean to be honest, don't worry. I mean, I think I think we have kind of similar paths. If you told me I I would have been doing this three, four years ago, I would have been like, what what even is this role? I started off as a as an economist in the UK government and I was working there for like three and a half years and eventually pivoting to technology and consulting and now doing on the on the revop site. So, like three years, two two years ago, I'd never heard of HubSpot. No idea. you know in government it was like not not even being touched.
+ 
+ 
+00:03:37
+ 
+William Ross: So so I very very much relate I mean
+Nrupal: Um,
+William Ross: Greg for
+Nrupal: were you were you working with the home office side or were you
+William Ross: education. So I actually studied education uh well one of my modules at university was education economics.
+Nrupal: okay?
+William Ross: I did my dissertation in education. Um and so when I was given the choice of which department to go into I thought why why not education? Um so so that was it was it was a a dream of mine when I was younger was to work in department of education. Didn't pan out exactly. It's government e economics is very different in reality to like the the the little dream I had when I was a 12-year-old boy. But I still got to experience
+Nrupal: I I was like put on a home offices project uh a couple years ago and it really got me
+William Ross: it.
+Nrupal: exciting because like you know it's a brand and you get associated with it but yeah the reality is like way too different.
+ 
+ 
+00:04:29
+ 
+William Ross: Yeah, it's true though because like I worked closely because because I was on the economic side of of the of the department like we did a lot of work with the treasury when it came to like getting the funding. It sounds so sexy when you talk about it but see the real work when you're down in it's like oh I had to like grill this person have this meeting and yes it's worth like billions and billions of pounds going up here but like on the ground oh it was it was not sexy.
+Nrupal: Yeah.
+William Ross: It was yeah but Greg actually Greg give you a
+Nrupal: Yep. Get that. But yeah.
+William Ross: bit better background than himself as well but he un well fortunately for us he's got a much more um relevant background. He's sales through and through working at high growth B2B companies. So uh so uh he he understands the pain point probably even better than than we do in terms of you know who's who's going to be the receiving end of funnel
+Greg Petherbridge: Yeah.
+William Ross: vision.
+ 
+ 
+00:05:17
+ 
+Greg Petherbridge: No, no, I'm more so probably uh the people that you get annoyed by in your pal who just don't interact with the CRM. That's more my background is that the sellers who uh you know, I'm not I'm not afraid to say it. they're they're uh they can be quite selfish and in their own world and you know as long as they hit their number they don't really care about hygiene or or you know predicting accurately what they're going to land on. They just kind of want to get there. There's the flip side to that as well where you know people could be performing so well that they're sandbagging their deals to next quarter so it they get paid out better. They could be scared of losing their job and and you know making their pipeline look a little a little nicer than it is. So um yeah myself I I've been kind of in this SAS go to market space for about four to five years now um not 45 425 uh in case that wasn't clear but uh yeah so we've been for the last kind of year and a bit working with go to market um teams well building go to market teams for early stage founders from kind of seed stage to series B and the commonality we saw between those companies and our past companies of of um you know the the rest of the team at CG Partners is that um you know forecasts don't
+ 
+ 
+00:06:33
+ 
+Greg Petherbridge: really do anything at the moment um due to you know as things I mentioned around kind of the behavior of the rep themselves it's it's it's either a problem from top down where it's not enforced and it's not a priority to actually have discipline in your in how you how you kind of qualify and and define your pipeline in the CRM or it's the flip side where reps just won't engage and do it. So that's kind of the genesis of funnel vision is like how do we help sales leaders get a view on what's missing and and who needs to update deals. How do we whoever the chasers are, whether that's revops or sales managers, how do we give them a platform that can automate these nudges in the background and not have you as a parrot just can you update your deals? Can you update your deals? Um and then finally have having a space for reps to fix the CRM easily from somewhere they're used to being. So for us at the moment that's Slack, Microsoft Teams. So so yeah really that that's why we exist is that we you know we thought about AI and and how that could be applied but ultimately if you slap AI on bad data it's just accentuating the problem.
+ 
+ 
+00:07:39
+ 
+Greg Petherbridge: So um we found that the solve is actually quite a simple tool like not not simple to build. It's taken a while but simple concept of just closing the full loop of the circle on identifying what's missing. How do we root it to the to the seller and how do we make the fix and how do we keep that loop constant so that we're not just kind of letting things slip to the through the cracks that there's kind of a daily focus on on pipeline hygiene. There's a there's a focus as soon as you get out of your call to update your deals because kind of that that that thing in the back of your head of oh no funnel vision's going to ping me if I don't it's going to ping me in the morning if I don't update my deal now. So um that's really why we exist and and that's where we've seen traction with our early conversations. we have a few early users of the platform and and um we're seeing them get some real value out of it and kind of sales leaders really taking taking to the platform.
+ 
+ 
+00:08:30
+ 
+Greg Petherbridge: So yeah, that that's really that's really where we're at. But I' I'd be interested to hear obviously you you've worked with a lot with with CRM in your past, but with your current role, I'd imagine it's not as relevant in terms of like there's not long sales cycles. There's not what what do you put in your CRM? Is it like selling advertising or or what does that look
+Nrupal: uh currently.
+Greg Petherbridge: like?
+Nrupal: So the business that we work with is like events business. So we're just like studing sponsorships and the uh deal cycle is like really really quick. Like sometimes people just like pick up a phone, call somebody and probably get the deal signed on the same day as well. So it's not something like we are stretching it for like five or six months and working through a deal. Sometimes it can be uh about like one or two weeks or maybe three weeks or four weeks. But again uh most of the deals are usually like we send an email, somebody responds and people like just get on a call and get it signed.
+ 
+ 
+00:09:26
+ 
+Nrupal: That's the only cycle we have as of now. Um apart from that when it comes to like the data hygiene side of things and updates and everything people already like they are getting like all those updates from HubSpot essentially like all the email updates and notifications and everything for everything that's happening with their clients or contacts of their deals. Um I have not got to the bottom of like why they needed because they're like just getting tremendous amount of it like people have 60 70,000 emails notifications just sitting around in last 6 months and no one know like no one's reading them no one is going through it but yeah that part like the notification part and staying on top of things is something that we can look at in future but apart from the deal progression I think because we work on like very small uh deal cycles Let's think if it adds any value in that
+Greg Petherbridge: Yeah, that that was maybe a thought. I suppose we you know that the prime reason we're having these conversations is to get feedback on the platform.
+Nrupal: case.
+ 
+ 
+00:10:34
+ 
+Greg Petherbridge: So just your your your expertise in CRM alone is is is relevant for us and interesting to us. Um yeah, where where we might feel a little selfish on our side is that we probably won't be able to give you like a free access
+Nrupal: Oh, that's fine.
+Greg Petherbridge: trial to it to because it might not be relevant to your world today. But um yeah that that that is so with regards to what you are looking to achieve is are you looking
+Nrupal: No.
+Greg Petherbridge: in the market at you know a clar or something like that that that helps kind of work in the background for linking to your emails and setting up tasks in that way maybe less pipeline
+Nrupal: No,
+Greg Petherbridge: focused
+Nrupal: not at the moment because as I said like the sales team that we have currently uh we have like seven people in sales. uh two of them are like quite young and they're like quite adaptive with most of the stuff and everybody else is like just uh like above 45 or 50 and they like very relevant to change like literally yesterday when I asked somebody to like go through their list of accounts and just take out some contacts that you don't need they couldn't do it I had to like print it out on like paper hand it over to them and they highlighted and then I had to like manually just take them out myself so this is the type of team that we are dealing with at the
+ 
+ 
+00:11:45
+ 
+Nrupal: moment and anything we add on top of HubSpot is just going to make this like go more slow. Wow. Yeah. I mean I I I get the concept of the whole thing like yeah
+Greg Petherbridge: Yeah.
+Nrupal: it's really fascinating to have this notifications come in and everything for sales team to stay on top but I think when you're dealing with team which is like really element to even adopt a CRM anything other than CL any additional tool that you add on top of it is just going to make their life more painful like we're trying to solve it for them but they don't understand it they usually Think of it as adding more admin stuff and they just want to like keep making calls and closing
+Greg Petherbridge: Okay. Yeah. I mean,
+Nrupal: deals.
+Greg Petherbridge: definitely sounds like it's it's uh it's a solve that that you you seem to have an idea of how to fix and it sounds like we we we can't really do it, but um you know, we we don't want to waste your time either. So, um we app we appreciate you jumping on, but um we maybe maybe don't need to move you to a demo and show you all the glitz and glamour of it because
+ 
+ 
+00:12:53
+ 
+Nrupal: Huh?
+Greg Petherbridge: we don't really want to waste anyone's time. What what could be be great for us is if we just send you our website. Um there's a quick video on there. Um if you have time at all to just have a look at it and and maybe get feedback on what you think. Um that that would be
+Nrupal: I was having a find video like uh there was just one video on the
+Greg Petherbridge: great.
+Nrupal: homepage and a few screenshots on how it works. Other than that, I was not able to like find any other uh knowledge base or any other articles that you might have had. Is that the one that you're talking about on the vision.comcloud?
+Greg Petherbridge: Yes, that's that's the one there.
+Nrupal: Yeah, I already had a look at this this morning.
+Greg Petherbridge: And again, it's not really Yeah, it's obviously not relevant to your world.
+Nrupal: Yeah.
+Greg Petherbridge: Do from your past lives, do you think um that's a problem you resonate with or something that that you've
+Nrupal: Yeah. I mean um from the people that I have worked with before I can see how this uh can
+ 
+ 
+00:13:46
+ 
+Greg Petherbridge: seen?
+Nrupal: change your life for some of the other businesses that I have worked with when you have like I was working with a business which had like a long sales cycle of like one to one and a half year they were like dealing
+Greg Petherbridge: Mhm.
+Nrupal: um like those what do you call speed ports or yachts like they sold those things and they just like sold one a year like one or two a year. So they had like really really long cycles of sales. Maybe something like that could be a good plan. But yeah, I I still am not trying to see the vision of like how a quick one day or two day sales cycle benefits from like notifications in Teams or
+Greg Petherbridge: Yeah.
+Nrupal: Slack.
+Greg Petherbridge: No. Yeah, definitely. I I think we we're used to working with that kind of B2B SAS type. Um yeah, longer sales cycles, pressure from VCs, you know, a lot of offsets on on the numbers and where we're going to land each month, each quarter, each year.
+Nrupal: Yeah. Yeah, sure. Always. Thank you so much.
+ 
+ 
+Transcription ended after 00:15:21
+
+
+This editable transcript was computer generated and might contain errors. People can also change the text after it was created.

@@ -1,0 +1,39 @@
+# LinkedIn Conversation: Paul Maxwell
+
+- **Name**: Paul Maxwell
+- **Profile URL**: https://www.linkedin.com/in/paulcmaxwell
+
+---
+
+## Messages
+
+### Feb 6, 2026
+
+**William Ross** — 6:14 PM
+> Hi Paul,
+>
+> I’m building FunnelVision to be the fastest and most effective solution to pipeline hygiene without chasing teams.
+>
+> It surfaces any deal issue in HubSpot and lets teams fix them directly in Slack or Teams.
+>
+> We're going all-in with partners and would love to give you a walkthrough and free onboarding if that sounds interesting?
+
+### Feb 11, 2026
+
+**William Ross** — 9:57 AM
+> Shall we schedule time for next week? I'd love to give you a walkthrough of FunnelVision and set you up with a free trial.
+>
+> I can also share our website if you would like more information.
+
+### Feb 13, 2026
+
+**William Ross** — 8:40 PM
+> Hey checking in if you saw the above? Let me know if its not for you or if we can connect in the next couple weeks.
+
+**Paul Maxwell** — 10:52 PM
+> Unsubscribe
+
+### Feb 16, 2026
+
+**William Ross** — 9:43 AM
+> It's not automated but appreciate the response! Hope you have a wonderful week ahead.

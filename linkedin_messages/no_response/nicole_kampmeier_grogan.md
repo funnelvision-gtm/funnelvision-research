@@ -1,0 +1,31 @@
+# LinkedIn Conversation: Nicole Kampmeier Grogan
+
+- **Name**: Nicole Kampmeier Grogan
+- **Profile URL**: https://www.linkedin.com/in/nicolekampmeier
+
+---
+
+## Messages
+
+### Mar 19, 2026
+
+**William Ross** — 11:24 AM
+> Hi Nicole,
+>
+> I'm building FunnelVision to remove admin associated with pipeline hygiene and provide forecast-grade data in real-time.
+>
+> It surfaces any deal issue in HubSpot and lets teams fix them directly in Slack or Teams.
+>
+> We're onboarding early users and would love to get you on a trial if you’re open to it?
+
+### Mar 24, 2026
+
+**William Ross** — 2:12 PM
+> Shall we schedule time for next week? I'd love to give you a walkthrough of FunnelVision and set you up with a free trial.
+>
+> I can also share our website if you would like more information.
+
+### Mar 27, 2026
+
+**William Ross** — 2:07 PM
+> Hey checking in if you saw the above? Let me know if its not for you or if we can connect in the next couple weeks.

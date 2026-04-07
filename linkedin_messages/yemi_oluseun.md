@@ -1,0 +1,34 @@
+# LinkedIn Conversation: Yemi Oluseun
+
+- **Name**: Yemi Oluseun
+- **Profile URL**: https://www.linkedin.com/in/yemioluseun
+
+---
+
+## Messages
+
+### Nov 25, 2025
+
+**William Ross** — 2:13 PM
+> Hi Yemi,
+>
+> I’m building FunnelVision to be the fastest and most effective solution to pipeline hygiene without chasing teams.
+>
+> It surfaces any deal issue in HubSpot and lets teams fix them directly in Slack.
+>
+> We're not public yet but are onboarding early users and would love your feedback if you’re open to it?
+
+### Nov 27, 2025
+
+**William Ross** — 4:29 PM
+> Hey Yemi,
+>
+> We’ve just launched our website which includes a product video, core value explanation and UI examples all in one place: https://try.funnelvision.cloud/
+>
+> If this looks interesting i'd love to get a quick call and clarify any questions, we can also set you up with trial access.
+
+**Yemi Oluseun** — 5:33 PM
+> Thanks William. Not for me right now. All the best :)
+
+**William Ross** — 5:33 PM
+> No problem Yemi - appreciate the response!

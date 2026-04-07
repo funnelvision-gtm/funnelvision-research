@@ -1,0 +1,31 @@
+# LinkedIn Conversation: Simon Carson
+
+- **Name**: Simon Carson
+- **Profile URL**: https://www.linkedin.com/in/simon-carson-50618715
+
+---
+
+## Messages
+
+### Jan 28, 2026
+
+**William Ross** — 1:59 PM
+> Hi Simon,
+>
+> I’m building FunnelVision to be the fastest and most effective solution to pipeline hygiene without chasing teams.
+>
+> It surfaces any deal issue in HubSpot and lets teams fix them directly in Slack or Teams.
+>
+> We're onboarding early users and would love to get you on a trial if you’re open to it?
+
+### Jan 30, 2026
+
+**William Ross** — 12:19 PM
+> Shall we schedule time for next week? I'd love to give you a walkthrough of FunnelVision and set you up with a free trial.
+>
+> I can also share our website if you would like more information.
+
+### Feb 3, 2026
+
+**William Ross** — 10:44 AM
+> Hey checking in if you saw the above? Let me know if its not for you or if we can connect in the next couple weeks.
